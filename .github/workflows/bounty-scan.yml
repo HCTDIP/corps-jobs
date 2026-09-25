@@ -1,0 +1,49 @@
+name: bounty-scan
+
+# 重活上云：跑在 GitHub runner 上（多核、免费额度），不再受 iPhone/iSH 单核与 App 重启影响
+on:
+  schedule:
+    - cron: "0 */6 * * *"     # 每 6 小时
+  workflow_dispatch:           # 手动补跑
+
+permissions:
+  contents: write              # 报告与状态要提交回仓库
+
+concurrency:
+  group: bounty-scan
+  cancel-in-progress: false
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run scan
+        env:
+          SUPERTEAM_API_KEY: ${{ secrets.SUPERTEAM_API_KEY }}   # 未设置时脚本优雅跳过 agent 端点
+        run: python jobs/bounty_scan.py
+
+      - name: Job summary
+        run: |
+          {
+            echo "## 外部赏金扫描"
+            echo ""
+            head -c 3500 reports/latest.md
+          } >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Commit report + state
+        run: |
+          git config user.name  "corps-bot"
+          git config user.email "corps-bot@users.noreply.github.com"
+          git add -A reports state
+          if git diff --cached --quiet; then
+            echo "no changes"
+          else
+            git commit -m "scan: bounty radar $(date -u +%Y-%m-%dT%H:%MZ)"
+            git push
+          fi
