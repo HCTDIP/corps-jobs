@@ -1,13 +1,13 @@
 {
- "at": "2026-09-26T16:46:28.854932+00:00",
+ "at": "2026-09-26T21:35:24.150223+00:00",
  "total": 30,
  "hot": [
   {
    "h": "/questions/heavy-packet-loss-between-asia-southeast-cab21ac9",
-   "t": "Heavy packet loss between asia-southeast1 (Metal) and one Los Angeles host (AS23470 via NTT) since 23 Sep $10 0 replies 1d by rishipatel185",
+   "t": "Heavy packet loss between asia-southeast1 (Metal) and one Los Angeles host (AS23470 via NTT) since 23 Sep $10 0 replies 2d by rishipatel185",
    "score": 4,
    "notes": [
-    "1天内",
+    "2天内",
     "竞争低"
    ]
   },
@@ -18,6 +18,15 @@
    "notes": [
     "2天内",
     "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/available-variable-clarity-92b128c5",
+   "t": "Available Variable Clarity",
+   "score": 4,
+   "notes": [
+    "竞争低",
+    "提问·配置型"
    ]
   },
   {
@@ -32,79 +41,72 @@
  ],
  "new": [
   {
-   "h": "/questions/heavy-packet-loss-between-asia-southeast-cab21ac9",
-   "t": "Heavy packet loss between asia-southeast1 (Metal) and one Los Angeles host (AS23470 via NTT) since 23 Sep $10 0 replies 1d by rishipatel185",
+   "h": "/questions/available-variable-clarity-92b128c5",
+   "t": "Available Variable Clarity",
    "score": 4,
    "notes": [
-    "1天内",
-    "竞争低"
+    "竞争低",
+    "提问·配置型"
    ]
   },
   {
-   "h": "/questions/does-volumeupdate-name-trigger-deploy-r-c5c5f7d0",
-   "t": "Does volumeUpdate(name) trigger deploy/restart or staged changes?",
+   "h": "/questions/postgres-crashed-wal-cleanup-needed-5f14b3aa",
+   "t": "Postgres crashed, WAL cleanup needed",
    "score": 2,
    "notes": [
     "竞争低"
    ]
   },
   {
-   "h": "/questions/ssh-sftp-access-plane-failures-on-health-7fdb0acb",
-   "t": "SSH/SFTP access-plane failures on healthy production service",
+   "h": "/questions/hi-ffa7db81",
+   "t": "hi",
    "score": 2,
    "notes": [
     "竞争低"
    ]
   },
   {
-   "h": "/questions/metal-builder-build-image-failure-16-503189ef",
-   "t": "Metal Builder BUILD_IMAGE Failure — 16+ Consecutive Deployments",
+   "h": "/questions/railway-github-repo-compliance-securit-98b9f61a",
+   "t": "Railway Github Repo Compliance / Security Issue",
    "score": 2,
    "notes": [
     "竞争低"
    ]
   },
   {
-   "h": "/questions/github-repo-not-appearing-in-connect-rep-7a35ff06",
-   "t": "GitHub repo not appearing in Connect Repo despite correct App installation and account-level connection",
+   "h": "/questions/postgresql-password-authentication-misma-58714369",
+   "t": "PostgreSQL password authentication mismatch on fresh services",
    "score": 2,
    "notes": [
     "竞争低"
    ]
   },
   {
-   "h": "/questions/pre-deploy-command-silently-not-schedule-a0e1b1f0",
-   "t": "Pre-deploy command silently not scheduled on one GitHub-triggered deploy",
+   "h": "/questions/github-repo-cannot-be-connected-invali-aedc199d",
+   "t": "GitHub repo cannot be connected: \"Invalid GitHub OAuth callback\"",
    "score": 2,
    "notes": [
     "竞争低"
    ]
   },
   {
-   "h": "/questions/claude-mcp-connector-oauth-registration-46c3d19d",
-   "t": "Claude MCP Connector OAuth Registration Failing",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/48s-private-network-blackhole-in-us-reg-aadb992b",
-   "t": "~48s private-network blackhole in US region — 3 services lost Redis simultaneously (2026-09-22)",
-   "score": -2,
+   "h": "/questions/google-api-connection-problem-with-n8n-7af489a5",
+   "t": "Google API connection problem with n8n",
+   "score": 0,
    "notes": [
     "竞争低",
-    "⚠平台基建/已解"
+    "⚠平台基建/已解",
+    "提问·配置型"
    ]
   }
  ],
  "all": [
   {
    "h": "/questions/heavy-packet-loss-between-asia-southeast-cab21ac9",
-   "t": "Heavy packet loss between asia-southeast1 (Metal) and one Los Angeles host (AS23470 via NTT) since 23 Sep $10 0 replies 1d by rishipatel185",
+   "t": "Heavy packet loss between asia-southeast1 (Metal) and one Los Angeles host (AS23470 via NTT) since 23 Sep $10 0 replies 2d by rishipatel185",
    "score": 4,
    "notes": [
-    "1天内",
+    "2天内",
     "竞争低"
    ]
   },
@@ -118,6 +120,15 @@
    ]
   },
   {
+   "h": "/questions/available-variable-clarity-92b128c5",
+   "t": "Available Variable Clarity",
+   "score": 4,
+   "notes": [
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
+  {
    "h": "/questions/while-deploying-railways-is-not-referenc-07e1fb67",
    "t": "While deploying Railways is not referencing the environment variable from today (09/2402026)",
    "score": 4,
@@ -127,64 +138,48 @@
    ]
   },
   {
+   "h": "/questions/postgres-crashed-wal-cleanup-needed-5f14b3aa",
+   "t": "Postgres crashed, WAL cleanup needed",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/hi-ffa7db81",
+   "t": "hi",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/railway-github-repo-compliance-securit-98b9f61a",
+   "t": "Railway Github Repo Compliance / Security Issue",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/postgresql-password-authentication-misma-58714369",
+   "t": "PostgreSQL password authentication mismatch on fresh services",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/github-repo-cannot-be-connected-invali-aedc199d",
+   "t": "GitHub repo cannot be connected: \"Invalid GitHub OAuth callback\"",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
    "h": "/questions/does-volumeupdate-name-trigger-deploy-r-c5c5f7d0",
    "t": "Does volumeUpdate(name) trigger deploy/restart or staged changes?",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/ssh-sftp-access-plane-failures-on-health-7fdb0acb",
-   "t": "SSH/SFTP access-plane failures on healthy production service",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/metal-builder-build-image-failure-16-503189ef",
-   "t": "Metal Builder BUILD_IMAGE Failure — 16+ Consecutive Deployments",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/m-6ac15a30",
-   "t": "M",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/github-repo-not-appearing-in-connect-rep-7a35ff06",
-   "t": "GitHub repo not appearing in Connect Repo despite correct App installation and account-level connection",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/pre-deploy-command-silently-not-schedule-a0e1b1f0",
-   "t": "Pre-deploy command silently not scheduled on one GitHub-triggered deploy",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/cache-issues-e1e64ec2",
-   "t": "Cache issues",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/claude-mcp-connector-oauth-registration-46c3d19d",
-   "t": "Claude MCP Connector OAuth Registration Failing",
    "score": 2,
    "notes": [
     "竞争低"
@@ -197,6 +192,16 @@
    "notes": [
     "陈旧",
     "竞争低",
+    "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/google-api-connection-problem-with-n8n-7af489a5",
+   "t": "Google API connection problem with n8n",
+   "score": 0,
+   "notes": [
+    "竞争低",
+    "⚠平台基建/已解",
     "提问·配置型"
    ]
   },
