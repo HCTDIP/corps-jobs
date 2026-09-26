@@ -1,0 +1,57 @@
+name: audit-radar
+
+# 审计竞赛 / 常驻赏金 雷达 —— 跑在 GitHub 云端
+# 为什么上云：手机没电或卡死时本地定时器会死，云端不依赖手机
+on:
+  schedule:
+    # 每 3 小时一次（竞技审计开场窗口短，3 小时能抢到）
+    - cron: "15 */3 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: audit-radar
+  cancel-in-progress: false
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run audit radar
+        run: |
+          set -e
+          python3 jobs/audit_radar.py | tee /tmp/out.txt
+
+      - name: Summarize
+        if: always()
+        run: |
+          {
+            echo "## Audit Radar — 审计竞赛 / 常驻赏金"
+            echo ""
+            echo '```'
+            cat /tmp/out.txt
+            echo '```'
+            echo ""
+            echo "完整数据: \`reports/audit_radar_latest.json\`"
+          } >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Commit report
+        run: |
+          git config user.name  "audit-radar-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add reports/ state/ || true
+          if git diff --cached --quiet; then
+            echo "no change"
+          else
+            git commit -m "audit-radar: $(date -u +%Y-%m-%dT%H:%MZ)"
+            git push
+          fi
