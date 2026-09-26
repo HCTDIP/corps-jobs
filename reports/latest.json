@@ -1,6 +1,6 @@
 {
-  "at": "2026-09-26T10:33Z",
-  "runs": 5,
+  "at": "2026-09-26T15:26Z",
+  "runs": 6,
   "open_total": 26,
   "new_count": 0,
   "new_items": [],
@@ -9,17 +9,17 @@
     "$5500   [  4 提交] 2026-10-01 | Hype Video for Breakpoint London",
     "$300    [  5 提交] 2026-10-06 | Introduce Web3 Projects to Segmento",
     "$5500   [  9 提交] 2026-10-01 | Share Your Most Memorable Solana Breakpoint Moment o",
-    "$5500   [ 11 提交] 2026-10-01 | Breakpoint London Starter Pack",
-    "$5500   [ 12 提交] 2026-10-01 | Show Tokenization in 2050 via X Post, Thread, or Sho",
-    "$5500   [ 12 提交] 2026-10-01 | Explain Tokenization Supercycle for an Asset Categor",
-    "$5500   [ 14 提交] 2026-10-01 | Explain Market Tokenization in Your Country",
-    "$1000   [ 43 提交] 2026-09-28 | NectarFi x Dominion Market",
+    "$5500   [ 13 提交] 2026-10-01 | Breakpoint London Starter Pack",
+    "$5500   [ 14 提交] 2026-10-01 | Show Tokenization in 2050 via X Post, Thread, or Sho",
+    "$5500   [ 15 提交] 2026-10-01 | Explain Tokenization Supercycle for an Asset Categor",
+    "$5500   [ 17 提交] 2026-10-01 | Explain Market Tokenization in Your Country",
+    "$1000   [ 44 提交] 2026-09-28 | NectarFi x Dominion Market",
     "$5002   [ 47 提交] 2026-09-30 | Create a Short Video Explainer for Hisa: $5000 up fo",
     "$500    [ 49 提交] 2026-10-01 | Steve Agent Arena: Launch Your Agent & Win 500 USDC",
-    "$500    [ 52 提交] 2026-10-09 | Create twitter Post about the STREAM burn",
-    "$300    [124 提交] 2026-10-01 | Create X Thread About Moony Tips With Flipcash",
+    "$500    [ 66 提交] 2026-10-09 | Create twitter Post about the STREAM burn",
+    "$300    [125 提交] 2026-10-01 | Create X Thread About Moony Tips With Flipcash",
     "$500    [166 提交] 2026-10-07 | Build and Demo a Mermail Agent Skill",
-    "$500    [346 提交] 2026-09-30 | Create a post about Stealf"
+    "$500    [355 提交] 2026-09-30 | Create a post about Stealf"
   ],
   "repo": "https://github.com/HCTDIP/corps-jobs"
 }
