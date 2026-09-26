@@ -1,0 +1,75 @@
+name: railway-bounty-radar
+
+# Railway 赏金榜雷达 —— 跑在 GitHub 云端（手机没电也不断线）
+# 榜单是纯客户端渲染，所以云端用 Playwright 无头浏览器
+on:
+  schedule:
+    - cron: "45 */3 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: railway-bounty-radar
+  cancel-in-progress: false
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install Playwright
+        run: |
+          pip install --quiet playwright
+          python -m playwright install --with-deps chromium
+
+      - name: Run railway bounty radar
+        run: |
+          set -e
+          python3 jobs/railway_radar.py | tee /tmp/out.txt
+
+      - name: Summarize
+        if: always()
+        run: |
+          {
+            echo "## Railway 赏金雷达（云端）"
+            echo ""
+            echo '```'
+            cat /tmp/out.txt 2>/dev/null || echo "(无输出)"
+            echo '```'
+          } >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Notify via issue (仅当有可抢的)
+        if: always()
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          N=$(cat reports/_hot_count.txt 2>/dev/null || echo 0)
+          if [ "$N" -gt 0 ]; then
+            gh issue create \
+              --title "Railway 赏金：有 $N 条值得抢" \
+              --body "$(printf '云端雷达发现可抢条目。\n\n```\n%s\n```\n\n详情: `reports/railway_bounty_latest.json`\n' "$(tail -40 /tmp/out.txt)")" \
+              || echo "issue 创建失败（不阻塞）"
+          else
+            echo "无可抢条目，不发通知"
+          fi
+
+      - name: Commit report
+        run: |
+          git config user.name  "railway-radar-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add reports/ state/ || true
+          if git diff --cached --quiet; then
+            echo "no change"
+          else
+            git commit -m "railway-radar: $(date -u +%Y-%m-%dT%H:%MZ)"
+            git push
+          fi
