@@ -1,0 +1,8 @@
+任务,平台,赏金,①搜索目标,②创建账户,③读取规则,④绑定身份,⑤收款地址,⑥审核时间,⑦放款时间,当前状态,🔴出错环节
+Environment Sync / EnvironmentConfig,Railway Station,$10,榜单 station.railway.com/bounties,✅ hctdip (Google OAuth),⚠ 规则页404，支付条款不可核,✅ Google OAuth 已绑,🔴 未绑 payout method,【未知】无 SLA,未放款,已发帖 · OP 已确认「fully resolves」,🔴 收款地址未绑 (defaultPaymentMethod=None)
+SSH Key Guidance,Railway Station,$20,同上,✅ hctdip,⚠ 同上,✅,🔴 未绑 payout method,【未知】无 SLA,未放款,已发帖 · 出现署名 Railway Team 的竞争答案,🔴 收款地址未绑
+deasync / distutils,Railway Station,$10,云端雷达抓到（本地扫不到）,✅ hctdip,⚠ 同上,✅,🔴 未绑 payout method,【未知】无 SLA,未放款,已发帖 · 1h 内首发 · 0 竞争,🔴 收款地址未绑
+#130,Frantic,$3,赏金榜 claim,✅ 账号已注册,⚠ 规则页不可核,✅ email 验证已解除,✅ x402 地址已有,🔴 无 SLA (judgmentDueAt=null),未放款,delivered 等评审 >20h,🔴 审核无 SLA，可无限期挂着
+Mermail Agent Skill,Mermail,$500,群组线索,🔴 未创建账户,未读,未绑,未绑,—,—,未开始,🔴 未创建账户
+Spout Finance 研究报告,Superteam Earn,$1000,赏金榜,✅ 账号已注册,✅ 已读,✅ twitter 登录,✅ SOL/TRON/ETH 已有,评审中（平台侧）,未放款,已提交（提交数 108→116）,⚠ 评审中，非我方问题
+竞技审计 Code4rena/Sherlock/CodeHawks,多平台,$4k–$135k,云端 audit-radar 每3h,无需注册（已有会员）,✅ API/榜单可读,—,✅ USDC 直进钱包,赛后公布（数周）,—,雷达盯梢中 · 当前四家全关,⚠ 等开门（非出错）
