@@ -1,0 +1,580 @@
+{
+ "at": "2026-09-26T12:04:22.080790+00:00",
+ "total": 28,
+ "hot": [
+  {
+   "h": "/questions/available-variable-clarity-92b128c5",
+   "t": "Available Variable Clarity",
+   "score": 4,
+   "notes": [
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/how-can-i-diagnose-a-pre-deploy-command-e6faddd0",
+   "t": "How can I diagnose a pre-deploy command that logs an inconclusive result, then proceeds to worker startup?",
+   "score": 4,
+   "notes": [
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/docker-image-digest-pinning-across-envir-b7bc22aa",
+   "t": "Docker image digest pinning across environment-variable redeploys",
+   "score": 4,
+   "notes": [
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/while-deploying-railways-is-not-referenc-07e1fb67",
+   "t": "While deploying Railways is not referencing the environment variable from today (09/2402026)",
+   "score": 4,
+   "notes": [
+    "竞争低",
+    "提问·配置型"
+   ]
+  }
+ ],
+ "new": [
+  {
+   "h": "/questions/available-variable-clarity-92b128c5",
+   "t": "Available Variable Clarity",
+   "score": 4,
+   "notes": [
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/how-can-i-diagnose-a-pre-deploy-command-e6faddd0",
+   "t": "How can I diagnose a pre-deploy command that logs an inconclusive result, then proceeds to worker startup?",
+   "score": 4,
+   "notes": [
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/docker-image-digest-pinning-across-envir-b7bc22aa",
+   "t": "Docker image digest pinning across environment-variable redeploys",
+   "score": 4,
+   "notes": [
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/while-deploying-railways-is-not-referenc-07e1fb67",
+   "t": "While deploying Railways is not referencing the environment variable from today (09/2402026)",
+   "score": 4,
+   "notes": [
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/deploy-failure-6bb88dbe",
+   "t": "Deploy failure",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/cache-issues-e1e64ec2",
+   "t": "Cache issues",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/503-service-unavailable-108bf055",
+   "t": "503 Service Unavailable",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/can-t-connect-to-the-database-c5279af2",
+   "t": "Can't connect to the database",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/runtime-v2-injecting-empty-variable-valu-4c0fb717",
+   "t": "Runtime V2 injecting empty variable values into the deployment process $10 1 replies 3m by fantasycricketpros",
+   "score": 1,
+   "notes": [
+    "陈旧",
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/m-6ac15a30",
+   "t": "M $10 0 replies 42m by biznis883-cell",
+   "score": -1,
+   "notes": [
+    "陈旧",
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/request-for-csr-certificate-signing-req-6c07d2db",
+   "t": "Request for CSR (Certificate Signing Request) for Custom SSL Setup $10 1 replies 7m by mythoslabsinc",
+   "score": -3,
+   "notes": [
+    "陈旧",
+    "竞争低",
+    "⚠平台基建/已解",
+    "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/my-services-are-crashing-and-not-working-06949a79",
+   "t": "My services are crashing and not working $10 5 replies 7m by joselvelez",
+   "score": -4,
+   "notes": [
+    "陈旧",
+    "已5回复"
+   ]
+  },
+  {
+   "h": "/questions/production-impact-anycast-edge-misrout-f6aaed54",
+   "t": "Anycast edge misrouting from Hetzner AS24940 — every DB query +180ms $20 2 replies 1m by yigittekelioglu",
+   "score": -5,
+   "notes": [
+    "陈旧",
+    "竞争低",
+    "⚠平台基建/已解"
+   ]
+  },
+  {
+   "h": "/questions/per-request-ingress-metadata-required-fo-c2c61b5a",
+   "t": "Per-request ingress metadata required for HMRC fraud-prevention headers $20 2 replies 2m by raullomelino",
+   "score": -5,
+   "notes": [
+    "陈旧",
+    "竞争低",
+    "⚠平台基建/已解"
+   ]
+  },
+  {
+   "h": "/questions/production-outage-severe-disk-i-o-degr-daacb0c4",
+   "t": "Production outage — severe disk I/O degradation on Postgres volume (DB up but unusable) $20 2 replies 2m by contas-ginga",
+   "score": -5,
+   "notes": [
+    "陈旧",
+    "竞争低",
+    "⚠平台基建/已解"
+   ]
+  },
+  {
+   "h": "/questions/we-re-seeing-intermittent-latency-spikes-99ee0d69",
+   "t": "We're seeing intermittent latency spikes on our production service running in the **Singapore region**. $20 1 replies 3m by unit-blue",
+   "score": -5,
+   "notes": [
+    "陈旧",
+    "竞争低",
+    "⚠平台基建/已解"
+   ]
+  },
+  {
+   "h": "/questions/high-latency-on-singapore-region-impacti-3d6221a3",
+   "t": "High Latency on Singapore Region Impacting Business Operations $20 1 replies 4m by chaudharyali14",
+   "score": -5,
+   "notes": [
+    "陈旧",
+    "竞争低",
+    "⚠平台基建/已解"
+   ]
+  },
+  {
+   "h": "/questions/project-steadfast-education-5ceae60c",
+   "t": "Project: steadfast-education $10 2 replies 5m by acs73traveler-creator",
+   "score": -5,
+   "notes": [
+    "陈旧",
+    "竞争低",
+    "⚠平台基建/已解"
+   ]
+  },
+  {
+   "h": "/questions/deploy-nodes-cannot-reach-internal-regis-dfbe538a",
+   "t": "Deploy nodes cannot reach internal registry (us-west2) — service offline $10 1 replies 6m by bmetcalf21",
+   "score": -5,
+   "notes": [
+    "陈旧",
+    "竞争低",
+    "⚠平台基建/已解"
+   ]
+  },
+  {
+   "h": "/questions/volume-restore-button-not-working-load-a0e52a31",
+   "t": "Volume restore button not working - loads project instead $10 1 replies 7m by mosatiii",
+   "score": -5,
+   "notes": [
+    "陈旧",
+    "竞争低",
+    "⚠平台基建/已解"
+   ]
+  },
+  {
+   "h": "/questions/domain-problem-74757b03",
+   "t": "Domain problem $10 2 replies 7m by julianbessone",
+   "score": -5,
+   "notes": [
+    "陈旧",
+    "竞争低",
+    "⚠平台基建/已解"
+   ]
+  },
+  {
+   "h": "/questions/sudden-dns-issue-0f13d660",
+   "t": "Sudden DNS issue on production system $20 2 replies 7m by upd",
+   "score": -5,
+   "notes": [
+    "陈旧",
+    "竞争低",
+    "⚠平台基建/已解"
+   ]
+  },
+  {
+   "h": "/questions/n8n-self-hosted-stopeed-working-2dbedbe7",
+   "t": "n8n self-hosted stopeed working $10 1 replies 7m by transformatiive",
+   "score": -5,
+   "notes": [
+    "陈旧",
+    "竞争低",
+    "⚠平台基建/已解"
+   ]
+  },
+  {
+   "h": "/questions/build-failing-because-npm-dependencies-a-4607a810",
+   "t": "Build failing because npm dependencies aren't being installed properly $10 2 replies 8m by davekaro",
+   "score": -5,
+   "notes": [
+    "陈旧",
+    "竞争低",
+    "⚠平台基建/已解"
+   ]
+  },
+  {
+   "h": "/questions/arangodb-container-doesn-t-deploy-0b07f784",
+   "t": "Arangodb container doesn't deploy $10 1 replies 8m by fjblau",
+   "score": -5,
+   "notes": [
+    "陈旧",
+    "竞争低",
+    "⚠平台基建/已解"
+   ]
+  },
+  {
+   "h": "/questions/point-in-time-recovery-backup-restore-08522372",
+   "t": "Point-in-time recovery / backup restore for a Postgres service — recover rows deleted from sessions / session_events $20 6 replies 4m by mcampolongo-rg",
+   "score": -8,
+   "notes": [
+    "陈旧",
+    "已6回复",
+    "⚠平台基建/已解"
+   ]
+  },
+  {
+   "h": "/questions/mongo-db-connection-failed-since-12-feb-855f3581",
+   "t": "MongoDB connection failed since 12 Feb. $10 4 replies 7m by jingle",
+   "score": -8,
+   "notes": [
+    "陈旧",
+    "已4回复",
+    "⚠平台基建/已解"
+   ]
+  },
+  {
+   "h": "/questions/server-performance-issue-on-pro-plan-p-0aaac6e5",
+   "t": "Server Performance Issue on Pro Plan – Project B Not Responding / Login Failing $30 5 replies 7m by chaudharyali14",
+   "score": -8,
+   "notes": [
+    "陈旧",
+    "已5回复",
+    "⚠平台基建/已解"
+   ]
+  }
+ ],
+ "all": [
+  {
+   "h": "/questions/available-variable-clarity-92b128c5",
+   "t": "Available Variable Clarity",
+   "score": 4,
+   "notes": [
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/how-can-i-diagnose-a-pre-deploy-command-e6faddd0",
+   "t": "How can I diagnose a pre-deploy command that logs an inconclusive result, then proceeds to worker startup?",
+   "score": 4,
+   "notes": [
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/docker-image-digest-pinning-across-envir-b7bc22aa",
+   "t": "Docker image digest pinning across environment-variable redeploys",
+   "score": 4,
+   "notes": [
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/while-deploying-railways-is-not-referenc-07e1fb67",
+   "t": "While deploying Railways is not referencing the environment variable from today (09/2402026)",
+   "score": 4,
+   "notes": [
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/deploy-failure-6bb88dbe",
+   "t": "Deploy failure",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/cache-issues-e1e64ec2",
+   "t": "Cache issues",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/503-service-unavailable-108bf055",
+   "t": "503 Service Unavailable",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/can-t-connect-to-the-database-c5279af2",
+   "t": "Can't connect to the database",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/runtime-v2-injecting-empty-variable-valu-4c0fb717",
+   "t": "Runtime V2 injecting empty variable values into the deployment process $10 1 replies 3m by fantasycricketpros",
+   "score": 1,
+   "notes": [
+    "陈旧",
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/m-6ac15a30",
+   "t": "M $10 0 replies 42m by biznis883-cell",
+   "score": -1,
+   "notes": [
+    "陈旧",
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/request-for-csr-certificate-signing-req-6c07d2db",
+   "t": "Request for CSR (Certificate Signing Request) for Custom SSL Setup $10 1 replies 7m by mythoslabsinc",
+   "score": -3,
+   "notes": [
+    "陈旧",
+    "竞争低",
+    "⚠平台基建/已解",
+    "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/my-services-are-crashing-and-not-working-06949a79",
+   "t": "My services are crashing and not working $10 5 replies 7m by joselvelez",
+   "score": -4,
+   "notes": [
+    "陈旧",
+    "已5回复"
+   ]
+  },
+  {
+   "h": "/questions/production-impact-anycast-edge-misrout-f6aaed54",
+   "t": "Anycast edge misrouting from Hetzner AS24940 — every DB query +180ms $20 2 replies 1m by yigittekelioglu",
+   "score": -5,
+   "notes": [
+    "陈旧",
+    "竞争低",
+    "⚠平台基建/已解"
+   ]
+  },
+  {
+   "h": "/questions/per-request-ingress-metadata-required-fo-c2c61b5a",
+   "t": "Per-request ingress metadata required for HMRC fraud-prevention headers $20 2 replies 2m by raullomelino",
+   "score": -5,
+   "notes": [
+    "陈旧",
+    "竞争低",
+    "⚠平台基建/已解"
+   ]
+  },
+  {
+   "h": "/questions/production-outage-severe-disk-i-o-degr-daacb0c4",
+   "t": "Production outage — severe disk I/O degradation on Postgres volume (DB up but unusable) $20 2 replies 2m by contas-ginga",
+   "score": -5,
+   "notes": [
+    "陈旧",
+    "竞争低",
+    "⚠平台基建/已解"
+   ]
+  },
+  {
+   "h": "/questions/we-re-seeing-intermittent-latency-spikes-99ee0d69",
+   "t": "We're seeing intermittent latency spikes on our production service running in the **Singapore region**. $20 1 replies 3m by unit-blue",
+   "score": -5,
+   "notes": [
+    "陈旧",
+    "竞争低",
+    "⚠平台基建/已解"
+   ]
+  },
+  {
+   "h": "/questions/high-latency-on-singapore-region-impacti-3d6221a3",
+   "t": "High Latency on Singapore Region Impacting Business Operations $20 1 replies 4m by chaudharyali14",
+   "score": -5,
+   "notes": [
+    "陈旧",
+    "竞争低",
+    "⚠平台基建/已解"
+   ]
+  },
+  {
+   "h": "/questions/project-steadfast-education-5ceae60c",
+   "t": "Project: steadfast-education $10 2 replies 5m by acs73traveler-creator",
+   "score": -5,
+   "notes": [
+    "陈旧",
+    "竞争低",
+    "⚠平台基建/已解"
+   ]
+  },
+  {
+   "h": "/questions/deploy-nodes-cannot-reach-internal-regis-dfbe538a",
+   "t": "Deploy nodes cannot reach internal registry (us-west2) — service offline $10 1 replies 6m by bmetcalf21",
+   "score": -5,
+   "notes": [
+    "陈旧",
+    "竞争低",
+    "⚠平台基建/已解"
+   ]
+  },
+  {
+   "h": "/questions/volume-restore-button-not-working-load-a0e52a31",
+   "t": "Volume restore button not working - loads project instead $10 1 replies 7m by mosatiii",
+   "score": -5,
+   "notes": [
+    "陈旧",
+    "竞争低",
+    "⚠平台基建/已解"
+   ]
+  },
+  {
+   "h": "/questions/domain-problem-74757b03",
+   "t": "Domain problem $10 2 replies 7m by julianbessone",
+   "score": -5,
+   "notes": [
+    "陈旧",
+    "竞争低",
+    "⚠平台基建/已解"
+   ]
+  },
+  {
+   "h": "/questions/sudden-dns-issue-0f13d660",
+   "t": "Sudden DNS issue on production system $20 2 replies 7m by upd",
+   "score": -5,
+   "notes": [
+    "陈旧",
+    "竞争低",
+    "⚠平台基建/已解"
+   ]
+  },
+  {
+   "h": "/questions/n8n-self-hosted-stopeed-working-2dbedbe7",
+   "t": "n8n self-hosted stopeed working $10 1 replies 7m by transformatiive",
+   "score": -5,
+   "notes": [
+    "陈旧",
+    "竞争低",
+    "⚠平台基建/已解"
+   ]
+  },
+  {
+   "h": "/questions/build-failing-because-npm-dependencies-a-4607a810",
+   "t": "Build failing because npm dependencies aren't being installed properly $10 2 replies 8m by davekaro",
+   "score": -5,
+   "notes": [
+    "陈旧",
+    "竞争低",
+    "⚠平台基建/已解"
+   ]
+  },
+  {
+   "h": "/questions/arangodb-container-doesn-t-deploy-0b07f784",
+   "t": "Arangodb container doesn't deploy $10 1 replies 8m by fjblau",
+   "score": -5,
+   "notes": [
+    "陈旧",
+    "竞争低",
+    "⚠平台基建/已解"
+   ]
+  },
+  {
+   "h": "/questions/point-in-time-recovery-backup-restore-08522372",
+   "t": "Point-in-time recovery / backup restore for a Postgres service — recover rows deleted from sessions / session_events $20 6 replies 4m by mcampolongo-rg",
+   "score": -8,
+   "notes": [
+    "陈旧",
+    "已6回复",
+    "⚠平台基建/已解"
+   ]
+  },
+  {
+   "h": "/questions/mongo-db-connection-failed-since-12-feb-855f3581",
+   "t": "MongoDB connection failed since 12 Feb. $10 4 replies 7m by jingle",
+   "score": -8,
+   "notes": [
+    "陈旧",
+    "已4回复",
+    "⚠平台基建/已解"
+   ]
+  },
+  {
+   "h": "/questions/server-performance-issue-on-pro-plan-p-0aaac6e5",
+   "t": "Server Performance Issue on Pro Plan – Project B Not Responding / Login Failing $30 5 replies 7m by chaudharyali14",
+   "score": -8,
+   "notes": [
+    "陈旧",
+    "已5回复",
+    "⚠平台基建/已解"
+   ]
+  }
+ ]
+}
