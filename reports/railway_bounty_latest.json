@@ -1,10 +1,20 @@
 {
- "at": "2026-09-27T17:18:13.813200+00:00",
+ "at": "2026-09-27T21:38:27.809502+00:00",
  "total": 29,
  "hot": [
   {
-   "h": "/questions/successful-railway-deployment-keeps-publ-395eb120",
-   "t": "Successful Railway deployment keeps publishing GitHub deployment failure $10 2 replies 19h by peterheijen2026-glitch",
+   "h": "/questions/hobby-supported-sandbox-for-image-decod-e68509ef",
+   "t": "Hobby: supported sandbox for image decoding — bubblewrap namespace permission denied $10 0 replies 3h by cristioca",
+   "score": 7,
+   "notes": [
+    "数小时内",
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/error-405-0b86438c",
+   "t": "error 405 $10 0 replies 15h by rafaelcomerciodigital4-alt",
    "score": 5,
    "notes": [
     "数小时内",
@@ -12,11 +22,11 @@
    ]
   },
   {
-   "h": "/questions/error-405-0b86438c",
-   "t": "error 405 $10 0 replies 11h by rafaelcomerciodigital4-alt",
-   "score": 5,
+   "h": "/questions/successful-railway-deployment-keeps-publ-395eb120",
+   "t": "Successful Railway deployment keeps publishing GitHub deployment failure $10 2 replies 1d by peterheijen2026-glitch",
+   "score": 4,
    "notes": [
-    "数小时内",
+    "1天内",
     "竞争低"
    ]
   },
@@ -30,27 +40,38 @@
    ]
   },
   {
-   "h": "/questions/heavy-packet-loss-between-asia-southeast-cab21ac9",
-   "t": "Heavy packet loss between asia-southeast1 (Metal) and one Los Angeles host (AS23470 via NTT) since 23 Sep $10 0 replies 2d by rishipatel185",
+   "h": "/questions/custom-domain-ssl-certificate-not-provis-8c16eb0e",
+   "t": "Custom domain SSL certificate not provisioning — www.kotelnikov-tutor.ru",
    "score": 4,
    "notes": [
-    "2天内",
-    "竞争低"
+    "竞争低",
+    "提问·配置型"
    ]
   }
  ],
  "new": [
   {
-   "h": "/questions/pre-deploy-fails-image-could-not-be-pul-401fdfb0",
-   "t": "Pre-deploy fails: image could not be pulled from the registry, even when redeploying a past success",
-   "score": 2,
+   "h": "/questions/hobby-supported-sandbox-for-image-decod-e68509ef",
+   "t": "Hobby: supported sandbox for image decoding — bubblewrap namespace permission denied $10 0 replies 3h by cristioca",
+   "score": 7,
    "notes": [
-    "竞争低"
+    "数小时内",
+    "竞争低",
+    "提问·配置型"
    ]
   },
   {
-   "h": "/questions/ssh-sftp-access-plane-failures-on-health-7fdb0acb",
-   "t": "SSH/SFTP access-plane failures on healthy production service",
+   "h": "/questions/custom-domain-ssl-certificate-not-provis-8c16eb0e",
+   "t": "Custom domain SSL certificate not provisioning — www.kotelnikov-tutor.ru",
+   "score": 4,
+   "notes": [
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/public-domain-returns-fallback-404-despi-698a835f",
+   "t": "Public domain returns fallback 404 despite healthy deployment",
    "score": 2,
    "notes": [
     "竞争低"
@@ -59,8 +80,18 @@
  ],
  "all": [
   {
-   "h": "/questions/successful-railway-deployment-keeps-publ-395eb120",
-   "t": "Successful Railway deployment keeps publishing GitHub deployment failure $10 2 replies 19h by peterheijen2026-glitch",
+   "h": "/questions/hobby-supported-sandbox-for-image-decod-e68509ef",
+   "t": "Hobby: supported sandbox for image decoding — bubblewrap namespace permission denied $10 0 replies 3h by cristioca",
+   "score": 7,
+   "notes": [
+    "数小时内",
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/error-405-0b86438c",
+   "t": "error 405 $10 0 replies 15h by rafaelcomerciodigital4-alt",
    "score": 5,
    "notes": [
     "数小时内",
@@ -68,11 +99,11 @@
    ]
   },
   {
-   "h": "/questions/error-405-0b86438c",
-   "t": "error 405 $10 0 replies 11h by rafaelcomerciodigital4-alt",
-   "score": 5,
+   "h": "/questions/successful-railway-deployment-keeps-publ-395eb120",
+   "t": "Successful Railway deployment keeps publishing GitHub deployment failure $10 2 replies 1d by peterheijen2026-glitch",
+   "score": 4,
    "notes": [
-    "数小时内",
+    "1天内",
     "竞争低"
    ]
   },
@@ -86,11 +117,19 @@
    ]
   },
   {
-   "h": "/questions/heavy-packet-loss-between-asia-southeast-cab21ac9",
-   "t": "Heavy packet loss between asia-southeast1 (Metal) and one Los Angeles host (AS23470 via NTT) since 23 Sep $10 0 replies 2d by rishipatel185",
+   "h": "/questions/custom-domain-ssl-certificate-not-provis-8c16eb0e",
+   "t": "Custom domain SSL certificate not provisioning — www.kotelnikov-tutor.ru",
    "score": 4,
    "notes": [
-    "2天内",
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/public-domain-returns-fallback-404-despi-698a835f",
+   "t": "Public domain returns fallback 404 despite healthy deployment",
+   "score": 2,
+   "notes": [
     "竞争低"
    ]
   },
@@ -143,22 +182,6 @@
    ]
   },
   {
-   "h": "/questions/subject-tcp-proxy-accepts-connection-bu-6cf30735",
-   "t": "Subject: TCP proxy accepts connection but never responds — reproducible, ~65% of attempts from one source IP",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/help-plz-0b090d3e",
-   "t": "HELp plZ",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
    "h": "/questions/runtime-v2-injecting-empty-variable-valu-4c0fb717",
    "t": "Runtime V2 injecting empty variable values into the deployment process $10 1 replies 3m by fantasycricketpros",
    "score": 1,
@@ -166,6 +189,15 @@
     "陈旧",
     "竞争低",
     "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/heavy-packet-loss-between-asia-southeast-cab21ac9",
+   "t": "Heavy packet loss between asia-southeast1 (Metal) and one Los Angeles host (AS23470 via NTT) since 23 Sep $10 0 replies 3d by rishipatel185",
+   "score": -1,
+   "notes": [
+    "陈旧",
+    "竞争低"
    ]
   },
   {
@@ -313,16 +345,6 @@
    "notes": [
     "陈旧",
     "已4回复",
-    "⚠平台基建/已解"
-   ]
-  },
-  {
-   "h": "/questions/server-performance-issue-on-pro-plan-p-0aaac6e5",
-   "t": "Server Performance Issue on Pro Plan – Project B Not Responding / Login Failing $30 5 replies 7m by chaudharyali14",
-   "score": -8,
-   "notes": [
-    "陈旧",
-    "已5回复",
     "⚠平台基建/已解"
    ]
   }
