@@ -1,19 +1,10 @@
 {
- "at": "2026-09-27T12:27:57.191109+00:00",
- "total": 28,
+ "at": "2026-09-27T17:18:13.813200+00:00",
+ "total": 29,
  "hot": [
   {
    "h": "/questions/successful-railway-deployment-keeps-publ-395eb120",
-   "t": "Successful Railway deployment keeps publishing GitHub deployment failure $10 2 replies 15h by peterheijen2026-glitch",
-   "score": 5,
-   "notes": [
-    "数小时内",
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/repeatable-python-wake-up-jitter-in-one-6c0fc546",
-   "t": "Repeatable Python wake-up jitter in one Singapore service after same-image restart $10 0 replies 18h by x4u20",
+   "t": "Successful Railway deployment keeps publishing GitHub deployment failure $10 2 replies 19h by peterheijen2026-glitch",
    "score": 5,
    "notes": [
     "数小时内",
@@ -22,10 +13,19 @@
   },
   {
    "h": "/questions/error-405-0b86438c",
-   "t": "error 405 $10 0 replies 6h by rafaelcomerciodigital4-alt",
+   "t": "error 405 $10 0 replies 11h by rafaelcomerciodigital4-alt",
    "score": 5,
    "notes": [
     "数小时内",
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/repeatable-python-wake-up-jitter-in-one-6c0fc546",
+   "t": "Repeatable Python wake-up jitter in one Singapore service after same-image restart $10 0 replies 1d by x4u20",
+   "score": 4,
+   "notes": [
+    "1天内",
     "竞争低"
    ]
   },
@@ -41,103 +41,26 @@
  ],
  "new": [
   {
-   "h": "/questions/successful-railway-deployment-keeps-publ-395eb120",
-   "t": "Successful Railway deployment keeps publishing GitHub deployment failure $10 2 replies 15h by peterheijen2026-glitch",
-   "score": 5,
-   "notes": [
-    "数小时内",
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/repeatable-python-wake-up-jitter-in-one-6c0fc546",
-   "t": "Repeatable Python wake-up jitter in one Singapore service after same-image restart $10 0 replies 18h by x4u20",
-   "score": 5,
-   "notes": [
-    "数小时内",
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/error-405-0b86438c",
-   "t": "error 405 $10 0 replies 6h by rafaelcomerciodigital4-alt",
-   "score": 5,
-   "notes": [
-    "数小时内",
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/https-response-header-timeouts-to-fred-f-77c3a411",
-   "t": "HTTPS response-header timeouts to FRED from Singapore region",
+   "h": "/questions/pre-deploy-fails-image-could-not-be-pul-401fdfb0",
+   "t": "Pre-deploy fails: image could not be pulled from the registry, even when redeploying a past success",
    "score": 2,
    "notes": [
     "竞争低"
    ]
   },
   {
-   "h": "/questions/expect-100-continue-hangs-at-the-edge-5d94720a",
-   "t": "Expect: 100-continue hangs at the edge (project pacific-vision / tienda)",
+   "h": "/questions/ssh-sftp-access-plane-failures-on-health-7fdb0acb",
+   "t": "SSH/SFTP access-plane failures on healthy production service",
    "score": 2,
    "notes": [
     "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/railway-build-failure-tracked-modules-u-81a36ac2",
-   "t": "Railway build failure: tracked modules unresolved after previously successful deployment",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/subject-tcp-proxy-accepts-connection-bu-6cf30735",
-   "t": "Subject: TCP proxy accepts connection but never responds — reproducible, ~65% of attempts from one source IP",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/help-plz-0b090d3e",
-   "t": "HELp plZ",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/explicit-deploymentstop-under-always-re-afffa8de",
-   "t": "Explicit deploymentStop under ALWAYS: restart suppression, grace and replica termination",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/ha-mysql-haproxy-adds-10-ms-query-lat-5f68c49c",
-   "t": "HA MySQL — HAProxy adds ~10 ms/query latency in-region (vs ~3 ms direct to node)",
-   "score": -2,
-   "notes": [
-    "竞争低",
-    "⚠平台基建/已解"
    ]
   }
  ],
  "all": [
   {
    "h": "/questions/successful-railway-deployment-keeps-publ-395eb120",
-   "t": "Successful Railway deployment keeps publishing GitHub deployment failure $10 2 replies 15h by peterheijen2026-glitch",
-   "score": 5,
-   "notes": [
-    "数小时内",
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/repeatable-python-wake-up-jitter-in-one-6c0fc546",
-   "t": "Repeatable Python wake-up jitter in one Singapore service after same-image restart $10 0 replies 18h by x4u20",
+   "t": "Successful Railway deployment keeps publishing GitHub deployment failure $10 2 replies 19h by peterheijen2026-glitch",
    "score": 5,
    "notes": [
     "数小时内",
@@ -146,10 +69,19 @@
   },
   {
    "h": "/questions/error-405-0b86438c",
-   "t": "error 405 $10 0 replies 6h by rafaelcomerciodigital4-alt",
+   "t": "error 405 $10 0 replies 11h by rafaelcomerciodigital4-alt",
    "score": 5,
    "notes": [
     "数小时内",
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/repeatable-python-wake-up-jitter-in-one-6c0fc546",
+   "t": "Repeatable Python wake-up jitter in one Singapore service after same-image restart $10 0 replies 1d by x4u20",
+   "score": 4,
+   "notes": [
+    "1天内",
     "竞争低"
    ]
   },
@@ -163,6 +95,30 @@
    ]
   },
   {
+   "h": "/questions/pre-deploy-fails-image-could-not-be-pul-401fdfb0",
+   "t": "Pre-deploy fails: image could not be pulled from the registry, even when redeploying a past success",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/ssh-sftp-access-plane-failures-on-health-7fdb0acb",
+   "t": "SSH/SFTP access-plane failures on healthy production service",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/explicit-deploymentstop-under-always-re-afffa8de",
+   "t": "Explicit deploymentStop under ALWAYS: restart suppression, grace and replica termination",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
    "h": "/questions/https-response-header-timeouts-to-fred-f-77c3a411",
    "t": "HTTPS response-header timeouts to FRED from Singapore region",
    "score": 2,
@@ -197,22 +153,6 @@
   {
    "h": "/questions/help-plz-0b090d3e",
    "t": "HELp plZ",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/does-volumeupdate-name-trigger-deploy-r-c5c5f7d0",
-   "t": "Does volumeUpdate(name) trigger deploy/restart or staged changes?",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/explicit-deploymentstop-under-always-re-afffa8de",
-   "t": "Explicit deploymentStop under ALWAYS: restart suppression, grace and replica termination",
    "score": 2,
    "notes": [
     "竞争低"
