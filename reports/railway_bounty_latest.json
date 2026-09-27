@@ -1,7 +1,34 @@
 {
- "at": "2026-09-27T05:47:17.415814+00:00",
+ "at": "2026-09-27T12:27:57.191109+00:00",
  "total": 28,
  "hot": [
+  {
+   "h": "/questions/successful-railway-deployment-keeps-publ-395eb120",
+   "t": "Successful Railway deployment keeps publishing GitHub deployment failure $10 2 replies 15h by peterheijen2026-glitch",
+   "score": 5,
+   "notes": [
+    "数小时内",
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/repeatable-python-wake-up-jitter-in-one-6c0fc546",
+   "t": "Repeatable Python wake-up jitter in one Singapore service after same-image restart $10 0 replies 18h by x4u20",
+   "score": 5,
+   "notes": [
+    "数小时内",
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/error-405-0b86438c",
+   "t": "error 405 $10 0 replies 6h by rafaelcomerciodigital4-alt",
+   "score": 5,
+   "notes": [
+    "数小时内",
+    "竞争低"
+   ]
+  },
   {
    "h": "/questions/heavy-packet-loss-between-asia-southeast-cab21ac9",
    "t": "Heavy packet loss between asia-southeast1 (Metal) and one Los Angeles host (AS23470 via NTT) since 23 Sep $10 0 replies 2d by rishipatel185",
@@ -9,29 +36,123 @@
    "notes": [
     "2天内",
     "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/available-variable-clarity-92b128c5",
-   "t": "Available Variable Clarity",
-   "score": 4,
-   "notes": [
-    "竞争低",
-    "提问·配置型"
    ]
   }
  ],
  "new": [
   {
-   "h": "/questions/does-volumeupdate-name-trigger-deploy-r-c5c5f7d0",
-   "t": "Does volumeUpdate(name) trigger deploy/restart or staged changes?",
+   "h": "/questions/successful-railway-deployment-keeps-publ-395eb120",
+   "t": "Successful Railway deployment keeps publishing GitHub deployment failure $10 2 replies 15h by peterheijen2026-glitch",
+   "score": 5,
+   "notes": [
+    "数小时内",
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/repeatable-python-wake-up-jitter-in-one-6c0fc546",
+   "t": "Repeatable Python wake-up jitter in one Singapore service after same-image restart $10 0 replies 18h by x4u20",
+   "score": 5,
+   "notes": [
+    "数小时内",
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/error-405-0b86438c",
+   "t": "error 405 $10 0 replies 6h by rafaelcomerciodigital4-alt",
+   "score": 5,
+   "notes": [
+    "数小时内",
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/https-response-header-timeouts-to-fred-f-77c3a411",
+   "t": "HTTPS response-header timeouts to FRED from Singapore region",
    "score": 2,
    "notes": [
     "竞争低"
    ]
+  },
+  {
+   "h": "/questions/expect-100-continue-hangs-at-the-edge-5d94720a",
+   "t": "Expect: 100-continue hangs at the edge (project pacific-vision / tienda)",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/railway-build-failure-tracked-modules-u-81a36ac2",
+   "t": "Railway build failure: tracked modules unresolved after previously successful deployment",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/subject-tcp-proxy-accepts-connection-bu-6cf30735",
+   "t": "Subject: TCP proxy accepts connection but never responds — reproducible, ~65% of attempts from one source IP",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/help-plz-0b090d3e",
+   "t": "HELp plZ",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/explicit-deploymentstop-under-always-re-afffa8de",
+   "t": "Explicit deploymentStop under ALWAYS: restart suppression, grace and replica termination",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/ha-mysql-haproxy-adds-10-ms-query-lat-5f68c49c",
+   "t": "HA MySQL — HAProxy adds ~10 ms/query latency in-region (vs ~3 ms direct to node)",
+   "score": -2,
+   "notes": [
+    "竞争低",
+    "⚠平台基建/已解"
+   ]
   }
  ],
  "all": [
+  {
+   "h": "/questions/successful-railway-deployment-keeps-publ-395eb120",
+   "t": "Successful Railway deployment keeps publishing GitHub deployment failure $10 2 replies 15h by peterheijen2026-glitch",
+   "score": 5,
+   "notes": [
+    "数小时内",
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/repeatable-python-wake-up-jitter-in-one-6c0fc546",
+   "t": "Repeatable Python wake-up jitter in one Singapore service after same-image restart $10 0 replies 18h by x4u20",
+   "score": 5,
+   "notes": [
+    "数小时内",
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/error-405-0b86438c",
+   "t": "error 405 $10 0 replies 6h by rafaelcomerciodigital4-alt",
+   "score": 5,
+   "notes": [
+    "数小时内",
+    "竞争低"
+   ]
+  },
   {
    "h": "/questions/heavy-packet-loss-between-asia-southeast-cab21ac9",
    "t": "Heavy packet loss between asia-southeast1 (Metal) and one Los Angeles host (AS23470 via NTT) since 23 Sep $10 0 replies 2d by rishipatel185",
@@ -42,12 +163,43 @@
    ]
   },
   {
-   "h": "/questions/available-variable-clarity-92b128c5",
-   "t": "Available Variable Clarity",
-   "score": 4,
+   "h": "/questions/https-response-header-timeouts-to-fred-f-77c3a411",
+   "t": "HTTPS response-header timeouts to FRED from Singapore region",
+   "score": 2,
    "notes": [
-    "竞争低",
-    "提问·配置型"
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/expect-100-continue-hangs-at-the-edge-5d94720a",
+   "t": "Expect: 100-continue hangs at the edge (project pacific-vision / tienda)",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/railway-build-failure-tracked-modules-u-81a36ac2",
+   "t": "Railway build failure: tracked modules unresolved after previously successful deployment",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/subject-tcp-proxy-accepts-connection-bu-6cf30735",
+   "t": "Subject: TCP proxy accepts connection but never responds — reproducible, ~65% of attempts from one source IP",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/help-plz-0b090d3e",
+   "t": "HELp plZ",
+   "score": 2,
+   "notes": [
+    "竞争低"
    ]
   },
   {
@@ -59,48 +211,8 @@
    ]
   },
   {
-   "h": "/questions/repeated-staging-deployment-failure-desp-92bb122a",
-   "t": "Repeated staging deployment failure despite unchanged retry commit",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/postgres-crashed-wal-cleanup-needed-5f14b3aa",
-   "t": "Postgres crashed, WAL cleanup needed",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/hi-ffa7db81",
-   "t": "hi",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/railway-github-repo-compliance-securit-98b9f61a",
-   "t": "Railway Github Repo Compliance / Security Issue",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/postgresql-password-authentication-misma-58714369",
-   "t": "PostgreSQL password authentication mismatch on fresh services",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/github-repo-cannot-be-connected-invali-aedc199d",
-   "t": "GitHub repo cannot be connected: \"Invalid GitHub OAuth callback\"",
+   "h": "/questions/explicit-deploymentstop-under-always-re-afffa8de",
+   "t": "Explicit deploymentStop under ALWAYS: restart suppression, grace and replica termination",
    "score": 2,
    "notes": [
     "竞争低"
@@ -123,6 +235,15 @@
    "notes": [
     "陈旧",
     "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/ha-mysql-haproxy-adds-10-ms-query-lat-5f68c49c",
+   "t": "HA MySQL — HAProxy adds ~10 ms/query latency in-region (vs ~3 ms direct to node)",
+   "score": -2,
+   "notes": [
+    "竞争低",
+    "⚠平台基建/已解"
    ]
   },
   {
@@ -228,36 +349,6 @@
   {
    "h": "/questions/domain-problem-74757b03",
    "t": "Domain problem $10 2 replies 7m by julianbessone",
-   "score": -5,
-   "notes": [
-    "陈旧",
-    "竞争低",
-    "⚠平台基建/已解"
-   ]
-  },
-  {
-   "h": "/questions/sudden-dns-issue-0f13d660",
-   "t": "Sudden DNS issue on production system $20 2 replies 7m by upd",
-   "score": -5,
-   "notes": [
-    "陈旧",
-    "竞争低",
-    "⚠平台基建/已解"
-   ]
-  },
-  {
-   "h": "/questions/n8n-self-hosted-stopeed-working-2dbedbe7",
-   "t": "n8n self-hosted stopeed working $10 1 replies 7m by transformatiive",
-   "score": -5,
-   "notes": [
-    "陈旧",
-    "竞争低",
-    "⚠平台基建/已解"
-   ]
-  },
-  {
-   "h": "/questions/build-failing-because-npm-dependencies-a-4607a810",
-   "t": "Build failing because npm dependencies aren't being installed properly $10 2 replies 8m by davekaro",
    "score": -5,
    "notes": [
     "陈旧",
