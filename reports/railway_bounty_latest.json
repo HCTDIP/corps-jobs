@@ -1,10 +1,10 @@
 {
- "at": "2026-09-27T21:38:27.809502+00:00",
+ "at": "2026-09-27T23:59:07.409582+00:00",
  "total": 29,
  "hot": [
   {
    "h": "/questions/hobby-supported-sandbox-for-image-decod-e68509ef",
-   "t": "Hobby: supported sandbox for image decoding — bubblewrap namespace permission denied $10 0 replies 3h by cristioca",
+   "t": "Hobby: supported sandbox for image decoding — bubblewrap namespace permission denied $10 0 replies 5h by cristioca",
    "score": 7,
    "notes": [
     "数小时内",
@@ -14,7 +14,7 @@
   },
   {
    "h": "/questions/error-405-0b86438c",
-   "t": "error 405 $10 0 replies 15h by rafaelcomerciodigital4-alt",
+   "t": "error 405 $10 0 replies 18h by rafaelcomerciodigital4-alt",
    "score": 5,
    "notes": [
     "数小时内",
@@ -49,39 +49,11 @@
    ]
   }
  ],
- "new": [
-  {
-   "h": "/questions/hobby-supported-sandbox-for-image-decod-e68509ef",
-   "t": "Hobby: supported sandbox for image decoding — bubblewrap namespace permission denied $10 0 replies 3h by cristioca",
-   "score": 7,
-   "notes": [
-    "数小时内",
-    "竞争低",
-    "提问·配置型"
-   ]
-  },
-  {
-   "h": "/questions/custom-domain-ssl-certificate-not-provis-8c16eb0e",
-   "t": "Custom domain SSL certificate not provisioning — www.kotelnikov-tutor.ru",
-   "score": 4,
-   "notes": [
-    "竞争低",
-    "提问·配置型"
-   ]
-  },
-  {
-   "h": "/questions/public-domain-returns-fallback-404-despi-698a835f",
-   "t": "Public domain returns fallback 404 despite healthy deployment",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  }
- ],
+ "new": [],
  "all": [
   {
    "h": "/questions/hobby-supported-sandbox-for-image-decod-e68509ef",
-   "t": "Hobby: supported sandbox for image decoding — bubblewrap namespace permission denied $10 0 replies 3h by cristioca",
+   "t": "Hobby: supported sandbox for image decoding — bubblewrap namespace permission denied $10 0 replies 5h by cristioca",
    "score": 7,
    "notes": [
     "数小时内",
@@ -91,7 +63,7 @@
   },
   {
    "h": "/questions/error-405-0b86438c",
-   "t": "error 405 $10 0 replies 15h by rafaelcomerciodigital4-alt",
+   "t": "error 405 $10 0 replies 18h by rafaelcomerciodigital4-alt",
    "score": 5,
    "notes": [
     "数小时内",
