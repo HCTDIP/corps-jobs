@@ -1,19 +1,10 @@
 {
- "at": "2026-09-26T23:54:58.598005+00:00",
- "total": 29,
+ "at": "2026-09-27T05:47:17.415814+00:00",
+ "total": 28,
  "hot": [
   {
    "h": "/questions/heavy-packet-loss-between-asia-southeast-cab21ac9",
    "t": "Heavy packet loss between asia-southeast1 (Metal) and one Los Angeles host (AS23470 via NTT) since 23 Sep $10 0 replies 2d by rishipatel185",
-   "score": 4,
-   "notes": [
-    "2天内",
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/deploy-failure-6bb88dbe",
-   "t": "Deploy failure $10 1 replies 2d by hosikjosik",
    "score": 4,
    "notes": [
     "2天内",
@@ -28,21 +19,12 @@
     "竞争低",
     "提问·配置型"
    ]
-  },
-  {
-   "h": "/questions/while-deploying-railways-is-not-referenc-07e1fb67",
-   "t": "While deploying Railways is not referencing the environment variable from today (09/2402026)",
-   "score": 4,
-   "notes": [
-    "竞争低",
-    "提问·配置型"
-   ]
   }
  ],
  "new": [
   {
-   "h": "/questions/repeated-staging-deployment-failure-desp-92bb122a",
-   "t": "Repeated staging deployment failure despite unchanged retry commit",
+   "h": "/questions/does-volumeupdate-name-trigger-deploy-r-c5c5f7d0",
+   "t": "Does volumeUpdate(name) trigger deploy/restart or staged changes?",
    "score": 2,
    "notes": [
     "竞争低"
@@ -60,15 +42,6 @@
    ]
   },
   {
-   "h": "/questions/deploy-failure-6bb88dbe",
-   "t": "Deploy failure $10 1 replies 2d by hosikjosik",
-   "score": 4,
-   "notes": [
-    "2天内",
-    "竞争低"
-   ]
-  },
-  {
    "h": "/questions/available-variable-clarity-92b128c5",
    "t": "Available Variable Clarity",
    "score": 4,
@@ -78,12 +51,11 @@
    ]
   },
   {
-   "h": "/questions/while-deploying-railways-is-not-referenc-07e1fb67",
-   "t": "While deploying Railways is not referencing the environment variable from today (09/2402026)",
-   "score": 4,
+   "h": "/questions/does-volumeupdate-name-trigger-deploy-r-c5c5f7d0",
+   "t": "Does volumeUpdate(name) trigger deploy/restart or staged changes?",
+   "score": 2,
    "notes": [
-    "竞争低",
-    "提问·配置型"
+    "竞争低"
    ]
   },
   {
@@ -145,13 +117,12 @@
    ]
   },
   {
-   "h": "/questions/google-api-connection-problem-with-n8n-7af489a5",
-   "t": "Google API connection problem with n8n",
-   "score": 0,
+   "h": "/questions/deploy-failure-6bb88dbe",
+   "t": "Deploy failure $10 1 replies 3d by hosikjosik",
+   "score": -1,
    "notes": [
-    "竞争低",
-    "⚠平台基建/已解",
-    "提问·配置型"
+    "陈旧",
+    "竞争低"
    ]
   },
   {
