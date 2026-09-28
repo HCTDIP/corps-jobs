@@ -1,0 +1,30 @@
+# Railway Bounty Tracker Configuration
+# Defines mapping rules and processing logic for bounty data
+
+type_mapping:
+  question: "question-configuration"
+  bug: "bug"
+  feature: "feature-request"
+  enhancement: "enhancement"
+
+competition_levels:
+  low: "low"
+  medium: "medium"
+  high: "high"
+
+region_mapping:
+  singapore: "singapore"
+  us-west2: "us-west2"
+  eu-west1: "eu-west1"
+  global: "global"
+
+bounty_categories:
+  deployment: ["deployment", "scheduling", "rollback", "termination"]
+  networking: ["tcp", "https", "timeout", "ssh"]
+  configuration: ["permissions", "access-control", "sandbox", "bubblewrap"]
+  integration: ["github", "api", "webhook"]
+
+update_frequency:
+  cron: "0 0 * * *"  # Daily at midnight UTC
+  max_retries: 3
+  retry_delay: 300  # 5 minutes
