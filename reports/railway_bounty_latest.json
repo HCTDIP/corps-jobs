@@ -1,6 +1,6 @@
 {
- "at": "2026-09-28T14:29:56.708672+00:00",
- "total": 30,
+ "at": "2026-09-28T21:23:48.164711+00:00",
+ "total": 29,
  "hot": [
   {
    "h": "/questions/successful-railway-deployment-keeps-publ-395eb120",
@@ -21,26 +21,8 @@
    ]
   },
   {
-   "h": "/questions/error-405-0b86438c",
-   "t": "error 405 $10 0 replies 1d by rafaelcomerciodigital4-alt",
-   "score": 4,
-   "notes": [
-    "1天内",
-    "竞争低"
-   ]
-  },
-  {
    "h": "/questions/clarification-of-exact-commit-deployment-3943e02a",
    "t": "Clarification of exact-commit deployment and rollback side effects",
-   "score": 4,
-   "notes": [
-    "竞争低",
-    "提问·配置型"
-   ]
-  },
-  {
-   "h": "/questions/hobby-supported-sandbox-for-image-decod-e68509ef",
-   "t": "Hobby: supported sandbox for image decoding — bubblewrap namespace permission denied",
    "score": 4,
    "notes": [
     "竞争低",
@@ -50,52 +32,38 @@
  ],
  "new": [
   {
-   "h": "/questions/clarification-of-exact-commit-deployment-3943e02a",
-   "t": "Clarification of exact-commit deployment and rollback side effects",
-   "score": 4,
+   "h": "/questions/which-cdn-ip-ranges-front-the-railway-ed-bcdee2ec",
+   "t": "Which CDN IP ranges front the Railway edge? (for trust proxy / rate limiting",
+   "score": 2,
    "notes": [
-    "竞争低",
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/sear-xng-5fce5fe7",
+   "t": "searXNG",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/railway-production-tcp-timeout-to-bseind-0db2126d",
+   "t": "Railway production TCP timeout to bseindices.com:443 $10 1 replies 10d by iammeghana007-stack",
+   "score": -1,
+   "notes": [
+    "陈旧",
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/postgres-volume-i-o-stall-on-us-east4-eq-99dae057",
+   "t": "Postgres volume I/O stall on us-east4-eqdc4a — checkpoint sync 42.7s, factory statement timeouts (exact-aco production) $20 18 replies 11d by gustavo-paris",
+   "score": -2,
+   "notes": [
+    "陈旧",
+    "已18回复",
     "提问·配置型"
-   ]
-  },
-  {
-   "h": "/questions/give-my-agent-only-read-access-eg-to-lo-2be49517",
-   "t": "Give my agent only read access (eg to logs etc)",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/explicit-deploymentstop-under-always-re-afffa8de",
-   "t": "Explicit deploymentStop under ALWAYS: restart suppression, grace and replica termination",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/https-response-header-timeouts-to-fred-f-77c3a411",
-   "t": "HTTPS response-header timeouts to FRED from Singapore region",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/production-deployment-stuck-before-conta-21345f1d",
-   "t": "Production deployment stuck before container scheduling",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/outbound-tcp-22-times-out-from-verified-4345cd6a",
-   "t": "Outbound TCP 22 times out from verified trial service in us-west2",
-   "score": 2,
-   "notes": [
-    "竞争低"
    ]
   }
  ],
@@ -119,15 +87,6 @@
    ]
   },
   {
-   "h": "/questions/error-405-0b86438c",
-   "t": "error 405 $10 0 replies 1d by rafaelcomerciodigital4-alt",
-   "score": 4,
-   "notes": [
-    "1天内",
-    "竞争低"
-   ]
-  },
-  {
    "h": "/questions/clarification-of-exact-commit-deployment-3943e02a",
    "t": "Clarification of exact-commit deployment and rollback side effects",
    "score": 4,
@@ -137,12 +96,19 @@
    ]
   },
   {
-   "h": "/questions/hobby-supported-sandbox-for-image-decod-e68509ef",
-   "t": "Hobby: supported sandbox for image decoding — bubblewrap namespace permission denied",
-   "score": 4,
+   "h": "/questions/which-cdn-ip-ranges-front-the-railway-ed-bcdee2ec",
+   "t": "Which CDN IP ranges front the Railway edge? (for trust proxy / rate limiting",
+   "score": 2,
    "notes": [
-    "竞争低",
-    "提问·配置型"
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/sear-xng-5fce5fe7",
+   "t": "searXNG",
+   "score": 2,
+   "notes": [
+    "竞争低"
    ]
   },
   {
@@ -194,22 +160,6 @@
    ]
   },
   {
-   "h": "/questions/problem-with-deployment-626204b1",
-   "t": "Problem with deployment",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/docker-image-digest-verification-48f24782",
-   "t": "Docker image digest verification",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
    "h": "/questions/runtime-v2-injecting-empty-variable-valu-4c0fb717",
    "t": "Runtime V2 injecting empty variable values into the deployment process $10 1 replies 3m by fantasycricketpros",
    "score": 1,
@@ -221,7 +171,7 @@
   },
   {
    "h": "/questions/heavy-packet-loss-between-asia-southeast-cab21ac9",
-   "t": "Heavy packet loss between asia-southeast1 (Metal) and one Los Angeles host (AS23470 via NTT) since 23 Sep $10 0 replies 3d by rishipatel185",
+   "t": "Heavy packet loss between asia-southeast1 (Metal) and one Los Angeles host (AS23470 via NTT) since 23 Sep $10 0 replies 4d by rishipatel185",
    "score": -1,
    "notes": [
     "陈旧",
@@ -235,6 +185,25 @@
    "notes": [
     "陈旧",
     "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/railway-production-tcp-timeout-to-bseind-0db2126d",
+   "t": "Railway production TCP timeout to bseindices.com:443 $10 1 replies 10d by iammeghana007-stack",
+   "score": -1,
+   "notes": [
+    "陈旧",
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/postgres-volume-i-o-stall-on-us-east4-eq-99dae057",
+   "t": "Postgres volume I/O stall on us-east4-eqdc4a — checkpoint sync 42.7s, factory statement timeouts (exact-aco production) $20 18 replies 11d by gustavo-paris",
+   "score": -2,
+   "notes": [
+    "陈旧",
+    "已18回复",
+    "提问·配置型"
    ]
   },
   {
@@ -364,16 +333,6 @@
    "notes": [
     "陈旧",
     "已4回复",
-    "⚠平台基建/已解"
-   ]
-  },
-  {
-   "h": "/questions/server-performance-issue-on-pro-plan-p-0aaac6e5",
-   "t": "Server Performance Issue on Pro Plan – Project B Not Responding / Login Failing $30 5 replies 7m by chaudharyali14",
-   "score": -8,
-   "notes": [
-    "陈旧",
-    "已5回复",
     "⚠平台基建/已解"
    ]
   }
