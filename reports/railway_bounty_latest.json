@@ -1,22 +1,22 @@
 {
- "at": "2026-09-28T05:53:43.147247+00:00",
+ "at": "2026-09-28T14:29:56.708672+00:00",
  "total": 30,
  "hot": [
   {
    "h": "/questions/successful-railway-deployment-keeps-publ-395eb120",
-   "t": "Successful Railway deployment keeps publishing GitHub deployment failure $10 2 replies 1d by peterheijen2026-glitch",
+   "t": "Successful Railway deployment keeps publishing GitHub deployment failure $10 2 replies 2d by peterheijen2026-glitch",
    "score": 4,
    "notes": [
-    "1天内",
+    "2天内",
     "竞争低"
    ]
   },
   {
    "h": "/questions/repeatable-python-wake-up-jitter-in-one-6c0fc546",
-   "t": "Repeatable Python wake-up jitter in one Singapore service after same-image restart $10 0 replies 1d by x4u20",
+   "t": "Repeatable Python wake-up jitter in one Singapore service after same-image restart $10 0 replies 2d by x4u20",
    "score": 4,
    "notes": [
-    "1天内",
+    "2天内",
     "竞争低"
    ]
   },
@@ -30,8 +30,8 @@
    ]
   },
   {
-   "h": "/questions/hobby-supported-sandbox-for-image-decod-e68509ef",
-   "t": "Hobby: supported sandbox for image decoding — bubblewrap namespace permission denied",
+   "h": "/questions/clarification-of-exact-commit-deployment-3943e02a",
+   "t": "Clarification of exact-commit deployment and rollback side effects",
    "score": 4,
    "notes": [
     "竞争低",
@@ -39,8 +39,8 @@
    ]
   },
   {
-   "h": "/questions/custom-domain-ssl-certificate-not-provis-8c16eb0e",
-   "t": "Custom domain SSL certificate not provisioning — www.kotelnikov-tutor.ru",
+   "h": "/questions/hobby-supported-sandbox-for-image-decod-e68509ef",
+   "t": "Hobby: supported sandbox for image decoding — bubblewrap namespace permission denied",
    "score": 4,
    "notes": [
     "竞争低",
@@ -50,72 +50,71 @@
  ],
  "new": [
   {
-   "h": "/questions/docker-image-digest-verification-48f24782",
-   "t": "Docker image digest verification",
+   "h": "/questions/clarification-of-exact-commit-deployment-3943e02a",
+   "t": "Clarification of exact-commit deployment and rollback side effects",
+   "score": 4,
+   "notes": [
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/give-my-agent-only-read-access-eg-to-lo-2be49517",
+   "t": "Give my agent only read access (eg to logs etc)",
    "score": 2,
    "notes": [
     "竞争低"
    ]
   },
   {
-   "h": "/questions/help-me-deploy-and-schedule-a-python-sel-b0841626",
-   "t": "Help me deploy and schedule a Python Selenium script with headless Chrome and proxy",
+   "h": "/questions/explicit-deploymentstop-under-always-re-afffa8de",
+   "t": "Explicit deploymentStop under ALWAYS: restart suppression, grace and replica termination",
    "score": 2,
    "notes": [
     "竞争低"
    ]
   },
   {
-   "h": "/questions/413-payload-too-large-when-uploading-fil-009fd27c",
-   "t": "413 Payload Too Large when uploading files from deployed frontend (works locally)",
+   "h": "/questions/https-response-header-timeouts-to-fred-f-77c3a411",
+   "t": "HTTPS response-header timeouts to FRED from Singapore region",
    "score": 2,
    "notes": [
     "竞争低"
    ]
   },
   {
-   "h": "/questions/syntaxerror-requested-module-does-not-p-be4b7bda",
-   "t": "SyntaxError: Requested module does not provide export named 'startworker' on Node.js deployment",
+   "h": "/questions/production-deployment-stuck-before-conta-21345f1d",
+   "t": "Production deployment stuck before container scheduling",
    "score": 2,
    "notes": [
     "竞争低"
    ]
   },
   {
-   "h": "/questions/problem-with-deployment-626204b1",
-   "t": "Problem with deployment",
+   "h": "/questions/outbound-tcp-22-times-out-from-verified-4345cd6a",
+   "t": "Outbound TCP 22 times out from verified trial service in us-west2",
    "score": 2,
    "notes": [
     "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/server-performance-issue-on-pro-plan-p-0aaac6e5",
-   "t": "Server Performance Issue on Pro Plan – Project B Not Responding / Login Failing $30 5 replies 7m by chaudharyali14",
-   "score": -8,
-   "notes": [
-    "陈旧",
-    "已5回复",
-    "⚠平台基建/已解"
    ]
   }
  ],
  "all": [
   {
    "h": "/questions/successful-railway-deployment-keeps-publ-395eb120",
-   "t": "Successful Railway deployment keeps publishing GitHub deployment failure $10 2 replies 1d by peterheijen2026-glitch",
+   "t": "Successful Railway deployment keeps publishing GitHub deployment failure $10 2 replies 2d by peterheijen2026-glitch",
    "score": 4,
    "notes": [
-    "1天内",
+    "2天内",
     "竞争低"
    ]
   },
   {
    "h": "/questions/repeatable-python-wake-up-jitter-in-one-6c0fc546",
-   "t": "Repeatable Python wake-up jitter in one Singapore service after same-image restart $10 0 replies 1d by x4u20",
+   "t": "Repeatable Python wake-up jitter in one Singapore service after same-image restart $10 0 replies 2d by x4u20",
    "score": 4,
    "notes": [
-    "1天内",
+    "2天内",
     "竞争低"
    ]
   },
@@ -129,6 +128,15 @@
    ]
   },
   {
+   "h": "/questions/clarification-of-exact-commit-deployment-3943e02a",
+   "t": "Clarification of exact-commit deployment and rollback side effects",
+   "score": 4,
+   "notes": [
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
+  {
    "h": "/questions/hobby-supported-sandbox-for-image-decod-e68509ef",
    "t": "Hobby: supported sandbox for image decoding — bubblewrap namespace permission denied",
    "score": 4,
@@ -138,49 +146,48 @@
    ]
   },
   {
-   "h": "/questions/custom-domain-ssl-certificate-not-provis-8c16eb0e",
-   "t": "Custom domain SSL certificate not provisioning — www.kotelnikov-tutor.ru",
-   "score": 4,
-   "notes": [
-    "竞争低",
-    "提问·配置型"
-   ]
-  },
-  {
-   "h": "/questions/docker-image-digest-verification-48f24782",
-   "t": "Docker image digest verification",
+   "h": "/questions/give-my-agent-only-read-access-eg-to-lo-2be49517",
+   "t": "Give my agent only read access (eg to logs etc)",
    "score": 2,
    "notes": [
     "竞争低"
    ]
   },
   {
-   "h": "/questions/help-me-deploy-and-schedule-a-python-sel-b0841626",
-   "t": "Help me deploy and schedule a Python Selenium script with headless Chrome and proxy",
+   "h": "/questions/explicit-deploymentstop-under-always-re-afffa8de",
+   "t": "Explicit deploymentStop under ALWAYS: restart suppression, grace and replica termination",
    "score": 2,
    "notes": [
     "竞争低"
    ]
   },
   {
-   "h": "/questions/413-payload-too-large-when-uploading-fil-009fd27c",
-   "t": "413 Payload Too Large when uploading files from deployed frontend (works locally)",
+   "h": "/questions/https-response-header-timeouts-to-fred-f-77c3a411",
+   "t": "HTTPS response-header timeouts to FRED from Singapore region",
    "score": 2,
    "notes": [
     "竞争低"
    ]
   },
   {
-   "h": "/questions/syntaxerror-requested-module-does-not-p-be4b7bda",
-   "t": "SyntaxError: Requested module does not provide export named 'startworker' on Node.js deployment",
+   "h": "/questions/pre-deploy-fails-image-could-not-be-pul-401fdfb0",
+   "t": "Pre-deploy fails: image could not be pulled from the registry, even when redeploying a past success",
    "score": 2,
    "notes": [
     "竞争低"
    ]
   },
   {
-   "h": "/questions/expect-100-continue-hangs-at-the-edge-5d94720a",
-   "t": "Expect: 100-continue hangs at the edge (project pacific-vision / tienda)",
+   "h": "/questions/production-deployment-stuck-before-conta-21345f1d",
+   "t": "Production deployment stuck before container scheduling",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/outbound-tcp-22-times-out-from-verified-4345cd6a",
+   "t": "Outbound TCP 22 times out from verified trial service in us-west2",
    "score": 2,
    "notes": [
     "竞争低"
@@ -195,16 +202,8 @@
    ]
   },
   {
-   "h": "/questions/public-domain-returns-fallback-404-despi-698a835f",
-   "t": "Public domain returns fallback 404 despite healthy deployment",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/pre-deploy-fails-image-could-not-be-pul-401fdfb0",
-   "t": "Pre-deploy fails: image could not be pulled from the registry, even when redeploying a past success",
+   "h": "/questions/docker-image-digest-verification-48f24782",
+   "t": "Docker image digest verification",
    "score": 2,
    "notes": [
     "竞争低"
@@ -280,7 +279,7 @@
   },
   {
    "h": "/questions/production-outage-severe-disk-i-o-degr-daacb0c4",
-   "t": "Production outage — severe disk I/O degradation on Postgres volume (DB up but unusable) $20 2 replies 2m by contas-ginga",
+   "t": "Production outage — severe disk I/O degradation on Postgres volume (DB up but unusable) $20 2 replies 3m by contas-ginga",
    "score": -5,
    "notes": [
     "陈旧",
