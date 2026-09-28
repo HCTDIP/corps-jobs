@@ -1,26 +1,7 @@
 {
- "at": "2026-09-27T23:59:07.409582+00:00",
- "total": 29,
+ "at": "2026-09-28T05:53:43.147247+00:00",
+ "total": 30,
  "hot": [
-  {
-   "h": "/questions/hobby-supported-sandbox-for-image-decod-e68509ef",
-   "t": "Hobby: supported sandbox for image decoding — bubblewrap namespace permission denied $10 0 replies 5h by cristioca",
-   "score": 7,
-   "notes": [
-    "数小时内",
-    "竞争低",
-    "提问·配置型"
-   ]
-  },
-  {
-   "h": "/questions/error-405-0b86438c",
-   "t": "error 405 $10 0 replies 18h by rafaelcomerciodigital4-alt",
-   "score": 5,
-   "notes": [
-    "数小时内",
-    "竞争低"
-   ]
-  },
   {
    "h": "/questions/successful-railway-deployment-keeps-publ-395eb120",
    "t": "Successful Railway deployment keeps publishing GitHub deployment failure $10 2 replies 1d by peterheijen2026-glitch",
@@ -37,6 +18,24 @@
    "notes": [
     "1天内",
     "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/error-405-0b86438c",
+   "t": "error 405 $10 0 replies 1d by rafaelcomerciodigital4-alt",
+   "score": 4,
+   "notes": [
+    "1天内",
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/hobby-supported-sandbox-for-image-decod-e68509ef",
+   "t": "Hobby: supported sandbox for image decoding — bubblewrap namespace permission denied",
+   "score": 4,
+   "notes": [
+    "竞争低",
+    "提问·配置型"
    ]
   },
   {
@@ -49,27 +48,59 @@
    ]
   }
  ],
- "new": [],
- "all": [
+ "new": [
   {
-   "h": "/questions/hobby-supported-sandbox-for-image-decod-e68509ef",
-   "t": "Hobby: supported sandbox for image decoding — bubblewrap namespace permission denied $10 0 replies 5h by cristioca",
-   "score": 7,
+   "h": "/questions/docker-image-digest-verification-48f24782",
+   "t": "Docker image digest verification",
+   "score": 2,
    "notes": [
-    "数小时内",
-    "竞争低",
-    "提问·配置型"
-   ]
-  },
-  {
-   "h": "/questions/error-405-0b86438c",
-   "t": "error 405 $10 0 replies 18h by rafaelcomerciodigital4-alt",
-   "score": 5,
-   "notes": [
-    "数小时内",
     "竞争低"
    ]
   },
+  {
+   "h": "/questions/help-me-deploy-and-schedule-a-python-sel-b0841626",
+   "t": "Help me deploy and schedule a Python Selenium script with headless Chrome and proxy",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/413-payload-too-large-when-uploading-fil-009fd27c",
+   "t": "413 Payload Too Large when uploading files from deployed frontend (works locally)",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/syntaxerror-requested-module-does-not-p-be4b7bda",
+   "t": "SyntaxError: Requested module does not provide export named 'startworker' on Node.js deployment",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/problem-with-deployment-626204b1",
+   "t": "Problem with deployment",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/server-performance-issue-on-pro-plan-p-0aaac6e5",
+   "t": "Server Performance Issue on Pro Plan – Project B Not Responding / Login Failing $30 5 replies 7m by chaudharyali14",
+   "score": -8,
+   "notes": [
+    "陈旧",
+    "已5回复",
+    "⚠平台基建/已解"
+   ]
+  }
+ ],
+ "all": [
   {
    "h": "/questions/successful-railway-deployment-keeps-publ-395eb120",
    "t": "Successful Railway deployment keeps publishing GitHub deployment failure $10 2 replies 1d by peterheijen2026-glitch",
@@ -89,6 +120,24 @@
    ]
   },
   {
+   "h": "/questions/error-405-0b86438c",
+   "t": "error 405 $10 0 replies 1d by rafaelcomerciodigital4-alt",
+   "score": 4,
+   "notes": [
+    "1天内",
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/hobby-supported-sandbox-for-image-decod-e68509ef",
+   "t": "Hobby: supported sandbox for image decoding — bubblewrap namespace permission denied",
+   "score": 4,
+   "notes": [
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
+  {
    "h": "/questions/custom-domain-ssl-certificate-not-provis-8c16eb0e",
    "t": "Custom domain SSL certificate not provisioning — www.kotelnikov-tutor.ru",
    "score": 4,
@@ -98,40 +147,32 @@
    ]
   },
   {
-   "h": "/questions/public-domain-returns-fallback-404-despi-698a835f",
-   "t": "Public domain returns fallback 404 despite healthy deployment",
+   "h": "/questions/docker-image-digest-verification-48f24782",
+   "t": "Docker image digest verification",
    "score": 2,
    "notes": [
     "竞争低"
    ]
   },
   {
-   "h": "/questions/pre-deploy-fails-image-could-not-be-pul-401fdfb0",
-   "t": "Pre-deploy fails: image could not be pulled from the registry, even when redeploying a past success",
+   "h": "/questions/help-me-deploy-and-schedule-a-python-sel-b0841626",
+   "t": "Help me deploy and schedule a Python Selenium script with headless Chrome and proxy",
    "score": 2,
    "notes": [
     "竞争低"
    ]
   },
   {
-   "h": "/questions/ssh-sftp-access-plane-failures-on-health-7fdb0acb",
-   "t": "SSH/SFTP access-plane failures on healthy production service",
+   "h": "/questions/413-payload-too-large-when-uploading-fil-009fd27c",
+   "t": "413 Payload Too Large when uploading files from deployed frontend (works locally)",
    "score": 2,
    "notes": [
     "竞争低"
    ]
   },
   {
-   "h": "/questions/explicit-deploymentstop-under-always-re-afffa8de",
-   "t": "Explicit deploymentStop under ALWAYS: restart suppression, grace and replica termination",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/https-response-header-timeouts-to-fred-f-77c3a411",
-   "t": "HTTPS response-header timeouts to FRED from Singapore region",
+   "h": "/questions/syntaxerror-requested-module-does-not-p-be4b7bda",
+   "t": "SyntaxError: Requested module does not provide export named 'startworker' on Node.js deployment",
    "score": 2,
    "notes": [
     "竞争低"
@@ -146,8 +187,24 @@
    ]
   },
   {
-   "h": "/questions/railway-build-failure-tracked-modules-u-81a36ac2",
-   "t": "Railway build failure: tracked modules unresolved after previously successful deployment",
+   "h": "/questions/problem-with-deployment-626204b1",
+   "t": "Problem with deployment",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/public-domain-returns-fallback-404-despi-698a835f",
+   "t": "Public domain returns fallback 404 despite healthy deployment",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/pre-deploy-fails-image-could-not-be-pul-401fdfb0",
+   "t": "Pre-deploy fails: image could not be pulled from the registry, even when redeploying a past success",
    "score": 2,
    "notes": [
     "竞争低"
@@ -174,20 +231,11 @@
   },
   {
    "h": "/questions/deploy-failure-6bb88dbe",
-   "t": "Deploy failure $10 1 replies 3d by hosikjosik",
+   "t": "Deploy failure $10 1 replies 4d by hosikjosik",
    "score": -1,
    "notes": [
     "陈旧",
     "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/ha-mysql-haproxy-adds-10-ms-query-lat-5f68c49c",
-   "t": "HA MySQL — HAProxy adds ~10 ms/query latency in-region (vs ~3 ms direct to node)",
-   "score": -2,
-   "notes": [
-    "竞争低",
-    "⚠平台基建/已解"
    ]
   },
   {
@@ -317,6 +365,16 @@
    "notes": [
     "陈旧",
     "已4回复",
+    "⚠平台基建/已解"
+   ]
+  },
+  {
+   "h": "/questions/server-performance-issue-on-pro-plan-p-0aaac6e5",
+   "t": "Server Performance Issue on Pro Plan – Project B Not Responding / Login Failing $30 5 replies 7m by chaudharyali14",
+   "score": -8,
+   "notes": [
+    "陈旧",
+    "已5回复",
     "⚠平台基建/已解"
    ]
   }
