@@ -1,14 +1,14 @@
 {
- "at": "2026-09-29T01:17:00.419793+00:00",
+ "at": "2026-09-29T10:09:06.938600+00:00",
  "total": 29,
  "hot": [
   {
-   "h": "/questions/successful-railway-deployment-keeps-publ-395eb120",
-   "t": "Successful Railway deployment keeps publishing GitHub deployment failure $10 2 replies 2d by peterheijen2026-glitch",
+   "h": "/questions/multiple-production-deployments-crashing-2ff80d83",
+   "t": "Multiple production deployments crashing – please investigate project/account configuration",
    "score": 4,
    "notes": [
-    "2天内",
-    "竞争低"
+    "竞争低",
+    "提问·配置型"
    ]
   },
   {
@@ -23,24 +23,33 @@
  ],
  "new": [
   {
-   "h": "/questions/server-performance-issue-on-pro-plan-p-0aaac6e5",
-   "t": "Server Performance Issue on Pro Plan – Project B Not Responding / Login Failing $30 5 replies 7m by chaudharyali14",
-   "score": -8,
+   "h": "/questions/multiple-production-deployments-crashing-2ff80d83",
+   "t": "Multiple production deployments crashing – please investigate project/account configuration",
+   "score": 4,
+   "notes": [
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/sudden-dns-issue-0f13d660",
+   "t": "Sudden DNS issue on production system $20 2 replies 7m by upd",
+   "score": -5,
    "notes": [
     "陈旧",
-    "已5回复",
+    "竞争低",
     "⚠平台基建/已解"
    ]
   }
  ],
  "all": [
   {
-   "h": "/questions/successful-railway-deployment-keeps-publ-395eb120",
-   "t": "Successful Railway deployment keeps publishing GitHub deployment failure $10 2 replies 2d by peterheijen2026-glitch",
+   "h": "/questions/multiple-production-deployments-crashing-2ff80d83",
+   "t": "Multiple production deployments crashing – please investigate project/account configuration",
    "score": 4,
    "notes": [
-    "2天内",
-    "竞争低"
+    "竞争低",
+    "提问·配置型"
    ]
   },
   {
@@ -50,6 +59,14 @@
    "notes": [
     "竞争低",
     "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/heavy-packet-loss-between-asia-southeast-cab21ac9",
+   "t": "Heavy packet loss between asia-southeast1 (Metal) and one Los Angeles host (AS23470 via NTT) since 23 Sep",
+   "score": 2,
+   "notes": [
+    "竞争低"
    ]
   },
   {
@@ -101,22 +118,6 @@
    ]
   },
   {
-   "h": "/questions/pre-deploy-fails-image-could-not-be-pul-401fdfb0",
-   "t": "Pre-deploy fails: image could not be pulled from the registry, even when redeploying a past success",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/production-deployment-stuck-before-conta-21345f1d",
-   "t": "Production deployment stuck before container scheduling",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
    "h": "/questions/runtime-v2-injecting-empty-variable-valu-4c0fb717",
    "t": "Runtime V2 injecting empty variable values into the deployment process $10 1 replies 3m by fantasycricketpros",
    "score": 1,
@@ -127,8 +128,8 @@
    ]
   },
   {
-   "h": "/questions/heavy-packet-loss-between-asia-southeast-cab21ac9",
-   "t": "Heavy packet loss between asia-southeast1 (Metal) and one Los Angeles host (AS23470 via NTT) since 23 Sep $10 0 replies 4d by rishipatel185",
+   "h": "/questions/successful-railway-deployment-keeps-publ-395eb120",
+   "t": "Successful Railway deployment keeps publishing GitHub deployment failure $10 2 replies 3d by peterheijen2026-glitch",
    "score": -1,
    "notes": [
     "陈旧",
@@ -137,7 +138,7 @@
   },
   {
    "h": "/questions/deploy-failure-6bb88dbe",
-   "t": "Deploy failure $10 1 replies 4d by hosikjosik",
+   "t": "Deploy failure $10 1 replies 5d by hosikjosik",
    "score": -1,
    "notes": [
     "陈旧",
@@ -146,7 +147,7 @@
   },
   {
    "h": "/questions/railway-production-tcp-timeout-to-bseind-0db2126d",
-   "t": "Railway production TCP timeout to bseindices.com:443 $10 1 replies 10d by iammeghana007-stack",
+   "t": "Railway production TCP timeout to bseindices.com:443 $10 1 replies 11d by iammeghana007-stack",
    "score": -1,
    "notes": [
     "陈旧",
@@ -155,7 +156,7 @@
   },
   {
    "h": "/questions/postgres-volume-i-o-stall-on-us-east4-eq-99dae057",
-   "t": "Postgres volume I/O stall on us-east4-eqdc4a — checkpoint sync 42.7s, factory statement timeouts (exact-aco production) $20 18 replies 11d by gustavo-paris",
+   "t": "Postgres volume I/O stall on us-east4-eqdc4a — checkpoint sync 42.7s, factory statement timeouts (exact-aco production) $20 18 replies 12d by gustavo-paris",
    "score": -2,
    "notes": [
     "陈旧",
@@ -266,6 +267,16 @@
   {
    "h": "/questions/domain-problem-74757b03",
    "t": "Domain problem $10 2 replies 7m by julianbessone",
+   "score": -5,
+   "notes": [
+    "陈旧",
+    "竞争低",
+    "⚠平台基建/已解"
+   ]
+  },
+  {
+   "h": "/questions/sudden-dns-issue-0f13d660",
+   "t": "Sudden DNS issue on production system $20 2 replies 7m by upd",
    "score": -5,
    "notes": [
     "陈旧",
