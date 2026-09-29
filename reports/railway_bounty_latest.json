@@ -1,37 +1,28 @@
 {
- "at": "2026-09-29T18:16:08.317006+00:00",
+ "at": "2026-09-29T22:37:36.597795+00:00",
  "total": 29,
  "hot": [
   {
+   "h": "/questions/outbound-egress-from-railway-receives-cl-db7c336d",
+   "t": "Outbound egress from Railway receives Cloudflare challenge while same application works from residential network $10 0 replies 3h by vndpmr-bot",
+   "score": 5,
+   "notes": [
+    "数小时内",
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/python-dlopen-can-t-load-a-shared-libr-04a5b2a6",
+   "t": "Python dlopen() can't load a shared library that's on disk, cached by ldconfig, and on LD_LIBRARY_PATH",
+   "score": 4,
+   "notes": [
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
+  {
    "h": "/questions/which-client-address-headers-does-the-ra-fb9e36d7",
    "t": "Which client-address headers does the Railway edge set, and are caller copies replaced?",
-   "score": 4,
-   "notes": [
-    "竞争低",
-    "提问·配置型"
-   ]
-  },
-  {
-   "h": "/questions/every-project-token-is-rejected-immediat-bea01555",
-   "t": "Every project token is rejected immediately.",
-   "score": 4,
-   "notes": [
-    "竞争低",
-    "提问·配置型"
-   ]
-  },
-  {
-   "h": "/questions/multiple-production-deployments-crashing-2ff80d83",
-   "t": "Multiple production deployments crashing – please investigate project/account configuration",
-   "score": 4,
-   "notes": [
-    "竞争低",
-    "提问·配置型"
-   ]
-  },
-  {
-   "h": "/questions/clarification-of-exact-commit-deployment-3943e02a",
-   "t": "Clarification of exact-commit deployment and rollback side effects",
    "score": 4,
    "notes": [
     "竞争低",
@@ -41,61 +32,41 @@
  ],
  "new": [
   {
-   "h": "/questions/which-client-address-headers-does-the-ra-fb9e36d7",
-   "t": "Which client-address headers does the Railway edge set, and are caller copies replaced?",
-   "score": 4,
+   "h": "/questions/outbound-egress-from-railway-receives-cl-db7c336d",
+   "t": "Outbound egress from Railway receives Cloudflare challenge while same application works from residential network $10 0 replies 3h by vndpmr-bot",
+   "score": 5,
    "notes": [
-    "竞争低",
-    "提问·配置型"
+    "数小时内",
+    "竞争低"
    ]
   },
   {
-   "h": "/questions/every-project-token-is-rejected-immediat-bea01555",
-   "t": "Every project token is rejected immediately.",
-   "score": 4,
-   "notes": [
-    "竞争低",
-    "提问·配置型"
-   ]
-  },
-  {
-   "h": "/questions/automatically-updating-private-docker-im-505a4c1c",
-   "t": "Automatically updating private docker images never works",
+   "h": "/questions/can-t-reconnect-github-after-railway-ser-2b6ef270",
+   "t": "Can't reconnect GitHub after Railway service transfer: account linked to different GitHub account",
    "score": 2,
    "notes": [
     "竞争低"
    ]
   },
   {
-   "h": "/questions/is-it-possible-to-force-actual-password-04c1dbe0",
-   "t": "Is it possible to force actual password validation in Postgres?",
+   "h": "/questions/deployment-id-dd0b0575-0220-4a90-bad6-4b9cabf3",
+   "t": "Deployment ID: [dd0b0575-0220-4a90-bad6-e189eb09b7fc]",
    "score": 2,
    "notes": [
     "竞争低"
    ]
   },
   {
-   "h": "/questions/python-dlopen-can-t-load-a-shared-libr-04a5b2a6",
-   "t": "Python dlopen() can't load a shared library that's on disk, cached by ldconfig, and on LD_LIBRARY_PATH $10 0 replies 30m by ajayd",
-   "score": 1,
+   "h": "/questions/custom-domain-returns-404-application-n-002148c4",
+   "t": "Custom domain returns 404 \"Application not found\" (x-railway-fallback: true)",
+   "score": 2,
    "notes": [
-    "陈旧",
-    "竞争低",
-    "提问·配置型"
+    "竞争低"
    ]
   },
   {
-   "h": "/questions/problems-starting-to-use-setup-templat-7997184e",
-   "t": "Problems starting to use / setup template Deploy N8N (W/Workers).",
-   "score": -2,
-   "notes": [
-    "竞争低",
-    "⚠平台基建/已解"
-   ]
-  },
-  {
-   "h": "/questions/wekan-mongo-db-template-502-bad-gateway-020523fb",
-   "t": "Wekan+MongoDB template - 502 bad gateway",
+   "h": "/questions/confirm-native-transfer-charges-for-volu-41d8367d",
+   "t": "Confirm native transfer charges for volume backup restores and cross-region move",
    "score": -2,
    "notes": [
     "竞争低",
@@ -105,6 +76,24 @@
  ],
  "all": [
   {
+   "h": "/questions/outbound-egress-from-railway-receives-cl-db7c336d",
+   "t": "Outbound egress from Railway receives Cloudflare challenge while same application works from residential network $10 0 replies 3h by vndpmr-bot",
+   "score": 5,
+   "notes": [
+    "数小时内",
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/python-dlopen-can-t-load-a-shared-libr-04a5b2a6",
+   "t": "Python dlopen() can't load a shared library that's on disk, cached by ldconfig, and on LD_LIBRARY_PATH",
+   "score": 4,
+   "notes": [
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
+  {
    "h": "/questions/which-client-address-headers-does-the-ra-fb9e36d7",
    "t": "Which client-address headers does the Railway edge set, and are caller copies replaced?",
    "score": 4,
@@ -114,30 +103,27 @@
    ]
   },
   {
-   "h": "/questions/every-project-token-is-rejected-immediat-bea01555",
-   "t": "Every project token is rejected immediately.",
-   "score": 4,
+   "h": "/questions/can-t-reconnect-github-after-railway-ser-2b6ef270",
+   "t": "Can't reconnect GitHub after Railway service transfer: account linked to different GitHub account",
+   "score": 2,
    "notes": [
-    "竞争低",
-    "提问·配置型"
+    "竞争低"
    ]
   },
   {
-   "h": "/questions/multiple-production-deployments-crashing-2ff80d83",
-   "t": "Multiple production deployments crashing – please investigate project/account configuration",
-   "score": 4,
+   "h": "/questions/deployment-id-dd0b0575-0220-4a90-bad6-4b9cabf3",
+   "t": "Deployment ID: [dd0b0575-0220-4a90-bad6-e189eb09b7fc]",
+   "score": 2,
    "notes": [
-    "竞争低",
-    "提问·配置型"
+    "竞争低"
    ]
   },
   {
-   "h": "/questions/clarification-of-exact-commit-deployment-3943e02a",
-   "t": "Clarification of exact-commit deployment and rollback side effects",
-   "score": 4,
+   "h": "/questions/custom-domain-returns-404-application-n-002148c4",
+   "t": "Custom domain returns 404 \"Application not found\" (x-railway-fallback: true)",
+   "score": 2,
    "notes": [
-    "竞争低",
-    "提问·配置型"
+    "竞争低"
    ]
   },
   {
@@ -154,24 +140,6 @@
    "score": 2,
    "notes": [
     "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/heavy-packet-loss-between-asia-southeast-cab21ac9",
-   "t": "Heavy packet loss between asia-southeast1 (Metal) and one Los Angeles host (AS23470 via NTT) since 23 Sep",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/python-dlopen-can-t-load-a-shared-libr-04a5b2a6",
-   "t": "Python dlopen() can't load a shared library that's on disk, cached by ldconfig, and on LD_LIBRARY_PATH $10 0 replies 30m by ajayd",
-   "score": 1,
-   "notes": [
-    "陈旧",
-    "竞争低",
-    "提问·配置型"
    ]
   },
   {
@@ -222,8 +190,8 @@
    ]
   },
   {
-   "h": "/questions/problems-starting-to-use-setup-templat-7997184e",
-   "t": "Problems starting to use / setup template Deploy N8N (W/Workers).",
+   "h": "/questions/confirm-native-transfer-charges-for-volu-41d8367d",
+   "t": "Confirm native transfer charges for volume backup restores and cross-region move",
    "score": -2,
    "notes": [
     "竞争低",
@@ -231,8 +199,8 @@
    ]
   },
   {
-   "h": "/questions/wekan-mongo-db-template-502-bad-gateway-020523fb",
-   "t": "Wekan+MongoDB template - 502 bad gateway",
+   "h": "/questions/problems-starting-to-use-setup-templat-7997184e",
+   "t": "Problems starting to use / setup template Deploy N8N (W/Workers).",
    "score": -2,
    "notes": [
     "竞争低",
