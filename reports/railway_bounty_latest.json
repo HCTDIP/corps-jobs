@@ -1,19 +1,10 @@
 {
- "at": "2026-09-28T21:23:48.164711+00:00",
+ "at": "2026-09-29T01:17:00.419793+00:00",
  "total": 29,
  "hot": [
   {
    "h": "/questions/successful-railway-deployment-keeps-publ-395eb120",
    "t": "Successful Railway deployment keeps publishing GitHub deployment failure $10 2 replies 2d by peterheijen2026-glitch",
-   "score": 4,
-   "notes": [
-    "2天内",
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/repeatable-python-wake-up-jitter-in-one-6c0fc546",
-   "t": "Repeatable Python wake-up jitter in one Singapore service after same-image restart $10 0 replies 2d by x4u20",
    "score": 4,
    "notes": [
     "2天内",
@@ -32,38 +23,13 @@
  ],
  "new": [
   {
-   "h": "/questions/which-cdn-ip-ranges-front-the-railway-ed-bcdee2ec",
-   "t": "Which CDN IP ranges front the Railway edge? (for trust proxy / rate limiting",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/sear-xng-5fce5fe7",
-   "t": "searXNG",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/railway-production-tcp-timeout-to-bseind-0db2126d",
-   "t": "Railway production TCP timeout to bseindices.com:443 $10 1 replies 10d by iammeghana007-stack",
-   "score": -1,
+   "h": "/questions/server-performance-issue-on-pro-plan-p-0aaac6e5",
+   "t": "Server Performance Issue on Pro Plan – Project B Not Responding / Login Failing $30 5 replies 7m by chaudharyali14",
+   "score": -8,
    "notes": [
     "陈旧",
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/postgres-volume-i-o-stall-on-us-east4-eq-99dae057",
-   "t": "Postgres volume I/O stall on us-east4-eqdc4a — checkpoint sync 42.7s, factory statement timeouts (exact-aco production) $20 18 replies 11d by gustavo-paris",
-   "score": -2,
-   "notes": [
-    "陈旧",
-    "已18回复",
-    "提问·配置型"
+    "已5回复",
+    "⚠平台基建/已解"
    ]
   }
  ],
@@ -78,21 +44,20 @@
    ]
   },
   {
-   "h": "/questions/repeatable-python-wake-up-jitter-in-one-6c0fc546",
-   "t": "Repeatable Python wake-up jitter in one Singapore service after same-image restart $10 0 replies 2d by x4u20",
-   "score": 4,
-   "notes": [
-    "2天内",
-    "竞争低"
-   ]
-  },
-  {
    "h": "/questions/clarification-of-exact-commit-deployment-3943e02a",
    "t": "Clarification of exact-commit deployment and rollback side effects",
    "score": 4,
    "notes": [
     "竞争低",
     "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/repeatable-python-wake-up-jitter-in-one-6c0fc546",
+   "t": "Repeatable Python wake-up jitter in one Singapore service after same-image restart",
+   "score": 2,
+   "notes": [
+    "竞争低"
    ]
   },
   {
@@ -146,14 +111,6 @@
   {
    "h": "/questions/production-deployment-stuck-before-conta-21345f1d",
    "t": "Production deployment stuck before container scheduling",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/outbound-tcp-22-times-out-from-verified-4345cd6a",
-   "t": "Outbound TCP 22 times out from verified trial service in us-west2",
    "score": 2,
    "notes": [
     "竞争低"
@@ -333,6 +290,16 @@
    "notes": [
     "陈旧",
     "已4回复",
+    "⚠平台基建/已解"
+   ]
+  },
+  {
+   "h": "/questions/server-performance-issue-on-pro-plan-p-0aaac6e5",
+   "t": "Server Performance Issue on Pro Plan – Project B Not Responding / Login Failing $30 5 replies 7m by chaudharyali14",
+   "score": -8,
+   "notes": [
+    "陈旧",
+    "已5回复",
     "⚠平台基建/已解"
    ]
   }
