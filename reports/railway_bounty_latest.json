@@ -1,7 +1,25 @@
 {
- "at": "2026-09-29T10:09:06.938600+00:00",
+ "at": "2026-09-29T18:16:08.317006+00:00",
  "total": 29,
  "hot": [
+  {
+   "h": "/questions/which-client-address-headers-does-the-ra-fb9e36d7",
+   "t": "Which client-address headers does the Railway edge set, and are caller copies replaced?",
+   "score": 4,
+   "notes": [
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/every-project-token-is-rejected-immediat-bea01555",
+   "t": "Every project token is rejected immediately.",
+   "score": 4,
+   "notes": [
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
   {
    "h": "/questions/multiple-production-deployments-crashing-2ff80d83",
    "t": "Multiple production deployments crashing – please investigate project/account configuration",
@@ -23,8 +41,8 @@
  ],
  "new": [
   {
-   "h": "/questions/multiple-production-deployments-crashing-2ff80d83",
-   "t": "Multiple production deployments crashing – please investigate project/account configuration",
+   "h": "/questions/which-client-address-headers-does-the-ra-fb9e36d7",
+   "t": "Which client-address headers does the Railway edge set, and are caller copies replaced?",
    "score": 4,
    "notes": [
     "竞争低",
@@ -32,17 +50,78 @@
    ]
   },
   {
-   "h": "/questions/sudden-dns-issue-0f13d660",
-   "t": "Sudden DNS issue on production system $20 2 replies 7m by upd",
-   "score": -5,
+   "h": "/questions/every-project-token-is-rejected-immediat-bea01555",
+   "t": "Every project token is rejected immediately.",
+   "score": 4,
+   "notes": [
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/automatically-updating-private-docker-im-505a4c1c",
+   "t": "Automatically updating private docker images never works",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/is-it-possible-to-force-actual-password-04c1dbe0",
+   "t": "Is it possible to force actual password validation in Postgres?",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/python-dlopen-can-t-load-a-shared-libr-04a5b2a6",
+   "t": "Python dlopen() can't load a shared library that's on disk, cached by ldconfig, and on LD_LIBRARY_PATH $10 0 replies 30m by ajayd",
+   "score": 1,
    "notes": [
     "陈旧",
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/problems-starting-to-use-setup-templat-7997184e",
+   "t": "Problems starting to use / setup template Deploy N8N (W/Workers).",
+   "score": -2,
+   "notes": [
+    "竞争低",
+    "⚠平台基建/已解"
+   ]
+  },
+  {
+   "h": "/questions/wekan-mongo-db-template-502-bad-gateway-020523fb",
+   "t": "Wekan+MongoDB template - 502 bad gateway",
+   "score": -2,
+   "notes": [
     "竞争低",
     "⚠平台基建/已解"
    ]
   }
  ],
  "all": [
+  {
+   "h": "/questions/which-client-address-headers-does-the-ra-fb9e36d7",
+   "t": "Which client-address headers does the Railway edge set, and are caller copies replaced?",
+   "score": 4,
+   "notes": [
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/every-project-token-is-rejected-immediat-bea01555",
+   "t": "Every project token is rejected immediately.",
+   "score": 4,
+   "notes": [
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
   {
    "h": "/questions/multiple-production-deployments-crashing-2ff80d83",
    "t": "Multiple production deployments crashing – please investigate project/account configuration",
@@ -62,6 +141,22 @@
    ]
   },
   {
+   "h": "/questions/automatically-updating-private-docker-im-505a4c1c",
+   "t": "Automatically updating private docker images never works",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/is-it-possible-to-force-actual-password-04c1dbe0",
+   "t": "Is it possible to force actual password validation in Postgres?",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
    "h": "/questions/heavy-packet-loss-between-asia-southeast-cab21ac9",
    "t": "Heavy packet loss between asia-southeast1 (Metal) and one Los Angeles host (AS23470 via NTT) since 23 Sep",
    "score": 2,
@@ -70,51 +165,13 @@
    ]
   },
   {
-   "h": "/questions/repeatable-python-wake-up-jitter-in-one-6c0fc546",
-   "t": "Repeatable Python wake-up jitter in one Singapore service after same-image restart",
-   "score": 2,
+   "h": "/questions/python-dlopen-can-t-load-a-shared-libr-04a5b2a6",
+   "t": "Python dlopen() can't load a shared library that's on disk, cached by ldconfig, and on LD_LIBRARY_PATH $10 0 replies 30m by ajayd",
+   "score": 1,
    "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/which-cdn-ip-ranges-front-the-railway-ed-bcdee2ec",
-   "t": "Which CDN IP ranges front the Railway edge? (for trust proxy / rate limiting",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/sear-xng-5fce5fe7",
-   "t": "searXNG",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/give-my-agent-only-read-access-eg-to-lo-2be49517",
-   "t": "Give my agent only read access (eg to logs etc)",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/explicit-deploymentstop-under-always-re-afffa8de",
-   "t": "Explicit deploymentStop under ALWAYS: restart suppression, grace and replica termination",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/https-response-header-timeouts-to-fred-f-77c3a411",
-   "t": "HTTPS response-header timeouts to FRED from Singapore region",
-   "score": 2,
-   "notes": [
-    "竞争低"
+    "陈旧",
+    "竞争低",
+    "提问·配置型"
    ]
   },
   {
@@ -162,6 +219,24 @@
     "陈旧",
     "已18回复",
     "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/problems-starting-to-use-setup-templat-7997184e",
+   "t": "Problems starting to use / setup template Deploy N8N (W/Workers).",
+   "score": -2,
+   "notes": [
+    "竞争低",
+    "⚠平台基建/已解"
+   ]
+  },
+  {
+   "h": "/questions/wekan-mongo-db-template-502-bad-gateway-020523fb",
+   "t": "Wekan+MongoDB template - 502 bad gateway",
+   "score": -2,
+   "notes": [
+    "竞争低",
+    "⚠平台基建/已解"
    ]
   },
   {
@@ -236,7 +311,7 @@
   },
   {
    "h": "/questions/project-steadfast-education-5ceae60c",
-   "t": "Project: steadfast-education $10 2 replies 5m by acs73traveler-creator",
+   "t": "Project: steadfast-education $10 2 replies 6m by acs73traveler-creator",
    "score": -5,
    "notes": [
     "陈旧",
@@ -267,16 +342,6 @@
   {
    "h": "/questions/domain-problem-74757b03",
    "t": "Domain problem $10 2 replies 7m by julianbessone",
-   "score": -5,
-   "notes": [
-    "陈旧",
-    "竞争低",
-    "⚠平台基建/已解"
-   ]
-  },
-  {
-   "h": "/questions/sudden-dns-issue-0f13d660",
-   "t": "Sudden DNS issue on production system $20 2 replies 7m by upd",
    "score": -5,
    "notes": [
     "陈旧",
