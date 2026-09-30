@@ -1,10 +1,10 @@
 {
- "at": "2026-09-30T05:59:23.295254+00:00",
- "total": 29,
+ "at": "2026-09-30T13:01:34.898589+00:00",
+ "total": 24,
  "hot": [
   {
-   "h": "/questions/outbound-egress-from-railway-receives-cl-db7c336d",
-   "t": "Outbound egress from Railway receives Cloudflare challenge while same application works from residential network $10 0 replies 10h by vndpmr-bot",
+   "h": "/questions/postgres-pitr-backups-cause-query-stalls-a2ce84a8",
+   "t": "Postgres PITR backups cause query stalls. Can we fix the time at 03:00 UTC? $20 2 replies 21h by tadast",
    "score": 5,
    "notes": [
     "数小时内",
@@ -12,12 +12,12 @@
    ]
   },
   {
-   "h": "/questions/discord-api-returns-long-html-429-from-p-de66581e",
-   "t": "Discord API returns long HTML 429 from production website service",
-   "score": 4,
+   "h": "/questions/outbound-egress-from-railway-receives-cl-db7c336d",
+   "t": "Outbound egress from Railway receives Cloudflare challenge while same application works from residential network $10 0 replies 17h by vndpmr-bot",
+   "score": 5,
    "notes": [
-    "竞争低",
-    "提问·配置型"
+    "数小时内",
+    "竞争低"
    ]
   },
   {
@@ -32,25 +32,35 @@
  ],
  "new": [
   {
-   "h": "/questions/discord-api-returns-long-html-429-from-p-de66581e",
-   "t": "Discord API returns long HTML 429 from production website service",
-   "score": 4,
+   "h": "/questions/postgres-pitr-backups-cause-query-stalls-a2ce84a8",
+   "t": "Postgres PITR backups cause query stalls. Can we fix the time at 03:00 UTC? $20 2 replies 21h by tadast",
+   "score": 5,
    "notes": [
-    "竞争低",
-    "提问·配置型"
+    "数小时内",
+    "竞争低"
    ]
   },
   {
-   "h": "/questions/safe-conversion-of-existing-image-backed-f2ebcaa2",
-   "t": "Safe conversion of existing image-backed service to GitHub source",
+   "h": "/questions/reclaim-postgres-memory-without-restarti-f1b45e1e",
+   "t": "Reclaim Postgres memory without restarting",
    "score": 2,
    "notes": [
     "竞争低"
    ]
   },
   {
-   "h": "/questions/subject-service-stuck-serving-stale-con-e09f77ed",
-   "t": "Subject: Service stuck serving stale content after \"slow/stuck deployments\" incident (YYTG8I10)",
+   "h": "/questions/configetag-meaning-and-a-secure-diagnost-7801e65e",
+   "t": "configEtag meaning and a secure diagnostic route for Hobby users $10 0 replies 25m by pearlcount",
+   "score": 1,
+   "notes": [
+    "陈旧",
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/how-to-set-up-multi-region-replica-with-0f082270",
+   "t": "How to set up Multi-Region Replica with MongoDB Atlas",
    "score": -2,
    "notes": [
     "竞争低",
@@ -60,8 +70,8 @@
  ],
  "all": [
   {
-   "h": "/questions/outbound-egress-from-railway-receives-cl-db7c336d",
-   "t": "Outbound egress from Railway receives Cloudflare challenge while same application works from residential network $10 0 replies 10h by vndpmr-bot",
+   "h": "/questions/postgres-pitr-backups-cause-query-stalls-a2ce84a8",
+   "t": "Postgres PITR backups cause query stalls. Can we fix the time at 03:00 UTC? $20 2 replies 21h by tadast",
    "score": 5,
    "notes": [
     "数小时内",
@@ -69,12 +79,12 @@
    ]
   },
   {
-   "h": "/questions/discord-api-returns-long-html-429-from-p-de66581e",
-   "t": "Discord API returns long HTML 429 from production website service",
-   "score": 4,
+   "h": "/questions/outbound-egress-from-railway-receives-cl-db7c336d",
+   "t": "Outbound egress from Railway receives Cloudflare challenge while same application works from residential network $10 0 replies 17h by vndpmr-bot",
+   "score": 5,
    "notes": [
-    "竞争低",
-    "提问·配置型"
+    "数小时内",
+    "竞争低"
    ]
   },
   {
@@ -87,6 +97,14 @@
    ]
   },
   {
+   "h": "/questions/reclaim-postgres-memory-without-restarti-f1b45e1e",
+   "t": "Reclaim Postgres memory without restarting",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
    "h": "/questions/safe-conversion-of-existing-image-backed-f2ebcaa2",
    "t": "Safe conversion of existing image-backed service to GitHub source",
    "score": 2,
@@ -95,35 +113,13 @@
    ]
   },
   {
-   "h": "/questions/can-t-reconnect-github-after-railway-ser-2b6ef270",
-   "t": "Can't reconnect GitHub after Railway service transfer: account linked to different GitHub account",
-   "score": 2,
+   "h": "/questions/configetag-meaning-and-a-secure-diagnost-7801e65e",
+   "t": "configEtag meaning and a secure diagnostic route for Hobby users $10 0 replies 25m by pearlcount",
+   "score": 1,
    "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/deployment-id-dd0b0575-0220-4a90-bad6-4b9cabf3",
-   "t": "Deployment ID: [dd0b0575-0220-4a90-bad6-e189eb09b7fc]",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/custom-domain-returns-404-application-n-002148c4",
-   "t": "Custom domain returns 404 \"Application not found\" (x-railway-fallback: true)",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/automatically-updating-private-docker-im-505a4c1c",
-   "t": "Automatically updating private docker images never works",
-   "score": 2,
-   "notes": [
-    "竞争低"
+    "陈旧",
+    "竞争低",
+    "提问·配置型"
    ]
   },
   {
@@ -138,7 +134,7 @@
   },
   {
    "h": "/questions/successful-railway-deployment-keeps-publ-395eb120",
-   "t": "Successful Railway deployment keeps publishing GitHub deployment failure $10 2 replies 3d by peterheijen2026-glitch",
+   "t": "Successful Railway deployment keeps publishing GitHub deployment failure $10 2 replies 4d by peterheijen2026-glitch",
    "score": -1,
    "notes": [
     "陈旧",
@@ -174,17 +170,8 @@
    ]
   },
   {
-   "h": "/questions/subject-service-stuck-serving-stale-con-e09f77ed",
-   "t": "Subject: Service stuck serving stale content after \"slow/stuck deployments\" incident (YYTG8I10)",
-   "score": -2,
-   "notes": [
-    "竞争低",
-    "⚠平台基建/已解"
-   ]
-  },
-  {
-   "h": "/questions/confirm-native-transfer-charges-for-volu-41d8367d",
-   "t": "Confirm native transfer charges for volume backup restores and cross-region move",
+   "h": "/questions/how-to-set-up-multi-region-replica-with-0f082270",
+   "t": "How to set up Multi-Region Replica with MongoDB Atlas",
    "score": -2,
    "notes": [
     "竞争低",
@@ -308,26 +295,6 @@
    "notes": [
     "陈旧",
     "已6回复",
-    "⚠平台基建/已解"
-   ]
-  },
-  {
-   "h": "/questions/mongo-db-connection-failed-since-12-feb-855f3581",
-   "t": "MongoDB connection failed since 12 Feb. $10 4 replies 7m by jingle",
-   "score": -8,
-   "notes": [
-    "陈旧",
-    "已4回复",
-    "⚠平台基建/已解"
-   ]
-  },
-  {
-   "h": "/questions/server-performance-issue-on-pro-plan-p-0aaac6e5",
-   "t": "Server Performance Issue on Pro Plan – Project B Not Responding / Login Failing $30 5 replies 7m by chaudharyali14",
-   "score": -8,
-   "notes": [
-    "陈旧",
-    "已5回复",
     "⚠平台基建/已解"
    ]
   }
