@@ -1,28 +1,19 @@
 {
- "at": "2026-09-30T13:01:34.898589+00:00",
- "total": 24,
+ "at": "2026-09-30T20:18:49.786110+00:00",
+ "total": 28,
  "hot": [
-  {
-   "h": "/questions/postgres-pitr-backups-cause-query-stalls-a2ce84a8",
-   "t": "Postgres PITR backups cause query stalls. Can we fix the time at 03:00 UTC? $20 2 replies 21h by tadast",
-   "score": 5,
-   "notes": [
-    "数小时内",
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/outbound-egress-from-railway-receives-cl-db7c336d",
-   "t": "Outbound egress from Railway receives Cloudflare challenge while same application works from residential network $10 0 replies 17h by vndpmr-bot",
-   "score": 5,
-   "notes": [
-    "数小时内",
-    "竞争低"
-   ]
-  },
   {
    "h": "/questions/python-dlopen-can-t-load-a-shared-libr-04a5b2a6",
    "t": "Python dlopen() can't load a shared library that's on disk, cached by ldconfig, and on LD_LIBRARY_PATH",
+   "score": 4,
+   "notes": [
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/configetag-meaning-and-a-secure-diagnost-7801e65e",
+   "t": "configEtag meaning and a secure diagnostic route for Hobby users",
    "score": 4,
    "notes": [
     "竞争低",
@@ -32,61 +23,62 @@
  ],
  "new": [
   {
-   "h": "/questions/postgres-pitr-backups-cause-query-stalls-a2ce84a8",
-   "t": "Postgres PITR backups cause query stalls. Can we fix the time at 03:00 UTC? $20 2 replies 21h by tadast",
-   "score": 5,
-   "notes": [
-    "数小时内",
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/reclaim-postgres-memory-without-restarti-f1b45e1e",
-   "t": "Reclaim Postgres memory without restarting",
+   "h": "/questions/public-graphql-deployment-statusupdateda-26aedfb8",
+   "t": "Public GraphQL Deployment.statusUpdatedAt semantics",
    "score": 2,
    "notes": [
     "竞争低"
    ]
   },
   {
-   "h": "/questions/configetag-meaning-and-a-secure-diagnost-7801e65e",
-   "t": "configEtag meaning and a secure diagnostic route for Hobby users $10 0 replies 25m by pearlcount",
-   "score": 1,
+   "h": "/questions/8-of-requests-to-asia-southeast1-servi-a765a38e",
+   "t": "~8% of requests to asia-southeast1 services get no response after TLS (edge sin1)",
+   "score": 2,
    "notes": [
-    "陈旧",
-    "竞争低",
-    "提问·配置型"
+    "竞争低"
    ]
   },
   {
-   "h": "/questions/how-to-set-up-multi-region-replica-with-0f082270",
-   "t": "How to set up Multi-Region Replica with MongoDB Atlas",
+   "h": "/questions/problems-starting-to-use-setup-templat-7997184e",
+   "t": "Problems starting to use / setup template Deploy N8N (W/Workers).",
    "score": -2,
    "notes": [
     "竞争低",
     "⚠平台基建/已解"
    ]
+  },
+  {
+   "h": "/questions/sudden-dns-issue-0f13d660",
+   "t": "Sudden DNS issue on production system $20 2 replies 7m by upd",
+   "score": -5,
+   "notes": [
+    "陈旧",
+    "竞争低",
+    "⚠平台基建/已解"
+   ]
+  },
+  {
+   "h": "/questions/mongo-db-connection-failed-since-12-feb-855f3581",
+   "t": "MongoDB connection failed since 12 Feb. $10 4 replies 7m by jingle",
+   "score": -8,
+   "notes": [
+    "陈旧",
+    "已4回复",
+    "⚠平台基建/已解"
+   ]
+  },
+  {
+   "h": "/questions/server-performance-issue-on-pro-plan-p-0aaac6e5",
+   "t": "Server Performance Issue on Pro Plan – Project B Not Responding / Login Failing $30 5 replies 7m by chaudharyali14",
+   "score": -8,
+   "notes": [
+    "陈旧",
+    "已5回复",
+    "⚠平台基建/已解"
+   ]
   }
  ],
  "all": [
-  {
-   "h": "/questions/postgres-pitr-backups-cause-query-stalls-a2ce84a8",
-   "t": "Postgres PITR backups cause query stalls. Can we fix the time at 03:00 UTC? $20 2 replies 21h by tadast",
-   "score": 5,
-   "notes": [
-    "数小时内",
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/outbound-egress-from-railway-receives-cl-db7c336d",
-   "t": "Outbound egress from Railway receives Cloudflare challenge while same application works from residential network $10 0 replies 17h by vndpmr-bot",
-   "score": 5,
-   "notes": [
-    "数小时内",
-    "竞争低"
-   ]
-  },
   {
    "h": "/questions/python-dlopen-can-t-load-a-shared-libr-04a5b2a6",
    "t": "Python dlopen() can't load a shared library that's on disk, cached by ldconfig, and on LD_LIBRARY_PATH",
@@ -97,29 +89,52 @@
    ]
   },
   {
+   "h": "/questions/configetag-meaning-and-a-secure-diagnost-7801e65e",
+   "t": "configEtag meaning and a secure diagnostic route for Hobby users",
+   "score": 4,
+   "notes": [
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/public-graphql-deployment-statusupdateda-26aedfb8",
+   "t": "Public GraphQL Deployment.statusUpdatedAt semantics",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/8-of-requests-to-asia-southeast1-servi-a765a38e",
+   "t": "~8% of requests to asia-southeast1 services get no response after TLS (edge sin1)",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/postgres-pitr-backups-cause-query-stalls-a2ce84a8",
+   "t": "Postgres PITR backups cause query stalls. Can we fix the time at 03:00 UTC?",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/outbound-egress-from-railway-receives-cl-db7c336d",
+   "t": "Outbound egress from Railway receives Cloudflare challenge while same application works from residential network",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
    "h": "/questions/reclaim-postgres-memory-without-restarti-f1b45e1e",
    "t": "Reclaim Postgres memory without restarting",
    "score": 2,
    "notes": [
     "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/safe-conversion-of-existing-image-backed-f2ebcaa2",
-   "t": "Safe conversion of existing image-backed service to GitHub source",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/configetag-meaning-and-a-secure-diagnost-7801e65e",
-   "t": "configEtag meaning and a secure diagnostic route for Hobby users $10 0 replies 25m by pearlcount",
-   "score": 1,
-   "notes": [
-    "陈旧",
-    "竞争低",
-    "提问·配置型"
    ]
   },
   {
@@ -170,8 +185,8 @@
    ]
   },
   {
-   "h": "/questions/how-to-set-up-multi-region-replica-with-0f082270",
-   "t": "How to set up Multi-Region Replica with MongoDB Atlas",
+   "h": "/questions/problems-starting-to-use-setup-templat-7997184e",
+   "t": "Problems starting to use / setup template Deploy N8N (W/Workers).",
    "score": -2,
    "notes": [
     "竞争低",
@@ -289,12 +304,42 @@
    ]
   },
   {
+   "h": "/questions/sudden-dns-issue-0f13d660",
+   "t": "Sudden DNS issue on production system $20 2 replies 7m by upd",
+   "score": -5,
+   "notes": [
+    "陈旧",
+    "竞争低",
+    "⚠平台基建/已解"
+   ]
+  },
+  {
    "h": "/questions/point-in-time-recovery-backup-restore-08522372",
    "t": "Point-in-time recovery / backup restore for a Postgres service — recover rows deleted from sessions / session_events $20 6 replies 4m by mcampolongo-rg",
    "score": -8,
    "notes": [
     "陈旧",
     "已6回复",
+    "⚠平台基建/已解"
+   ]
+  },
+  {
+   "h": "/questions/mongo-db-connection-failed-since-12-feb-855f3581",
+   "t": "MongoDB connection failed since 12 Feb. $10 4 replies 7m by jingle",
+   "score": -8,
+   "notes": [
+    "陈旧",
+    "已4回复",
+    "⚠平台基建/已解"
+   ]
+  },
+  {
+   "h": "/questions/server-performance-issue-on-pro-plan-p-0aaac6e5",
+   "t": "Server Performance Issue on Pro Plan – Project B Not Responding / Login Failing $30 5 replies 7m by chaudharyali14",
+   "score": -8,
+   "notes": [
+    "陈旧",
+    "已5回复",
     "⚠平台基建/已解"
    ]
   }
