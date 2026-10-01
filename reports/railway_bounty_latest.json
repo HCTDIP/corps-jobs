@@ -1,19 +1,29 @@
 {
- "at": "2026-10-01T00:50:58.102075+00:00",
- "total": 29,
+ "at": "2026-10-01T10:28:18.719899+00:00",
+ "total": 28,
  "hot": [
   {
-   "h": "/questions/python-dlopen-can-t-load-a-shared-libr-04a5b2a6",
-   "t": "Python dlopen() can't load a shared library that's on disk, cached by ldconfig, and on LD_LIBRARY_PATH",
-   "score": 4,
+   "h": "/questions/node-inspector-opened-and-attached-in-ap-7b53e5bf",
+   "t": "Node inspector opened and attached in api/worker without --inspect — is this a Railway feature? $10 0 replies 1h by niyexdroid",
+   "score": 7,
    "notes": [
+    "数小时内",
     "竞争低",
     "提问·配置型"
    ]
   },
   {
-   "h": "/questions/configetag-meaning-and-a-secure-diagnost-7801e65e",
-   "t": "configEtag meaning and a secure diagnostic route for Hobby users",
+   "h": "/questions/selective-outbound-tcp-443-timeouts-from-bad1a2a1",
+   "t": "Selective outbound TCP/443 timeouts from sfo — private investigation requested $20 0 replies 7h by omardys",
+   "score": 5,
+   "notes": [
+    "数小时内",
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/singapore-ingress-delays-widget-times-o-e6bc12f8",
+   "t": "Singapore ingress delays: widget times out at 10s before API receipt; matched 499s",
    "score": 4,
    "notes": [
     "竞争低",
@@ -23,19 +33,88 @@
  ],
  "new": [
   {
-   "h": "/questions/failed-to-fetch-snapshot-no-permanent-s-86cb97a6",
-   "t": "failed to fetch snapshot (no permanent solution yet, no redeploy option)",
+   "h": "/questions/node-inspector-opened-and-attached-in-ap-7b53e5bf",
+   "t": "Node inspector opened and attached in api/worker without --inspect — is this a Railway feature? $10 0 replies 1h by niyexdroid",
+   "score": 7,
+   "notes": [
+    "数小时内",
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/selective-outbound-tcp-443-timeouts-from-bad1a2a1",
+   "t": "Selective outbound TCP/443 timeouts from sfo — private investigation requested $20 0 replies 7h by omardys",
+   "score": 5,
+   "notes": [
+    "数小时内",
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/singapore-ingress-delays-widget-times-o-e6bc12f8",
+   "t": "Singapore ingress delays: widget times out at 10s before API receipt; matched 499s",
+   "score": 4,
+   "notes": [
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/telegram-bot-not-responding-502-bad-ga-eefc33c4",
+   "t": "Telegram bot not responding - 502 Bad Gateway",
    "score": 2,
    "notes": [
     "竞争低"
    ]
   },
   {
-   "h": "/questions/n8n-self-hosted-stopeed-working-2dbedbe7",
-   "t": "n8n self-hosted stopeed working $10 1 replies 7m by transformatiive",
-   "score": -5,
+   "h": "/questions/application-not-loading-913f316a",
+   "t": "Application not loading",
+   "score": 2,
    "notes": [
-    "陈旧",
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/edge-sin1-tls-handshake-10-28s-timeou-a72db32f",
+   "t": "Edge sin1: TLS handshake 10–28s / timeouts to *.up.railway.app — app responds in ~40ms",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/a-live-customer-application-facing-conne-27068655",
+   "t": "A live customer application facing connectivity issues at peak hours in Jakarta",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/production-app-and-railway-dashboard-bot-b5328281",
+   "t": "Production app and Railway dashboard both failing to load / timing out for users",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/high-latency-and-api-timeouts-from-banga-86704533",
+   "t": "High Latency and API Timeouts from Bangalore, India – Singapore Region",
+   "score": 0,
+   "notes": [
+    "竞争低",
+    "⚠平台基建/已解",
+    "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/deployments-fail-healthcheck-repeatedly-3513eae4",
+   "t": "Deployments fail healthcheck repeatedly, new container cannot reach DB",
+   "score": -2,
+   "notes": [
     "竞争低",
     "⚠平台基建/已解"
    ]
@@ -43,8 +122,27 @@
  ],
  "all": [
   {
-   "h": "/questions/python-dlopen-can-t-load-a-shared-libr-04a5b2a6",
-   "t": "Python dlopen() can't load a shared library that's on disk, cached by ldconfig, and on LD_LIBRARY_PATH",
+   "h": "/questions/node-inspector-opened-and-attached-in-ap-7b53e5bf",
+   "t": "Node inspector opened and attached in api/worker without --inspect — is this a Railway feature? $10 0 replies 1h by niyexdroid",
+   "score": 7,
+   "notes": [
+    "数小时内",
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/selective-outbound-tcp-443-timeouts-from-bad1a2a1",
+   "t": "Selective outbound TCP/443 timeouts from sfo — private investigation requested $20 0 replies 7h by omardys",
+   "score": 5,
+   "notes": [
+    "数小时内",
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/singapore-ingress-delays-widget-times-o-e6bc12f8",
+   "t": "Singapore ingress delays: widget times out at 10s before API receipt; matched 499s",
    "score": 4,
    "notes": [
     "竞争低",
@@ -52,57 +150,40 @@
    ]
   },
   {
-   "h": "/questions/configetag-meaning-and-a-secure-diagnost-7801e65e",
-   "t": "configEtag meaning and a secure diagnostic route for Hobby users",
-   "score": 4,
-   "notes": [
-    "竞争低",
-    "提问·配置型"
-   ]
-  },
-  {
-   "h": "/questions/failed-to-fetch-snapshot-no-permanent-s-86cb97a6",
-   "t": "failed to fetch snapshot (no permanent solution yet, no redeploy option)",
+   "h": "/questions/telegram-bot-not-responding-502-bad-ga-eefc33c4",
+   "t": "Telegram bot not responding - 502 Bad Gateway",
    "score": 2,
    "notes": [
     "竞争低"
    ]
   },
   {
-   "h": "/questions/successful-railway-deployment-keeps-publ-395eb120",
-   "t": "Successful Railway deployment keeps publishing GitHub deployment failure",
+   "h": "/questions/application-not-loading-913f316a",
+   "t": "Application not loading",
    "score": 2,
    "notes": [
     "竞争低"
    ]
   },
   {
-   "h": "/questions/public-graphql-deployment-statusupdateda-26aedfb8",
-   "t": "Public GraphQL Deployment.statusUpdatedAt semantics",
+   "h": "/questions/edge-sin1-tls-handshake-10-28s-timeou-a72db32f",
+   "t": "Edge sin1: TLS handshake 10–28s / timeouts to *.up.railway.app — app responds in ~40ms",
    "score": 2,
    "notes": [
     "竞争低"
    ]
   },
   {
-   "h": "/questions/8-of-requests-to-asia-southeast1-servi-a765a38e",
-   "t": "~8% of requests to asia-southeast1 services get no response after TLS (edge sin1)",
+   "h": "/questions/a-live-customer-application-facing-conne-27068655",
+   "t": "A live customer application facing connectivity issues at peak hours in Jakarta",
    "score": 2,
    "notes": [
     "竞争低"
    ]
   },
   {
-   "h": "/questions/postgres-pitr-backups-cause-query-stalls-a2ce84a8",
-   "t": "Postgres PITR backups cause query stalls. Can we fix the time at 03:00 UTC?",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/outbound-egress-from-railway-receives-cl-db7c336d",
-   "t": "Outbound egress from Railway receives Cloudflare challenge while same application works from residential network",
+   "h": "/questions/production-app-and-railway-dashboard-bot-b5328281",
+   "t": "Production app and Railway dashboard both failing to load / timing out for users",
    "score": 2,
    "notes": [
     "竞争低"
@@ -119,8 +200,18 @@
    ]
   },
   {
+   "h": "/questions/high-latency-and-api-timeouts-from-banga-86704533",
+   "t": "High Latency and API Timeouts from Bangalore, India – Singapore Region",
+   "score": 0,
+   "notes": [
+    "竞争低",
+    "⚠平台基建/已解",
+    "提问·配置型"
+   ]
+  },
+  {
    "h": "/questions/deploy-failure-6bb88dbe",
-   "t": "Deploy failure $10 1 replies 6d by hosikjosik",
+   "t": "Deploy failure $10 1 replies 7d by hosikjosik",
    "score": -1,
    "notes": [
     "陈旧",
@@ -129,7 +220,7 @@
   },
   {
    "h": "/questions/railway-production-tcp-timeout-to-bseind-0db2126d",
-   "t": "Railway production TCP timeout to bseindices.com:443 $10 1 replies 12d by iammeghana007-stack",
+   "t": "Railway production TCP timeout to bseindices.com:443 $10 1 replies 13d by iammeghana007-stack",
    "score": -1,
    "notes": [
     "陈旧",
@@ -138,7 +229,7 @@
   },
   {
    "h": "/questions/postgres-volume-i-o-stall-on-us-east4-eq-99dae057",
-   "t": "Postgres volume I/O stall on us-east4-eqdc4a — checkpoint sync 42.7s, factory statement timeouts (exact-aco production) $20 18 replies 13d by gustavo-paris",
+   "t": "Postgres volume I/O stall on us-east4-eqdc4a — checkpoint sync 42.7s, factory statement timeouts (exact-aco production) $20 18 replies 14d by gustavo-paris",
    "score": -2,
    "notes": [
     "陈旧",
@@ -147,8 +238,8 @@
    ]
   },
   {
-   "h": "/questions/problems-starting-to-use-setup-templat-7997184e",
-   "t": "Problems starting to use / setup template Deploy N8N (W/Workers).",
+   "h": "/questions/deployments-fail-healthcheck-repeatedly-3513eae4",
+   "t": "Deployments fail healthcheck repeatedly, new container cannot reach DB",
    "score": -2,
    "notes": [
     "竞争低",
@@ -258,26 +349,6 @@
   {
    "h": "/questions/domain-problem-74757b03",
    "t": "Domain problem $10 2 replies 7m by julianbessone",
-   "score": -5,
-   "notes": [
-    "陈旧",
-    "竞争低",
-    "⚠平台基建/已解"
-   ]
-  },
-  {
-   "h": "/questions/sudden-dns-issue-0f13d660",
-   "t": "Sudden DNS issue on production system $20 2 replies 7m by upd",
-   "score": -5,
-   "notes": [
-    "陈旧",
-    "竞争低",
-    "⚠平台基建/已解"
-   ]
-  },
-  {
-   "h": "/questions/n8n-self-hosted-stopeed-working-2dbedbe7",
-   "t": "n8n self-hosted stopeed working $10 1 replies 7m by transformatiive",
    "score": -5,
    "notes": [
     "陈旧",
