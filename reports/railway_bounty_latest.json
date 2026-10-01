@@ -1,10 +1,10 @@
 {
- "at": "2026-10-01T10:28:18.719899+00:00",
+ "at": "2026-10-01T18:35:55.429771+00:00",
  "total": 28,
  "hot": [
   {
-   "h": "/questions/node-inspector-opened-and-attached-in-ap-7b53e5bf",
-   "t": "Node inspector opened and attached in api/worker without --inspect — is this a Railway feature? $10 0 replies 1h by niyexdroid",
+   "h": "/questions/safe-sqlite-wal-backup-without-unverifia-bc58555f",
+   "t": "Safe SQLite WAL backup without unverifiable SSH host key $10 0 replies 2h by skyjsh0516-adel",
    "score": 7,
    "notes": [
     "数小时内",
@@ -14,11 +14,20 @@
   },
   {
    "h": "/questions/selective-outbound-tcp-443-timeouts-from-bad1a2a1",
-   "t": "Selective outbound TCP/443 timeouts from sfo — private investigation requested $20 0 replies 7h by omardys",
+   "t": "Selective outbound TCP/443 timeouts from sfo — private investigation requested $20 0 replies 15h by omardys",
    "score": 5,
    "notes": [
     "数小时内",
     "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/node-inspector-opened-and-attached-in-ap-7b53e5bf",
+   "t": "Node inspector opened and attached in api/worker without --inspect — is this a Railway feature?",
+   "score": 4,
+   "notes": [
+    "竞争低",
+    "提问·配置型"
    ]
   },
   {
@@ -33,8 +42,8 @@
  ],
  "new": [
   {
-   "h": "/questions/node-inspector-opened-and-attached-in-ap-7b53e5bf",
-   "t": "Node inspector opened and attached in api/worker without --inspect — is this a Railway feature? $10 0 replies 1h by niyexdroid",
+   "h": "/questions/safe-sqlite-wal-backup-without-unverifia-bc58555f",
+   "t": "Safe SQLite WAL backup without unverifiable SSH host key $10 0 replies 2h by skyjsh0516-adel",
    "score": 7,
    "notes": [
     "数小时内",
@@ -43,76 +52,40 @@
    ]
   },
   {
-   "h": "/questions/selective-outbound-tcp-443-timeouts-from-bad1a2a1",
-   "t": "Selective outbound TCP/443 timeouts from sfo — private investigation requested $20 0 replies 7h by omardys",
-   "score": 5,
-   "notes": [
-    "数小时内",
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/singapore-ingress-delays-widget-times-o-e6bc12f8",
-   "t": "Singapore ingress delays: widget times out at 10s before API receipt; matched 499s",
-   "score": 4,
-   "notes": [
-    "竞争低",
-    "提问·配置型"
-   ]
-  },
-  {
-   "h": "/questions/telegram-bot-not-responding-502-bad-ga-eefc33c4",
-   "t": "Telegram bot not responding - 502 Bad Gateway",
+   "h": "/questions/postgres-pitr-backups-cause-query-stalls-a2ce84a8",
+   "t": "Postgres PITR backups cause query stalls. Can we fix the time at 03:00 UTC?",
    "score": 2,
    "notes": [
     "竞争低"
    ]
   },
   {
-   "h": "/questions/application-not-loading-913f316a",
-   "t": "Application not loading",
+   "h": "/questions/lag-on-production-application-2de95e0a",
+   "t": "lag on production application",
    "score": 2,
    "notes": [
     "竞争低"
    ]
   },
   {
-   "h": "/questions/edge-sin1-tls-handshake-10-28s-timeou-a72db32f",
-   "t": "Edge sin1: TLS handshake 10–28s / timeouts to *.up.railway.app — app responds in ~40ms",
+   "h": "/questions/reclaim-postgres-memory-without-restarti-f1b45e1e",
+   "t": "Reclaim Postgres memory without restarting",
    "score": 2,
    "notes": [
     "竞争低"
    ]
   },
   {
-   "h": "/questions/a-live-customer-application-facing-conne-27068655",
-   "t": "A live customer application facing connectivity issues at peak hours in Jakarta",
+   "h": "/questions/failed-to-fetch-snapshot-no-permanent-s-86cb97a6",
+   "t": "failed to fetch snapshot (no permanent solution yet, no redeploy option)",
    "score": 2,
    "notes": [
     "竞争低"
    ]
   },
   {
-   "h": "/questions/production-app-and-railway-dashboard-bot-b5328281",
-   "t": "Production app and Railway dashboard both failing to load / timing out for users",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/high-latency-and-api-timeouts-from-banga-86704533",
-   "t": "High Latency and API Timeouts from Bangalore, India – Singapore Region",
-   "score": 0,
-   "notes": [
-    "竞争低",
-    "⚠平台基建/已解",
-    "提问·配置型"
-   ]
-  },
-  {
-   "h": "/questions/deployments-fail-healthcheck-repeatedly-3513eae4",
-   "t": "Deployments fail healthcheck repeatedly, new container cannot reach DB",
+   "h": "/questions/how-to-set-up-multi-region-replica-with-0f082270",
+   "t": "How to set up Multi-Region Replica with MongoDB Atlas",
    "score": -2,
    "notes": [
     "竞争低",
@@ -122,8 +95,8 @@
  ],
  "all": [
   {
-   "h": "/questions/node-inspector-opened-and-attached-in-ap-7b53e5bf",
-   "t": "Node inspector opened and attached in api/worker without --inspect — is this a Railway feature? $10 0 replies 1h by niyexdroid",
+   "h": "/questions/safe-sqlite-wal-backup-without-unverifia-bc58555f",
+   "t": "Safe SQLite WAL backup without unverifiable SSH host key $10 0 replies 2h by skyjsh0516-adel",
    "score": 7,
    "notes": [
     "数小时内",
@@ -133,11 +106,20 @@
   },
   {
    "h": "/questions/selective-outbound-tcp-443-timeouts-from-bad1a2a1",
-   "t": "Selective outbound TCP/443 timeouts from sfo — private investigation requested $20 0 replies 7h by omardys",
+   "t": "Selective outbound TCP/443 timeouts from sfo — private investigation requested $20 0 replies 15h by omardys",
    "score": 5,
    "notes": [
     "数小时内",
     "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/node-inspector-opened-and-attached-in-ap-7b53e5bf",
+   "t": "Node inspector opened and attached in api/worker without --inspect — is this a Railway feature?",
+   "score": 4,
+   "notes": [
+    "竞争低",
+    "提问·配置型"
    ]
   },
   {
@@ -150,22 +132,6 @@
    ]
   },
   {
-   "h": "/questions/telegram-bot-not-responding-502-bad-ga-eefc33c4",
-   "t": "Telegram bot not responding - 502 Bad Gateway",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/application-not-loading-913f316a",
-   "t": "Application not loading",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
    "h": "/questions/edge-sin1-tls-handshake-10-28s-timeou-a72db32f",
    "t": "Edge sin1: TLS handshake 10–28s / timeouts to *.up.railway.app — app responds in ~40ms",
    "score": 2,
@@ -174,19 +140,45 @@
    ]
   },
   {
-   "h": "/questions/a-live-customer-application-facing-conne-27068655",
-   "t": "A live customer application facing connectivity issues at peak hours in Jakarta",
+   "h": "/questions/postgres-pitr-backups-cause-query-stalls-a2ce84a8",
+   "t": "Postgres PITR backups cause query stalls. Can we fix the time at 03:00 UTC?",
    "score": 2,
    "notes": [
     "竞争低"
    ]
   },
   {
-   "h": "/questions/production-app-and-railway-dashboard-bot-b5328281",
-   "t": "Production app and Railway dashboard both failing to load / timing out for users",
+   "h": "/questions/lag-on-production-application-2de95e0a",
+   "t": "lag on production application",
    "score": 2,
    "notes": [
     "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/reclaim-postgres-memory-without-restarti-f1b45e1e",
+   "t": "Reclaim Postgres memory without restarting",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/failed-to-fetch-snapshot-no-permanent-s-86cb97a6",
+   "t": "failed to fetch snapshot (no permanent solution yet, no redeploy option)",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/deployments-fail-healthcheck-repeatedly-3513eae4",
+   "t": "Deployments fail healthcheck repeatedly, new container cannot reach DB $10 0 replies 10h by sales-auditor-backend",
+   "score": 1,
+   "notes": [
+    "数小时内",
+    "竞争低",
+    "⚠平台基建/已解"
    ]
   },
   {
@@ -196,16 +188,6 @@
    "notes": [
     "陈旧",
     "竞争低",
-    "提问·配置型"
-   ]
-  },
-  {
-   "h": "/questions/high-latency-and-api-timeouts-from-banga-86704533",
-   "t": "High Latency and API Timeouts from Bangalore, India – Singapore Region",
-   "score": 0,
-   "notes": [
-    "竞争低",
-    "⚠平台基建/已解",
     "提问·配置型"
    ]
   },
@@ -238,8 +220,8 @@
    ]
   },
   {
-   "h": "/questions/deployments-fail-healthcheck-repeatedly-3513eae4",
-   "t": "Deployments fail healthcheck repeatedly, new container cannot reach DB",
+   "h": "/questions/how-to-set-up-multi-region-replica-with-0f082270",
+   "t": "How to set up Multi-Region Replica with MongoDB Atlas",
    "score": -2,
    "notes": [
     "竞争低",
@@ -373,16 +355,6 @@
    "notes": [
     "陈旧",
     "已4回复",
-    "⚠平台基建/已解"
-   ]
-  },
-  {
-   "h": "/questions/server-performance-issue-on-pro-plan-p-0aaac6e5",
-   "t": "Server Performance Issue on Pro Plan – Project B Not Responding / Login Failing $30 5 replies 7m by chaudharyali14",
-   "score": -8,
-   "notes": [
-    "陈旧",
-    "已5回复",
     "⚠平台基建/已解"
    ]
   }
