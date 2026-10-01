@@ -1,7 +1,7 @@
 {
-  "at": "2026-09-30T21:42Z",
-  "runs": 22,
-  "open_total": 32,
+  "at": "2026-10-01T03:19Z",
+  "runs": 23,
+  "open_total": 31,
   "new_count": 0,
   "new_items": [],
   "global_candidates": [
@@ -10,20 +10,19 @@
     "$500    [  3 提交] 2026-10-14 | Make a Video: Season Zero, Pump the Pool 3 and Socia",
     "$300    [  5 提交] 2026-10-06 | Introduce Web3 Projects to Segmento",
     "$250    [  5 提交] 2026-10-14 | Climb Our Reader Leaderboard for Sep/Oct 2026",
-    "$150    [  6 提交] 2026-10-06 | Video Editing Challenge",
-    "$5500   [ 19 提交] 2026-10-01 | Hype Video for Breakpoint London",
-    "$5500   [ 26 提交] 2026-10-01 | Share Your Most Memorable Solana Breakpoint Moment o",
-    "$5500   [ 38 提交] 2026-10-01 | Breakpoint London Starter Pack",
+    "$150    [  7 提交] 2026-10-06 | Video Editing Challenge",
+    "$5500   [ 22 提交] 2026-10-01 | Hype Video for Breakpoint London",
+    "$5500   [ 27 提交] 2026-10-01 | Share Your Most Memorable Solana Breakpoint Moment o",
     "$350    [ 38 提交] 2026-10-17 | Try a Solana Project and Give Useful Feedback | Toke",
+    "$5500   [ 41 提交] 2026-10-01 | Breakpoint London Starter Pack",
     "$500    [ 56 提交] 2026-10-01 | Steve Agent Arena: Launch Your Agent & Win 500 USDC",
-    "$5500   [ 60 提交] 2026-10-01 | Explain Market Tokenization in Your Country",
-    "$5500   [ 62 提交] 2026-10-01 | Show Tokenization in 2050 via X Post, Thread, or Sho",
-    "$5500   [ 69 提交] 2026-10-01 | Explain Tokenization Supercycle for an Asset Categor",
-    "$5002   [128 提交] 2026-09-30 | Create a Short Video Explainer for Hisa: $5000 up fo",
+    "$5500   [ 64 提交] 2026-10-01 | Explain Market Tokenization in Your Country",
+    "$5500   [ 65 提交] 2026-10-01 | Show Tokenization in 2050 via X Post, Thread, or Sho",
+    "$5500   [ 74 提交] 2026-10-01 | Explain Tokenization Supercycle for an Asset Categor",
     "$500    [181 提交] 2026-10-07 | Build and Demo a Mermail Agent Skill",
-    "$500    [197 提交] 2026-10-09 | Create twitter Post about the STREAM burn",
-    "$300    [214 提交] 2026-10-01 | Create X Thread About Moony Tips With Flipcash",
-    "$500    [448 提交] 2026-10-02 | Create a post about Stealf"
+    "$500    [202 提交] 2026-10-09 | Create twitter Post about the STREAM burn",
+    "$300    [221 提交] 2026-10-01 | Create X Thread About Moony Tips With Flipcash",
+    "$500    [453 提交] 2026-10-02 | Create a post about Stealf"
   ],
   "repo": "https://github.com/HCTDIP/corps-jobs"
 }
