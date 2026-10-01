@@ -1,6 +1,6 @@
 {
- "at": "2026-09-30T20:18:49.786110+00:00",
- "total": 28,
+ "at": "2026-10-01T00:50:58.102075+00:00",
+ "total": 29,
  "hot": [
   {
    "h": "/questions/python-dlopen-can-t-load-a-shared-libr-04a5b2a6",
@@ -23,57 +23,20 @@
  ],
  "new": [
   {
-   "h": "/questions/public-graphql-deployment-statusupdateda-26aedfb8",
-   "t": "Public GraphQL Deployment.statusUpdatedAt semantics",
+   "h": "/questions/failed-to-fetch-snapshot-no-permanent-s-86cb97a6",
+   "t": "failed to fetch snapshot (no permanent solution yet, no redeploy option)",
    "score": 2,
    "notes": [
     "竞争低"
    ]
   },
   {
-   "h": "/questions/8-of-requests-to-asia-southeast1-servi-a765a38e",
-   "t": "~8% of requests to asia-southeast1 services get no response after TLS (edge sin1)",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/problems-starting-to-use-setup-templat-7997184e",
-   "t": "Problems starting to use / setup template Deploy N8N (W/Workers).",
-   "score": -2,
-   "notes": [
-    "竞争低",
-    "⚠平台基建/已解"
-   ]
-  },
-  {
-   "h": "/questions/sudden-dns-issue-0f13d660",
-   "t": "Sudden DNS issue on production system $20 2 replies 7m by upd",
+   "h": "/questions/n8n-self-hosted-stopeed-working-2dbedbe7",
+   "t": "n8n self-hosted stopeed working $10 1 replies 7m by transformatiive",
    "score": -5,
    "notes": [
     "陈旧",
     "竞争低",
-    "⚠平台基建/已解"
-   ]
-  },
-  {
-   "h": "/questions/mongo-db-connection-failed-since-12-feb-855f3581",
-   "t": "MongoDB connection failed since 12 Feb. $10 4 replies 7m by jingle",
-   "score": -8,
-   "notes": [
-    "陈旧",
-    "已4回复",
-    "⚠平台基建/已解"
-   ]
-  },
-  {
-   "h": "/questions/server-performance-issue-on-pro-plan-p-0aaac6e5",
-   "t": "Server Performance Issue on Pro Plan – Project B Not Responding / Login Failing $30 5 replies 7m by chaudharyali14",
-   "score": -8,
-   "notes": [
-    "陈旧",
-    "已5回复",
     "⚠平台基建/已解"
    ]
   }
@@ -95,6 +58,22 @@
    "notes": [
     "竞争低",
     "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/failed-to-fetch-snapshot-no-permanent-s-86cb97a6",
+   "t": "failed to fetch snapshot (no permanent solution yet, no redeploy option)",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/successful-railway-deployment-keeps-publ-395eb120",
+   "t": "Successful Railway deployment keeps publishing GitHub deployment failure",
+   "score": 2,
+   "notes": [
+    "竞争低"
    ]
   },
   {
@@ -130,14 +109,6 @@
    ]
   },
   {
-   "h": "/questions/reclaim-postgres-memory-without-restarti-f1b45e1e",
-   "t": "Reclaim Postgres memory without restarting",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
    "h": "/questions/runtime-v2-injecting-empty-variable-valu-4c0fb717",
    "t": "Runtime V2 injecting empty variable values into the deployment process $10 1 replies 3m by fantasycricketpros",
    "score": 1,
@@ -145,15 +116,6 @@
     "陈旧",
     "竞争低",
     "提问·配置型"
-   ]
-  },
-  {
-   "h": "/questions/successful-railway-deployment-keeps-publ-395eb120",
-   "t": "Successful Railway deployment keeps publishing GitHub deployment failure $10 2 replies 4d by peterheijen2026-glitch",
-   "score": -1,
-   "notes": [
-    "陈旧",
-    "竞争低"
    ]
   },
   {
@@ -306,6 +268,16 @@
   {
    "h": "/questions/sudden-dns-issue-0f13d660",
    "t": "Sudden DNS issue on production system $20 2 replies 7m by upd",
+   "score": -5,
+   "notes": [
+    "陈旧",
+    "竞争低",
+    "⚠平台基建/已解"
+   ]
+  },
+  {
+   "h": "/questions/n8n-self-hosted-stopeed-working-2dbedbe7",
+   "t": "n8n self-hosted stopeed working $10 1 replies 7m by transformatiive",
    "score": -5,
    "notes": [
     "陈旧",
