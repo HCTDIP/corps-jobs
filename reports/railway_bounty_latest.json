@@ -1,28 +1,10 @@
 {
- "at": "2026-10-02T06:13:55.076652+00:00",
- "total": 29,
+ "at": "2026-10-02T13:12:04.229836+00:00",
+ "total": 28,
  "hot": [
-  {
-   "h": "/questions/selective-outbound-tcp-443-timeouts-from-bad1a2a1",
-   "t": "Selective outbound TCP/443 timeouts from sfo — private investigation requested $20 0 replies 1d by omardys",
-   "score": 4,
-   "notes": [
-    "1天内",
-    "竞争低"
-   ]
-  },
   {
    "h": "/questions/unable-to-connect-to-my-railway-service-ae34e727",
    "t": "unable to connect to my railway service using railway ssh",
-   "score": 4,
-   "notes": [
-    "竞争低",
-    "提问·配置型"
-   ]
-  },
-  {
-   "h": "/questions/frequent-websocket-disconnects-affecting-7b44d307",
-   "t": "Frequent WebSocket disconnects affecting multiple independent clients",
    "score": 4,
    "notes": [
     "竞争低",
@@ -32,57 +14,8 @@
  ],
  "new": [
   {
-   "h": "/questions/unable-to-connect-to-my-railway-service-ae34e727",
-   "t": "unable to connect to my railway service using railway ssh",
-   "score": 4,
-   "notes": [
-    "竞争低",
-    "提问·配置型"
-   ]
-  },
-  {
-   "h": "/questions/shifttracker-backend-recurring-europe-w-6cda607d",
-   "t": "shifttracker-backend: recurring europe-west4-drams3a edge issue, possible regression of 2026-06-09 fix",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/railway-node-js-deployment-killed-with-e-27cc6bd3",
-   "t": "Railway Node.js Deployment Killed with Exit Code 137 — Possible OOM?",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/a-live-customer-application-facing-conne-27068655",
-   "t": "A live customer application facing connectivity issues at peak hours in Jakarta",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/template-request-sentr-5e68bdaf",
-   "t": "Template Request: Sentry",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/elk-stack-elastic-logstash-kibana-1290eca7",
-   "t": "Template Request: ELK Stack (Elastic, Logstash, Kibana)",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/railway-pro-volume-backup-and-isolated-r-c838fa93",
-   "t": "Railway Pro Volume Backup and Isolated Restore — PGlite Database",
+   "h": "/questions/postgres-pitr-backups-cause-query-stalls-a2ce84a8",
+   "t": "Postgres PITR backups cause query stalls. Can we fix the time at 03:00 UTC?",
    "score": 2,
    "notes": [
     "竞争低"
@@ -91,15 +24,6 @@
  ],
  "all": [
   {
-   "h": "/questions/selective-outbound-tcp-443-timeouts-from-bad1a2a1",
-   "t": "Selective outbound TCP/443 timeouts from sfo — private investigation requested $20 0 replies 1d by omardys",
-   "score": 4,
-   "notes": [
-    "1天内",
-    "竞争低"
-   ]
-  },
-  {
    "h": "/questions/unable-to-connect-to-my-railway-service-ae34e727",
    "t": "unable to connect to my railway service using railway ssh",
    "score": 4,
@@ -109,12 +33,11 @@
    ]
   },
   {
-   "h": "/questions/frequent-websocket-disconnects-affecting-7b44d307",
-   "t": "Frequent WebSocket disconnects affecting multiple independent clients",
-   "score": 4,
+   "h": "/questions/postgres-pitr-backups-cause-query-stalls-a2ce84a8",
+   "t": "Postgres PITR backups cause query stalls. Can we fix the time at 03:00 UTC?",
+   "score": 2,
    "notes": [
-    "竞争低",
-    "提问·配置型"
+    "竞争低"
    ]
   },
   {
@@ -126,6 +49,22 @@
    ]
   },
   {
+   "h": "/questions/selective-outbound-tcp-443-timeouts-from-bad1a2a1",
+   "t": "Selective outbound TCP/443 timeouts from sfo — private investigation requested",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/a-live-customer-application-facing-conne-27068655",
+   "t": "A live customer application facing connectivity issues at peak hours in Jakarta",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
    "h": "/questions/shifttracker-backend-recurring-europe-w-6cda607d",
    "t": "shifttracker-backend: recurring europe-west4-drams3a edge issue, possible regression of 2026-06-09 fix",
    "score": 2,
@@ -136,14 +75,6 @@
   {
    "h": "/questions/railway-node-js-deployment-killed-with-e-27cc6bd3",
    "t": "Railway Node.js Deployment Killed with Exit Code 137 — Possible OOM?",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/a-live-customer-application-facing-conne-27068655",
-   "t": "A live customer application facing connectivity issues at peak hours in Jakarta",
    "score": 2,
    "notes": [
     "竞争低"
@@ -166,24 +97,6 @@
    ]
   },
   {
-   "h": "/questions/railway-pro-volume-backup-and-isolated-r-c838fa93",
-   "t": "Railway Pro Volume Backup and Isolated Restore — PGlite Database",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/deployments-fail-healthcheck-repeatedly-3513eae4",
-   "t": "Deployments fail healthcheck repeatedly, new container cannot reach DB $10 0 replies 21h by sales-auditor-backend",
-   "score": 1,
-   "notes": [
-    "数小时内",
-    "竞争低",
-    "⚠平台基建/已解"
-   ]
-  },
-  {
    "h": "/questions/runtime-v2-injecting-empty-variable-valu-4c0fb717",
    "t": "Runtime V2 injecting empty variable values into the deployment process $10 1 replies 3m by fantasycricketpros",
    "score": 1,
@@ -191,6 +104,16 @@
     "陈旧",
     "竞争低",
     "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/deployments-fail-healthcheck-repeatedly-3513eae4",
+   "t": "Deployments fail healthcheck repeatedly, new container cannot reach DB $10 0 replies 1d by sales-auditor-backend",
+   "score": 0,
+   "notes": [
+    "1天内",
+    "竞争低",
+    "⚠平台基建/已解"
    ]
   },
   {
