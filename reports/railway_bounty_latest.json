@@ -1,37 +1,28 @@
 {
- "at": "2026-10-01T22:55:01.637013+00:00",
+ "at": "2026-10-02T06:13:55.076652+00:00",
  "total": 29,
  "hot": [
   {
    "h": "/questions/selective-outbound-tcp-443-timeouts-from-bad1a2a1",
-   "t": "Selective outbound TCP/443 timeouts from sfo — private investigation requested $20 0 replies 19h by omardys",
-   "score": 5,
+   "t": "Selective outbound TCP/443 timeouts from sfo — private investigation requested $20 0 replies 1d by omardys",
+   "score": 4,
    "notes": [
-    "数小时内",
+    "1天内",
     "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/unable-to-connect-to-my-railway-service-ae34e727",
+   "t": "unable to connect to my railway service using railway ssh",
+   "score": 4,
+   "notes": [
+    "竞争低",
+    "提问·配置型"
    ]
   },
   {
    "h": "/questions/frequent-websocket-disconnects-affecting-7b44d307",
    "t": "Frequent WebSocket disconnects affecting multiple independent clients",
-   "score": 4,
-   "notes": [
-    "竞争低",
-    "提问·配置型"
-   ]
-  },
-  {
-   "h": "/questions/safe-sqlite-wal-backup-without-unverifia-bc58555f",
-   "t": "Safe SQLite WAL backup without unverifiable SSH host key",
-   "score": 4,
-   "notes": [
-    "竞争低",
-    "提问·配置型"
-   ]
-  },
-  {
-   "h": "/questions/node-inspector-opened-and-attached-in-ap-7b53e5bf",
-   "t": "Node inspector opened and attached in api/worker without --inspect — is this a Railway feature?",
    "score": 4,
    "notes": [
     "竞争低",
@@ -41,8 +32,8 @@
  ],
  "new": [
   {
-   "h": "/questions/frequent-websocket-disconnects-affecting-7b44d307",
-   "t": "Frequent WebSocket disconnects affecting multiple independent clients",
+   "h": "/questions/unable-to-connect-to-my-railway-service-ae34e727",
+   "t": "unable to connect to my railway service using railway ssh",
    "score": 4,
    "notes": [
     "竞争低",
@@ -50,32 +41,71 @@
    ]
   },
   {
-   "h": "/questions/builds-on-builder-uwqkzv-crash-in-next-b-c3dfe643",
-   "t": "Builds on builder-uwqkzv crash in next build with \"invalid table size\" since Oct 1 ~11:00 UTC",
+   "h": "/questions/shifttracker-backend-recurring-europe-w-6cda607d",
+   "t": "shifttracker-backend: recurring europe-west4-drams3a edge issue, possible regression of 2026-06-09 fix",
    "score": 2,
    "notes": [
     "竞争低"
    ]
   },
   {
-   "h": "/questions/server-performance-issue-on-pro-plan-p-0aaac6e5",
-   "t": "Server Performance Issue on Pro Plan – Project B Not Responding / Login Failing $30 5 replies 7m by chaudharyali14",
-   "score": -8,
+   "h": "/questions/railway-node-js-deployment-killed-with-e-27cc6bd3",
+   "t": "Railway Node.js Deployment Killed with Exit Code 137 — Possible OOM?",
+   "score": 2,
    "notes": [
-    "陈旧",
-    "已5回复",
-    "⚠平台基建/已解"
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/a-live-customer-application-facing-conne-27068655",
+   "t": "A live customer application facing connectivity issues at peak hours in Jakarta",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/template-request-sentr-5e68bdaf",
+   "t": "Template Request: Sentry",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/elk-stack-elastic-logstash-kibana-1290eca7",
+   "t": "Template Request: ELK Stack (Elastic, Logstash, Kibana)",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/railway-pro-volume-backup-and-isolated-r-c838fa93",
+   "t": "Railway Pro Volume Backup and Isolated Restore — PGlite Database",
+   "score": 2,
+   "notes": [
+    "竞争低"
    ]
   }
  ],
  "all": [
   {
    "h": "/questions/selective-outbound-tcp-443-timeouts-from-bad1a2a1",
-   "t": "Selective outbound TCP/443 timeouts from sfo — private investigation requested $20 0 replies 19h by omardys",
-   "score": 5,
+   "t": "Selective outbound TCP/443 timeouts from sfo — private investigation requested $20 0 replies 1d by omardys",
+   "score": 4,
    "notes": [
-    "数小时内",
+    "1天内",
     "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/unable-to-connect-to-my-railway-service-ae34e727",
+   "t": "unable to connect to my railway service using railway ssh",
+   "score": 4,
+   "notes": [
+    "竞争低",
+    "提问·配置型"
    ]
   },
   {
@@ -85,32 +115,6 @@
    "notes": [
     "竞争低",
     "提问·配置型"
-   ]
-  },
-  {
-   "h": "/questions/safe-sqlite-wal-backup-without-unverifia-bc58555f",
-   "t": "Safe SQLite WAL backup without unverifiable SSH host key",
-   "score": 4,
-   "notes": [
-    "竞争低",
-    "提问·配置型"
-   ]
-  },
-  {
-   "h": "/questions/node-inspector-opened-and-attached-in-ap-7b53e5bf",
-   "t": "Node inspector opened and attached in api/worker without --inspect — is this a Railway feature?",
-   "score": 4,
-   "notes": [
-    "竞争低",
-    "提问·配置型"
-   ]
-  },
-  {
-   "h": "/questions/builds-on-builder-uwqkzv-crash-in-next-b-c3dfe643",
-   "t": "Builds on builder-uwqkzv crash in next build with \"invalid table size\" since Oct 1 ~11:00 UTC",
-   "score": 2,
-   "notes": [
-    "竞争低"
    ]
   },
   {
@@ -122,24 +126,48 @@
    ]
   },
   {
-   "h": "/questions/postgres-pitr-backups-cause-query-stalls-a2ce84a8",
-   "t": "Postgres PITR backups cause query stalls. Can we fix the time at 03:00 UTC?",
+   "h": "/questions/shifttracker-backend-recurring-europe-w-6cda607d",
+   "t": "shifttracker-backend: recurring europe-west4-drams3a edge issue, possible regression of 2026-06-09 fix",
    "score": 2,
    "notes": [
     "竞争低"
    ]
   },
   {
-   "h": "/questions/lag-on-production-application-2de95e0a",
-   "t": "lag on production application",
+   "h": "/questions/railway-node-js-deployment-killed-with-e-27cc6bd3",
+   "t": "Railway Node.js Deployment Killed with Exit Code 137 — Possible OOM?",
    "score": 2,
    "notes": [
     "竞争低"
    ]
   },
   {
-   "h": "/questions/reclaim-postgres-memory-without-restarti-f1b45e1e",
-   "t": "Reclaim Postgres memory without restarting",
+   "h": "/questions/a-live-customer-application-facing-conne-27068655",
+   "t": "A live customer application facing connectivity issues at peak hours in Jakarta",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/template-request-sentr-5e68bdaf",
+   "t": "Template Request: Sentry",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/elk-stack-elastic-logstash-kibana-1290eca7",
+   "t": "Template Request: ELK Stack (Elastic, Logstash, Kibana)",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/railway-pro-volume-backup-and-isolated-r-c838fa93",
+   "t": "Railway Pro Volume Backup and Isolated Restore — PGlite Database",
    "score": 2,
    "notes": [
     "竞争低"
@@ -147,7 +175,7 @@
   },
   {
    "h": "/questions/deployments-fail-healthcheck-repeatedly-3513eae4",
-   "t": "Deployments fail healthcheck repeatedly, new container cannot reach DB $10 0 replies 14h by sales-auditor-backend",
+   "t": "Deployments fail healthcheck repeatedly, new container cannot reach DB $10 0 replies 21h by sales-auditor-backend",
    "score": 1,
    "notes": [
     "数小时内",
@@ -167,7 +195,7 @@
   },
   {
    "h": "/questions/deploy-failure-6bb88dbe",
-   "t": "Deploy failure $10 1 replies 7d by hosikjosik",
+   "t": "Deploy failure $10 1 replies 8d by hosikjosik",
    "score": -1,
    "notes": [
     "陈旧",
@@ -176,7 +204,7 @@
   },
   {
    "h": "/questions/railway-production-tcp-timeout-to-bseind-0db2126d",
-   "t": "Railway production TCP timeout to bseindices.com:443 $10 1 replies 13d by iammeghana007-stack",
+   "t": "Railway production TCP timeout to bseindices.com:443 $10 1 replies 14d by iammeghana007-stack",
    "score": -1,
    "notes": [
     "陈旧",
@@ -185,21 +213,12 @@
   },
   {
    "h": "/questions/postgres-volume-i-o-stall-on-us-east4-eq-99dae057",
-   "t": "Postgres volume I/O stall on us-east4-eqdc4a — checkpoint sync 42.7s, factory statement timeouts (exact-aco production) $20 18 replies 14d by gustavo-paris",
+   "t": "Postgres volume I/O stall on us-east4-eqdc4a — checkpoint sync 42.7s, factory statement timeouts (exact-aco production) $20 18 replies 15d by gustavo-paris",
    "score": -2,
    "notes": [
     "陈旧",
     "已18回复",
     "提问·配置型"
-   ]
-  },
-  {
-   "h": "/questions/how-to-set-up-multi-region-replica-with-0f082270",
-   "t": "How to set up Multi-Region Replica with MongoDB Atlas",
-   "score": -2,
-   "notes": [
-    "竞争低",
-    "⚠平台基建/已解"
    ]
   },
   {
