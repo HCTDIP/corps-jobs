@@ -1,6 +1,6 @@
 {
- "at": "2026-10-02T13:12:04.229836+00:00",
- "total": 28,
+ "at": "2026-10-02T20:08:20.083213+00:00",
+ "total": 29,
  "hot": [
   {
    "h": "/questions/unable-to-connect-to-my-railway-service-ae34e727",
@@ -14,11 +14,21 @@
  ],
  "new": [
   {
-   "h": "/questions/postgres-pitr-backups-cause-query-stalls-a2ce84a8",
-   "t": "Postgres PITR backups cause query stalls. Can we fix the time at 03:00 UTC?",
+   "h": "/questions/network-error-when-initiating-app-053f5ca2",
+   "t": "Network Error When Initiating App",
    "score": 2,
    "notes": [
     "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/sudden-dns-issue-0f13d660",
+   "t": "Sudden DNS issue on production system $20 2 replies 7m by upd",
+   "score": -5,
+   "notes": [
+    "陈旧",
+    "竞争低",
+    "⚠平台基建/已解"
    ]
   }
  ],
@@ -30,6 +40,14 @@
    "notes": [
     "竞争低",
     "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/network-error-when-initiating-app-053f5ca2",
+   "t": "Network Error When Initiating App",
+   "score": 2,
+   "notes": [
+    "竞争低"
    ]
   },
   {
@@ -83,14 +101,6 @@
   {
    "h": "/questions/template-request-sentr-5e68bdaf",
    "t": "Template Request: Sentry",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/elk-stack-elastic-logstash-kibana-1290eca7",
-   "t": "Template Request: ELK Stack (Elastic, Logstash, Kibana)",
    "score": 2,
    "notes": [
     "竞争低"
@@ -247,6 +257,16 @@
   {
    "h": "/questions/domain-problem-74757b03",
    "t": "Domain problem $10 2 replies 7m by julianbessone",
+   "score": -5,
+   "notes": [
+    "陈旧",
+    "竞争低",
+    "⚠平台基建/已解"
+   ]
+  },
+  {
+   "h": "/questions/sudden-dns-issue-0f13d660",
+   "t": "Sudden DNS issue on production system $20 2 replies 7m by upd",
    "score": -5,
    "notes": [
     "陈旧",
