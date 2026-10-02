@@ -1,7 +1,175 @@
 {
- "at": "2026-10-02T09:45:28.312745Z",
- "count": 5,
- "new": [],
+ "at": "2026-10-02T17:52:22.270096Z",
+ "count": 24,
+ "new": [
+  {
+   "src": "sherlock",
+   "status": "counts",
+   "active": 0,
+   "upcoming": 0,
+   "url": "https://audits.sherlock.xyz/contests"
+  },
+  {
+   "src": "sherlock-bounty",
+   "status": "live",
+   "title": "Usual Labs",
+   "updated": "Apr 8, 2025",
+   "amount": "$16,000,000",
+   "url": "https://audits.sherlock.xyz/bug-bounties"
+  },
+  {
+   "src": "sherlock-bounty",
+   "status": "live",
+   "title": "Usual - Fira UZR (Usual Zero Rate) module",
+   "updated": "Jan 16, 2026",
+   "amount": "$7,500,000",
+   "url": "https://audits.sherlock.xyz/bug-bounties"
+  },
+  {
+   "src": "sherlock-bounty",
+   "status": "live",
+   "title": "Aave V4",
+   "updated": "Sep 29, 2026",
+   "amount": "$2,500,000",
+   "url": "https://audits.sherlock.xyz/bug-bounties"
+  },
+  {
+   "src": "sherlock-bounty",
+   "status": "live",
+   "title": "Flying Tulip",
+   "updated": "Jun 18, 2026",
+   "amount": "$1,000,000",
+   "url": "https://audits.sherlock.xyz/bug-bounties"
+  },
+  {
+   "src": "sherlock-bounty",
+   "status": "live",
+   "title": "Cap",
+   "updated": "Aug 18, 2026",
+   "amount": "$1,000,000",
+   "url": "https://audits.sherlock.xyz/bug-bounties"
+  },
+  {
+   "src": "sherlock-bounty",
+   "status": "live",
+   "title": "SYMMIO",
+   "updated": "Oct 30, 2024",
+   "amount": "$808,808",
+   "url": "https://audits.sherlock.xyz/bug-bounties"
+  },
+  {
+   "src": "sherlock-bounty",
+   "status": "live",
+   "title": "Babylon",
+   "updated": "Oct 2, 2026",
+   "amount": "$500,000",
+   "url": "https://audits.sherlock.xyz/bug-bounties"
+  },
+  {
+   "src": "sherlock-bounty",
+   "status": "live",
+   "title": "Paradex",
+   "updated": "Jun 8, 2026",
+   "amount": "$500,000",
+   "url": "https://audits.sherlock.xyz/bug-bounties"
+  },
+  {
+   "src": "sherlock-bounty",
+   "status": "live",
+   "title": "Fira Protocol",
+   "updated": "Apr 9, 2026",
+   "amount": "$500,000",
+   "url": "https://audits.sherlock.xyz/bug-bounties"
+  },
+  {
+   "src": "sherlock-bounty",
+   "status": "live",
+   "title": "Midas",
+   "updated": "Aug 21, 2026",
+   "amount": "$500,000",
+   "url": "https://audits.sherlock.xyz/bug-bounties"
+  },
+  {
+   "src": "sherlock-bounty",
+   "status": "live",
+   "title": "Sherlock",
+   "updated": "Aug 8, 2024",
+   "amount": "$500,000",
+   "url": "https://audits.sherlock.xyz/bug-bounties"
+  },
+  {
+   "src": "sherlock-bounty",
+   "status": "live",
+   "title": "Moonwell",
+   "updated": "Jul 16, 2026",
+   "amount": "$250,000",
+   "url": "https://audits.sherlock.xyz/bug-bounties"
+  },
+  {
+   "src": "sherlock-bounty",
+   "status": "live",
+   "title": "Scroll",
+   "updated": "Apr 2, 2026",
+   "amount": "$250,000",
+   "url": "https://audits.sherlock.xyz/bug-bounties"
+  },
+  {
+   "src": "sherlock-bounty",
+   "status": "live",
+   "title": "Sport.Fun",
+   "updated": "Jun 2, 2026",
+   "amount": "$250,000",
+   "url": "https://audits.sherlock.xyz/bug-bounties"
+  },
+  {
+   "src": "sherlock-bounty",
+   "status": "live",
+   "title": "Tenor Labs",
+   "updated": "Sep 11, 2026",
+   "amount": "$200,000",
+   "url": "https://audits.sherlock.xyz/bug-bounties"
+  },
+  {
+   "src": "sherlock-bounty",
+   "status": "live",
+   "title": "Satlayer",
+   "updated": "Feb 11, 2025",
+   "amount": "$200,000",
+   "url": "https://audits.sherlock.xyz/bug-bounties"
+  },
+  {
+   "src": "sherlock-bounty",
+   "status": "live",
+   "title": "Yearn",
+   "updated": "May 15, 2026",
+   "amount": "$200,000",
+   "url": "https://audits.sherlock.xyz/bug-bounties"
+  },
+  {
+   "src": "sherlock-bounty",
+   "status": "live",
+   "title": "Puffer",
+   "updated": "Aug 17, 2026",
+   "amount": "$100,000",
+   "url": "https://audits.sherlock.xyz/bug-bounties"
+  },
+  {
+   "src": "sherlock-bounty",
+   "status": "live",
+   "title": "USX",
+   "updated": "May 3, 2026",
+   "amount": "$100,000",
+   "url": "https://audits.sherlock.xyz/bug-bounties"
+  },
+  {
+   "src": "sherlock-bounty",
+   "status": "live",
+   "title": "Mellow Core Vaults",
+   "updated": "Sep 25, 2025",
+   "amount": "$100,000",
+   "url": "https://audits.sherlock.xyz/bug-bounties"
+  }
+ ],
  "all": [
   {
    "src": "code4rena",
@@ -17,7 +185,10 @@
   },
   {
    "src": "sherlock",
-   "error": "HTTP Error 500: Internal Server Error"
+   "status": "counts",
+   "active": 0,
+   "upcoming": 0,
+   "url": "https://audits.sherlock.xyz/contests"
   },
   {
    "src": "codehawks",
@@ -25,7 +196,163 @@
   },
   {
    "src": "sherlock-bounty",
-   "error": "HTTP Error 500: Internal Server Error"
+   "status": "live",
+   "title": "Usual Labs",
+   "updated": "Apr 8, 2025",
+   "amount": "$16,000,000",
+   "url": "https://audits.sherlock.xyz/bug-bounties"
+  },
+  {
+   "src": "sherlock-bounty",
+   "status": "live",
+   "title": "Usual - Fira UZR (Usual Zero Rate) module",
+   "updated": "Jan 16, 2026",
+   "amount": "$7,500,000",
+   "url": "https://audits.sherlock.xyz/bug-bounties"
+  },
+  {
+   "src": "sherlock-bounty",
+   "status": "live",
+   "title": "Aave V4",
+   "updated": "Sep 29, 2026",
+   "amount": "$2,500,000",
+   "url": "https://audits.sherlock.xyz/bug-bounties"
+  },
+  {
+   "src": "sherlock-bounty",
+   "status": "live",
+   "title": "Flying Tulip",
+   "updated": "Jun 18, 2026",
+   "amount": "$1,000,000",
+   "url": "https://audits.sherlock.xyz/bug-bounties"
+  },
+  {
+   "src": "sherlock-bounty",
+   "status": "live",
+   "title": "Cap",
+   "updated": "Aug 18, 2026",
+   "amount": "$1,000,000",
+   "url": "https://audits.sherlock.xyz/bug-bounties"
+  },
+  {
+   "src": "sherlock-bounty",
+   "status": "live",
+   "title": "SYMMIO",
+   "updated": "Oct 30, 2024",
+   "amount": "$808,808",
+   "url": "https://audits.sherlock.xyz/bug-bounties"
+  },
+  {
+   "src": "sherlock-bounty",
+   "status": "live",
+   "title": "Babylon",
+   "updated": "Oct 2, 2026",
+   "amount": "$500,000",
+   "url": "https://audits.sherlock.xyz/bug-bounties"
+  },
+  {
+   "src": "sherlock-bounty",
+   "status": "live",
+   "title": "Paradex",
+   "updated": "Jun 8, 2026",
+   "amount": "$500,000",
+   "url": "https://audits.sherlock.xyz/bug-bounties"
+  },
+  {
+   "src": "sherlock-bounty",
+   "status": "live",
+   "title": "Fira Protocol",
+   "updated": "Apr 9, 2026",
+   "amount": "$500,000",
+   "url": "https://audits.sherlock.xyz/bug-bounties"
+  },
+  {
+   "src": "sherlock-bounty",
+   "status": "live",
+   "title": "Midas",
+   "updated": "Aug 21, 2026",
+   "amount": "$500,000",
+   "url": "https://audits.sherlock.xyz/bug-bounties"
+  },
+  {
+   "src": "sherlock-bounty",
+   "status": "live",
+   "title": "Sherlock",
+   "updated": "Aug 8, 2024",
+   "amount": "$500,000",
+   "url": "https://audits.sherlock.xyz/bug-bounties"
+  },
+  {
+   "src": "sherlock-bounty",
+   "status": "live",
+   "title": "Moonwell",
+   "updated": "Jul 16, 2026",
+   "amount": "$250,000",
+   "url": "https://audits.sherlock.xyz/bug-bounties"
+  },
+  {
+   "src": "sherlock-bounty",
+   "status": "live",
+   "title": "Scroll",
+   "updated": "Apr 2, 2026",
+   "amount": "$250,000",
+   "url": "https://audits.sherlock.xyz/bug-bounties"
+  },
+  {
+   "src": "sherlock-bounty",
+   "status": "live",
+   "title": "Sport.Fun",
+   "updated": "Jun 2, 2026",
+   "amount": "$250,000",
+   "url": "https://audits.sherlock.xyz/bug-bounties"
+  },
+  {
+   "src": "sherlock-bounty",
+   "status": "live",
+   "title": "Tenor Labs",
+   "updated": "Sep 11, 2026",
+   "amount": "$200,000",
+   "url": "https://audits.sherlock.xyz/bug-bounties"
+  },
+  {
+   "src": "sherlock-bounty",
+   "status": "live",
+   "title": "Satlayer",
+   "updated": "Feb 11, 2025",
+   "amount": "$200,000",
+   "url": "https://audits.sherlock.xyz/bug-bounties"
+  },
+  {
+   "src": "sherlock-bounty",
+   "status": "live",
+   "title": "Yearn",
+   "updated": "May 15, 2026",
+   "amount": "$200,000",
+   "url": "https://audits.sherlock.xyz/bug-bounties"
+  },
+  {
+   "src": "sherlock-bounty",
+   "status": "live",
+   "title": "Puffer",
+   "updated": "Aug 17, 2026",
+   "amount": "$100,000",
+   "url": "https://audits.sherlock.xyz/bug-bounties"
+  },
+  {
+   "src": "sherlock-bounty",
+   "status": "live",
+   "title": "USX",
+   "updated": "May 3, 2026",
+   "amount": "$100,000",
+   "url": "https://audits.sherlock.xyz/bug-bounties"
+  },
+  {
+   "src": "sherlock-bounty",
+   "status": "live",
+   "title": "Mellow Core Vaults",
+   "updated": "Sep 25, 2025",
+   "amount": "$100,000",
+   "url": "https://audits.sherlock.xyz/bug-bounties"
   },
   {
    "src": "immunefi",
