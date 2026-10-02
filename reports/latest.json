@@ -1,21 +1,25 @@
 {
-  "at": "2026-10-02T03:19Z",
-  "runs": 26,
-  "open_total": 23,
-  "new_count": 0,
-  "new_items": [],
+  "at": "2026-10-02T11:38Z",
+  "runs": 27,
+  "open_total": 24,
+  "new_count": 1,
+  "new_items": [
+    "$5000   [  0 提交] [无地区限制] Crypto World's Fair Pakistan Track"
+  ],
   "global_candidates": [
+    "$5000   [  0 提交] [无地区限制] Crypto World's Fair Pakistan Track",
+    "$5000   [  0 提交] 2026-10-13 | Crypto World's Fair Pakistan Track",
     "$500    [  1 提交] 2026-10-17 | Grow Rewards: Make Your First Move",
-    "$620    [  3 提交] 2026-10-23 | Launch & Trade on Daejin: Write a Twitter Thread and",
+    "$620    [  5 提交] 2026-10-23 | Launch & Trade on Daejin: Write a Twitter Thread and",
     "$300    [  6 提交] 2026-10-06 | Introduce Web3 Projects to Segmento",
-    "$250    [  6 提交] 2026-10-14 | Climb Our Reader Leaderboard for Sep/Oct 2026",
     "$500    [  7 提交] 2026-10-14 | Make a Video: Season Zero, Pump the Pool 3 and Socia",
+    "$250    [  7 提交] 2026-10-14 | Climb Our Reader Leaderboard for Sep/Oct 2026",
     "$150    [ 10 提交] 2026-10-06 | Video Editing Challenge",
     "$500    [ 14 提交] 2026-10-04 | Anti Brain Drain Content Bounty - Colosseum Push",
-    "$350    [ 49 提交] 2026-10-17 | Try a Solana Project and Give Useful Feedback | Toke",
-    "$500    [185 提交] 2026-10-07 | Build and Demo a Mermail Agent Skill",
-    "$500    [229 提交] 2026-10-09 | Create twitter Post about the STREAM burn",
-    "$500    [488 提交] 2026-10-02 | Create a post about Stealf"
+    "$350    [ 53 提交] 2026-10-17 | Try a Solana Project and Give Useful Feedback | Toke",
+    "$500    [187 提交] 2026-10-07 | Build and Demo a Mermail Agent Skill",
+    "$500    [235 提交] 2026-10-09 | Create twitter Post about the STREAM burn",
+    "$500    [513 提交] 2026-10-02 | Create a post about Stealf"
   ],
   "repo": "https://github.com/HCTDIP/corps-jobs"
 }
