@@ -1,13 +1,12 @@
 {
- "at": "2026-10-03T05:49:41.098052+00:00",
- "total": 28,
+ "at": "2026-10-03T12:02:47.641687+00:00",
+ "total": 29,
  "hot": [
   {
    "h": "/questions/preserve-unrelated-staged-changes-during-17137448",
-   "t": "Preserve unrelated staged changes during a service-specific API deployment $10 0 replies 7h by ikayofoegbu",
-   "score": 7,
+   "t": "Preserve unrelated staged changes during a service-specific API deployment",
+   "score": 4,
    "notes": [
-    "数小时内",
     "竞争低",
     "提问·配置型"
    ]
@@ -33,29 +32,22 @@
  ],
  "new": [
   {
-   "h": "/questions/lisheng-production-up-railway-app-tcp-co-cb2936f2",
-   "t": "lisheng-production.up.railway.app TCP connection timed‑out, edge routing broken",
-   "score": 2,
+   "h": "/questions/sudden-dns-issue-0f13d660",
+   "t": "Sudden DNS issue on production system $20 2 replies 7m by upd",
+   "score": -5,
    "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/template-request-sentr-5e68bdaf",
-   "t": "Template Request: Sentry",
-   "score": 2,
-   "notes": [
-    "竞争低"
+    "陈旧",
+    "竞争低",
+    "⚠平台基建/已解"
    ]
   }
  ],
  "all": [
   {
    "h": "/questions/preserve-unrelated-staged-changes-during-17137448",
-   "t": "Preserve unrelated staged changes during a service-specific API deployment $10 0 replies 7h by ikayofoegbu",
-   "score": 7,
+   "t": "Preserve unrelated staged changes during a service-specific API deployment",
+   "score": 4,
    "notes": [
-    "数小时内",
     "竞争低",
     "提问·配置型"
    ]
@@ -277,6 +269,16 @@
   {
    "h": "/questions/domain-problem-74757b03",
    "t": "Domain problem $10 2 replies 7m by julianbessone",
+   "score": -5,
+   "notes": [
+    "陈旧",
+    "竞争低",
+    "⚠平台基建/已解"
+   ]
+  },
+  {
+   "h": "/questions/sudden-dns-issue-0f13d660",
+   "t": "Sudden DNS issue on production system $20 2 replies 7m by upd",
    "score": -5,
    "notes": [
     "陈旧",
