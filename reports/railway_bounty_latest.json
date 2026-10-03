@@ -1,14 +1,14 @@
 {
- "at": "2026-10-03T16:44:03.804975+00:00",
- "total": 29,
+ "at": "2026-10-03T21:46:29.880125+00:00",
+ "total": 27,
  "hot": [
   {
-   "h": "/questions/how-to-securely-obtain-a-postgresql-publ-54428f5c",
-   "t": "How to securely obtain a PostgreSQL public root CA without SSH?",
-   "score": 4,
+   "h": "/questions/official-cpu-ram-limit-write-readback-a-ce33e399",
+   "t": "Official CPU/RAM limit write, readback and reconciliation contract for Hobby $10 0 replies 5h by richardcallen",
+   "score": 5,
    "notes": [
-    "竞争低",
-    "提问·配置型"
+    "数小时内",
+    "竞争低"
    ]
   },
   {
@@ -21,17 +21,8 @@
    ]
   },
   {
-   "h": "/questions/edge-hikari-intermittently-sends-rst-s-3ed8fbb0",
-   "t": "Edge (hikari) intermittently sends RST_STREAM(CANCEL) to Android OkHttp HTTP/2 clients after origin already returned 200",
-   "score": 4,
-   "notes": [
-    "竞争低",
-    "提问·配置型"
-   ]
-  },
-  {
-   "h": "/questions/unable-to-connect-to-my-railway-service-ae34e727",
-   "t": "unable to connect to my railway service using railway ssh",
+   "h": "/questions/how-to-securely-obtain-a-postgresql-publ-54428f5c",
+   "t": "How to securely obtain a PostgreSQL public root CA without SSH?",
    "score": 4,
    "notes": [
     "竞争低",
@@ -41,25 +32,41 @@
  ],
  "new": [
   {
-   "h": "/questions/how-to-securely-obtain-a-postgresql-publ-54428f5c",
-   "t": "How to securely obtain a PostgreSQL public root CA without SSH?",
-   "score": 4,
+   "h": "/questions/official-cpu-ram-limit-write-readback-a-ce33e399",
+   "t": "Official CPU/RAM limit write, readback and reconciliation contract for Hobby $10 0 replies 5h by richardcallen",
+   "score": 5,
    "notes": [
-    "竞争低",
-    "提问·配置型"
+    "数小时内",
+    "竞争低"
    ]
   },
   {
-   "h": "/questions/cannot-connect-to-postgres-e4deb8e3",
-   "t": "cannot connect to postgres",
+   "h": "/questions/template-health-36-but-fresh-deploys-a-e28fc6dc",
+   "t": "Template Health 36%, but fresh deploys are healthy. What's failing?",
    "score": 2,
    "notes": [
     "竞争低"
    ]
   },
   {
-   "h": "/questions/edge-routing-outage-the-train-has-not-b4004f80",
-   "t": "Edge routing outage: \"The train has not arrived at the station\" for kattachegirma.uz on 2026-09-30 07:35-07:40 UTC",
+   "h": "/questions/railway-node-js-deployment-killed-with-e-27cc6bd3",
+   "t": "Railway Node.js Deployment Killed with Exit Code 137 — Possible OOM?",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/health-endpoint-34d9b612",
+   "t": "health endpoint",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/confirm-native-transfer-charges-for-volu-41d8367d",
+   "t": "Confirm native transfer charges for volume backup restores and cross-region move",
    "score": -2,
    "notes": [
     "竞争低",
@@ -69,12 +76,12 @@
  ],
  "all": [
   {
-   "h": "/questions/how-to-securely-obtain-a-postgresql-publ-54428f5c",
-   "t": "How to securely obtain a PostgreSQL public root CA without SSH?",
-   "score": 4,
+   "h": "/questions/official-cpu-ram-limit-write-readback-a-ce33e399",
+   "t": "Official CPU/RAM limit write, readback and reconciliation contract for Hobby $10 0 replies 5h by richardcallen",
+   "score": 5,
    "notes": [
-    "竞争低",
-    "提问·配置型"
+    "数小时内",
+    "竞争低"
    ]
   },
   {
@@ -87,8 +94,8 @@
    ]
   },
   {
-   "h": "/questions/edge-hikari-intermittently-sends-rst-s-3ed8fbb0",
-   "t": "Edge (hikari) intermittently sends RST_STREAM(CANCEL) to Android OkHttp HTTP/2 clients after origin already returned 200",
+   "h": "/questions/how-to-securely-obtain-a-postgresql-publ-54428f5c",
+   "t": "How to securely obtain a PostgreSQL public root CA without SSH?",
    "score": 4,
    "notes": [
     "竞争低",
@@ -96,41 +103,32 @@
    ]
   },
   {
-   "h": "/questions/unable-to-connect-to-my-railway-service-ae34e727",
-   "t": "unable to connect to my railway service using railway ssh",
-   "score": 4,
+   "h": "/questions/template-health-36-but-fresh-deploys-a-e28fc6dc",
+   "t": "Template Health 36%, but fresh deploys are healthy. What's failing?",
+   "score": 2,
    "notes": [
-    "竞争低",
-    "提问·配置型"
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/railway-node-js-deployment-killed-with-e-27cc6bd3",
+   "t": "Railway Node.js Deployment Killed with Exit Code 137 — Possible OOM?",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/health-endpoint-34d9b612",
+   "t": "health endpoint",
+   "score": 2,
+   "notes": [
+    "竞争低"
    ]
   },
   {
    "h": "/questions/cannot-connect-to-postgres-e4deb8e3",
    "t": "cannot connect to postgres",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/template-request-sentr-5e68bdaf",
-   "t": "Template Request: Sentry",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/lisheng-production-up-railway-app-tcp-co-cb2936f2",
-   "t": "lisheng-production.up.railway.app TCP connection timed‑out, edge routing broken",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/network-error-when-initiating-app-053f5ca2",
-   "t": "Network Error When Initiating App",
    "score": 2,
    "notes": [
     "竞争低"
@@ -144,16 +142,6 @@
     "陈旧",
     "竞争低",
     "提问·配置型"
-   ]
-  },
-  {
-   "h": "/questions/deployments-fail-healthcheck-repeatedly-3513eae4",
-   "t": "Deployments fail healthcheck repeatedly, new container cannot reach DB $10 0 replies 2d by sales-auditor-backend",
-   "score": 0,
-   "notes": [
-    "2天内",
-    "竞争低",
-    "⚠平台基建/已解"
    ]
   },
   {
@@ -185,8 +173,8 @@
    ]
   },
   {
-   "h": "/questions/edge-routing-outage-the-train-has-not-b4004f80",
-   "t": "Edge routing outage: \"The train has not arrived at the station\" for kattachegirma.uz on 2026-09-30 07:35-07:40 UTC",
+   "h": "/questions/confirm-native-transfer-charges-for-volu-41d8367d",
+   "t": "Confirm native transfer charges for volume backup restores and cross-region move",
    "score": -2,
    "notes": [
     "竞争低",
@@ -211,6 +199,16 @@
    "notes": [
     "陈旧",
     "已5回复"
+   ]
+  },
+  {
+   "h": "/questions/deployments-fail-healthcheck-repeatedly-3513eae4",
+   "t": "Deployments fail healthcheck repeatedly, new container cannot reach DB $10 0 replies 3d by sales-auditor-backend",
+   "score": -5,
+   "notes": [
+    "陈旧",
+    "竞争低",
+    "⚠平台基建/已解"
    ]
   },
   {
@@ -296,16 +294,6 @@
   {
    "h": "/questions/domain-problem-74757b03",
    "t": "Domain problem $10 2 replies 7m by julianbessone",
-   "score": -5,
-   "notes": [
-    "陈旧",
-    "竞争低",
-    "⚠平台基建/已解"
-   ]
-  },
-  {
-   "h": "/questions/sudden-dns-issue-0f13d660",
-   "t": "Sudden DNS issue on production system $20 2 replies 7m by upd",
    "score": -5,
    "notes": [
     "陈旧",
