@@ -1,10 +1,10 @@
 {
- "at": "2026-10-03T00:44:55.372414+00:00",
+ "at": "2026-10-03T05:49:41.098052+00:00",
  "total": 28,
  "hot": [
   {
    "h": "/questions/preserve-unrelated-staged-changes-during-17137448",
-   "t": "Preserve unrelated staged changes during a service-specific API deployment $10 0 replies 2h by ikayofoegbu",
+   "t": "Preserve unrelated staged changes during a service-specific API deployment $10 0 replies 7h by ikayofoegbu",
    "score": 7,
    "notes": [
     "数小时内",
@@ -33,29 +33,26 @@
  ],
  "new": [
   {
-   "h": "/questions/preserve-unrelated-staged-changes-during-17137448",
-   "t": "Preserve unrelated staged changes during a service-specific API deployment $10 0 replies 2h by ikayofoegbu",
-   "score": 7,
+   "h": "/questions/lisheng-production-up-railway-app-tcp-co-cb2936f2",
+   "t": "lisheng-production.up.railway.app TCP connection timed‑out, edge routing broken",
+   "score": 2,
    "notes": [
-    "数小时内",
-    "竞争低",
-    "提问·配置型"
+    "竞争低"
    ]
   },
   {
-   "h": "/questions/edge-hikari-intermittently-sends-rst-s-3ed8fbb0",
-   "t": "Edge (hikari) intermittently sends RST_STREAM(CANCEL) to Android OkHttp HTTP/2 clients after origin already returned 200",
-   "score": 4,
+   "h": "/questions/template-request-sentr-5e68bdaf",
+   "t": "Template Request: Sentry",
+   "score": 2,
    "notes": [
-    "竞争低",
-    "提问·配置型"
+    "竞争低"
    ]
   }
  ],
  "all": [
   {
    "h": "/questions/preserve-unrelated-staged-changes-during-17137448",
-   "t": "Preserve unrelated staged changes during a service-specific API deployment $10 0 replies 2h by ikayofoegbu",
+   "t": "Preserve unrelated staged changes during a service-specific API deployment $10 0 replies 7h by ikayofoegbu",
    "score": 7,
    "notes": [
     "数小时内",
@@ -79,6 +76,22 @@
    "notes": [
     "竞争低",
     "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/lisheng-production-up-railway-app-tcp-co-cb2936f2",
+   "t": "lisheng-production.up.railway.app TCP connection timed‑out, edge routing broken",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/template-request-sentr-5e68bdaf",
+   "t": "Template Request: Sentry",
+   "score": 2,
+   "notes": [
+    "竞争低"
    ]
   },
   {
@@ -114,22 +127,6 @@
    ]
   },
   {
-   "h": "/questions/a-live-customer-application-facing-conne-27068655",
-   "t": "A live customer application facing connectivity issues at peak hours in Jakarta",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/shifttracker-backend-recurring-europe-w-6cda607d",
-   "t": "shifttracker-backend: recurring europe-west4-drams3a edge issue, possible regression of 2026-06-09 fix",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
    "h": "/questions/runtime-v2-injecting-empty-variable-valu-4c0fb717",
    "t": "Runtime V2 injecting empty variable values into the deployment process $10 1 replies 3m by fantasycricketpros",
    "score": 1,
@@ -151,7 +148,7 @@
   },
   {
    "h": "/questions/deploy-failure-6bb88dbe",
-   "t": "Deploy failure $10 1 replies 8d by hosikjosik",
+   "t": "Deploy failure $10 1 replies 9d by hosikjosik",
    "score": -1,
    "notes": [
     "陈旧",
@@ -160,7 +157,7 @@
   },
   {
    "h": "/questions/railway-production-tcp-timeout-to-bseind-0db2126d",
-   "t": "Railway production TCP timeout to bseindices.com:443 $10 1 replies 14d by iammeghana007-stack",
+   "t": "Railway production TCP timeout to bseindices.com:443 $10 1 replies 15d by iammeghana007-stack",
    "score": -1,
    "notes": [
     "陈旧",
@@ -169,7 +166,7 @@
   },
   {
    "h": "/questions/postgres-volume-i-o-stall-on-us-east4-eq-99dae057",
-   "t": "Postgres volume I/O stall on us-east4-eqdc4a — checkpoint sync 42.7s, factory statement timeouts (exact-aco production) $20 18 replies 15d by gustavo-paris",
+   "t": "Postgres volume I/O stall on us-east4-eqdc4a — checkpoint sync 42.7s, factory statement timeouts (exact-aco production) $20 18 replies 16d by gustavo-paris",
    "score": -2,
    "notes": [
     "陈旧",
