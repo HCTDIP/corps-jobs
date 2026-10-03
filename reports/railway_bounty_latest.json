@@ -1,7 +1,26 @@
 {
- "at": "2026-10-02T20:08:20.083213+00:00",
- "total": 29,
+ "at": "2026-10-03T00:44:55.372414+00:00",
+ "total": 28,
  "hot": [
+  {
+   "h": "/questions/preserve-unrelated-staged-changes-during-17137448",
+   "t": "Preserve unrelated staged changes during a service-specific API deployment $10 0 replies 2h by ikayofoegbu",
+   "score": 7,
+   "notes": [
+    "数小时内",
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/edge-hikari-intermittently-sends-rst-s-3ed8fbb0",
+   "t": "Edge (hikari) intermittently sends RST_STREAM(CANCEL) to Android OkHttp HTTP/2 clients after origin already returned 200",
+   "score": 4,
+   "notes": [
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
   {
    "h": "/questions/unable-to-connect-to-my-railway-service-ae34e727",
    "t": "unable to connect to my railway service using railway ssh",
@@ -14,25 +33,45 @@
  ],
  "new": [
   {
-   "h": "/questions/network-error-when-initiating-app-053f5ca2",
-   "t": "Network Error When Initiating App",
-   "score": 2,
+   "h": "/questions/preserve-unrelated-staged-changes-during-17137448",
+   "t": "Preserve unrelated staged changes during a service-specific API deployment $10 0 replies 2h by ikayofoegbu",
+   "score": 7,
    "notes": [
-    "竞争低"
+    "数小时内",
+    "竞争低",
+    "提问·配置型"
    ]
   },
   {
-   "h": "/questions/sudden-dns-issue-0f13d660",
-   "t": "Sudden DNS issue on production system $20 2 replies 7m by upd",
-   "score": -5,
+   "h": "/questions/edge-hikari-intermittently-sends-rst-s-3ed8fbb0",
+   "t": "Edge (hikari) intermittently sends RST_STREAM(CANCEL) to Android OkHttp HTTP/2 clients after origin already returned 200",
+   "score": 4,
    "notes": [
-    "陈旧",
     "竞争低",
-    "⚠平台基建/已解"
+    "提问·配置型"
    ]
   }
  ],
  "all": [
+  {
+   "h": "/questions/preserve-unrelated-staged-changes-during-17137448",
+   "t": "Preserve unrelated staged changes during a service-specific API deployment $10 0 replies 2h by ikayofoegbu",
+   "score": 7,
+   "notes": [
+    "数小时内",
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/edge-hikari-intermittently-sends-rst-s-3ed8fbb0",
+   "t": "Edge (hikari) intermittently sends RST_STREAM(CANCEL) to Android OkHttp HTTP/2 clients after origin already returned 200",
+   "score": 4,
+   "notes": [
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
   {
    "h": "/questions/unable-to-connect-to-my-railway-service-ae34e727",
    "t": "unable to connect to my railway service using railway ssh",
@@ -91,22 +130,6 @@
    ]
   },
   {
-   "h": "/questions/railway-node-js-deployment-killed-with-e-27cc6bd3",
-   "t": "Railway Node.js Deployment Killed with Exit Code 137 — Possible OOM?",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/template-request-sentr-5e68bdaf",
-   "t": "Template Request: Sentry",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
    "h": "/questions/runtime-v2-injecting-empty-variable-valu-4c0fb717",
    "t": "Runtime V2 injecting empty variable values into the deployment process $10 1 replies 3m by fantasycricketpros",
    "score": 1,
@@ -118,10 +141,10 @@
   },
   {
    "h": "/questions/deployments-fail-healthcheck-repeatedly-3513eae4",
-   "t": "Deployments fail healthcheck repeatedly, new container cannot reach DB $10 0 replies 1d by sales-auditor-backend",
+   "t": "Deployments fail healthcheck repeatedly, new container cannot reach DB $10 0 replies 2d by sales-auditor-backend",
    "score": 0,
    "notes": [
-    "1天内",
+    "2天内",
     "竞争低",
     "⚠平台基建/已解"
    ]
@@ -186,7 +209,7 @@
   },
   {
    "h": "/questions/per-request-ingress-metadata-required-fo-c2c61b5a",
-   "t": "Per-request ingress metadata required for HMRC fraud-prevention headers $20 2 replies 2m by raullomelino",
+   "t": "Per-request ingress metadata required for HMRC fraud-prevention headers $20 2 replies 3m by raullomelino",
    "score": -5,
    "notes": [
     "陈旧",
@@ -257,16 +280,6 @@
   {
    "h": "/questions/domain-problem-74757b03",
    "t": "Domain problem $10 2 replies 7m by julianbessone",
-   "score": -5,
-   "notes": [
-    "陈旧",
-    "竞争低",
-    "⚠平台基建/已解"
-   ]
-  },
-  {
-   "h": "/questions/sudden-dns-issue-0f13d660",
-   "t": "Sudden DNS issue on production system $20 2 replies 7m by upd",
    "score": -5,
    "notes": [
     "陈旧",
