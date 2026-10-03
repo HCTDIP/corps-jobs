@@ -1,6 +1,6 @@
 {
-  "at": "2026-10-03T03:05Z",
-  "runs": 30,
+  "at": "2026-10-03T10:52Z",
+  "runs": 31,
   "open_total": 25,
   "new_count": 0,
   "new_items": [],
@@ -9,14 +9,14 @@
     "$500    [  2 提交] 2026-10-17 | Grow Rewards: Make Your First Move",
     "$620    [  5 提交] 2026-10-23 | Launch & Trade on Daejin: Write a Twitter Thread and",
     "$500    [  7 提交] 2026-10-14 | Make a Video: Season Zero, Pump the Pool 3 and Socia",
-    "$500    [  7 提交] 2026-10-14 | Write a Post: Dust Sweeper + How Social Quests Earn",
     "$300    [  8 提交] 2026-10-06 | Introduce Web3 Projects to Segmento",
-    "$250    [  9 提交] 2026-10-14 | Climb Our Reader Leaderboard for Sep/Oct 2026",
-    "$150    [ 13 提交] 2026-10-06 | Video Editing Challenge",
+    "$500    [ 10 提交] 2026-10-14 | Write a Post: Dust Sweeper + How Social Quests Earn",
+    "$250    [ 10 提交] 2026-10-14 | Climb Our Reader Leaderboard for Sep/Oct 2026",
     "$500    [ 14 提交] 2026-10-04 | Anti Brain Drain Content Bounty - Colosseum Push",
-    "$350    [ 63 提交] 2026-10-17 | Try a Solana Project and Give Useful Feedback | Toke",
-    "$500    [191 提交] 2026-10-07 | Build and Demo a Mermail Agent Skill",
-    "$500    [266 提交] 2026-10-09 | Create twitter Post about the STREAM burn"
+    "$150    [ 16 提交] 2026-10-06 | Video Editing Challenge",
+    "$350    [ 71 提交] 2026-10-17 | Try a Solana Project and Give Useful Feedback | Toke",
+    "$500    [197 提交] 2026-10-07 | Build and Demo a Mermail Agent Skill",
+    "$500    [277 提交] 2026-10-09 | Create twitter Post about the STREAM burn"
   ],
   "repo": "https://github.com/HCTDIP/corps-jobs"
 }
