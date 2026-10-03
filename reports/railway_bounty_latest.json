@@ -1,7 +1,16 @@
 {
- "at": "2026-10-03T12:02:47.641687+00:00",
+ "at": "2026-10-03T16:44:03.804975+00:00",
  "total": 29,
  "hot": [
+  {
+   "h": "/questions/how-to-securely-obtain-a-postgresql-publ-54428f5c",
+   "t": "How to securely obtain a PostgreSQL public root CA without SSH?",
+   "score": 4,
+   "notes": [
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
   {
    "h": "/questions/preserve-unrelated-staged-changes-during-17137448",
    "t": "Preserve unrelated staged changes during a service-specific API deployment",
@@ -32,17 +41,42 @@
  ],
  "new": [
   {
-   "h": "/questions/sudden-dns-issue-0f13d660",
-   "t": "Sudden DNS issue on production system $20 2 replies 7m by upd",
-   "score": -5,
+   "h": "/questions/how-to-securely-obtain-a-postgresql-publ-54428f5c",
+   "t": "How to securely obtain a PostgreSQL public root CA without SSH?",
+   "score": 4,
    "notes": [
-    "陈旧",
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/cannot-connect-to-postgres-e4deb8e3",
+   "t": "cannot connect to postgres",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/edge-routing-outage-the-train-has-not-b4004f80",
+   "t": "Edge routing outage: \"The train has not arrived at the station\" for kattachegirma.uz on 2026-09-30 07:35-07:40 UTC",
+   "score": -2,
+   "notes": [
     "竞争低",
     "⚠平台基建/已解"
    ]
   }
  ],
  "all": [
+  {
+   "h": "/questions/how-to-securely-obtain-a-postgresql-publ-54428f5c",
+   "t": "How to securely obtain a PostgreSQL public root CA without SSH?",
+   "score": 4,
+   "notes": [
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
   {
    "h": "/questions/preserve-unrelated-staged-changes-during-17137448",
    "t": "Preserve unrelated staged changes during a service-specific API deployment",
@@ -71,8 +105,8 @@
    ]
   },
   {
-   "h": "/questions/lisheng-production-up-railway-app-tcp-co-cb2936f2",
-   "t": "lisheng-production.up.railway.app TCP connection timed‑out, edge routing broken",
+   "h": "/questions/cannot-connect-to-postgres-e4deb8e3",
+   "t": "cannot connect to postgres",
    "score": 2,
    "notes": [
     "竞争低"
@@ -87,32 +121,16 @@
    ]
   },
   {
+   "h": "/questions/lisheng-production-up-railway-app-tcp-co-cb2936f2",
+   "t": "lisheng-production.up.railway.app TCP connection timed‑out, edge routing broken",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
    "h": "/questions/network-error-when-initiating-app-053f5ca2",
    "t": "Network Error When Initiating App",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/postgres-pitr-backups-cause-query-stalls-a2ce84a8",
-   "t": "Postgres PITR backups cause query stalls. Can we fix the time at 03:00 UTC?",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/edge-sin1-tls-handshake-10-28s-timeou-a72db32f",
-   "t": "Edge sin1: TLS handshake 10–28s / timeouts to *.up.railway.app — app responds in ~40ms",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/selective-outbound-tcp-443-timeouts-from-bad1a2a1",
-   "t": "Selective outbound TCP/443 timeouts from sfo — private investigation requested",
    "score": 2,
    "notes": [
     "竞争低"
@@ -164,6 +182,15 @@
     "陈旧",
     "已18回复",
     "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/edge-routing-outage-the-train-has-not-b4004f80",
+   "t": "Edge routing outage: \"The train has not arrived at the station\" for kattachegirma.uz on 2026-09-30 07:35-07:40 UTC",
+   "score": -2,
+   "notes": [
+    "竞争低",
+    "⚠平台基建/已解"
    ]
   },
   {
