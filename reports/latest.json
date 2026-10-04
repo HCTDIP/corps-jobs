@@ -1,6 +1,6 @@
 {
-  "at": "2026-10-03T20:24Z",
-  "runs": 33,
+  "at": "2026-10-04T03:33Z",
+  "runs": 34,
   "open_total": 26,
   "new_count": 0,
   "new_items": [],
@@ -12,11 +12,11 @@
     "$300    [  8 提交] 2026-10-06 | Introduce Web3 Projects to Segmento",
     "$250    [ 10 提交] 2026-10-14 | Climb Our Reader Leaderboard for Sep/Oct 2026",
     "$500    [ 14 提交] 2026-10-04 | Anti Brain Drain Content Bounty - Colosseum Push",
-    "$500    [ 14 提交] 2026-10-14 | Write a Post: Dust Sweeper + How Social Quests Earn",
-    "$150    [ 18 提交] 2026-10-06 | Video Editing Challenge",
-    "$350    [ 77 提交] 2026-10-17 | Try a Solana Project and Give Useful Feedback | Toke",
+    "$500    [ 16 提交] 2026-10-14 | Write a Post: Dust Sweeper + How Social Quests Earn",
+    "$150    [ 20 提交] 2026-10-06 | Video Editing Challenge",
+    "$350    [ 80 提交] 2026-10-17 | Try a Solana Project and Give Useful Feedback | Toke",
     "$500    [197 提交] 2026-10-07 | Build and Demo a Mermail Agent Skill",
-    "$500    [295 提交] 2026-10-09 | Create twitter Post about the STREAM burn"
+    "$500    [309 提交] 2026-10-09 | Create twitter Post about the STREAM burn"
   ],
   "repo": "https://github.com/HCTDIP/corps-jobs"
 }
