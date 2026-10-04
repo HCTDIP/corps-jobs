@@ -1,28 +1,19 @@
 {
- "at": "2026-10-04T12:53:09.962467+00:00",
- "total": 28,
+ "at": "2026-10-04T18:48:16.085188+00:00",
+ "total": 29,
  "hot": [
   {
-   "h": "/questions/sandboxed-chromium-fails-with-eacces-on-70223766",
-   "t": "Sandboxed Chromium fails with EACCES on Amsterdam V2 $10 0 replies 6h by speklapje23",
-   "score": 5,
+   "h": "/questions/non-root-chromium-sandbox-startup-fails-2fdf82e6",
+   "t": "Non-root Chromium sandbox startup fails: credentials.cc Permission denied",
+   "score": 4,
    "notes": [
-    "数小时内",
-    "竞争低"
+    "竞争低",
+    "提问·配置型"
    ]
   },
   {
-   "h": "/questions/official-cpu-ram-limit-write-readback-a-ce33e399",
-   "t": "Official CPU/RAM limit write, readback and reconciliation contract for Hobby $10 0 replies 20h by richardcallen",
-   "score": 5,
-   "notes": [
-    "数小时内",
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/preserve-unrelated-staged-changes-during-17137448",
-   "t": "Preserve unrelated staged changes during a service-specific API deployment",
+   "h": "/questions/how-to-securely-obtain-a-postgresql-publ-54428f5c",
+   "t": "How to securely obtain a PostgreSQL public root CA without SSH?",
    "score": 4,
    "notes": [
     "竞争低",
@@ -32,45 +23,8 @@
  ],
  "new": [
   {
-   "h": "/questions/sandboxed-chromium-fails-with-eacces-on-70223766",
-   "t": "Sandboxed Chromium fails with EACCES on Amsterdam V2 $10 0 replies 6h by speklapje23",
-   "score": 5,
-   "notes": [
-    "数小时内",
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/template-request-sentr-5e68bdaf",
-   "t": "Template Request: Sentry",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  }
- ],
- "all": [
-  {
-   "h": "/questions/sandboxed-chromium-fails-with-eacces-on-70223766",
-   "t": "Sandboxed Chromium fails with EACCES on Amsterdam V2 $10 0 replies 6h by speklapje23",
-   "score": 5,
-   "notes": [
-    "数小时内",
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/official-cpu-ram-limit-write-readback-a-ce33e399",
-   "t": "Official CPU/RAM limit write, readback and reconciliation contract for Hobby $10 0 replies 20h by richardcallen",
-   "score": 5,
-   "notes": [
-    "数小时内",
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/preserve-unrelated-staged-changes-during-17137448",
-   "t": "Preserve unrelated staged changes during a service-specific API deployment",
+   "h": "/questions/non-root-chromium-sandbox-startup-fails-2fdf82e6",
+   "t": "Non-root Chromium sandbox startup fails: credentials.cc Permission denied",
    "score": 4,
    "notes": [
     "竞争低",
@@ -78,24 +32,83 @@
    ]
   },
   {
-   "h": "/questions/template-request-sentr-5e68bdaf",
-   "t": "Template Request: Sentry",
+   "h": "/questions/how-to-securely-obtain-a-postgresql-publ-54428f5c",
+   "t": "How to securely obtain a PostgreSQL public root CA without SSH?",
+   "score": 4,
+   "notes": [
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/page-couldnt-load-reload-to-try-agin-o-004695bb",
+   "t": "page couldnt load. reload to try agin, or go back. why this happened. i",
    "score": 2,
    "notes": [
     "竞争低"
    ]
   },
   {
-   "h": "/questions/railway-node-js-deployment-killed-with-e-27cc6bd3",
-   "t": "Railway Node.js Deployment Killed with Exit Code 137 — Possible OOM?",
+   "h": "/questions/mysql-connection-2caac7c7",
+   "t": "Mysql connection",
    "score": 2,
    "notes": [
     "竞争低"
    ]
   },
   {
-   "h": "/questions/health-endpoint-34d9b612",
-   "t": "health endpoint",
+   "h": "/questions/sudden-dns-issue-0f13d660",
+   "t": "Sudden DNS issue on production system $20 2 replies 8m by upd",
+   "score": -5,
+   "notes": [
+    "陈旧",
+    "竞争低",
+    "⚠平台基建/已解"
+   ]
+  },
+  {
+   "h": "/questions/n8n-self-hosted-stopeed-working-2dbedbe7",
+   "t": "n8n self-hosted stopeed working $10 1 replies 8m by transformatiive",
+   "score": -5,
+   "notes": [
+    "陈旧",
+    "竞争低",
+    "⚠平台基建/已解"
+   ]
+  },
+  {
+   "h": "/questions/build-failing-because-npm-dependencies-a-4607a810",
+   "t": "Build failing because npm dependencies aren't being installed properly $10 2 replies 8m by davekaro",
+   "score": -5,
+   "notes": [
+    "陈旧",
+    "竞争低",
+    "⚠平台基建/已解"
+   ]
+  }
+ ],
+ "all": [
+  {
+   "h": "/questions/non-root-chromium-sandbox-startup-fails-2fdf82e6",
+   "t": "Non-root Chromium sandbox startup fails: credentials.cc Permission denied",
+   "score": 4,
+   "notes": [
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/how-to-securely-obtain-a-postgresql-publ-54428f5c",
+   "t": "How to securely obtain a PostgreSQL public root CA without SSH?",
+   "score": 4,
+   "notes": [
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/page-couldnt-load-reload-to-try-agin-o-004695bb",
+   "t": "page couldnt load. reload to try agin, or go back. why this happened. i",
    "score": 2,
    "notes": [
     "竞争低"
@@ -110,8 +123,32 @@
    ]
   },
   {
+   "h": "/questions/railway-production-tcp-timeout-to-bseind-0db2126d",
+   "t": "Railway production TCP timeout to bseindices.com:443",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/mysql-connection-2caac7c7",
+   "t": "Mysql connection",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
    "h": "/questions/template-health-36-but-fresh-deploys-a-e28fc6dc",
    "t": "Template Health 36%, but fresh deploys are healthy. What's failing?",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/official-cpu-ram-limit-write-readback-a-ce33e399",
+   "t": "Official CPU/RAM limit write, readback and reconciliation contract for Hobby",
    "score": 2,
    "notes": [
     "竞争低"
@@ -137,15 +174,6 @@
    ]
   },
   {
-   "h": "/questions/railway-production-tcp-timeout-to-bseind-0db2126d",
-   "t": "Railway production TCP timeout to bseindices.com:443 $10 1 replies 16d by iammeghana007-stack",
-   "score": -1,
-   "notes": [
-    "陈旧",
-    "竞争低"
-   ]
-  },
-  {
    "h": "/questions/postgres-volume-i-o-stall-on-us-east4-eq-99dae057",
    "t": "Postgres volume I/O stall on us-east4-eqdc4a — checkpoint sync 42.7s, factory statement timeouts (exact-aco production) $20 18 replies 17d by gustavo-paris",
    "score": -2,
@@ -158,15 +186,6 @@
   {
    "h": "/questions/deployments-fail-healthcheck-repeatedly-3513eae4",
    "t": "Deployments fail healthcheck repeatedly, new container cannot reach DB",
-   "score": -2,
-   "notes": [
-    "竞争低",
-    "⚠平台基建/已解"
-   ]
-  },
-  {
-   "h": "/questions/confirm-native-transfer-charges-for-volu-41d8367d",
-   "t": "Confirm native transfer charges for volume backup restores and cross-region move",
    "score": -2,
    "notes": [
     "竞争低",
@@ -276,6 +295,36 @@
   {
    "h": "/questions/domain-problem-74757b03",
    "t": "Domain problem $10 2 replies 7m by julianbessone",
+   "score": -5,
+   "notes": [
+    "陈旧",
+    "竞争低",
+    "⚠平台基建/已解"
+   ]
+  },
+  {
+   "h": "/questions/sudden-dns-issue-0f13d660",
+   "t": "Sudden DNS issue on production system $20 2 replies 8m by upd",
+   "score": -5,
+   "notes": [
+    "陈旧",
+    "竞争低",
+    "⚠平台基建/已解"
+   ]
+  },
+  {
+   "h": "/questions/n8n-self-hosted-stopeed-working-2dbedbe7",
+   "t": "n8n self-hosted stopeed working $10 1 replies 8m by transformatiive",
+   "score": -5,
+   "notes": [
+    "陈旧",
+    "竞争低",
+    "⚠平台基建/已解"
+   ]
+  },
+  {
+   "h": "/questions/build-failing-because-npm-dependencies-a-4607a810",
+   "t": "Build failing because npm dependencies aren't being installed properly $10 2 replies 8m by davekaro",
    "score": -5,
    "notes": [
     "陈旧",
