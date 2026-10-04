@@ -1,10 +1,10 @@
 {
- "at": "2026-10-03T21:46:29.880125+00:00",
- "total": 27,
+ "at": "2026-10-04T06:22:07.607555+00:00",
+ "total": 28,
  "hot": [
   {
    "h": "/questions/official-cpu-ram-limit-write-readback-a-ce33e399",
-   "t": "Official CPU/RAM limit write, readback and reconciliation contract for Hobby $10 0 replies 5h by richardcallen",
+   "t": "Official CPU/RAM limit write, readback and reconciliation contract for Hobby $10 0 replies 13h by richardcallen",
    "score": 5,
    "notes": [
     "数小时内",
@@ -32,43 +32,19 @@
  ],
  "new": [
   {
-   "h": "/questions/official-cpu-ram-limit-write-readback-a-ce33e399",
-   "t": "Official CPU/RAM limit write, readback and reconciliation contract for Hobby $10 0 replies 5h by richardcallen",
-   "score": 5,
-   "notes": [
-    "数小时内",
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/template-health-36-but-fresh-deploys-a-e28fc6dc",
-   "t": "Template Health 36%, but fresh deploys are healthy. What's failing?",
+   "h": "/questions/production-deployment-resolves-dockerfil-0b8305f5",
+   "t": "Production deployment resolves DOCKERFILE service as RAILPACK and fails at BUILD_IMAGE",
    "score": 2,
    "notes": [
     "竞争低"
    ]
   },
   {
-   "h": "/questions/railway-node-js-deployment-killed-with-e-27cc6bd3",
-   "t": "Railway Node.js Deployment Killed with Exit Code 137 — Possible OOM?",
-   "score": 2,
+   "h": "/questions/sudden-dns-issue-0f13d660",
+   "t": "Sudden DNS issue on production system $20 2 replies 7m by upd",
+   "score": -5,
    "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/health-endpoint-34d9b612",
-   "t": "health endpoint",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/confirm-native-transfer-charges-for-volu-41d8367d",
-   "t": "Confirm native transfer charges for volume backup restores and cross-region move",
-   "score": -2,
-   "notes": [
+    "陈旧",
     "竞争低",
     "⚠平台基建/已解"
    ]
@@ -77,7 +53,7 @@
  "all": [
   {
    "h": "/questions/official-cpu-ram-limit-write-readback-a-ce33e399",
-   "t": "Official CPU/RAM limit write, readback and reconciliation contract for Hobby $10 0 replies 5h by richardcallen",
+   "t": "Official CPU/RAM limit write, readback and reconciliation contract for Hobby $10 0 replies 13h by richardcallen",
    "score": 5,
    "notes": [
     "数小时内",
@@ -103,6 +79,14 @@
    ]
   },
   {
+   "h": "/questions/production-deployment-resolves-dockerfil-0b8305f5",
+   "t": "Production deployment resolves DOCKERFILE service as RAILPACK and fails at BUILD_IMAGE",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
    "h": "/questions/template-health-36-but-fresh-deploys-a-e28fc6dc",
    "t": "Template Health 36%, but fresh deploys are healthy. What's failing?",
    "score": 2,
@@ -127,14 +111,6 @@
    ]
   },
   {
-   "h": "/questions/cannot-connect-to-postgres-e4deb8e3",
-   "t": "cannot connect to postgres",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
    "h": "/questions/runtime-v2-injecting-empty-variable-valu-4c0fb717",
    "t": "Runtime V2 injecting empty variable values into the deployment process $10 1 replies 3m by fantasycricketpros",
    "score": 1,
@@ -146,7 +122,7 @@
   },
   {
    "h": "/questions/deploy-failure-6bb88dbe",
-   "t": "Deploy failure $10 1 replies 9d by hosikjosik",
+   "t": "Deploy failure $10 1 replies 10d by hosikjosik",
    "score": -1,
    "notes": [
     "陈旧",
@@ -155,7 +131,7 @@
   },
   {
    "h": "/questions/railway-production-tcp-timeout-to-bseind-0db2126d",
-   "t": "Railway production TCP timeout to bseindices.com:443 $10 1 replies 15d by iammeghana007-stack",
+   "t": "Railway production TCP timeout to bseindices.com:443 $10 1 replies 16d by iammeghana007-stack",
    "score": -1,
    "notes": [
     "陈旧",
@@ -164,12 +140,21 @@
   },
   {
    "h": "/questions/postgres-volume-i-o-stall-on-us-east4-eq-99dae057",
-   "t": "Postgres volume I/O stall on us-east4-eqdc4a — checkpoint sync 42.7s, factory statement timeouts (exact-aco production) $20 18 replies 16d by gustavo-paris",
+   "t": "Postgres volume I/O stall on us-east4-eqdc4a — checkpoint sync 42.7s, factory statement timeouts (exact-aco production) $20 18 replies 17d by gustavo-paris",
    "score": -2,
    "notes": [
     "陈旧",
     "已18回复",
     "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/deployments-fail-healthcheck-repeatedly-3513eae4",
+   "t": "Deployments fail healthcheck repeatedly, new container cannot reach DB",
+   "score": -2,
+   "notes": [
+    "竞争低",
+    "⚠平台基建/已解"
    ]
   },
   {
@@ -199,16 +184,6 @@
    "notes": [
     "陈旧",
     "已5回复"
-   ]
-  },
-  {
-   "h": "/questions/deployments-fail-healthcheck-repeatedly-3513eae4",
-   "t": "Deployments fail healthcheck repeatedly, new container cannot reach DB $10 0 replies 3d by sales-auditor-backend",
-   "score": -5,
-   "notes": [
-    "陈旧",
-    "竞争低",
-    "⚠平台基建/已解"
    ]
   },
   {
@@ -294,6 +269,16 @@
   {
    "h": "/questions/domain-problem-74757b03",
    "t": "Domain problem $10 2 replies 7m by julianbessone",
+   "score": -5,
+   "notes": [
+    "陈旧",
+    "竞争低",
+    "⚠平台基建/已解"
+   ]
+  },
+  {
+   "h": "/questions/sudden-dns-issue-0f13d660",
+   "t": "Sudden DNS issue on production system $20 2 replies 7m by upd",
    "score": -5,
    "notes": [
     "陈旧",
