@@ -1,29 +1,22 @@
 {
-  "at": "2026-10-05T13:08Z",
-  "runs": 39,
-  "open_total": 26,
-  "new_count": 3,
-  "new_items": [
-    "$500    [  1 提交] [有地区分会] Develop Solana web3 Project MVP & Pitch for KUBG UNI Vib",
-    "$500    [  1 提交] [无地区限制] Write a Thread or Long Post: Price Comparison",
-    "$500    [  0 提交] [有地区分会] Bring Your Friends to Segmento"
-  ],
+  "at": "2026-10-05T23:30Z",
+  "runs": 40,
+  "open_total": 24,
+  "new_count": 0,
+  "new_items": [],
   "global_candidates": [
-    "$500    [  1 提交] [有地区分会] Develop Solana web3 Project MVP & Pitch for KUBG UNI Vib",
-    "$500    [  1 提交] [无地区限制] Write a Thread or Long Post: Price Comparison",
-    "$500    [  0 提交] [有地区分会] Bring Your Friends to Segmento",
     "$5000   [  1 提交] 2026-10-13 | Crypto World's Fair Pakistan Track",
-    "$500    [  1 提交] 2026-10-14 | Write a Thread or Long Post: Price Comparison",
-    "$500    [  4 提交] 2026-10-17 | Grow Rewards: Make Your First Move",
     "$620    [  5 提交] 2026-10-23 | Launch & Trade on Daejin: Write a Twitter Thread and",
-    "$250    [ 11 提交] 2026-10-14 | Climb Our Reader Leaderboard for Sep/Oct 2026",
-    "$500    [ 12 提交] 2026-10-14 | Make a Video: Season Zero, Pump the Pool 3 and Socia",
+    "$500    [  7 提交] 2026-10-14 | Write a Thread or Long Post: Price Comparison",
+    "$500    [  7 提交] 2026-10-17 | Grow Rewards: Make Your First Move",
+    "$250    [ 12 提交] 2026-10-14 | Climb Our Reader Leaderboard for Sep/Oct 2026",
     "$300    [ 13 提交] 2026-10-06 | Introduce Web3 Projects to Segmento",
-    "$500    [ 21 提交] 2026-10-14 | Write a Post: Dust Sweeper + How Social Quests Earn",
-    "$150    [ 27 提交] 2026-10-06 | Video Editing Challenge",
-    "$350    [ 95 提交] 2026-10-17 | Try a Solana Project and Give Useful Feedback | Toke",
-    "$500    [211 提交] 2026-10-07 | Build and Demo a Mermail Agent Skill",
-    "$500    [367 提交] 2026-10-09 | Create twitter Post about the STREAM burn"
+    "$500    [ 15 提交] 2026-10-14 | Make a Video: Season Zero, Pump the Pool 3 and Socia",
+    "$500    [ 24 提交] 2026-10-14 | Write a Post: Dust Sweeper + How Social Quests Earn",
+    "$150    [ 30 提交] 2026-10-06 | Video Editing Challenge",
+    "$350    [ 99 提交] 2026-10-17 | Try a Solana Project and Give Useful Feedback | Toke",
+    "$500    [215 提交] 2026-10-07 | Build and Demo a Mermail Agent Skill",
+    "$500    [390 提交] 2026-10-09 | Create twitter Post about the STREAM burn"
   ],
   "repo": "https://github.com/HCTDIP/corps-jobs"
 }
