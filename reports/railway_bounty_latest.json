@@ -1,10 +1,20 @@
 {
- "at": "2026-10-05T15:17:27.814913+00:00",
+ "at": "2026-10-05T22:11:58.941242+00:00",
  "total": 28,
  "hot": [
   {
+   "h": "/questions/telegram-bot-deploy-fails-with-secret-to-24b0a544",
+   "t": "Telegram bot deploy fails with secret TOKEN not found and wrong bot behavior $10 0 replies 3h by nekitnalogin-glitch",
+   "score": 7,
+   "notes": [
+    "数小时内",
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
+  {
    "h": "/questions/intermittent-new-connection-failures-at-5c949be2",
-   "t": "Intermittent new-connection failures at edge (sin1) since Oct 1 — instance healthy $10 0 replies 8h by jimitshah7",
+   "t": "Intermittent new-connection failures at edge (sin1) since Oct 1 — instance healthy $10 0 replies 15h by jimitshah7",
    "score": 5,
    "notes": [
     "数小时内",
@@ -14,27 +24,65 @@
  ],
  "new": [
   {
+   "h": "/questions/telegram-bot-deploy-fails-with-secret-to-24b0a544",
+   "t": "Telegram bot deploy fails with secret TOKEN not found and wrong bot behavior $10 0 replies 3h by nekitnalogin-glitch",
+   "score": 7,
+   "notes": [
+    "数小时内",
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/not-updating-cache-05aee63f",
+   "t": "Not updating cache",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/twenty-crm-template-success-rate-dropped-e850cabd",
+   "t": "Twenty CRM template success rate dropped to 68%, but fresh installs work",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/safe-conversion-of-existing-image-backed-f2ebcaa2",
+   "t": "Safe conversion of existing image-backed service to GitHub source",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/deployment-failed-732bfa3c",
+   "t": "deployment failed",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  }
+ ],
+ "all": [
+  {
+   "h": "/questions/telegram-bot-deploy-fails-with-secret-to-24b0a544",
+   "t": "Telegram bot deploy fails with secret TOKEN not found and wrong bot behavior $10 0 replies 3h by nekitnalogin-glitch",
+   "score": 7,
+   "notes": [
+    "数小时内",
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
+  {
    "h": "/questions/intermittent-new-connection-failures-at-5c949be2",
-   "t": "Intermittent new-connection failures at edge (sin1) since Oct 1 — instance healthy $10 0 replies 8h by jimitshah7",
+   "t": "Intermittent new-connection failures at edge (sin1) since Oct 1 — instance healthy $10 0 replies 15h by jimitshah7",
    "score": 5,
    "notes": [
     "数小时内",
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/network-error-when-initiating-app-053f5ca2",
-   "t": "Network Error When Initiating App",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/questions-about-enforced-outbound-networ-e8d4dfc4",
-   "t": "Questions about enforced outbound network restrictions and safely pausing Cron jobs",
-   "score": 2,
-   "notes": [
     "竞争低"
    ]
   },
@@ -47,27 +95,24 @@
    ]
   },
   {
-   "h": "/questions/builds-on-builder-uwqkzv-crash-in-next-b-c3dfe643",
-   "t": "Builds on builder-uwqkzv crash in next build with \"invalid table size\" since Oct 1 ~11:00 UTC",
+   "h": "/questions/not-updating-cache-05aee63f",
+   "t": "Not updating cache",
    "score": 2,
    "notes": [
     "竞争低"
    ]
-  }
- ],
- "all": [
+  },
   {
-   "h": "/questions/intermittent-new-connection-failures-at-5c949be2",
-   "t": "Intermittent new-connection failures at edge (sin1) since Oct 1 — instance healthy $10 0 replies 8h by jimitshah7",
-   "score": 5,
+   "h": "/questions/twenty-crm-template-success-rate-dropped-e850cabd",
+   "t": "Twenty CRM template success rate dropped to 68%, but fresh installs work",
+   "score": 2,
    "notes": [
-    "数小时内",
     "竞争低"
    ]
   },
   {
-   "h": "/questions/network-error-when-initiating-app-053f5ca2",
-   "t": "Network Error When Initiating App",
+   "h": "/questions/safe-conversion-of-existing-image-backed-f2ebcaa2",
+   "t": "Safe conversion of existing image-backed service to GitHub source",
    "score": 2,
    "notes": [
     "竞争低"
@@ -82,22 +127,6 @@
    ]
   },
   {
-   "h": "/questions/questions-about-enforced-outbound-networ-e8d4dfc4",
-   "t": "Questions about enforced outbound network restrictions and safely pausing Cron jobs",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/failed-builds-06202e65",
-   "t": "Failed builds",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
    "h": "/questions/builds-on-builder-uwqkzv-crash-in-next-b-c3dfe643",
    "t": "Builds on builder-uwqkzv crash in next build with \"invalid table size\" since Oct 1 ~11:00 UTC",
    "score": 2,
@@ -106,24 +135,16 @@
    ]
   },
   {
-   "h": "/questions/read-only-way-to-verify-branch-and-stage-f607053e",
-   "t": "Read-only way to verify branch and staged patch metadata?",
+   "h": "/questions/deployment-failed-732bfa3c",
+   "t": "deployment failed",
    "score": 2,
    "notes": [
     "竞争低"
    ]
   },
   {
-   "h": "/questions/production-deployment-resolves-dockerfil-0b8305f5",
-   "t": "Production deployment resolves DOCKERFILE service as RAILPACK and fails at BUILD_IMAGE",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/template-health-36-but-fresh-deploys-a-e28fc6dc",
-   "t": "Template Health 36%, but fresh deploys are healthy. What's failing?",
+   "h": "/questions/network-error-when-initiating-app-053f5ca2",
+   "t": "Network Error When Initiating App",
    "score": 2,
    "notes": [
     "竞争低"
@@ -279,16 +300,6 @@
    ]
   },
   {
-   "h": "/questions/n8n-self-hosted-stopeed-working-2dbedbe7",
-   "t": "n8n self-hosted stopeed working $10 1 replies 8m by transformatiive",
-   "score": -5,
-   "notes": [
-    "陈旧",
-    "竞争低",
-    "⚠平台基建/已解"
-   ]
-  },
-  {
    "h": "/questions/point-in-time-recovery-backup-restore-08522372",
    "t": "Point-in-time recovery / backup restore for a Postgres service — recover rows deleted from sessions / session_events $20 6 replies 4m by mcampolongo-rg",
    "score": -8,
@@ -310,7 +321,7 @@
   },
   {
    "h": "/questions/server-performance-issue-on-pro-plan-p-0aaac6e5",
-   "t": "Server Performance Issue on Pro Plan – Project B Not Responding / Login Failing $30 5 replies 7m by chaudharyali14",
+   "t": "Server Performance Issue on Pro Plan – Project B Not Responding / Login Failing $30 5 replies 8m by chaudharyali14",
    "score": -8,
    "notes": [
     "陈旧",
