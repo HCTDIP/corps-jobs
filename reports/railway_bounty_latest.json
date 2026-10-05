@@ -1,5 +1,5 @@
 {
- "at": "2026-10-05T00:10:50.028255+00:00",
+ "at": "2026-10-05T06:14:19.599710+00:00",
  "total": 28,
  "hot": [
   {
@@ -14,8 +14,8 @@
  ],
  "new": [
   {
-   "h": "/questions/some-of-my-customers-are-seeing-ssl-prot-03e8f69c",
-   "t": "Some of my customers are seeing SSL protocol errors on NewsMasher.com",
+   "h": "/questions/read-only-way-to-verify-branch-and-stage-f607053e",
+   "t": "Read-only way to verify branch and staged patch metadata?",
    "score": 2,
    "notes": [
     "竞争低"
@@ -33,6 +33,30 @@
    ]
   },
   {
+   "h": "/questions/production-deployment-resolves-dockerfil-0b8305f5",
+   "t": "Production deployment resolves DOCKERFILE service as RAILPACK and fails at BUILD_IMAGE",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/read-only-way-to-verify-branch-and-stage-f607053e",
+   "t": "Read-only way to verify branch and staged patch metadata?",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/template-health-36-but-fresh-deploys-a-e28fc6dc",
+   "t": "Template Health 36%, but fresh deploys are healthy. What's failing?",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
    "h": "/questions/some-of-my-customers-are-seeing-ssl-prot-03e8f69c",
    "t": "Some of my customers are seeing SSL protocol errors on NewsMasher.com",
    "score": 2,
@@ -43,14 +67,6 @@
   {
    "h": "/questions/page-couldnt-load-reload-to-try-agin-o-004695bb",
    "t": "page couldnt load. reload to try agin, or go back. why this happened. i",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/production-deployment-resolves-dockerfil-0b8305f5",
-   "t": "Production deployment resolves DOCKERFILE service as RAILPACK and fails at BUILD_IMAGE",
    "score": 2,
    "notes": [
     "竞争低"
@@ -73,14 +89,6 @@
    ]
   },
   {
-   "h": "/questions/template-health-36-but-fresh-deploys-a-e28fc6dc",
-   "t": "Template Health 36%, but fresh deploys are healthy. What's failing?",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
    "h": "/questions/runtime-v2-injecting-empty-variable-valu-4c0fb717",
    "t": "Runtime V2 injecting empty variable values into the deployment process $10 1 replies 3m by fantasycricketpros",
    "score": 1,
@@ -92,7 +100,7 @@
   },
   {
    "h": "/questions/deploy-failure-6bb88dbe",
-   "t": "Deploy failure $10 1 replies 10d by hosikjosik",
+   "t": "Deploy failure $10 1 replies 11d by hosikjosik",
    "score": -1,
    "notes": [
     "陈旧",
@@ -101,21 +109,12 @@
   },
   {
    "h": "/questions/postgres-volume-i-o-stall-on-us-east4-eq-99dae057",
-   "t": "Postgres volume I/O stall on us-east4-eqdc4a — checkpoint sync 42.7s, factory statement timeouts (exact-aco production) $20 18 replies 17d by gustavo-paris",
+   "t": "Postgres volume I/O stall on us-east4-eqdc4a — checkpoint sync 42.7s, factory statement timeouts (exact-aco production) $20 18 replies 18d by gustavo-paris",
    "score": -2,
    "notes": [
     "陈旧",
     "已18回复",
     "提问·配置型"
-   ]
-  },
-  {
-   "h": "/questions/deployments-fail-healthcheck-repeatedly-3513eae4",
-   "t": "Deployments fail healthcheck repeatedly, new container cannot reach DB",
-   "score": -2,
-   "notes": [
-    "竞争低",
-    "⚠平台基建/已解"
    ]
   },
   {
