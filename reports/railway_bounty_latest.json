@@ -1,21 +1,54 @@
 {
- "at": "2026-10-05T06:14:19.599710+00:00",
+ "at": "2026-10-05T15:17:27.814913+00:00",
  "total": 28,
  "hot": [
   {
-   "h": "/questions/non-root-chromium-sandbox-startup-fails-2fdf82e6",
-   "t": "Non-root Chromium sandbox startup fails: credentials.cc Permission denied",
-   "score": 4,
+   "h": "/questions/intermittent-new-connection-failures-at-5c949be2",
+   "t": "Intermittent new-connection failures at edge (sin1) since Oct 1 — instance healthy $10 0 replies 8h by jimitshah7",
+   "score": 5,
    "notes": [
-    "竞争低",
-    "提问·配置型"
+    "数小时内",
+    "竞争低"
    ]
   }
  ],
  "new": [
   {
-   "h": "/questions/read-only-way-to-verify-branch-and-stage-f607053e",
-   "t": "Read-only way to verify branch and staged patch metadata?",
+   "h": "/questions/intermittent-new-connection-failures-at-5c949be2",
+   "t": "Intermittent new-connection failures at edge (sin1) since Oct 1 — instance healthy $10 0 replies 8h by jimitshah7",
+   "score": 5,
+   "notes": [
+    "数小时内",
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/network-error-when-initiating-app-053f5ca2",
+   "t": "Network Error When Initiating App",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/questions-about-enforced-outbound-networ-e8d4dfc4",
+   "t": "Questions about enforced outbound network restrictions and safely pausing Cron jobs",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/failed-builds-06202e65",
+   "t": "Failed builds",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/builds-on-builder-uwqkzv-crash-in-next-b-c3dfe643",
+   "t": "Builds on builder-uwqkzv crash in next build with \"invalid table size\" since Oct 1 ~11:00 UTC",
    "score": 2,
    "notes": [
     "竞争低"
@@ -24,33 +57,17 @@
  ],
  "all": [
   {
-   "h": "/questions/non-root-chromium-sandbox-startup-fails-2fdf82e6",
-   "t": "Non-root Chromium sandbox startup fails: credentials.cc Permission denied",
-   "score": 4,
+   "h": "/questions/intermittent-new-connection-failures-at-5c949be2",
+   "t": "Intermittent new-connection failures at edge (sin1) since Oct 1 — instance healthy $10 0 replies 8h by jimitshah7",
+   "score": 5,
    "notes": [
-    "竞争低",
-    "提问·配置型"
-   ]
-  },
-  {
-   "h": "/questions/production-deployment-resolves-dockerfil-0b8305f5",
-   "t": "Production deployment resolves DOCKERFILE service as RAILPACK and fails at BUILD_IMAGE",
-   "score": 2,
-   "notes": [
+    "数小时内",
     "竞争低"
    ]
   },
   {
-   "h": "/questions/read-only-way-to-verify-branch-and-stage-f607053e",
-   "t": "Read-only way to verify branch and staged patch metadata?",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/template-health-36-but-fresh-deploys-a-e28fc6dc",
-   "t": "Template Health 36%, but fresh deploys are healthy. What's failing?",
+   "h": "/questions/network-error-when-initiating-app-053f5ca2",
+   "t": "Network Error When Initiating App",
    "score": 2,
    "notes": [
     "竞争低"
@@ -65,24 +82,48 @@
    ]
   },
   {
-   "h": "/questions/page-couldnt-load-reload-to-try-agin-o-004695bb",
-   "t": "page couldnt load. reload to try agin, or go back. why this happened. i",
+   "h": "/questions/questions-about-enforced-outbound-networ-e8d4dfc4",
+   "t": "Questions about enforced outbound network restrictions and safely pausing Cron jobs",
    "score": 2,
    "notes": [
     "竞争低"
    ]
   },
   {
-   "h": "/questions/railway-production-tcp-timeout-to-bseind-0db2126d",
-   "t": "Railway production TCP timeout to bseindices.com:443",
+   "h": "/questions/failed-builds-06202e65",
+   "t": "Failed builds",
    "score": 2,
    "notes": [
     "竞争低"
    ]
   },
   {
-   "h": "/questions/mysql-connection-2caac7c7",
-   "t": "Mysql connection",
+   "h": "/questions/builds-on-builder-uwqkzv-crash-in-next-b-c3dfe643",
+   "t": "Builds on builder-uwqkzv crash in next build with \"invalid table size\" since Oct 1 ~11:00 UTC",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/read-only-way-to-verify-branch-and-stage-f607053e",
+   "t": "Read-only way to verify branch and staged patch metadata?",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/production-deployment-resolves-dockerfil-0b8305f5",
+   "t": "Production deployment resolves DOCKERFILE service as RAILPACK and fails at BUILD_IMAGE",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/template-health-36-but-fresh-deploys-a-e28fc6dc",
+   "t": "Template Health 36%, but fresh deploys are healthy. What's failing?",
    "score": 2,
    "notes": [
     "竞争低"
@@ -240,16 +281,6 @@
   {
    "h": "/questions/n8n-self-hosted-stopeed-working-2dbedbe7",
    "t": "n8n self-hosted stopeed working $10 1 replies 8m by transformatiive",
-   "score": -5,
-   "notes": [
-    "陈旧",
-    "竞争低",
-    "⚠平台基建/已解"
-   ]
-  },
-  {
-   "h": "/questions/build-failing-because-npm-dependencies-a-4607a810",
-   "t": "Build failing because npm dependencies aren't being installed properly $10 2 replies 8m by davekaro",
    "score": -5,
    "notes": [
     "陈旧",
