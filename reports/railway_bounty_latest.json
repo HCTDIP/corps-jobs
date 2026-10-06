@@ -1,13 +1,41 @@
 {
- "at": "2026-10-06T06:53:06.589324+00:00",
- "total": 29,
+ "at": "2026-10-06T16:16:52.297375+00:00",
+ "total": 28,
  "hot": [
   {
-   "h": "/questions/di49-postgresql-maintenance-boundary-n-30d76832",
-   "t": "DI49 PostgreSQL maintenance boundary — need provider-supported exclusion of all writers and privileged DDL actors $10 0 replies 2h by Anonymous",
+   "h": "/questions/supported-reversible-ingress-isolation-d-2b3a3def",
+   "t": "Supported reversible ingress isolation during deployment and rollback $10 0 replies 1h by axie35128-ux",
    "score": 7,
    "notes": [
     "数小时内",
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/di49-postgresql-maintenance-boundary-n-30d76832",
+   "t": "DI49 PostgreSQL maintenance boundary — need provider-supported exclusion of all writers and privileged DDL actors $10 0 replies 11h by Anonymous",
+   "score": 7,
+   "notes": [
+    "数小时内",
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/workspace-viewer-oauth-token-workspace-78bcec7e",
+   "t": "workspace:viewer OAuth token: workspace(workspaceId) query returns INTERNAL_SERVER_ERROR",
+   "score": 4,
+   "notes": [
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/non-root-chromium-sandbox-startup-fails-2fdf82e6",
+   "t": "Non-root Chromium sandbox startup fails: credentials.cc Permission denied",
+   "score": 4,
+   "notes": [
     "竞争低",
     "提问·配置型"
    ]
@@ -15,8 +43,8 @@
  ],
  "new": [
   {
-   "h": "/questions/di49-postgresql-maintenance-boundary-n-30d76832",
-   "t": "DI49 PostgreSQL maintenance boundary — need provider-supported exclusion of all writers and privileged DDL actors $10 0 replies 2h by Anonymous",
+   "h": "/questions/supported-reversible-ingress-isolation-d-2b3a3def",
+   "t": "Supported reversible ingress isolation during deployment and rollback $10 0 replies 1h by axie35128-ux",
    "score": 7,
    "notes": [
     "数小时内",
@@ -25,65 +53,52 @@
    ]
   },
   {
-   "h": "/questions/mysql-connection-2caac7c7",
-   "t": "Mysql connection",
+   "h": "/questions/workspace-viewer-oauth-token-workspace-78bcec7e",
+   "t": "workspace:viewer OAuth token: workspace(workspaceId) query returns INTERNAL_SERVER_ERROR",
+   "score": 4,
+   "notes": [
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/non-root-chromium-sandbox-startup-fails-2fdf82e6",
+   "t": "Non-root Chromium sandbox startup fails: credentials.cc Permission denied",
+   "score": 4,
+   "notes": [
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/does-railway-support-non-root-chromium-s-fb53beb0",
+   "t": "Does Railway support non-root Chromium sandbox? EACCES during user namespace setup",
    "score": 2,
    "notes": [
     "竞争低"
    ]
   },
   {
-   "h": "/questions/production-deployment-resolves-dockerfil-0b8305f5",
-   "t": "Production deployment resolves DOCKERFILE service as RAILPACK and fails at BUILD_IMAGE",
+   "h": "/questions/sandboxed-chromium-fails-with-eacces-on-70223766",
+   "t": "Sandboxed Chromium fails with EACCES on Amsterdam V2",
    "score": 2,
    "notes": [
     "竞争低"
    ]
   },
   {
-   "h": "/questions/how-to-set-up-multi-region-replica-with-0f082270",
-   "t": "How to set up Multi-Region Replica with MongoDB Atlas",
-   "score": -2,
+   "h": "/questions/subject-502-bad-gateway-error-on-railw-800478f7",
+   "t": "\"Subject: 502 Bad Gateway Error on Railway Deployment.",
+   "score": 2,
    "notes": [
-    "竞争低",
-    "⚠平台基建/已解"
-   ]
-  },
-  {
-   "h": "/questions/n8n-self-hosted-stopeed-working-2dbedbe7",
-   "t": "n8n self-hosted stopeed working $10 1 replies 8m by transformatiive",
-   "score": -5,
-   "notes": [
-    "陈旧",
-    "竞争低",
-    "⚠平台基建/已解"
-   ]
-  },
-  {
-   "h": "/questions/build-failing-because-npm-dependencies-a-4607a810",
-   "t": "Build failing because npm dependencies aren't being installed properly $10 2 replies 8m by davekaro",
-   "score": -5,
-   "notes": [
-    "陈旧",
-    "竞争低",
-    "⚠平台基建/已解"
-   ]
-  },
-  {
-   "h": "/questions/arangodb-container-doesn-t-deploy-0b07f784",
-   "t": "Arangodb container doesn't deploy $10 1 replies 8m by fjblau",
-   "score": -5,
-   "notes": [
-    "陈旧",
-    "竞争低",
-    "⚠平台基建/已解"
+    "竞争低"
    ]
   }
  ],
  "all": [
   {
-   "h": "/questions/di49-postgresql-maintenance-boundary-n-30d76832",
-   "t": "DI49 PostgreSQL maintenance boundary — need provider-supported exclusion of all writers and privileged DDL actors $10 0 replies 2h by Anonymous",
+   "h": "/questions/supported-reversible-ingress-isolation-d-2b3a3def",
+   "t": "Supported reversible ingress isolation during deployment and rollback $10 0 replies 1h by axie35128-ux",
    "score": 7,
    "notes": [
     "数小时内",
@@ -92,8 +107,44 @@
    ]
   },
   {
-   "h": "/questions/twenty-crm-template-success-rate-dropped-e850cabd",
-   "t": "Twenty CRM template success rate dropped to 68%, but fresh installs work",
+   "h": "/questions/di49-postgresql-maintenance-boundary-n-30d76832",
+   "t": "DI49 PostgreSQL maintenance boundary — need provider-supported exclusion of all writers and privileged DDL actors $10 0 replies 11h by Anonymous",
+   "score": 7,
+   "notes": [
+    "数小时内",
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/workspace-viewer-oauth-token-workspace-78bcec7e",
+   "t": "workspace:viewer OAuth token: workspace(workspaceId) query returns INTERNAL_SERVER_ERROR",
+   "score": 4,
+   "notes": [
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/non-root-chromium-sandbox-startup-fails-2fdf82e6",
+   "t": "Non-root Chromium sandbox startup fails: credentials.cc Permission denied",
+   "score": 4,
+   "notes": [
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/does-railway-support-non-root-chromium-s-fb53beb0",
+   "t": "Does Railway support non-root Chromium sandbox? EACCES during user namespace setup",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/sandboxed-chromium-fails-with-eacces-on-70223766",
+   "t": "Sandboxed Chromium fails with EACCES on Amsterdam V2",
    "score": 2,
    "notes": [
     "竞争低"
@@ -116,24 +167,16 @@
    ]
   },
   {
+   "h": "/questions/subject-502-bad-gateway-error-on-railw-800478f7",
+   "t": "\"Subject: 502 Bad Gateway Error on Railway Deployment.",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
    "h": "/questions/failed-builds-06202e65",
    "t": "Failed builds",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/intermittent-new-connection-failures-at-5c949be2",
-   "t": "Intermittent new-connection failures at edge (sin1) since Oct 1 — instance healthy",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/production-deployment-resolves-dockerfil-0b8305f5",
-   "t": "Production deployment resolves DOCKERFILE service as RAILPACK and fails at BUILD_IMAGE",
    "score": 2,
    "notes": [
     "竞争低"
@@ -146,16 +189,6 @@
    "notes": [
     "陈旧",
     "竞争低",
-    "提问·配置型"
-   ]
-  },
-  {
-   "h": "/questions/request-for-csr-certificate-signing-req-6c07d2db",
-   "t": "Request for CSR (Certificate Signing Request) for Custom SSL Setup",
-   "score": 0,
-   "notes": [
-    "竞争低",
-    "⚠平台基建/已解",
     "提问·配置型"
    ]
   },
@@ -176,24 +209,6 @@
     "陈旧",
     "已18回复",
     "提问·配置型"
-   ]
-  },
-  {
-   "h": "/questions/project-steadfast-education-5ceae60c",
-   "t": "Project: steadfast-education",
-   "score": -2,
-   "notes": [
-    "竞争低",
-    "⚠平台基建/已解"
-   ]
-  },
-  {
-   "h": "/questions/how-to-set-up-multi-region-replica-with-0f082270",
-   "t": "How to set up Multi-Region Replica with MongoDB Atlas",
-   "score": -2,
-   "notes": [
-    "竞争低",
-    "⚠平台基建/已解"
    ]
   },
   {
@@ -308,16 +323,6 @@
   {
    "h": "/questions/build-failing-because-npm-dependencies-a-4607a810",
    "t": "Build failing because npm dependencies aren't being installed properly $10 2 replies 8m by davekaro",
-   "score": -5,
-   "notes": [
-    "陈旧",
-    "竞争低",
-    "⚠平台基建/已解"
-   ]
-  },
-  {
-   "h": "/questions/arangodb-container-doesn-t-deploy-0b07f784",
-   "t": "Arangodb container doesn't deploy $10 1 replies 8m by fjblau",
    "score": -5,
    "notes": [
     "陈旧",
