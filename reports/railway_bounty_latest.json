@@ -1,31 +1,22 @@
 {
- "at": "2026-10-05T22:11:58.941242+00:00",
- "total": 28,
+ "at": "2026-10-06T06:53:06.589324+00:00",
+ "total": 29,
  "hot": [
   {
-   "h": "/questions/telegram-bot-deploy-fails-with-secret-to-24b0a544",
-   "t": "Telegram bot deploy fails with secret TOKEN not found and wrong bot behavior $10 0 replies 3h by nekitnalogin-glitch",
+   "h": "/questions/di49-postgresql-maintenance-boundary-n-30d76832",
+   "t": "DI49 PostgreSQL maintenance boundary — need provider-supported exclusion of all writers and privileged DDL actors $10 0 replies 2h by Anonymous",
    "score": 7,
    "notes": [
     "数小时内",
     "竞争低",
     "提问·配置型"
-   ]
-  },
-  {
-   "h": "/questions/intermittent-new-connection-failures-at-5c949be2",
-   "t": "Intermittent new-connection failures at edge (sin1) since Oct 1 — instance healthy $10 0 replies 15h by jimitshah7",
-   "score": 5,
-   "notes": [
-    "数小时内",
-    "竞争低"
    ]
   }
  ],
  "new": [
   {
-   "h": "/questions/telegram-bot-deploy-fails-with-secret-to-24b0a544",
-   "t": "Telegram bot deploy fails with secret TOKEN not found and wrong bot behavior $10 0 replies 3h by nekitnalogin-glitch",
+   "h": "/questions/di49-postgresql-maintenance-boundary-n-30d76832",
+   "t": "DI49 PostgreSQL maintenance boundary — need provider-supported exclusion of all writers and privileged DDL actors $10 0 replies 2h by Anonymous",
    "score": 7,
    "notes": [
     "数小时内",
@@ -34,11 +25,70 @@
    ]
   },
   {
-   "h": "/questions/not-updating-cache-05aee63f",
-   "t": "Not updating cache",
+   "h": "/questions/mysql-connection-2caac7c7",
+   "t": "Mysql connection",
    "score": 2,
    "notes": [
     "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/production-deployment-resolves-dockerfil-0b8305f5",
+   "t": "Production deployment resolves DOCKERFILE service as RAILPACK and fails at BUILD_IMAGE",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/how-to-set-up-multi-region-replica-with-0f082270",
+   "t": "How to set up Multi-Region Replica with MongoDB Atlas",
+   "score": -2,
+   "notes": [
+    "竞争低",
+    "⚠平台基建/已解"
+   ]
+  },
+  {
+   "h": "/questions/n8n-self-hosted-stopeed-working-2dbedbe7",
+   "t": "n8n self-hosted stopeed working $10 1 replies 8m by transformatiive",
+   "score": -5,
+   "notes": [
+    "陈旧",
+    "竞争低",
+    "⚠平台基建/已解"
+   ]
+  },
+  {
+   "h": "/questions/build-failing-because-npm-dependencies-a-4607a810",
+   "t": "Build failing because npm dependencies aren't being installed properly $10 2 replies 8m by davekaro",
+   "score": -5,
+   "notes": [
+    "陈旧",
+    "竞争低",
+    "⚠平台基建/已解"
+   ]
+  },
+  {
+   "h": "/questions/arangodb-container-doesn-t-deploy-0b07f784",
+   "t": "Arangodb container doesn't deploy $10 1 replies 8m by fjblau",
+   "score": -5,
+   "notes": [
+    "陈旧",
+    "竞争低",
+    "⚠平台基建/已解"
+   ]
+  }
+ ],
+ "all": [
+  {
+   "h": "/questions/di49-postgresql-maintenance-boundary-n-30d76832",
+   "t": "DI49 PostgreSQL maintenance boundary — need provider-supported exclusion of all writers and privileged DDL actors $10 0 replies 2h by Anonymous",
+   "score": 7,
+   "notes": [
+    "数小时内",
+    "竞争低",
+    "提问·配置型"
    ]
   },
   {
@@ -50,39 +100,18 @@
    ]
   },
   {
-   "h": "/questions/safe-conversion-of-existing-image-backed-f2ebcaa2",
-   "t": "Safe conversion of existing image-backed service to GitHub source",
+   "h": "/questions/not-updating-cache-05aee63f",
+   "t": "Not updating cache",
    "score": 2,
    "notes": [
     "竞争低"
    ]
   },
   {
-   "h": "/questions/deployment-failed-732bfa3c",
-   "t": "deployment failed",
+   "h": "/questions/mysql-connection-2caac7c7",
+   "t": "Mysql connection",
    "score": 2,
    "notes": [
-    "竞争低"
-   ]
-  }
- ],
- "all": [
-  {
-   "h": "/questions/telegram-bot-deploy-fails-with-secret-to-24b0a544",
-   "t": "Telegram bot deploy fails with secret TOKEN not found and wrong bot behavior $10 0 replies 3h by nekitnalogin-glitch",
-   "score": 7,
-   "notes": [
-    "数小时内",
-    "竞争低",
-    "提问·配置型"
-   ]
-  },
-  {
-   "h": "/questions/intermittent-new-connection-failures-at-5c949be2",
-   "t": "Intermittent new-connection failures at edge (sin1) since Oct 1 — instance healthy $10 0 replies 15h by jimitshah7",
-   "score": 5,
-   "notes": [
-    "数小时内",
     "竞争低"
    ]
   },
@@ -95,56 +124,16 @@
    ]
   },
   {
-   "h": "/questions/not-updating-cache-05aee63f",
-   "t": "Not updating cache",
+   "h": "/questions/intermittent-new-connection-failures-at-5c949be2",
+   "t": "Intermittent new-connection failures at edge (sin1) since Oct 1 — instance healthy",
    "score": 2,
    "notes": [
     "竞争低"
    ]
   },
   {
-   "h": "/questions/twenty-crm-template-success-rate-dropped-e850cabd",
-   "t": "Twenty CRM template success rate dropped to 68%, but fresh installs work",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/safe-conversion-of-existing-image-backed-f2ebcaa2",
-   "t": "Safe conversion of existing image-backed service to GitHub source",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/some-of-my-customers-are-seeing-ssl-prot-03e8f69c",
-   "t": "Some of my customers are seeing SSL protocol errors on NewsMasher.com",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/builds-on-builder-uwqkzv-crash-in-next-b-c3dfe643",
-   "t": "Builds on builder-uwqkzv crash in next build with \"invalid table size\" since Oct 1 ~11:00 UTC",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/deployment-failed-732bfa3c",
-   "t": "deployment failed",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/network-error-when-initiating-app-053f5ca2",
-   "t": "Network Error When Initiating App",
+   "h": "/questions/production-deployment-resolves-dockerfil-0b8305f5",
+   "t": "Production deployment resolves DOCKERFILE service as RAILPACK and fails at BUILD_IMAGE",
    "score": 2,
    "notes": [
     "竞争低"
@@ -161,8 +150,18 @@
    ]
   },
   {
+   "h": "/questions/request-for-csr-certificate-signing-req-6c07d2db",
+   "t": "Request for CSR (Certificate Signing Request) for Custom SSL Setup",
+   "score": 0,
+   "notes": [
+    "竞争低",
+    "⚠平台基建/已解",
+    "提问·配置型"
+   ]
+  },
+  {
    "h": "/questions/deploy-failure-6bb88dbe",
-   "t": "Deploy failure $10 1 replies 11d by hosikjosik",
+   "t": "Deploy failure $10 1 replies 12d by hosikjosik",
    "score": -1,
    "notes": [
     "陈旧",
@@ -171,7 +170,7 @@
   },
   {
    "h": "/questions/postgres-volume-i-o-stall-on-us-east4-eq-99dae057",
-   "t": "Postgres volume I/O stall on us-east4-eqdc4a — checkpoint sync 42.7s, factory statement timeouts (exact-aco production) $20 18 replies 18d by gustavo-paris",
+   "t": "Postgres volume I/O stall on us-east4-eqdc4a — checkpoint sync 42.7s, factory statement timeouts (exact-aco production) $20 18 replies 19d by gustavo-paris",
    "score": -2,
    "notes": [
     "陈旧",
@@ -180,14 +179,21 @@
    ]
   },
   {
-   "h": "/questions/request-for-csr-certificate-signing-req-6c07d2db",
-   "t": "Request for CSR (Certificate Signing Request) for Custom SSL Setup $10 1 replies 7m by mythoslabsinc",
-   "score": -3,
+   "h": "/questions/project-steadfast-education-5ceae60c",
+   "t": "Project: steadfast-education",
+   "score": -2,
    "notes": [
-    "陈旧",
     "竞争低",
-    "⚠平台基建/已解",
-    "提问·配置型"
+    "⚠平台基建/已解"
+   ]
+  },
+  {
+   "h": "/questions/how-to-set-up-multi-region-replica-with-0f082270",
+   "t": "How to set up Multi-Region Replica with MongoDB Atlas",
+   "score": -2,
+   "notes": [
+    "竞争低",
+    "⚠平台基建/已解"
    ]
   },
   {
@@ -250,16 +256,6 @@
    ]
   },
   {
-   "h": "/questions/project-steadfast-education-5ceae60c",
-   "t": "Project: steadfast-education $10 2 replies 6m by acs73traveler-creator",
-   "score": -5,
-   "notes": [
-    "陈旧",
-    "竞争低",
-    "⚠平台基建/已解"
-   ]
-  },
-  {
    "h": "/questions/deploy-nodes-cannot-reach-internal-regis-dfbe538a",
    "t": "Deploy nodes cannot reach internal registry (us-west2) — service offline $10 1 replies 6m by bmetcalf21",
    "score": -5,
@@ -292,6 +288,36 @@
   {
    "h": "/questions/sudden-dns-issue-0f13d660",
    "t": "Sudden DNS issue on production system $20 2 replies 8m by upd",
+   "score": -5,
+   "notes": [
+    "陈旧",
+    "竞争低",
+    "⚠平台基建/已解"
+   ]
+  },
+  {
+   "h": "/questions/n8n-self-hosted-stopeed-working-2dbedbe7",
+   "t": "n8n self-hosted stopeed working $10 1 replies 8m by transformatiive",
+   "score": -5,
+   "notes": [
+    "陈旧",
+    "竞争低",
+    "⚠平台基建/已解"
+   ]
+  },
+  {
+   "h": "/questions/build-failing-because-npm-dependencies-a-4607a810",
+   "t": "Build failing because npm dependencies aren't being installed properly $10 2 replies 8m by davekaro",
+   "score": -5,
+   "notes": [
+    "陈旧",
+    "竞争低",
+    "⚠平台基建/已解"
+   ]
+  },
+  {
+   "h": "/questions/arangodb-container-doesn-t-deploy-0b07f784",
+   "t": "Arangodb container doesn't deploy $10 1 replies 8m by fjblau",
    "score": -5,
    "notes": [
     "陈旧",
