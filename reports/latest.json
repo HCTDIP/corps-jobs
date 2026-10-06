@@ -1,29 +1,20 @@
 {
-  "at": "2026-10-06T12:29Z",
-  "runs": 42,
-  "open_total": 27,
-  "new_count": 3,
-  "new_items": [
-    "$1000   [  0 提交] [有地区分会] Colosseum: Founder Support - Talk to 5 Users",
-    "$500    [  0 提交] [有地区分会] Develop Solana web3 Project MVP & Pitch for IFK UNI Vibe",
-    "$500    [  0 提交] [有地区分会] Develop Solana web3 Project MVP & Pitch for KNUBA UNI Vi"
-  ],
+  "at": "2026-10-06T22:03Z",
+  "runs": 43,
+  "open_total": 23,
+  "new_count": 0,
+  "new_items": [],
   "global_candidates": [
-    "$1000   [  0 提交] [有地区分会] Colosseum: Founder Support - Talk to 5 Users",
-    "$500    [  0 提交] [有地区分会] Develop Solana web3 Project MVP & Pitch for IFK UNI Vibe",
-    "$500    [  0 提交] [有地区分会] Develop Solana web3 Project MVP & Pitch for KNUBA UNI Vi",
-    "$5000   [  2 提交] 2026-10-13 | Crypto World's Fair Pakistan Track",
+    "$5000   [  3 提交] 2026-10-13 | Crypto World's Fair Pakistan Track",
     "$620    [  5 提交] 2026-10-23 | Launch & Trade on Daejin: Write a Twitter Thread and",
     "$500    [  9 提交] 2026-10-17 | Grow Rewards: Make Your First Move",
     "$250    [ 12 提交] 2026-10-14 | Climb Our Reader Leaderboard for Sep/Oct 2026",
-    "$300    [ 13 提交] 2026-10-06 | Introduce Web3 Projects to Segmento",
-    "$500    [ 14 提交] 2026-10-14 | Write a Thread or Long Post: Price Comparison",
     "$500    [ 15 提交] 2026-10-14 | Make a Video: Season Zero, Pump the Pool 3 and Socia",
-    "$500    [ 27 提交] 2026-10-14 | Write a Post: Dust Sweeper + How Social Quests Earn",
-    "$150    [ 34 提交] 2026-10-06 | Video Editing Challenge",
-    "$350    [103 提交] 2026-10-17 | Try a Solana Project and Give Useful Feedback | Toke",
-    "$500    [225 提交] 2026-10-07 | Build and Demo a Mermail Agent Skill",
-    "$500    [416 提交] 2026-10-09 | Create twitter Post about the STREAM burn"
+    "$500    [ 19 提交] 2026-10-14 | Write a Thread or Long Post: Price Comparison",
+    "$500    [ 29 提交] 2026-10-14 | Write a Post: Dust Sweeper + How Social Quests Earn",
+    "$350    [104 提交] 2026-10-17 | Try a Solana Project and Give Useful Feedback | Toke",
+    "$500    [227 提交] 2026-10-07 | Build and Demo a Mermail Agent Skill",
+    "$500    [430 提交] 2026-10-09 | Create twitter Post about the STREAM burn"
   ],
   "repo": "https://github.com/HCTDIP/corps-jobs"
 }
