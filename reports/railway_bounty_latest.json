@@ -1,10 +1,10 @@
 {
- "at": "2026-10-06T16:16:52.297375+00:00",
+ "at": "2026-10-06T22:48:21.304845+00:00",
  "total": 28,
  "hot": [
   {
-   "h": "/questions/supported-reversible-ingress-isolation-d-2b3a3def",
-   "t": "Supported reversible ingress isolation during deployment and rollback $10 0 replies 1h by axie35128-ux",
+   "h": "/questions/pr-environments-stopped-auto-creating-so-7f43191a",
+   "t": "PR Environments stopped auto-creating sometime between Oct 5 and Oct 6 $10 0 replies 10h by nlangebe",
    "score": 7,
    "notes": [
     "数小时内",
@@ -14,7 +14,7 @@
   },
   {
    "h": "/questions/di49-postgresql-maintenance-boundary-n-30d76832",
-   "t": "DI49 PostgreSQL maintenance boundary — need provider-supported exclusion of all writers and privileged DDL actors $10 0 replies 11h by Anonymous",
+   "t": "DI49 PostgreSQL maintenance boundary — need provider-supported exclusion of all writers and privileged DDL actors $10 0 replies 18h by Anonymous",
    "score": 7,
    "notes": [
     "数小时内",
@@ -23,8 +23,17 @@
    ]
   },
   {
-   "h": "/questions/workspace-viewer-oauth-token-workspace-78bcec7e",
-   "t": "workspace:viewer OAuth token: workspace(workspaceId) query returns INTERNAL_SERVER_ERROR",
+   "h": "/questions/ownership-transfer-acceptance-fails-with-1640f792",
+   "t": "Ownership transfer acceptance fails with “Not Authorized $10 0 replies 4h by mnona88",
+   "score": 5,
+   "notes": [
+    "数小时内",
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/discord-gateway-websocket-connection-han-d444f695",
+   "t": "Discord Gateway WebSocket connection hangs indefinitely (not token/rate-limit)",
    "score": 4,
    "notes": [
     "竞争低",
@@ -32,8 +41,17 @@
    ]
   },
   {
-   "h": "/questions/non-root-chromium-sandbox-startup-fails-2fdf82e6",
-   "t": "Non-root Chromium sandbox startup fails: credentials.cc Permission denied",
+   "h": "/questions/supported-reversible-ingress-isolation-d-2b3a3def",
+   "t": "Supported reversible ingress isolation during deployment and rollback",
+   "score": 4,
+   "notes": [
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/workspace-viewer-oauth-token-workspace-78bcec7e",
+   "t": "workspace:viewer OAuth token: workspace(workspaceId) query returns INTERNAL_SERVER_ERROR",
    "score": 4,
    "notes": [
     "竞争低",
@@ -43,8 +61,8 @@
  ],
  "new": [
   {
-   "h": "/questions/supported-reversible-ingress-isolation-d-2b3a3def",
-   "t": "Supported reversible ingress isolation during deployment and rollback $10 0 replies 1h by axie35128-ux",
+   "h": "/questions/pr-environments-stopped-auto-creating-so-7f43191a",
+   "t": "PR Environments stopped auto-creating sometime between Oct 5 and Oct 6 $10 0 replies 10h by nlangebe",
    "score": 7,
    "notes": [
     "数小时内",
@@ -53,8 +71,17 @@
    ]
   },
   {
-   "h": "/questions/workspace-viewer-oauth-token-workspace-78bcec7e",
-   "t": "workspace:viewer OAuth token: workspace(workspaceId) query returns INTERNAL_SERVER_ERROR",
+   "h": "/questions/ownership-transfer-acceptance-fails-with-1640f792",
+   "t": "Ownership transfer acceptance fails with “Not Authorized $10 0 replies 4h by mnona88",
+   "score": 5,
+   "notes": [
+    "数小时内",
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/discord-gateway-websocket-connection-han-d444f695",
+   "t": "Discord Gateway WebSocket connection hangs indefinitely (not token/rate-limit)",
    "score": 4,
    "notes": [
     "竞争低",
@@ -62,33 +89,16 @@
    ]
   },
   {
-   "h": "/questions/non-root-chromium-sandbox-startup-fails-2fdf82e6",
-   "t": "Non-root Chromium sandbox startup fails: credentials.cc Permission denied",
-   "score": 4,
-   "notes": [
-    "竞争低",
-    "提问·配置型"
-   ]
-  },
-  {
-   "h": "/questions/does-railway-support-non-root-chromium-s-fb53beb0",
-   "t": "Does Railway support non-root Chromium sandbox? EACCES during user namespace setup",
+   "h": "/questions/bucket-files-download-does-not-return-a-6ad71868",
+   "t": "Bucket Files Download does not return a file",
    "score": 2,
    "notes": [
     "竞争低"
    ]
   },
   {
-   "h": "/questions/sandboxed-chromium-fails-with-eacces-on-70223766",
-   "t": "Sandboxed Chromium fails with EACCES on Amsterdam V2",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/subject-502-bad-gateway-error-on-railw-800478f7",
-   "t": "\"Subject: 502 Bad Gateway Error on Railway Deployment.",
+   "h": "/questions/private-docker-digest-source-graphql-pr-54fc88f1",
+   "t": "Private Docker digest source: GraphQL promotion and runtime digest type",
    "score": 2,
    "notes": [
     "竞争低"
@@ -97,8 +107,8 @@
  ],
  "all": [
   {
-   "h": "/questions/supported-reversible-ingress-isolation-d-2b3a3def",
-   "t": "Supported reversible ingress isolation during deployment and rollback $10 0 replies 1h by axie35128-ux",
+   "h": "/questions/pr-environments-stopped-auto-creating-so-7f43191a",
+   "t": "PR Environments stopped auto-creating sometime between Oct 5 and Oct 6 $10 0 replies 10h by nlangebe",
    "score": 7,
    "notes": [
     "数小时内",
@@ -108,10 +118,37 @@
   },
   {
    "h": "/questions/di49-postgresql-maintenance-boundary-n-30d76832",
-   "t": "DI49 PostgreSQL maintenance boundary — need provider-supported exclusion of all writers and privileged DDL actors $10 0 replies 11h by Anonymous",
+   "t": "DI49 PostgreSQL maintenance boundary — need provider-supported exclusion of all writers and privileged DDL actors $10 0 replies 18h by Anonymous",
    "score": 7,
    "notes": [
     "数小时内",
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/ownership-transfer-acceptance-fails-with-1640f792",
+   "t": "Ownership transfer acceptance fails with “Not Authorized $10 0 replies 4h by mnona88",
+   "score": 5,
+   "notes": [
+    "数小时内",
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/discord-gateway-websocket-connection-han-d444f695",
+   "t": "Discord Gateway WebSocket connection hangs indefinitely (not token/rate-limit)",
+   "score": 4,
+   "notes": [
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/supported-reversible-ingress-isolation-d-2b3a3def",
+   "t": "Supported reversible ingress isolation during deployment and rollback",
+   "score": 4,
+   "notes": [
     "竞争低",
     "提问·配置型"
    ]
@@ -123,55 +160,6 @@
    "notes": [
     "竞争低",
     "提问·配置型"
-   ]
-  },
-  {
-   "h": "/questions/non-root-chromium-sandbox-startup-fails-2fdf82e6",
-   "t": "Non-root Chromium sandbox startup fails: credentials.cc Permission denied",
-   "score": 4,
-   "notes": [
-    "竞争低",
-    "提问·配置型"
-   ]
-  },
-  {
-   "h": "/questions/does-railway-support-non-root-chromium-s-fb53beb0",
-   "t": "Does Railway support non-root Chromium sandbox? EACCES during user namespace setup",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/sandboxed-chromium-fails-with-eacces-on-70223766",
-   "t": "Sandboxed Chromium fails with EACCES on Amsterdam V2",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/not-updating-cache-05aee63f",
-   "t": "Not updating cache",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/mysql-connection-2caac7c7",
-   "t": "Mysql connection",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/subject-502-bad-gateway-error-on-railw-800478f7",
-   "t": "\"Subject: 502 Bad Gateway Error on Railway Deployment.",
-   "score": 2,
-   "notes": [
-    "竞争低"
    ]
   },
   {
@@ -183,8 +171,40 @@
    ]
   },
   {
+   "h": "/questions/bucket-files-download-does-not-return-a-6ad71868",
+   "t": "Bucket Files Download does not return a file",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/private-docker-digest-source-graphql-pr-54fc88f1",
+   "t": "Private Docker digest source: GraphQL promotion and runtime digest type",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/does-railway-support-non-root-chromium-s-fb53beb0",
+   "t": "Does Railway support non-root Chromium sandbox? EACCES during user namespace setup",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/sandboxed-chromium-fails-with-eacces-on-70223766",
+   "t": "Sandboxed Chromium fails with EACCES on Amsterdam V2",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
    "h": "/questions/runtime-v2-injecting-empty-variable-valu-4c0fb717",
-   "t": "Runtime V2 injecting empty variable values into the deployment process $10 1 replies 3m by fantasycricketpros",
+   "t": "Runtime V2 injecting empty variable values into the deployment process $10 1 replies 4m by fantasycricketpros",
    "score": 1,
    "notes": [
     "陈旧",
@@ -313,16 +333,6 @@
   {
    "h": "/questions/n8n-self-hosted-stopeed-working-2dbedbe7",
    "t": "n8n self-hosted stopeed working $10 1 replies 8m by transformatiive",
-   "score": -5,
-   "notes": [
-    "陈旧",
-    "竞争低",
-    "⚠平台基建/已解"
-   ]
-  },
-  {
-   "h": "/questions/build-failing-because-npm-dependencies-a-4607a810",
-   "t": "Build failing because npm dependencies aren't being installed properly $10 2 replies 8m by davekaro",
    "score": -5,
    "notes": [
     "陈旧",
