@@ -1,0 +1,25 @@
+## Summary
+This PR creates a structured bounty tracking system for the Railway bounties discovered by the cloud radar on 2026-10-06. It documents all 6 actionable bounties found in the `railway_bounty_latest.json` report with:
+
+1. **Issue tracker files** — One markdown file per bounty in `issues/` containing:
+   - Problem description
+   - Root cause analysis
+   - Required fix
+   - Acceptance criteria
+   - Bounty wallet address
+
+2. **Updated README** — Central overview of all tracked bounties with pricing, hot changes, and contribution guide
+
+3. **JSON report** — Raw radar output preserved in `reports/railway_bounty_latest.json`
+
+The top-priority bounties (by hot change score) are:
+- **$10** — PR Environments stopped auto-creating (+7 hot)
+- **$10** — DI49 PostgreSQL maintenance boundary (+7 hot)
+- **$10** — Ownership transfer "Not Authorized" (+5 hot)
+
+Closes #52
+/attempt
+/claim #52
+
+Bounty Reward Wallet: 0x96eE7904BdCd8a82c71B4FFc3362C96b1Aae03e0 (Base / EVM)
+<<<END_PR_DESCRIPTION>>>
