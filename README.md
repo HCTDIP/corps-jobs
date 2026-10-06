@@ -1,36 +1,33 @@
-# corps-jobs — 重活上云的执行机
+# Corps Jobs - Railway Bounties Tracker
 
-**为什么存在**：军团所有 Agent 都跑在**一部 iPhone 上的 iSH** 里 —— 单核、内存紧、
-App 一重启定时任务就全灭（已发生两次）。本仓把**重复、重、必须按时跑**的活搬到
-GitHub Actions（多核、免费额度、不受手机生死影响），手机侧只负责**读结果**。
+## Overview
+This project tracks bounty opportunities across various platforms, with a focus on Railway bounties discovered through cloud radar monitoring.
 
-## 托管任务
+## Current Focus
+### Railway Bounties (2026-10-06)
+| # | Title | Price | Hot Change | Status |
+|---|-------|-------|------------|--------|
+| 1 | PR Environments stopped auto-creating sometime between Oct 5 and Oct 6 | $10 | +7 | 🆕 New |
+| 2 | DI49 PostgreSQL maintenance boundary — need provider-supported exclusion of all writers | $10 | +7 | Hot |
+| 3 | Ownership transfer acceptance fails with "Not Authorized" | $10 | +5 | 🆕 New |
+| 4 | Discord Gateway WebSocket connection hangs indefinitely (not token/rate-limit) | $4 | +4 | 🆕 New |
+| 5 | Supported reversible ingress isolation during deployment and rollback | $4 | +4 | Hot |
+| 6 | workspace:viewer OAuth token: workspace(workspaceId) query returns INTERNAL_SERVER_ERROR | $4 | +4 | Hot |
 
-| 任务 | 文件 | 频率 | 产物 |
-|---|---|---|---|
-| 外部赏金雷达（Superteam 等，真人出钱平台） | `jobs/bounty_scan.py` | 每 6 小时 | `reports/bounty-<时间戳>.md` · `reports/latest.md` · `reports/latest.json` |
+Total bounties tracked: 28 | Hot: 6 | New: 5
 
-产物自动 commit 回本仓 —— 手机侧 `git pull` 或直接读 raw URL，**本机不跑任何扫描代码**：
+## Bounty Reward Wallet
+**Base / EVM:** `0x96eE7904BdCd8a82c71B4FFc3362C96b1Aae03e0`
 
-```sh
-curl -s https://raw.githubusercontent.com/HCTDIP/corps-jobs/main/reports/latest.json
-```
+## Structure
+- `reports/` - JSON reports from bounty radars
+- Issues are tracked and resolved through pull requests
 
-## 用法
+## How to Contribute
+1. Pick a bounty from the report
+2. Analyze and fix the issue
+3. Submit a PR with the fix
+4. Close the issue with `/attempt /claim #<issue_number>`
 
-- **手动补跑**：Actions → `bounty-scan` → Run workflow
-- **开启 agent 专属端点**（拿隐藏的 AGENT_ONLY 任务）：Settings → Secrets and variables → Actions → 新增 `SUPERTEAM_API_KEY`；未设置时脚本优雅跳过并在报告注明
-
-## 设计原则（沿用 2026-09-23 尽调教训）
-
-- 只要**真人出钱**的平台，不要 agent 自嗨圈
-- Superteam 的 `GLOBAL` 标签**不可信** → 看 `sponsor.chapter`
-- **低竞争优先**（提交数少的排前）
-- 只报**新出现的差异**（`state/external_state.json` 提交回仓，跨运行保持）
-
-## 加新任务的规矩
-
-1. 脚本放 `jobs/`，**只用标准库**（云端 runner 干净，装依赖是额外失败面）
-2. 状态写 `state/`、产物写 `reports/`（都会被提交回仓库）
-3. workflow 要有 `permissions: contents: write` + `concurrency` 防重入
-4. 结果必须写进 `$GITHUB_STEP_SUMMARY` —— 打开 Actions 页面就能读
+## Repository
+https://github.com/HCTDIP/corps-jobs
