@@ -1,10 +1,10 @@
 {
- "at": "2026-10-07T13:56:58.383799+00:00",
+ "at": "2026-10-07T20:47:25.437838+00:00",
  "total": 30,
  "hot": [
   {
-   "h": "/questions/pr-environments-stopped-auto-creating-so-7f43191a",
-   "t": "PR Environments stopped auto-creating sometime between Oct 5 and Oct 6",
+   "h": "/questions/node-inspector-opened-and-attached-in-ap-7b53e5bf",
+   "t": "Node inspector opened and attached in api/worker without --inspect — is this a Railway feature?",
    "score": 4,
    "notes": [
     "竞争低",
@@ -12,8 +12,26 @@
    ]
   },
   {
-   "h": "/questions/di49-postgresql-maintenance-boundary-n-30d76832",
-   "t": "need provider-supported exclusion of all writers and privileged DDL actors",
+   "h": "/questions/discord-gateway-websocket-connection-han-d444f695",
+   "t": "Discord Gateway WebSocket connection hangs indefinitely (not token/rate-limit)",
+   "score": 4,
+   "notes": [
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/telegram-bot-deploy-fails-with-secret-to-24b0a544",
+   "t": "Telegram bot deploy fails with secret TOKEN not found and wrong bot behavior",
+   "score": 4,
+   "notes": [
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/pr-environments-stopped-auto-creating-so-7f43191a",
+   "t": "PR Environments stopped auto-creating sometime between Oct 5 and Oct 6",
    "score": 4,
    "notes": [
     "竞争低",
@@ -32,16 +50,35 @@
  ],
  "new": [
   {
-   "h": "/questions/russian-isp-connectivity-issue-69-46-4-8c075841",
-   "t": "Russian ISP connectivity issue – 69.46.46.62",
-   "score": 2,
+   "h": "/questions/node-inspector-opened-and-attached-in-ap-7b53e5bf",
+   "t": "Node inspector opened and attached in api/worker without --inspect — is this a Railway feature?",
+   "score": 4,
    "notes": [
-    "竞争低"
+    "竞争低",
+    "提问·配置型"
    ]
   },
   {
-   "h": "/questions/warning-disk-space-low-9a649ad4",
-   "t": "WARNING: Disk Space Low",
+   "h": "/questions/discord-gateway-websocket-connection-han-d444f695",
+   "t": "Discord Gateway WebSocket connection hangs indefinitely (not token/rate-limit)",
+   "score": 4,
+   "notes": [
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/telegram-bot-deploy-fails-with-secret-to-24b0a544",
+   "t": "Telegram bot deploy fails with secret TOKEN not found and wrong bot behavior",
+   "score": 4,
+   "notes": [
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/will-skip-deploys-or-railway-up-touch-fc291a96",
+   "t": "Will --skip-deploys or railway up touch an existing STAGED patch?",
    "score": 2,
    "notes": [
     "竞争低"
@@ -50,8 +87,8 @@
  ],
  "all": [
   {
-   "h": "/questions/pr-environments-stopped-auto-creating-so-7f43191a",
-   "t": "PR Environments stopped auto-creating sometime between Oct 5 and Oct 6",
+   "h": "/questions/node-inspector-opened-and-attached-in-ap-7b53e5bf",
+   "t": "Node inspector opened and attached in api/worker without --inspect — is this a Railway feature?",
    "score": 4,
    "notes": [
     "竞争低",
@@ -59,8 +96,26 @@
    ]
   },
   {
-   "h": "/questions/di49-postgresql-maintenance-boundary-n-30d76832",
-   "t": "need provider-supported exclusion of all writers and privileged DDL actors",
+   "h": "/questions/discord-gateway-websocket-connection-han-d444f695",
+   "t": "Discord Gateway WebSocket connection hangs indefinitely (not token/rate-limit)",
+   "score": 4,
+   "notes": [
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/telegram-bot-deploy-fails-with-secret-to-24b0a544",
+   "t": "Telegram bot deploy fails with secret TOKEN not found and wrong bot behavior",
+   "score": 4,
+   "notes": [
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/pr-environments-stopped-auto-creating-so-7f43191a",
+   "t": "PR Environments stopped auto-creating sometime between Oct 5 and Oct 6",
    "score": 4,
    "notes": [
     "竞争低",
@@ -77,14 +132,6 @@
    ]
   },
   {
-   "h": "/questions/russian-isp-connectivity-issue-69-46-4-8c075841",
-   "t": "Russian ISP connectivity issue – 69.46.46.62",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
    "h": "/questions/failed-builds-06202e65",
    "t": "Failed builds",
    "score": 2,
@@ -93,8 +140,8 @@
    ]
   },
   {
-   "h": "/questions/warning-disk-space-low-9a649ad4",
-   "t": "WARNING: Disk Space Low",
+   "h": "/questions/will-skip-deploys-or-railway-up-touch-fc291a96",
+   "t": "Will --skip-deploys or railway up touch an existing STAGED patch?",
    "score": 2,
    "notes": [
     "竞争低"
@@ -109,16 +156,16 @@
    ]
   },
   {
-   "h": "/questions/connect-repo-doesn-t-list-repos-from-my-003701a0",
-   "t": "Connect Repo doesn't list repos from my newly connected GitHub account",
+   "h": "/questions/russian-isp-connectivity-issue-69-46-4-8c075841",
+   "t": "Russian ISP connectivity issue – 69.46.46.62",
    "score": 2,
    "notes": [
     "竞争低"
    ]
   },
   {
-   "h": "/questions/bucket-files-download-does-not-return-a-6ad71868",
-   "t": "Bucket Files Download does not return a file",
+   "h": "/questions/warning-disk-space-low-9a649ad4",
+   "t": "WARNING: Disk Space Low",
    "score": 2,
    "notes": [
     "竞争低"
@@ -131,16 +178,6 @@
    "notes": [
     "陈旧",
     "竞争低",
-    "提问·配置型"
-   ]
-  },
-  {
-   "h": "/questions/cannot-access-n8n-via-ssh-or-web-console-9e971cb1",
-   "t": "Cannot access n8n via SSH or web console — backup needed before recovery",
-   "score": 0,
-   "notes": [
-    "竞争低",
-    "⚠平台基建/已解",
     "提问·配置型"
    ]
   },
