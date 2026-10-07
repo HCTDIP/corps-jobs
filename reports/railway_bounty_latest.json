@@ -1,39 +1,10 @@
 {
- "at": "2026-10-06T22:48:21.304845+00:00",
- "total": 28,
+ "at": "2026-10-07T06:29:38.504273+00:00",
+ "total": 30,
  "hot": [
   {
    "h": "/questions/pr-environments-stopped-auto-creating-so-7f43191a",
-   "t": "PR Environments stopped auto-creating sometime between Oct 5 and Oct 6 $10 0 replies 10h by nlangebe",
-   "score": 7,
-   "notes": [
-    "数小时内",
-    "竞争低",
-    "提问·配置型"
-   ]
-  },
-  {
-   "h": "/questions/di49-postgresql-maintenance-boundary-n-30d76832",
-   "t": "DI49 PostgreSQL maintenance boundary — need provider-supported exclusion of all writers and privileged DDL actors $10 0 replies 18h by Anonymous",
-   "score": 7,
-   "notes": [
-    "数小时内",
-    "竞争低",
-    "提问·配置型"
-   ]
-  },
-  {
-   "h": "/questions/ownership-transfer-acceptance-fails-with-1640f792",
-   "t": "Ownership transfer acceptance fails with “Not Authorized $10 0 replies 4h by mnona88",
-   "score": 5,
-   "notes": [
-    "数小时内",
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/discord-gateway-websocket-connection-han-d444f695",
-   "t": "Discord Gateway WebSocket connection hangs indefinitely (not token/rate-limit)",
+   "t": "PR Environments stopped auto-creating sometime between Oct 5 and Oct 6",
    "score": 4,
    "notes": [
     "竞争低",
@@ -41,8 +12,8 @@
    ]
   },
   {
-   "h": "/questions/supported-reversible-ingress-isolation-d-2b3a3def",
-   "t": "Supported reversible ingress isolation during deployment and rollback",
+   "h": "/questions/di49-postgresql-maintenance-boundary-n-30d76832",
+   "t": "need provider-supported exclusion of all writers and privileged DDL actors",
    "score": 4,
    "notes": [
     "竞争低",
@@ -52,6 +23,15 @@
   {
    "h": "/questions/workspace-viewer-oauth-token-workspace-78bcec7e",
    "t": "workspace:viewer OAuth token: workspace(workspaceId) query returns INTERNAL_SERVER_ERROR",
+   "score": 4,
+   "notes": [
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/discord-gateway-websocket-connection-han-d444f695",
+   "t": "Discord Gateway WebSocket connection hangs indefinitely (not token/rate-limit)",
    "score": 4,
    "notes": [
     "竞争低",
@@ -61,83 +41,57 @@
  ],
  "new": [
   {
-   "h": "/questions/pr-environments-stopped-auto-creating-so-7f43191a",
-   "t": "PR Environments stopped auto-creating sometime between Oct 5 and Oct 6 $10 0 replies 10h by nlangebe",
-   "score": 7,
-   "notes": [
-    "数小时内",
-    "竞争低",
-    "提问·配置型"
-   ]
-  },
-  {
-   "h": "/questions/ownership-transfer-acceptance-fails-with-1640f792",
-   "t": "Ownership transfer acceptance fails with “Not Authorized $10 0 replies 4h by mnona88",
-   "score": 5,
-   "notes": [
-    "数小时内",
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/discord-gateway-websocket-connection-han-d444f695",
-   "t": "Discord Gateway WebSocket connection hangs indefinitely (not token/rate-limit)",
-   "score": 4,
-   "notes": [
-    "竞争低",
-    "提问·配置型"
-   ]
-  },
-  {
-   "h": "/questions/bucket-files-download-does-not-return-a-6ad71868",
-   "t": "Bucket Files Download does not return a file",
+   "h": "/questions/connect-repo-doesn-t-list-repos-from-my-003701a0",
+   "t": "Connect Repo doesn't list repos from my newly connected GitHub account",
    "score": 2,
    "notes": [
     "竞争低"
    ]
   },
   {
-   "h": "/questions/private-docker-digest-source-graphql-pr-54fc88f1",
-   "t": "Private Docker digest source: GraphQL promotion and runtime digest type",
-   "score": 2,
+   "h": "/questions/cannot-access-n8n-via-ssh-or-web-console-9e971cb1",
+   "t": "Cannot access n8n via SSH or web console — backup needed before recovery",
+   "score": 0,
    "notes": [
+    "竞争低",
+    "⚠平台基建/已解",
+    "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/problem-with-telegram-connection-3f73b600",
+   "t": "Problem with telegram connection $10 0 replies 8m by javagames77-dotcom",
+   "score": -1,
+   "notes": [
+    "陈旧",
     "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/build-failing-because-npm-dependencies-a-4607a810",
+   "t": "Build failing because npm dependencies aren't being installed properly $10 2 replies 8m by davekaro",
+   "score": -5,
+   "notes": [
+    "陈旧",
+    "竞争低",
+    "⚠平台基建/已解"
+   ]
+  },
+  {
+   "h": "/questions/arangodb-container-doesn-t-deploy-0b07f784",
+   "t": "Arangodb container doesn't deploy $10 1 replies 8m by fjblau",
+   "score": -5,
+   "notes": [
+    "陈旧",
+    "竞争低",
+    "⚠平台基建/已解"
    ]
   }
  ],
  "all": [
   {
    "h": "/questions/pr-environments-stopped-auto-creating-so-7f43191a",
-   "t": "PR Environments stopped auto-creating sometime between Oct 5 and Oct 6 $10 0 replies 10h by nlangebe",
-   "score": 7,
-   "notes": [
-    "数小时内",
-    "竞争低",
-    "提问·配置型"
-   ]
-  },
-  {
-   "h": "/questions/di49-postgresql-maintenance-boundary-n-30d76832",
-   "t": "DI49 PostgreSQL maintenance boundary — need provider-supported exclusion of all writers and privileged DDL actors $10 0 replies 18h by Anonymous",
-   "score": 7,
-   "notes": [
-    "数小时内",
-    "竞争低",
-    "提问·配置型"
-   ]
-  },
-  {
-   "h": "/questions/ownership-transfer-acceptance-fails-with-1640f792",
-   "t": "Ownership transfer acceptance fails with “Not Authorized $10 0 replies 4h by mnona88",
-   "score": 5,
-   "notes": [
-    "数小时内",
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/discord-gateway-websocket-connection-han-d444f695",
-   "t": "Discord Gateway WebSocket connection hangs indefinitely (not token/rate-limit)",
+   "t": "PR Environments stopped auto-creating sometime between Oct 5 and Oct 6",
    "score": 4,
    "notes": [
     "竞争低",
@@ -145,8 +99,8 @@
    ]
   },
   {
-   "h": "/questions/supported-reversible-ingress-isolation-d-2b3a3def",
-   "t": "Supported reversible ingress isolation during deployment and rollback",
+   "h": "/questions/di49-postgresql-maintenance-boundary-n-30d76832",
+   "t": "need provider-supported exclusion of all writers and privileged DDL actors",
    "score": 4,
    "notes": [
     "竞争低",
@@ -156,6 +110,15 @@
   {
    "h": "/questions/workspace-viewer-oauth-token-workspace-78bcec7e",
    "t": "workspace:viewer OAuth token: workspace(workspaceId) query returns INTERNAL_SERVER_ERROR",
+   "score": 4,
+   "notes": [
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/discord-gateway-websocket-connection-han-d444f695",
+   "t": "Discord Gateway WebSocket connection hangs indefinitely (not token/rate-limit)",
    "score": 4,
    "notes": [
     "竞争低",
@@ -171,6 +134,22 @@
    ]
   },
   {
+   "h": "/questions/ownership-transfer-acceptance-fails-with-1640f792",
+   "t": "Ownership transfer acceptance fails with “Not Authorized",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/connect-repo-doesn-t-list-repos-from-my-003701a0",
+   "t": "Connect Repo doesn't list repos from my newly connected GitHub account",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
    "h": "/questions/bucket-files-download-does-not-return-a-6ad71868",
    "t": "Bucket Files Download does not return a file",
    "score": 2,
@@ -181,22 +160,6 @@
   {
    "h": "/questions/private-docker-digest-source-graphql-pr-54fc88f1",
    "t": "Private Docker digest source: GraphQL promotion and runtime digest type",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/does-railway-support-non-root-chromium-s-fb53beb0",
-   "t": "Does Railway support non-root Chromium sandbox? EACCES during user namespace setup",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/sandboxed-chromium-fails-with-eacces-on-70223766",
-   "t": "Sandboxed Chromium fails with EACCES on Amsterdam V2",
    "score": 2,
    "notes": [
     "竞争低"
@@ -213,8 +176,27 @@
    ]
   },
   {
+   "h": "/questions/cannot-access-n8n-via-ssh-or-web-console-9e971cb1",
+   "t": "Cannot access n8n via SSH or web console — backup needed before recovery",
+   "score": 0,
+   "notes": [
+    "竞争低",
+    "⚠平台基建/已解",
+    "提问·配置型"
+   ]
+  },
+  {
    "h": "/questions/deploy-failure-6bb88dbe",
-   "t": "Deploy failure $10 1 replies 12d by hosikjosik",
+   "t": "Deploy failure $10 1 replies 13d by hosikjosik",
+   "score": -1,
+   "notes": [
+    "陈旧",
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/problem-with-telegram-connection-3f73b600",
+   "t": "Problem with telegram connection $10 0 replies 8m by javagames77-dotcom",
    "score": -1,
    "notes": [
     "陈旧",
@@ -223,7 +205,7 @@
   },
   {
    "h": "/questions/postgres-volume-i-o-stall-on-us-east4-eq-99dae057",
-   "t": "Postgres volume I/O stall on us-east4-eqdc4a — checkpoint sync 42.7s, factory statement timeouts (exact-aco production) $20 18 replies 19d by gustavo-paris",
+   "t": "Postgres volume I/O stall on us-east4-eqdc4a — checkpoint sync 42.7s, factory statement timeouts (exact-aco production) $20 18 replies 20d by gustavo-paris",
    "score": -2,
    "notes": [
     "陈旧",
@@ -333,6 +315,26 @@
   {
    "h": "/questions/n8n-self-hosted-stopeed-working-2dbedbe7",
    "t": "n8n self-hosted stopeed working $10 1 replies 8m by transformatiive",
+   "score": -5,
+   "notes": [
+    "陈旧",
+    "竞争低",
+    "⚠平台基建/已解"
+   ]
+  },
+  {
+   "h": "/questions/build-failing-because-npm-dependencies-a-4607a810",
+   "t": "Build failing because npm dependencies aren't being installed properly $10 2 replies 8m by davekaro",
+   "score": -5,
+   "notes": [
+    "陈旧",
+    "竞争低",
+    "⚠平台基建/已解"
+   ]
+  },
+  {
+   "h": "/questions/arangodb-container-doesn-t-deploy-0b07f784",
+   "t": "Arangodb container doesn't deploy $10 1 replies 8m by fjblau",
    "score": -5,
    "notes": [
     "陈旧",
