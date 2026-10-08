@@ -1,46 +1,19 @@
 {
- "at": "2026-10-08T10:56:36.383444+00:00",
- "total": 30,
+ "at": "2026-10-08T19:01:40.566367+00:00",
+ "total": 29,
  "hot": [
+  {
+   "h": "/questions/mysql-database-view-fails-via-ssh-with-a-bb78db4f",
+   "t": "MySQL Database View fails via SSH with Access denied for root@127.0.0.1, but MySQL connections work",
+   "score": 4,
+   "notes": [
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
   {
    "h": "/questions/node-inspector-opened-and-attached-in-ap-7b53e5bf",
    "t": "Node inspector opened and attached in api/worker without --inspect — is this a Railway feature?",
-   "score": 4,
-   "notes": [
-    "竞争低",
-    "提问·配置型"
-   ]
-  },
-  {
-   "h": "/questions/discord-gateway-websocket-connection-han-d444f695",
-   "t": "Discord Gateway WebSocket connection hangs indefinitely (not token/rate-limit)",
-   "score": 4,
-   "notes": [
-    "竞争低",
-    "提问·配置型"
-   ]
-  },
-  {
-   "h": "/questions/telegram-bot-deploy-fails-with-secret-to-24b0a544",
-   "t": "Telegram bot deploy fails with secret TOKEN not found and wrong bot behavior",
-   "score": 4,
-   "notes": [
-    "竞争低",
-    "提问·配置型"
-   ]
-  },
-  {
-   "h": "/questions/pr-environments-stopped-auto-creating-so-7f43191a",
-   "t": "PR Environments stopped auto-creating sometime between Oct 5 and Oct 6",
-   "score": 4,
-   "notes": [
-    "竞争低",
-    "提问·配置型"
-   ]
-  },
-  {
-   "h": "/questions/workspace-viewer-oauth-token-workspace-78bcec7e",
-   "t": "workspace:viewer OAuth token: workspace(workspaceId) query returns INTERNAL_SERVER_ERROR",
    "score": 4,
    "notes": [
     "竞争低",
@@ -50,15 +23,51 @@
  ],
  "new": [
   {
-   "h": "/questions/edge-returns-429-rate-limited-to-uptim-3640a6b8",
-   "t": "Edge returns 429 \"rate limited\" to UptimeRobot and GitHub Actions",
+   "h": "/questions/mysql-database-view-fails-via-ssh-with-a-bb78db4f",
+   "t": "MySQL Database View fails via SSH with Access denied for root@127.0.0.1, but MySQL connections work",
+   "score": 4,
+   "notes": [
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/can-a-railway-restored-volume-be-validat-c53d0bb0",
+   "t": "Can a Railway restored volume be validated without deploying it over the active MySQL volume?",
    "score": 2,
    "notes": [
     "竞争低"
    ]
+  },
+  {
+   "h": "/questions/oauth-callback-query-header-handling-be-9c175a6b",
+   "t": "OAuth callback: query/header handling beyond visible HTTP logs $10 0 replies 30m by mexii06",
+   "score": -1,
+   "notes": [
+    "陈旧",
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/why-server-responds-too-much-slow-in-nig-938fbcf9",
+   "t": "Why Server responds too much slow in nights?",
+   "score": -2,
+   "notes": [
+    "竞争低",
+    "⚠平台基建/已解"
+   ]
   }
  ],
  "all": [
+  {
+   "h": "/questions/mysql-database-view-fails-via-ssh-with-a-bb78db4f",
+   "t": "MySQL Database View fails via SSH with Access denied for root@127.0.0.1, but MySQL connections work",
+   "score": 4,
+   "notes": [
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
   {
    "h": "/questions/node-inspector-opened-and-attached-in-ap-7b53e5bf",
    "t": "Node inspector opened and attached in api/worker without --inspect — is this a Railway feature?",
@@ -69,39 +78,11 @@
    ]
   },
   {
-   "h": "/questions/discord-gateway-websocket-connection-han-d444f695",
-   "t": "Discord Gateway WebSocket connection hangs indefinitely (not token/rate-limit)",
-   "score": 4,
+   "h": "/questions/can-a-railway-restored-volume-be-validat-c53d0bb0",
+   "t": "Can a Railway restored volume be validated without deploying it over the active MySQL volume?",
+   "score": 2,
    "notes": [
-    "竞争低",
-    "提问·配置型"
-   ]
-  },
-  {
-   "h": "/questions/telegram-bot-deploy-fails-with-secret-to-24b0a544",
-   "t": "Telegram bot deploy fails with secret TOKEN not found and wrong bot behavior",
-   "score": 4,
-   "notes": [
-    "竞争低",
-    "提问·配置型"
-   ]
-  },
-  {
-   "h": "/questions/pr-environments-stopped-auto-creating-so-7f43191a",
-   "t": "PR Environments stopped auto-creating sometime between Oct 5 and Oct 6",
-   "score": 4,
-   "notes": [
-    "竞争低",
-    "提问·配置型"
-   ]
-  },
-  {
-   "h": "/questions/workspace-viewer-oauth-token-workspace-78bcec7e",
-   "t": "workspace:viewer OAuth token: workspace(workspaceId) query returns INTERNAL_SERVER_ERROR",
-   "score": 4,
-   "notes": [
-    "竞争低",
-    "提问·配置型"
+    "竞争低"
    ]
   },
   {
@@ -155,8 +136,8 @@
    ]
   },
   {
-   "h": "/questions/deploy-failure-6bb88dbe",
-   "t": "Deploy failure $10 1 replies 14d by hosikjosik",
+   "h": "/questions/oauth-callback-query-header-handling-be-9c175a6b",
+   "t": "OAuth callback: query/header handling beyond visible HTTP logs $10 0 replies 30m by mexii06",
    "score": -1,
    "notes": [
     "陈旧",
@@ -164,8 +145,8 @@
    ]
   },
   {
-   "h": "/questions/problem-with-telegram-connection-3f73b600",
-   "t": "Problem with telegram connection $10 0 replies 8m by javagames77-dotcom",
+   "h": "/questions/deploy-failure-6bb88dbe",
+   "t": "Deploy failure $10 1 replies 14d by hosikjosik",
    "score": -1,
    "notes": [
     "陈旧",
@@ -180,6 +161,15 @@
     "陈旧",
     "已18回复",
     "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/why-server-responds-too-much-slow-in-nig-938fbcf9",
+   "t": "Why Server responds too much slow in nights?",
+   "score": -2,
+   "notes": [
+    "竞争低",
+    "⚠平台基建/已解"
    ]
   },
   {
