@@ -1,5 +1,5 @@
 {
- "at": "2026-10-08T01:20:21.748718+00:00",
+ "at": "2026-10-08T10:56:36.383444+00:00",
  "total": 30,
  "hot": [
   {
@@ -50,16 +50,8 @@
  ],
  "new": [
   {
-   "h": "/questions/issue-railway-postgre-sql-tcp-proxy-caus-ab34a604",
-   "t": "Issue: Railway PostgreSQL TCP Proxy Causing Data Corruption and SSL Connection Drops",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/generated-domain-returns-railway-not-fou-542992e3",
-   "t": "Generated domain returns Railway Not Found despite healthy service on 0.0.0.0:8080",
+   "h": "/questions/edge-returns-429-rate-limited-to-uptim-3640a6b8",
+   "t": "Edge returns 429 \"rate limited\" to UptimeRobot and GitHub Actions",
    "score": 2,
    "notes": [
     "竞争低"
@@ -113,6 +105,22 @@
    ]
   },
   {
+   "h": "/questions/failed-builds-06202e65",
+   "t": "Failed builds",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/edge-returns-429-rate-limited-to-uptim-3640a6b8",
+   "t": "Edge returns 429 \"rate limited\" to UptimeRobot and GitHub Actions",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
    "h": "/questions/issue-railway-postgre-sql-tcp-proxy-caus-ab34a604",
    "t": "Issue: Railway PostgreSQL TCP Proxy Causing Data Corruption and SSL Connection Drops",
    "score": 2,
@@ -129,24 +137,8 @@
    ]
   },
   {
-   "h": "/questions/failed-builds-06202e65",
-   "t": "Failed builds",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
    "h": "/questions/warning-disk-space-low-9a649ad4",
    "t": "WARNING: Disk Space Low",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/will-skip-deploys-or-railway-up-touch-fc291a96",
-   "t": "Will --skip-deploys or railway up touch an existing STAGED patch?",
    "score": 2,
    "notes": [
     "竞争低"
@@ -164,7 +156,7 @@
   },
   {
    "h": "/questions/deploy-failure-6bb88dbe",
-   "t": "Deploy failure $10 1 replies 13d by hosikjosik",
+   "t": "Deploy failure $10 1 replies 14d by hosikjosik",
    "score": -1,
    "notes": [
     "陈旧",
@@ -182,7 +174,7 @@
   },
   {
    "h": "/questions/postgres-volume-i-o-stall-on-us-east4-eq-99dae057",
-   "t": "Postgres volume I/O stall on us-east4-eqdc4a — checkpoint sync 42.7s, factory statement timeouts (exact-aco production) $20 18 replies 20d by gustavo-paris",
+   "t": "Postgres volume I/O stall on us-east4-eqdc4a — checkpoint sync 42.7s, factory statement timeouts (exact-aco production) $20 18 replies 21d by gustavo-paris",
    "score": -2,
    "notes": [
     "陈旧",
