@@ -1,19 +1,18 @@
 {
-  "at": "2026-10-08T03:45Z",
-  "runs": 47,
-  "open_total": 21,
+  "at": "2026-10-08T12:32Z",
+  "runs": 48,
+  "open_total": 20,
   "new_count": 0,
   "new_items": [],
   "global_candidates": [
-    "$5000   [  3 提交] 2026-10-13 | Crypto World's Fair Pakistan Track",
     "$620    [  5 提交] 2026-10-23 | Launch & Trade on Daejin: Write a Twitter Thread and",
-    "$500    [ 10 提交] 2026-10-17 | Grow Rewards: Make Your First Move",
+    "$500    [ 13 提交] 2026-10-17 | Grow Rewards: Make Your First Move",
     "$500    [ 16 提交] 2026-10-14 | Make a Video: Season Zero, Pump the Pool 3 and Socia",
-    "$250    [ 16 提交] 2026-10-14 | Climb Our Reader Leaderboard for Sep/Oct 2026",
-    "$500    [ 26 提交] 2026-10-14 | Write a Thread or Long Post: Price Comparison",
-    "$500    [ 32 提交] 2026-10-14 | Write a Post: Dust Sweeper + How Social Quests Earn",
-    "$350    [114 提交] 2026-10-17 | Try a Solana Project and Give Useful Feedback | Toke",
-    "$500    [496 提交] 2026-10-09 | Create twitter Post about the STREAM burn"
+    "$250    [ 17 提交] 2026-10-14 | Climb Our Reader Leaderboard for Sep/Oct 2026",
+    "$500    [ 31 提交] 2026-10-14 | Write a Thread or Long Post: Price Comparison",
+    "$500    [ 35 提交] 2026-10-14 | Write a Post: Dust Sweeper + How Social Quests Earn",
+    "$350    [117 提交] 2026-10-17 | Try a Solana Project and Give Useful Feedback | Toke",
+    "$500    [513 提交] 2026-10-09 | Create twitter Post about the STREAM burn"
   ],
   "repo": "https://github.com/HCTDIP/corps-jobs"
 }
