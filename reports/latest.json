@@ -1,22 +1,21 @@
 {
-  "at": "2026-10-09T12:20Z",
-  "runs": 51,
-  "open_total": 22,
+  "at": "2026-10-09T22:03Z",
+  "runs": 52,
+  "open_total": 21,
   "new_count": 1,
   "new_items": [
-    "$40000  [  2 提交] [无地区限制] Vaultline Security Audit Grants for Colosseum Projects:"
+    "$2500   [  0 提交] [有地区分会] Arf × Superteam Türkiye — University Track"
   ],
   "global_candidates": [
-    "$40000  [  2 提交] [无地区限制] Vaultline Security Audit Grants for Colosseum Projects:",
-    "$40000  [  2 提交] 2026-10-31 | Vaultline Security Audit Grants for Colosseum Projec",
-    "$620    [  6 提交] 2026-10-23 | Launch & Trade on Daejin: Write a Twitter Thread and",
-    "$500    [ 15 提交] 2026-10-17 | Grow Rewards: Make Your First Move",
+    "$2500   [  0 提交] [有地区分会] Arf × Superteam Türkiye — University Track",
+    "$40000  [  4 提交] 2026-10-31 | Vaultline Security Audit Grants for Colosseum Projec",
+    "$620    [  8 提交] 2026-10-23 | Launch & Trade on Daejin: Write a Twitter Thread and",
     "$250    [ 17 提交] 2026-10-14 | Climb Our Reader Leaderboard for Sep/Oct 2026",
     "$500    [ 19 提交] 2026-10-14 | Make a Video: Season Zero, Pump the Pool 3 and Socia",
-    "$500    [ 39 提交] 2026-10-14 | Write a Thread or Long Post: Price Comparison",
-    "$500    [ 39 提交] 2026-10-14 | Write a Post: Dust Sweeper + How Social Quests Earn",
-    "$350    [127 提交] 2026-10-17 | Try a Solana Project and Give Useful Feedback | Toke",
-    "$500    [560 提交] 2026-10-09 | Create twitter Post about the STREAM burn"
+    "$500    [ 19 提交] 2026-10-17 | Grow Rewards: Make Your First Move",
+    "$500    [ 40 提交] 2026-10-14 | Write a Post: Dust Sweeper + How Social Quests Earn",
+    "$500    [ 41 提交] 2026-10-14 | Write a Thread or Long Post: Price Comparison",
+    "$350    [130 提交] 2026-10-17 | Try a Solana Project and Give Useful Feedback | Toke"
   ],
   "repo": "https://github.com/HCTDIP/corps-jobs"
 }
