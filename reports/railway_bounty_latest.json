@@ -1,10 +1,10 @@
 {
- "at": "2026-10-09T10:55:17.860916+00:00",
- "total": 28,
+ "at": "2026-10-09T18:31:38.556370+00:00",
+ "total": 26,
  "hot": [
   {
    "h": "/questions/fred-api-b12d2092",
-   "t": "Fred API $10 0 replies 3h by undertowindex",
+   "t": "Fred API $10 0 replies 10h by undertowindex",
    "score": 7,
    "notes": [
     "数小时内",
@@ -13,8 +13,8 @@
    ]
   },
   {
-   "h": "/questions/oauth-callback-query-header-handling-be-9c175a6b",
-   "t": "OAuth callback: query/header handling beyond visible HTTP logs $10 0 replies 16h by mexii06",
+   "h": "/questions/repeated-build-failures-inconsistent-53fd7795",
+   "t": "Repeated build failures — inconsistent “secret not found” on Railpack Metal builder $10 0 replies 2h by wisdomformation",
    "score": 5,
    "notes": [
     "数小时内",
@@ -22,65 +22,94 @@
    ]
   },
   {
-   "h": "/questions/workspace-viewer-oauth-token-workspace-78bcec7e",
-   "t": "workspace:viewer OAuth token: workspace(workspaceId) query returns INTERNAL_SERVER_ERROR",
-   "score": 4,
+   "h": "/questions/long-lived-websockets-on-a-custom-domain-efd745d9",
+   "t": "Long-lived WebSockets on a custom domain closed by the edge in simultaneous waves, with no deploy on our side $10 0 replies 10h by timadrien",
+   "score": 5,
    "notes": [
-    "竞争低",
-    "提问·配置型"
+    "数小时内",
+    "竞争低"
    ]
   },
   {
-   "h": "/questions/mysql-database-view-fails-via-ssh-with-a-bb78db4f",
-   "t": "MySQL Database View fails via SSH with Access denied for root@127.0.0.1, but MySQL connections work",
+   "h": "/questions/oauth-callback-query-header-handling-be-9c175a6b",
+   "t": "OAuth callback: query/header handling beyond visible HTTP logs $10 0 replies 1d by mexii06",
    "score": 4,
    "notes": [
-    "竞争低",
-    "提问·配置型"
+    "1天内",
+    "竞争低"
    ]
   }
  ],
  "new": [
   {
-   "h": "/questions/fred-api-b12d2092",
-   "t": "Fred API $10 0 replies 3h by undertowindex",
-   "score": 7,
+   "h": "/questions/repeated-build-failures-inconsistent-53fd7795",
+   "t": "Repeated build failures — inconsistent “secret not found” on Railpack Metal builder $10 0 replies 2h by wisdomformation",
+   "score": 5,
    "notes": [
     "数小时内",
-    "竞争低",
-    "提问·配置型"
+    "竞争低"
    ]
   },
   {
-   "h": "/questions/workspace-viewer-oauth-token-workspace-78bcec7e",
-   "t": "workspace:viewer OAuth token: workspace(workspaceId) query returns INTERNAL_SERVER_ERROR",
-   "score": 4,
+   "h": "/questions/long-lived-websockets-on-a-custom-domain-efd745d9",
+   "t": "Long-lived WebSockets on a custom domain closed by the edge in simultaneous waves, with no deploy on our side $10 0 replies 10h by timadrien",
+   "score": 5,
    "notes": [
-    "竞争低",
-    "提问·配置型"
+    "数小时内",
+    "竞争低"
    ]
   },
   {
-   "h": "/questions/will-skip-deploys-or-railway-up-touch-fc291a96",
-   "t": "Will --skip-deploys or railway up touch an existing STAGED patch?",
+   "h": "/questions/how-to-initialize-one-service-without-de-fde11e87",
+   "t": "How to initialize one service without deploying other staged services?",
    "score": 2,
    "notes": [
     "竞争低"
    ]
   },
   {
-   "h": "/questions/does-railway-tcp-proxy-support-end-to-en-d28c7575",
-   "t": "Does Railway TCP Proxy support end-to-end mTLS on a custom domain and port 443?",
+   "h": "/questions/my-project-was-working-i-changed-a-few-f09c626b",
+   "t": "My project was working. I changed a few files. It stopped worked even when it was deployed correctly",
    "score": 2,
    "notes": [
     "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/ownership-transfer-acceptance-fails-with-1640f792",
+   "t": "Ownership transfer acceptance fails with “Not Authorized $10 1 replies 3d by mnona88",
+   "score": -1,
+   "notes": [
+    "陈旧",
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/request-for-csr-certificate-signing-req-6c07d2db",
+   "t": "Request for CSR (Certificate Signing Request) for Custom SSL Setup $10 1 replies 7m by mythoslabsinc",
+   "score": -3,
+   "notes": [
+    "陈旧",
+    "竞争低",
+    "⚠平台基建/已解",
+    "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/project-steadfast-education-5ceae60c",
+   "t": "Project: steadfast-education $10 2 replies 6m by acs73traveler-creator",
+   "score": -5,
+   "notes": [
+    "陈旧",
+    "竞争低",
+    "⚠平台基建/已解"
    ]
   }
  ],
  "all": [
   {
    "h": "/questions/fred-api-b12d2092",
-   "t": "Fred API $10 0 replies 3h by undertowindex",
+   "t": "Fred API $10 0 replies 10h by undertowindex",
    "score": 7,
    "notes": [
     "数小时内",
@@ -89,8 +118,8 @@
    ]
   },
   {
-   "h": "/questions/oauth-callback-query-header-handling-be-9c175a6b",
-   "t": "OAuth callback: query/header handling beyond visible HTTP logs $10 0 replies 16h by mexii06",
+   "h": "/questions/repeated-build-failures-inconsistent-53fd7795",
+   "t": "Repeated build failures — inconsistent “secret not found” on Railpack Metal builder $10 0 replies 2h by wisdomformation",
    "score": 5,
    "notes": [
     "数小时内",
@@ -98,34 +127,34 @@
    ]
   },
   {
-   "h": "/questions/workspace-viewer-oauth-token-workspace-78bcec7e",
-   "t": "workspace:viewer OAuth token: workspace(workspaceId) query returns INTERNAL_SERVER_ERROR",
-   "score": 4,
+   "h": "/questions/long-lived-websockets-on-a-custom-domain-efd745d9",
+   "t": "Long-lived WebSockets on a custom domain closed by the edge in simultaneous waves, with no deploy on our side $10 0 replies 10h by timadrien",
+   "score": 5,
    "notes": [
-    "竞争低",
-    "提问·配置型"
+    "数小时内",
+    "竞争低"
    ]
   },
   {
-   "h": "/questions/mysql-database-view-fails-via-ssh-with-a-bb78db4f",
-   "t": "MySQL Database View fails via SSH with Access denied for root@127.0.0.1, but MySQL connections work",
+   "h": "/questions/oauth-callback-query-header-handling-be-9c175a6b",
+   "t": "OAuth callback: query/header handling beyond visible HTTP logs $10 0 replies 1d by mexii06",
    "score": 4,
    "notes": [
-    "竞争低",
-    "提问·配置型"
+    "1天内",
+    "竞争低"
    ]
   },
   {
-   "h": "/questions/will-skip-deploys-or-railway-up-touch-fc291a96",
-   "t": "Will --skip-deploys or railway up touch an existing STAGED patch?",
+   "h": "/questions/how-to-initialize-one-service-without-de-fde11e87",
+   "t": "How to initialize one service without deploying other staged services?",
    "score": 2,
    "notes": [
     "竞争低"
    ]
   },
   {
-   "h": "/questions/does-railway-tcp-proxy-support-end-to-en-d28c7575",
-   "t": "Does Railway TCP Proxy support end-to-end mTLS on a custom domain and port 443?",
+   "h": "/questions/my-project-was-working-i-changed-a-few-f09c626b",
+   "t": "My project was working. I changed a few files. It stopped worked even when it was deployed correctly",
    "score": 2,
    "notes": [
     "竞争低"
@@ -140,16 +169,16 @@
    ]
   },
   {
-   "h": "/questions/can-a-railway-restored-volume-be-validat-c53d0bb0",
-   "t": "Can a Railway restored volume be validated without deploying it over the active MySQL volume?",
+   "h": "/questions/will-skip-deploys-or-railway-up-touch-fc291a96",
+   "t": "Will --skip-deploys or railway up touch an existing STAGED patch?",
    "score": 2,
    "notes": [
     "竞争低"
    ]
   },
   {
-   "h": "/questions/failed-builds-06202e65",
-   "t": "Failed builds",
+   "h": "/questions/does-railway-tcp-proxy-support-end-to-en-d28c7575",
+   "t": "Does Railway TCP Proxy support end-to-end mTLS on a custom domain and port 443?",
    "score": 2,
    "notes": [
     "竞争低"
@@ -163,6 +192,15 @@
     "陈旧",
     "竞争低",
     "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/ownership-transfer-acceptance-fails-with-1640f792",
+   "t": "Ownership transfer acceptance fails with “Not Authorized $10 1 replies 3d by mnona88",
+   "score": -1,
+   "notes": [
+    "陈旧",
+    "竞争低"
    ]
   },
   {
@@ -191,6 +229,17 @@
    "notes": [
     "竞争低",
     "⚠平台基建/已解"
+   ]
+  },
+  {
+   "h": "/questions/request-for-csr-certificate-signing-req-6c07d2db",
+   "t": "Request for CSR (Certificate Signing Request) for Custom SSL Setup $10 1 replies 7m by mythoslabsinc",
+   "score": -3,
+   "notes": [
+    "陈旧",
+    "竞争低",
+    "⚠平台基建/已解",
+    "提问·配置型"
    ]
   },
   {
@@ -253,6 +302,16 @@
    ]
   },
   {
+   "h": "/questions/project-steadfast-education-5ceae60c",
+   "t": "Project: steadfast-education $10 2 replies 6m by acs73traveler-creator",
+   "score": -5,
+   "notes": [
+    "陈旧",
+    "竞争低",
+    "⚠平台基建/已解"
+   ]
+  },
+  {
    "h": "/questions/deploy-nodes-cannot-reach-internal-regis-dfbe538a",
    "t": "Deploy nodes cannot reach internal registry (us-west2) — service offline $10 1 replies 6m by bmetcalf21",
    "score": -5,
@@ -283,62 +342,12 @@
    ]
   },
   {
-   "h": "/questions/sudden-dns-issue-0f13d660",
-   "t": "Sudden DNS issue on production system $20 2 replies 8m by upd",
-   "score": -5,
-   "notes": [
-    "陈旧",
-    "竞争低",
-    "⚠平台基建/已解"
-   ]
-  },
-  {
-   "h": "/questions/n8n-self-hosted-stopeed-working-2dbedbe7",
-   "t": "n8n self-hosted stopeed working $10 1 replies 8m by transformatiive",
-   "score": -5,
-   "notes": [
-    "陈旧",
-    "竞争低",
-    "⚠平台基建/已解"
-   ]
-  },
-  {
-   "h": "/questions/build-failing-because-npm-dependencies-a-4607a810",
-   "t": "Build failing because npm dependencies aren't being installed properly $10 2 replies 8m by davekaro",
-   "score": -5,
-   "notes": [
-    "陈旧",
-    "竞争低",
-    "⚠平台基建/已解"
-   ]
-  },
-  {
    "h": "/questions/point-in-time-recovery-backup-restore-08522372",
    "t": "Point-in-time recovery / backup restore for a Postgres service — recover rows deleted from sessions / session_events $20 6 replies 4m by mcampolongo-rg",
    "score": -8,
    "notes": [
     "陈旧",
     "已6回复",
-    "⚠平台基建/已解"
-   ]
-  },
-  {
-   "h": "/questions/mongo-db-connection-failed-since-12-feb-855f3581",
-   "t": "MongoDB connection failed since 12 Feb. $10 4 replies 7m by jingle",
-   "score": -8,
-   "notes": [
-    "陈旧",
-    "已4回复",
-    "⚠平台基建/已解"
-   ]
-  },
-  {
-   "h": "/questions/server-performance-issue-on-pro-plan-p-0aaac6e5",
-   "t": "Server Performance Issue on Pro Plan – Project B Not Responding / Login Failing $30 5 replies 8m by chaudharyali14",
-   "score": -8,
-   "notes": [
-    "陈旧",
-    "已5回复",
     "⚠平台基建/已解"
    ]
   }
