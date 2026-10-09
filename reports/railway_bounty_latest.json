@@ -1,10 +1,20 @@
 {
- "at": "2026-10-09T01:27:43.627644+00:00",
- "total": 29,
+ "at": "2026-10-09T10:55:17.860916+00:00",
+ "total": 28,
  "hot": [
   {
+   "h": "/questions/fred-api-b12d2092",
+   "t": "Fred API $10 0 replies 3h by undertowindex",
+   "score": 7,
+   "notes": [
+    "数小时内",
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
+  {
    "h": "/questions/oauth-callback-query-header-handling-be-9c175a6b",
-   "t": "OAuth callback: query/header handling beyond visible HTTP logs $10 0 replies 7h by mexii06",
+   "t": "OAuth callback: query/header handling beyond visible HTTP logs $10 0 replies 16h by mexii06",
    "score": 5,
    "notes": [
     "数小时内",
@@ -12,8 +22,8 @@
    ]
   },
   {
-   "h": "/questions/mysql-database-view-fails-via-ssh-with-a-bb78db4f",
-   "t": "MySQL Database View fails via SSH with Access denied for root@127.0.0.1, but MySQL connections work",
+   "h": "/questions/workspace-viewer-oauth-token-workspace-78bcec7e",
+   "t": "workspace:viewer OAuth token: workspace(workspaceId) query returns INTERNAL_SERVER_ERROR",
    "score": 4,
    "notes": [
     "竞争低",
@@ -21,8 +31,8 @@
    ]
   },
   {
-   "h": "/questions/node-inspector-opened-and-attached-in-ap-7b53e5bf",
-   "t": "Node inspector opened and attached in api/worker without --inspect — is this a Railway feature?",
+   "h": "/questions/mysql-database-view-fails-via-ssh-with-a-bb78db4f",
+   "t": "MySQL Database View fails via SSH with Access denied for root@127.0.0.1, but MySQL connections work",
    "score": 4,
    "notes": [
     "竞争低",
@@ -32,8 +42,35 @@
  ],
  "new": [
   {
-   "h": "/questions/upload-performance-5d5e776f",
-   "t": "Upload performance",
+   "h": "/questions/fred-api-b12d2092",
+   "t": "Fred API $10 0 replies 3h by undertowindex",
+   "score": 7,
+   "notes": [
+    "数小时内",
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/workspace-viewer-oauth-token-workspace-78bcec7e",
+   "t": "workspace:viewer OAuth token: workspace(workspaceId) query returns INTERNAL_SERVER_ERROR",
+   "score": 4,
+   "notes": [
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/will-skip-deploys-or-railway-up-touch-fc291a96",
+   "t": "Will --skip-deploys or railway up touch an existing STAGED patch?",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/does-railway-tcp-proxy-support-end-to-en-d28c7575",
+   "t": "Does Railway TCP Proxy support end-to-end mTLS on a custom domain and port 443?",
    "score": 2,
    "notes": [
     "竞争低"
@@ -42,12 +79,31 @@
  ],
  "all": [
   {
+   "h": "/questions/fred-api-b12d2092",
+   "t": "Fred API $10 0 replies 3h by undertowindex",
+   "score": 7,
+   "notes": [
+    "数小时内",
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
+  {
    "h": "/questions/oauth-callback-query-header-handling-be-9c175a6b",
-   "t": "OAuth callback: query/header handling beyond visible HTTP logs $10 0 replies 7h by mexii06",
+   "t": "OAuth callback: query/header handling beyond visible HTTP logs $10 0 replies 16h by mexii06",
    "score": 5,
    "notes": [
     "数小时内",
     "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/workspace-viewer-oauth-token-workspace-78bcec7e",
+   "t": "workspace:viewer OAuth token: workspace(workspaceId) query returns INTERNAL_SERVER_ERROR",
+   "score": 4,
+   "notes": [
+    "竞争低",
+    "提问·配置型"
    ]
   },
   {
@@ -60,12 +116,19 @@
    ]
   },
   {
-   "h": "/questions/node-inspector-opened-and-attached-in-ap-7b53e5bf",
-   "t": "Node inspector opened and attached in api/worker without --inspect — is this a Railway feature?",
-   "score": 4,
+   "h": "/questions/will-skip-deploys-or-railway-up-touch-fc291a96",
+   "t": "Will --skip-deploys or railway up touch an existing STAGED patch?",
+   "score": 2,
    "notes": [
-    "竞争低",
-    "提问·配置型"
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/does-railway-tcp-proxy-support-end-to-en-d28c7575",
+   "t": "Does Railway TCP Proxy support end-to-end mTLS on a custom domain and port 443?",
+   "score": 2,
+   "notes": [
+    "竞争低"
    ]
   },
   {
@@ -93,30 +156,6 @@
    ]
   },
   {
-   "h": "/questions/edge-returns-429-rate-limited-to-uptim-3640a6b8",
-   "t": "Edge returns 429 \"rate limited\" to UptimeRobot and GitHub Actions",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/issue-railway-postgre-sql-tcp-proxy-caus-ab34a604",
-   "t": "Issue: Railway PostgreSQL TCP Proxy Causing Data Corruption and SSL Connection Drops",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/generated-domain-returns-railway-not-fou-542992e3",
-   "t": "Generated domain returns Railway Not Found despite healthy service on 0.0.0.0:8080",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
    "h": "/questions/runtime-v2-injecting-empty-variable-valu-4c0fb717",
    "t": "Runtime V2 injecting empty variable values into the deployment process $10 1 replies 4m by fantasycricketpros",
    "score": 1,
@@ -128,7 +167,7 @@
   },
   {
    "h": "/questions/deploy-failure-6bb88dbe",
-   "t": "Deploy failure $10 1 replies 14d by hosikjosik",
+   "t": "Deploy failure $10 1 replies 15d by hosikjosik",
    "score": -1,
    "notes": [
     "陈旧",
@@ -137,7 +176,7 @@
   },
   {
    "h": "/questions/postgres-volume-i-o-stall-on-us-east4-eq-99dae057",
-   "t": "Postgres volume I/O stall on us-east4-eqdc4a — checkpoint sync 42.7s, factory statement timeouts (exact-aco production) $20 18 replies 21d by gustavo-paris",
+   "t": "Postgres volume I/O stall on us-east4-eqdc4a — checkpoint sync 42.7s, factory statement timeouts (exact-aco production) $20 18 replies 22d by gustavo-paris",
    "score": -2,
    "notes": [
     "陈旧",
@@ -266,16 +305,6 @@
   {
    "h": "/questions/build-failing-because-npm-dependencies-a-4607a810",
    "t": "Build failing because npm dependencies aren't being installed properly $10 2 replies 8m by davekaro",
-   "score": -5,
-   "notes": [
-    "陈旧",
-    "竞争低",
-    "⚠平台基建/已解"
-   ]
-  },
-  {
-   "h": "/questions/arangodb-container-doesn-t-deploy-0b07f784",
-   "t": "Arangodb container doesn't deploy $10 1 replies 8m by fjblau",
    "score": -5,
    "notes": [
     "陈旧",
