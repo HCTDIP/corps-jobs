@@ -1,21 +1,18 @@
 {
-  "at": "2026-10-09T22:03Z",
-  "runs": 52,
+  "at": "2026-10-10T03:33Z",
+  "runs": 53,
   "open_total": 21,
-  "new_count": 1,
-  "new_items": [
-    "$2500   [  0 提交] [有地区分会] Arf × Superteam Türkiye — University Track"
-  ],
+  "new_count": 0,
+  "new_items": [],
   "global_candidates": [
-    "$2500   [  0 提交] [有地区分会] Arf × Superteam Türkiye — University Track",
-    "$40000  [  4 提交] 2026-10-31 | Vaultline Security Audit Grants for Colosseum Projec",
+    "$40000  [  5 提交] 2026-10-31 | Vaultline Security Audit Grants for Colosseum Projec",
     "$620    [  8 提交] 2026-10-23 | Launch & Trade on Daejin: Write a Twitter Thread and",
     "$250    [ 17 提交] 2026-10-14 | Climb Our Reader Leaderboard for Sep/Oct 2026",
     "$500    [ 19 提交] 2026-10-14 | Make a Video: Season Zero, Pump the Pool 3 and Socia",
-    "$500    [ 19 提交] 2026-10-17 | Grow Rewards: Make Your First Move",
-    "$500    [ 40 提交] 2026-10-14 | Write a Post: Dust Sweeper + How Social Quests Earn",
+    "$500    [ 20 提交] 2026-10-17 | Grow Rewards: Make Your First Move",
     "$500    [ 41 提交] 2026-10-14 | Write a Thread or Long Post: Price Comparison",
-    "$350    [130 提交] 2026-10-17 | Try a Solana Project and Give Useful Feedback | Toke"
+    "$500    [ 41 提交] 2026-10-14 | Write a Post: Dust Sweeper + How Social Quests Earn",
+    "$350    [131 提交] 2026-10-17 | Try a Solana Project and Give Useful Feedback | Toke"
   ],
   "repo": "https://github.com/HCTDIP/corps-jobs"
 }
