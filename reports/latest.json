@@ -1,22 +1,19 @@
 {
-  "at": "2026-10-10T16:40Z",
-  "runs": 55,
+  "at": "2026-10-10T20:56Z",
+  "runs": 56,
   "open_total": 22,
-  "new_count": 1,
-  "new_items": [
-    "$500    [  1 提交] [无地区限制] Create Content on Premier League Predictions with worm 🪱"
-  ],
+  "new_count": 0,
+  "new_items": [],
   "global_candidates": [
-    "$500    [  1 提交] [无地区限制] Create Content on Premier League Predictions with worm 🪱",
-    "$500    [  1 提交] 2026-11-24 | Create Content on Premier League Predictions with wo",
-    "$40000  [  8 提交] 2026-10-31 | Vaultline Security Audit Grants for Colosseum Projec",
+    "$500    [  2 提交] 2026-11-24 | Create Content on Premier League Predictions with wo",
     "$620    [  8 提交] 2026-10-23 | Launch & Trade on Daejin: Write a Twitter Thread and",
+    "$40000  [ 12 提交] 2026-10-31 | Vaultline Security Audit Grants for Colosseum Projec",
     "$500    [ 20 提交] 2026-10-17 | Grow Rewards: Make Your First Move",
     "$500    [ 22 提交] 2026-10-14 | Make a Video: Season Zero, Pump the Pool 3 and Socia",
     "$250    [ 22 提交] 2026-10-14 | Climb Our Reader Leaderboard for Sep/Oct 2026",
-    "$500    [ 45 提交] 2026-10-14 | Write a Post: Dust Sweeper + How Social Quests Earn",
-    "$500    [ 51 提交] 2026-10-14 | Write a Thread or Long Post: Price Comparison",
-    "$350    [143 提交] 2026-10-17 | Try a Solana Project and Give Useful Feedback | Toke"
+    "$500    [ 46 提交] 2026-10-14 | Write a Post: Dust Sweeper + How Social Quests Earn",
+    "$500    [ 55 提交] 2026-10-14 | Write a Thread or Long Post: Price Comparison",
+    "$350    [144 提交] 2026-10-17 | Try a Solana Project and Give Useful Feedback | Toke"
   ],
   "repo": "https://github.com/HCTDIP/corps-jobs"
 }
