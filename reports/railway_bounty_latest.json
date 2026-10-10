@@ -1,10 +1,10 @@
 {
- "at": "2026-10-10T06:23:53.063308+00:00",
- "total": 30,
+ "at": "2026-10-10T13:03:56.188148+00:00",
+ "total": 27,
  "hot": [
   {
-   "h": "/questions/contract-clarification-pause-one-produc-8fe3d4c5",
-   "t": "Contract clarification: pause one Production Cron without deployment or consuming unrelated staged changes $10 0 replies 12h by trisfas",
+   "h": "/questions/railway-api-safely-resolving-an-alread-a22ce80a",
+   "t": "Railway API — Safely resolving an already-applied staged service creation $10 0 replies 6h by eddy0007",
    "score": 7,
    "notes": [
     "数小时内",
@@ -13,8 +13,18 @@
    ]
   },
   {
-   "h": "/questions/long-lived-websockets-on-a-custom-domain-efd745d9",
-   "t": "Long-lived WebSockets on a custom domain closed by the edge in simultaneous waves, with no deploy on our side $10 0 replies 21h by timadrien",
+   "h": "/questions/contract-clarification-pause-one-produc-8fe3d4c5",
+   "t": "Contract clarification: pause one Production Cron without deployment or consuming unrelated staged changes $10 0 replies 19h by trisfas",
+   "score": 7,
+   "notes": [
+    "数小时内",
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/service-level-externally-enforced-deny-f9695bf0",
+   "t": "Service-level, externally enforced deny-by-default egress $20 0 replies 5h by netromjohnsen-glitch",
    "score": 5,
    "notes": [
     "数小时内",
@@ -22,11 +32,29 @@
    ]
   },
   {
-   "h": "/questions/oauth-callback-query-header-handling-be-9c175a6b",
-   "t": "OAuth callback: query/header handling beyond visible HTTP logs $10 0 replies 1d by mexii06",
+   "h": "/questions/trial-staged-service-creation-rejected-0300873f",
+   "t": "Trial: staged service creation rejected in an empty project $10 0 replies 4h by totorich7",
+   "score": 5,
+   "notes": [
+    "数小时内",
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/long-lived-websockets-on-a-custom-domain-efd745d9",
+   "t": "Long-lived WebSockets on a custom domain closed by the edge in simultaneous waves, with no deploy on our side $10 0 replies 1d by timadrien",
    "score": 4,
    "notes": [
     "1天内",
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/oauth-callback-query-header-handling-be-9c175a6b",
+   "t": "OAuth callback: query/header handling beyond visible HTTP logs $10 0 replies 2d by mexii06",
+   "score": 4,
+   "notes": [
+    "2天内",
     "竞争低"
    ]
   },
@@ -51,26 +79,8 @@
  ],
  "new": [
   {
-   "h": "/questions/pause-public-ingress-067e8bc8",
-   "t": "Pause public ingress",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/repeated-failures-deploying-68813aa1",
-   "t": "repeated failures deploying",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  }
- ],
- "all": [
-  {
-   "h": "/questions/contract-clarification-pause-one-produc-8fe3d4c5",
-   "t": "Contract clarification: pause one Production Cron without deployment or consuming unrelated staged changes $10 0 replies 12h by trisfas",
+   "h": "/questions/railway-api-safely-resolving-an-alread-a22ce80a",
+   "t": "Railway API — Safely resolving an already-applied staged service creation $10 0 replies 6h by eddy0007",
    "score": 7,
    "notes": [
     "数小时内",
@@ -79,8 +89,8 @@
    ]
   },
   {
-   "h": "/questions/long-lived-websockets-on-a-custom-domain-efd745d9",
-   "t": "Long-lived WebSockets on a custom domain closed by the edge in simultaneous waves, with no deploy on our side $10 0 replies 21h by timadrien",
+   "h": "/questions/service-level-externally-enforced-deny-f9695bf0",
+   "t": "Service-level, externally enforced deny-by-default egress $20 0 replies 5h by netromjohnsen-glitch",
    "score": 5,
    "notes": [
     "数小时内",
@@ -88,11 +98,69 @@
    ]
   },
   {
-   "h": "/questions/oauth-callback-query-header-handling-be-9c175a6b",
-   "t": "OAuth callback: query/header handling beyond visible HTTP logs $10 0 replies 1d by mexii06",
+   "h": "/questions/trial-staged-service-creation-rejected-0300873f",
+   "t": "Trial: staged service creation rejected in an empty project $10 0 replies 4h by totorich7",
+   "score": 5,
+   "notes": [
+    "数小时内",
+    "竞争低"
+   ]
+  }
+ ],
+ "all": [
+  {
+   "h": "/questions/railway-api-safely-resolving-an-alread-a22ce80a",
+   "t": "Railway API — Safely resolving an already-applied staged service creation $10 0 replies 6h by eddy0007",
+   "score": 7,
+   "notes": [
+    "数小时内",
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/contract-clarification-pause-one-produc-8fe3d4c5",
+   "t": "Contract clarification: pause one Production Cron without deployment or consuming unrelated staged changes $10 0 replies 19h by trisfas",
+   "score": 7,
+   "notes": [
+    "数小时内",
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/service-level-externally-enforced-deny-f9695bf0",
+   "t": "Service-level, externally enforced deny-by-default egress $20 0 replies 5h by netromjohnsen-glitch",
+   "score": 5,
+   "notes": [
+    "数小时内",
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/trial-staged-service-creation-rejected-0300873f",
+   "t": "Trial: staged service creation rejected in an empty project $10 0 replies 4h by totorich7",
+   "score": 5,
+   "notes": [
+    "数小时内",
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/long-lived-websockets-on-a-custom-domain-efd745d9",
+   "t": "Long-lived WebSockets on a custom domain closed by the edge in simultaneous waves, with no deploy on our side $10 0 replies 1d by timadrien",
    "score": 4,
    "notes": [
     "1天内",
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/oauth-callback-query-header-handling-be-9c175a6b",
+   "t": "OAuth callback: query/header handling beyond visible HTTP logs $10 0 replies 2d by mexii06",
+   "score": 4,
+   "notes": [
+    "2天内",
     "竞争低"
    ]
   },
@@ -115,6 +183,14 @@
    ]
   },
   {
+   "h": "/questions/subject-sftp-timeout-accessing-persiste-2c6d25fa",
+   "t": "Subject: SFTP timeout accessing persistent volume for crashed cron service",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
    "h": "/questions/pause-public-ingress-067e8bc8",
    "t": "Pause public ingress",
    "score": 2,
@@ -131,40 +207,8 @@
    ]
   },
   {
-   "h": "/questions/subject-sftp-timeout-accessing-persiste-2c6d25fa",
-   "t": "Subject: SFTP timeout accessing persistent volume for crashed cron service",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
    "h": "/questions/repeated-build-failures-inconsistent-53fd7795",
    "t": "Repeated build failures — inconsistent “secret not found” on Railpack Metal builder",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/railway-runs-arbitrary-commands-during-d-3a2f0b2b",
-   "t": "Something is running arbitrary commands during deployments",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/railway-deployment-background-worker-s-84fbab3b",
-   "t": "Railway Deployment – Background Worker Scripts Defined in package.json Not Running Automatically",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/ha-postgres-creating-thousands-of-error-604b0065",
-   "t": "HA Postgres creating thousands of error logs",
    "score": 2,
    "notes": [
     "竞争低"
@@ -182,7 +226,7 @@
   },
   {
    "h": "/questions/ownership-transfer-acceptance-fails-with-1640f792",
-   "t": "Ownership transfer acceptance fails with “Not Authorized $10 1 replies 3d by mnona88",
+   "t": "Ownership transfer acceptance fails with “Not Authorized $10 1 replies 4d by mnona88",
    "score": -1,
    "notes": [
     "陈旧",
@@ -308,42 +352,12 @@
    ]
   },
   {
-   "h": "/questions/volume-restore-button-not-working-load-a0e52a31",
-   "t": "Volume restore button not working - loads project instead $10 1 replies 7m by mosatiii",
-   "score": -5,
-   "notes": [
-    "陈旧",
-    "竞争低",
-    "⚠平台基建/已解"
-   ]
-  },
-  {
-   "h": "/questions/domain-problem-74757b03",
-   "t": "Domain problem $10 2 replies 7m by julianbessone",
-   "score": -5,
-   "notes": [
-    "陈旧",
-    "竞争低",
-    "⚠平台基建/已解"
-   ]
-  },
-  {
    "h": "/questions/point-in-time-recovery-backup-restore-08522372",
    "t": "Point-in-time recovery / backup restore for a Postgres service — recover rows deleted from sessions / session_events $20 6 replies 4m by mcampolongo-rg",
    "score": -8,
    "notes": [
     "陈旧",
     "已6回复",
-    "⚠平台基建/已解"
-   ]
-  },
-  {
-   "h": "/questions/mongo-db-connection-failed-since-12-feb-855f3581",
-   "t": "MongoDB connection failed since 12 Feb. $10 4 replies 7m by jingle",
-   "score": -8,
-   "notes": [
-    "陈旧",
-    "已4回复",
     "⚠平台基建/已解"
    ]
   }
