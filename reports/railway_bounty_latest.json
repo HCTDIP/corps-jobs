@@ -1,10 +1,10 @@
 {
- "at": "2026-10-10T13:03:56.188148+00:00",
- "total": 27,
+ "at": "2026-10-10T19:31:51.855743+00:00",
+ "total": 28,
  "hot": [
   {
    "h": "/questions/railway-api-safely-resolving-an-alread-a22ce80a",
-   "t": "Railway API — Safely resolving an already-applied staged service creation $10 0 replies 6h by eddy0007",
+   "t": "Railway API — Safely resolving an already-applied staged service creation $10 0 replies 12h by eddy0007",
    "score": 7,
    "notes": [
     "数小时内",
@@ -14,26 +14,17 @@
   },
   {
    "h": "/questions/contract-clarification-pause-one-produc-8fe3d4c5",
-   "t": "Contract clarification: pause one Production Cron without deployment or consuming unrelated staged changes $10 0 replies 19h by trisfas",
-   "score": 7,
+   "t": "Contract clarification: pause one Production Cron without deployment or consuming unrelated staged changes $10 0 replies 1d by trisfas",
+   "score": 6,
    "notes": [
-    "数小时内",
+    "1天内",
     "竞争低",
     "提问·配置型"
    ]
   },
   {
-   "h": "/questions/service-level-externally-enforced-deny-f9695bf0",
-   "t": "Service-level, externally enforced deny-by-default egress $20 0 replies 5h by netromjohnsen-glitch",
-   "score": 5,
-   "notes": [
-    "数小时内",
-    "竞争低"
-   ]
-  },
-  {
    "h": "/questions/trial-staged-service-creation-rejected-0300873f",
-   "t": "Trial: staged service creation rejected in an empty project $10 0 replies 4h by totorich7",
+   "t": "Trial: staged service creation rejected in an empty project $10 0 replies 11h by totorich7",
    "score": 5,
    "notes": [
     "数小时内",
@@ -61,15 +52,6 @@
   {
    "h": "/questions/fred-api-b12d2092",
    "t": "Fred API",
-   "score": 4,
-   "notes": [
-    "竞争低",
-    "提问·配置型"
-   ]
-  },
-  {
-   "h": "/questions/railway-cli-tunnel-only-flag-not-working-e673de90",
-   "t": "Railway CLI tunnel-only flag not working on Windows - Unable to connect to private database locally",
    "score": 4,
    "notes": [
     "竞争低",
@@ -79,38 +61,46 @@
  ],
  "new": [
   {
-   "h": "/questions/railway-api-safely-resolving-an-alread-a22ce80a",
-   "t": "Railway API — Safely resolving an already-applied staged service creation $10 0 replies 6h by eddy0007",
-   "score": 7,
+   "h": "/questions/network-error-when-initiating-app-053f5ca2",
+   "t": "Network Error When Initiating App",
+   "score": 2,
    "notes": [
-    "数小时内",
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/deployments-from-github-fail-during-net-f2864a9a",
+   "t": "Deployments from GitHub fail \"during network process\" – healthcheck never reaches app, but railway up deploy works",
+   "score": -2,
+   "notes": [
     "竞争低",
-    "提问·配置型"
+    "⚠平台基建/已解"
    ]
   },
   {
-   "h": "/questions/service-level-externally-enforced-deny-f9695bf0",
-   "t": "Service-level, externally enforced deny-by-default egress $20 0 replies 5h by netromjohnsen-glitch",
-   "score": 5,
+   "h": "/questions/why-server-responds-too-much-slow-in-nig-938fbcf9",
+   "t": "Why Server responds too much slow in nights?",
+   "score": -2,
    "notes": [
-    "数小时内",
-    "竞争低"
+    "竞争低",
+    "⚠平台基建/已解"
    ]
   },
   {
-   "h": "/questions/trial-staged-service-creation-rejected-0300873f",
-   "t": "Trial: staged service creation rejected in an empty project $10 0 replies 4h by totorich7",
-   "score": 5,
+   "h": "/questions/volume-restore-button-not-working-load-a0e52a31",
+   "t": "Volume restore button not working - loads project instead $10 1 replies 7m by mosatiii",
+   "score": -5,
    "notes": [
-    "数小时内",
-    "竞争低"
+    "陈旧",
+    "竞争低",
+    "⚠平台基建/已解"
    ]
   }
  ],
  "all": [
   {
    "h": "/questions/railway-api-safely-resolving-an-alread-a22ce80a",
-   "t": "Railway API — Safely resolving an already-applied staged service creation $10 0 replies 6h by eddy0007",
+   "t": "Railway API — Safely resolving an already-applied staged service creation $10 0 replies 12h by eddy0007",
    "score": 7,
    "notes": [
     "数小时内",
@@ -120,26 +110,17 @@
   },
   {
    "h": "/questions/contract-clarification-pause-one-produc-8fe3d4c5",
-   "t": "Contract clarification: pause one Production Cron without deployment or consuming unrelated staged changes $10 0 replies 19h by trisfas",
-   "score": 7,
+   "t": "Contract clarification: pause one Production Cron without deployment or consuming unrelated staged changes $10 0 replies 1d by trisfas",
+   "score": 6,
    "notes": [
-    "数小时内",
+    "1天内",
     "竞争低",
     "提问·配置型"
    ]
   },
   {
-   "h": "/questions/service-level-externally-enforced-deny-f9695bf0",
-   "t": "Service-level, externally enforced deny-by-default egress $20 0 replies 5h by netromjohnsen-glitch",
-   "score": 5,
-   "notes": [
-    "数小时内",
-    "竞争低"
-   ]
-  },
-  {
    "h": "/questions/trial-staged-service-creation-rejected-0300873f",
-   "t": "Trial: staged service creation rejected in an empty project $10 0 replies 4h by totorich7",
+   "t": "Trial: staged service creation rejected in an empty project $10 0 replies 11h by totorich7",
    "score": 5,
    "notes": [
     "数小时内",
@@ -174,12 +155,19 @@
    ]
   },
   {
-   "h": "/questions/railway-cli-tunnel-only-flag-not-working-e673de90",
-   "t": "Railway CLI tunnel-only flag not working on Windows - Unable to connect to private database locally",
-   "score": 4,
+   "h": "/questions/network-error-when-initiating-app-053f5ca2",
+   "t": "Network Error When Initiating App",
+   "score": 2,
    "notes": [
-    "竞争低",
-    "提问·配置型"
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/service-level-externally-enforced-deny-f9695bf0",
+   "t": "Service-level, externally enforced deny-by-default egress",
+   "score": 2,
+   "notes": [
+    "竞争低"
    ]
   },
   {
@@ -201,14 +189,6 @@
   {
    "h": "/questions/repeated-failures-deploying-68813aa1",
    "t": "repeated failures deploying",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/repeated-build-failures-inconsistent-53fd7795",
-   "t": "Repeated build failures — inconsistent “secret not found” on Railpack Metal builder",
    "score": 2,
    "notes": [
     "竞争低"
@@ -253,8 +233,17 @@
    ]
   },
   {
-   "h": "/questions/performance-issue-container-crashes-un-49d142f0",
-   "t": "Performance issue - Container crashes under load with PHP built-in server",
+   "h": "/questions/deployments-from-github-fail-during-net-f2864a9a",
+   "t": "Deployments from GitHub fail \"during network process\" – healthcheck never reaches app, but railway up deploy works",
+   "score": -2,
+   "notes": [
+    "竞争低",
+    "⚠平台基建/已解"
+   ]
+  },
+  {
+   "h": "/questions/why-server-responds-too-much-slow-in-nig-938fbcf9",
+   "t": "Why Server responds too much slow in nights?",
    "score": -2,
    "notes": [
     "竞争低",
@@ -344,6 +333,16 @@
   {
    "h": "/questions/deploy-nodes-cannot-reach-internal-regis-dfbe538a",
    "t": "Deploy nodes cannot reach internal registry (us-west2) — service offline $10 1 replies 6m by bmetcalf21",
+   "score": -5,
+   "notes": [
+    "陈旧",
+    "竞争低",
+    "⚠平台基建/已解"
+   ]
+  },
+  {
+   "h": "/questions/volume-restore-button-not-working-load-a0e52a31",
+   "t": "Volume restore button not working - loads project instead $10 1 replies 7m by mosatiii",
    "score": -5,
    "notes": [
     "陈旧",
