@@ -1,10 +1,10 @@
 {
- "at": "2026-10-11T13:32:26.456153+00:00",
+ "at": "2026-10-11T19:43:52.847281+00:00",
  "total": 30,
  "hot": [
   {
-   "h": "/questions/fred-api-b12d2092",
-   "t": "Fred API",
+   "h": "/questions/services-not-restarting-automatically-af-e569edbe",
+   "t": "Services not restarting automatically after graceful shutdown - Production environment",
    "score": 4,
    "notes": [
     "竞争低",
@@ -12,8 +12,8 @@
    ]
   },
   {
-   "h": "/questions/contract-clarification-pause-one-produc-8fe3d4c5",
-   "t": "Contract clarification: pause one Production Cron without deployment or consuming unrelated staged changes",
+   "h": "/questions/railway-ssh-session-has-a-different-pa-b7eea7d5",
+   "t": "railway ssh --session has a different PATH to railway ssh",
    "score": 4,
    "notes": [
     "竞争低",
@@ -23,35 +23,93 @@
  ],
  "new": [
   {
-   "h": "/questions/docker-layer-cache-not-invalidating-for-48ca0502",
-   "t": "Docker layer cache not invalidating for multi-stage build - COPY --from always cached",
+   "h": "/questions/services-not-restarting-automatically-af-e569edbe",
+   "t": "Services not restarting automatically after graceful shutdown - Production environment",
+   "score": 4,
+   "notes": [
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/railway-ssh-session-has-a-different-pa-b7eea7d5",
+   "t": "railway ssh --session has a different PATH to railway ssh",
+   "score": 4,
+   "notes": [
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/mongo-server-selection-error-2fd724ba",
+   "t": "MongoServerSelectionError",
    "score": 2,
    "notes": [
     "竞争低"
    ]
   },
   {
-   "h": "/questions/pause-public-ingress-067e8bc8",
-   "t": "Pause public ingress",
+   "h": "/questions/bug-report-pre-deploy-command-on-dockerfi-c56734e3",
+   "t": "Bug report: preDeployCommand on Dockerfile builds",
    "score": 2,
    "notes": [
     "竞争低"
    ]
   },
   {
-   "h": "/questions/this-deployment-is-temporarily-paused-b-ca412865",
-   "t": "This deployment is temporarily paused bom1::9bkln-1770210017515-a5451162c08f $10 3 replies 8m by nirala96",
-   "score": -4,
+   "h": "/questions/railway-frontend-reactjs-react-app-url-c-634d5829",
+   "t": "Railway frontend reactjs REACT_APP_URL changes automatically",
+   "score": 2,
    "notes": [
-    "陈旧",
-    "已3回复"
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/backend-logs-not-appearing-in-railway-co-945d6f32",
+   "t": "backend logs not appearing in railway console",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/issues-with-cassandra-and-tcp-proxy-1a25219c",
+   "t": "Issues with Cassandra and TCP Proxy",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/spawn-containers-on-background-workers-bcf82c8b",
+   "t": "Spawn containers on background workers (with a container limit )",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/need-help-using-flowise-gpt-4o-for-ima-a418e90b",
+   "t": "Need help using Flowise + GPT-4o for image/audio input on Railway",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/healthcheck-fails-even-if-the-site-is-pr-fd92c5e2",
+   "t": "Healthcheck fails even if the site is properly deployed",
+   "score": -2,
+   "notes": [
+    "竞争低",
+    "⚠平台基建/已解"
    ]
   }
  ],
  "all": [
   {
-   "h": "/questions/fred-api-b12d2092",
-   "t": "Fred API",
+   "h": "/questions/services-not-restarting-automatically-af-e569edbe",
+   "t": "Services not restarting automatically after graceful shutdown - Production environment",
    "score": 4,
    "notes": [
     "竞争低",
@@ -59,8 +117,8 @@
    ]
   },
   {
-   "h": "/questions/contract-clarification-pause-one-produc-8fe3d4c5",
-   "t": "Contract clarification: pause one Production Cron without deployment or consuming unrelated staged changes",
+   "h": "/questions/railway-ssh-session-has-a-different-pa-b7eea7d5",
+   "t": "railway ssh --session has a different PATH to railway ssh",
    "score": 4,
    "notes": [
     "竞争低",
@@ -68,64 +126,56 @@
    ]
   },
   {
-   "h": "/questions/oauth-callback-query-header-handling-be-9c175a6b",
-   "t": "OAuth callback: query/header handling beyond visible HTTP logs",
+   "h": "/questions/mongo-server-selection-error-2fd724ba",
+   "t": "MongoServerSelectionError",
    "score": 2,
    "notes": [
     "竞争低"
    ]
   },
   {
-   "h": "/questions/docker-layer-cache-not-invalidating-for-48ca0502",
-   "t": "Docker layer cache not invalidating for multi-stage build - COPY --from always cached",
+   "h": "/questions/bug-report-pre-deploy-command-on-dockerfi-c56734e3",
+   "t": "Bug report: preDeployCommand on Dockerfile builds",
    "score": 2,
    "notes": [
     "竞争低"
    ]
   },
   {
-   "h": "/questions/pause-public-ingress-067e8bc8",
-   "t": "Pause public ingress",
+   "h": "/questions/railway-frontend-reactjs-react-app-url-c-634d5829",
+   "t": "Railway frontend reactjs REACT_APP_URL changes automatically",
    "score": 2,
    "notes": [
     "竞争低"
    ]
   },
   {
-   "h": "/questions/trial-staged-service-creation-rejected-0300873f",
-   "t": "Trial: staged service creation rejected in an empty project",
+   "h": "/questions/backend-logs-not-appearing-in-railway-co-945d6f32",
+   "t": "backend logs not appearing in railway console",
    "score": 2,
    "notes": [
     "竞争低"
    ]
   },
   {
-   "h": "/questions/basic-tcp-server-does-not-give-response-fb513eb8",
-   "t": "Basic TCP server does not give response",
+   "h": "/questions/issues-with-cassandra-and-tcp-proxy-1a25219c",
+   "t": "Issues with Cassandra and TCP Proxy",
    "score": 2,
    "notes": [
     "竞争低"
    ]
   },
   {
-   "h": "/questions/my-services-are-crashing-and-not-working-06949a79",
-   "t": "My services are crashing and not working",
+   "h": "/questions/spawn-containers-on-background-workers-bcf82c8b",
+   "t": "Spawn containers on background workers (with a container limit )",
    "score": 2,
    "notes": [
     "竞争低"
    ]
   },
   {
-   "h": "/questions/deploy-failure-6bb88dbe",
-   "t": "Deploy failure",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/how-to-safely-pause-github-autodeploy-be-83116699",
-   "t": "How to safely pause GitHub autodeploy before repairing a missing App installation?",
+   "h": "/questions/need-help-using-flowise-gpt-4o-for-ima-a418e90b",
+   "t": "Need help using Flowise + GPT-4o for image/audio input on Railway",
    "score": 2,
    "notes": [
     "竞争低"
@@ -166,6 +216,15 @@
    "notes": [
     "陈旧",
     "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/healthcheck-fails-even-if-the-site-is-pr-fd92c5e2",
+   "t": "Healthcheck fails even if the site is properly deployed",
+   "score": -2,
+   "notes": [
+    "竞争低",
+    "⚠平台基建/已解"
    ]
   },
   {
