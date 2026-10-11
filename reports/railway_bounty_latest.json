@@ -1,44 +1,7 @@
 {
- "at": "2026-10-11T00:30:14.106324+00:00",
- "total": 27,
+ "at": "2026-10-11T06:27:57.328021+00:00",
+ "total": 30,
  "hot": [
-  {
-   "h": "/questions/contract-clarification-pause-one-produc-8fe3d4c5",
-   "t": "Contract clarification: pause one Production Cron without deployment or consuming unrelated staged changes $10 0 replies 1d by trisfas",
-   "score": 6,
-   "notes": [
-    "1天内",
-    "竞争低",
-    "提问·配置型"
-   ]
-  },
-  {
-   "h": "/questions/best-way-to-get-code-built-with-dev-new-204d5744",
-   "t": "Best way to get code built with dev.new $10 0 replies 2h by Anonymous",
-   "score": 5,
-   "notes": [
-    "数小时内",
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/how-to-safely-pause-github-autodeploy-be-83116699",
-   "t": "How to safely pause GitHub autodeploy before repairing a missing App installation? $10 0 replies 5h by dwaynedaone",
-   "score": 5,
-   "notes": [
-    "数小时内",
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/trial-staged-service-creation-rejected-0300873f",
-   "t": "Trial: staged service creation rejected in an empty project $10 0 replies 16h by totorich7",
-   "score": 5,
-   "notes": [
-    "数小时内",
-    "竞争低"
-   ]
-  },
   {
    "h": "/questions/oauth-callback-query-header-handling-be-9c175a6b",
    "t": "OAuth callback: query/header handling beyond visible HTTP logs $10 0 replies 2d by mexii06",
@@ -58,8 +21,8 @@
    ]
   },
   {
-   "h": "/questions/railway-api-safely-resolving-an-alread-a22ce80a",
-   "t": "Railway API — Safely resolving an already-applied staged service creation",
+   "h": "/questions/contract-clarification-pause-one-produc-8fe3d4c5",
+   "t": "Contract clarification: pause one Production Cron without deployment or consuming unrelated staged changes",
    "score": 4,
    "notes": [
     "竞争低",
@@ -67,8 +30,8 @@
    ]
   },
   {
-   "h": "/questions/postgres-volume-i-o-stall-on-us-east4-eq-99dae057",
-   "t": "Postgres volume I/O stall on us-east4-eqdc4a — checkpoint sync 42.7s, factory statement timeouts (exact-aco production)",
+   "h": "/questions/railway-api-safely-resolving-an-alread-a22ce80a",
+   "t": "Railway API — Safely resolving an already-applied staged service creation",
    "score": 4,
    "notes": [
     "竞争低",
@@ -78,98 +41,83 @@
  ],
  "new": [
   {
-   "h": "/questions/best-way-to-get-code-built-with-dev-new-204d5744",
-   "t": "Best way to get code built with dev.new $10 0 replies 2h by Anonymous",
-   "score": 5,
-   "notes": [
-    "数小时内",
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/how-to-safely-pause-github-autodeploy-be-83116699",
-   "t": "How to safely pause GitHub autodeploy before repairing a missing App installation? $10 0 replies 5h by dwaynedaone",
-   "score": 5,
-   "notes": [
-    "数小时内",
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/elk-stack-elastic-logstash-kibana-1290eca7",
-   "t": "Template Request: ELK Stack (Elastic, Logstash, Kibana)",
+   "h": "/questions/basic-tcp-server-does-not-give-response-fb513eb8",
+   "t": "Basic TCP server does not give response",
    "score": 2,
    "notes": [
     "竞争低"
    ]
   },
   {
-   "h": "/questions/server-performance-issue-on-pro-plan-p-0aaac6e5",
-   "t": "Server Performance Issue on Pro Plan – Project B Not Responding / Login Failing",
-   "score": -2,
+   "h": "/questions/problem-with-telegram-connection-3f73b600",
+   "t": "Problem with telegram connection $10 0 replies 8m by javagames77-dotcom",
+   "score": -1,
    "notes": [
-    "竞争低",
-    "⚠平台基建/已解"
+    "陈旧",
+    "竞争低"
    ]
   },
   {
-   "h": "/questions/performance-issue-container-crashes-un-49d142f0",
-   "t": "Performance issue - Container crashes under load with PHP built-in server",
-   "score": -2,
+   "h": "/questions/selective-connectivity-issue-dns-resolu-3612b603",
+   "t": "Selective Connectivity Issue: DNS Resolution/Routing Failure for specific Static IPs on priori-staging.up.railway.app $10 1 replies 8m by admin-renaissa",
+   "score": -1,
    "notes": [
-    "竞争低",
-    "⚠平台基建/已解"
+    "陈旧",
+    "竞争低"
    ]
   },
   {
-   "h": "/questions/domain-problem-74757b03",
-   "t": "Domain problem $10 2 replies 7m by julianbessone",
+   "h": "/questions/sudden-dns-issue-0f13d660",
+   "t": "Sudden DNS issue on production system $20 2 replies 8m by upd",
    "score": -5,
    "notes": [
     "陈旧",
     "竞争低",
     "⚠平台基建/已解"
    ]
+  },
+  {
+   "h": "/questions/n8n-self-hosted-stopeed-working-2dbedbe7",
+   "t": "n8n self-hosted stopeed working $10 1 replies 8m by transformatiive",
+   "score": -5,
+   "notes": [
+    "陈旧",
+    "竞争低",
+    "⚠平台基建/已解"
+   ]
+  },
+  {
+   "h": "/questions/build-failing-because-npm-dependencies-a-4607a810",
+   "t": "Build failing because npm dependencies aren't being installed properly $10 2 replies 8m by davekaro",
+   "score": -5,
+   "notes": [
+    "陈旧",
+    "竞争低",
+    "⚠平台基建/已解"
+   ]
+  },
+  {
+   "h": "/questions/arangodb-container-doesn-t-deploy-0b07f784",
+   "t": "Arangodb container doesn't deploy $10 1 replies 8m by fjblau",
+   "score": -5,
+   "notes": [
+    "陈旧",
+    "竞争低",
+    "⚠平台基建/已解"
+   ]
+  },
+  {
+   "h": "/questions/mongo-db-connection-failed-since-12-feb-855f3581",
+   "t": "MongoDB connection failed since 12 Feb. $10 4 replies 7m by jingle",
+   "score": -8,
+   "notes": [
+    "陈旧",
+    "已4回复",
+    "⚠平台基建/已解"
+   ]
   }
  ],
  "all": [
-  {
-   "h": "/questions/contract-clarification-pause-one-produc-8fe3d4c5",
-   "t": "Contract clarification: pause one Production Cron without deployment or consuming unrelated staged changes $10 0 replies 1d by trisfas",
-   "score": 6,
-   "notes": [
-    "1天内",
-    "竞争低",
-    "提问·配置型"
-   ]
-  },
-  {
-   "h": "/questions/best-way-to-get-code-built-with-dev-new-204d5744",
-   "t": "Best way to get code built with dev.new $10 0 replies 2h by Anonymous",
-   "score": 5,
-   "notes": [
-    "数小时内",
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/how-to-safely-pause-github-autodeploy-be-83116699",
-   "t": "How to safely pause GitHub autodeploy before repairing a missing App installation? $10 0 replies 5h by dwaynedaone",
-   "score": 5,
-   "notes": [
-    "数小时内",
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/trial-staged-service-creation-rejected-0300873f",
-   "t": "Trial: staged service creation rejected in an empty project $10 0 replies 16h by totorich7",
-   "score": 5,
-   "notes": [
-    "数小时内",
-    "竞争低"
-   ]
-  },
   {
    "h": "/questions/oauth-callback-query-header-handling-be-9c175a6b",
    "t": "OAuth callback: query/header handling beyond visible HTTP logs $10 0 replies 2d by mexii06",
@@ -189,6 +137,15 @@
    ]
   },
   {
+   "h": "/questions/contract-clarification-pause-one-produc-8fe3d4c5",
+   "t": "Contract clarification: pause one Production Cron without deployment or consuming unrelated staged changes",
+   "score": 4,
+   "notes": [
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
+  {
    "h": "/questions/railway-api-safely-resolving-an-alread-a22ce80a",
    "t": "Railway API — Safely resolving an already-applied staged service creation",
    "score": 4,
@@ -198,25 +155,48 @@
    ]
   },
   {
-   "h": "/questions/postgres-volume-i-o-stall-on-us-east4-eq-99dae057",
-   "t": "Postgres volume I/O stall on us-east4-eqdc4a — checkpoint sync 42.7s, factory statement timeouts (exact-aco production)",
-   "score": 4,
-   "notes": [
-    "竞争低",
-    "提问·配置型"
-   ]
-  },
-  {
-   "h": "/questions/elk-stack-elastic-logstash-kibana-1290eca7",
-   "t": "Template Request: ELK Stack (Elastic, Logstash, Kibana)",
+   "h": "/questions/basic-tcp-server-does-not-give-response-fb513eb8",
+   "t": "Basic TCP server does not give response",
    "score": 2,
    "notes": [
     "竞争低"
    ]
   },
   {
-   "h": "/questions/pause-public-ingress-067e8bc8",
-   "t": "Pause public ingress",
+   "h": "/questions/my-services-are-crashing-and-not-working-06949a79",
+   "t": "My services are crashing and not working",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/deploy-failure-6bb88dbe",
+   "t": "Deploy failure",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/trial-staged-service-creation-rejected-0300873f",
+   "t": "Trial: staged service creation rejected in an empty project",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/how-to-safely-pause-github-autodeploy-be-83116699",
+   "t": "How to safely pause GitHub autodeploy before repairing a missing App installation?",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/best-way-to-get-code-built-with-dev-new-204d5744",
+   "t": "Best way to get code built with dev.new",
    "score": 2,
    "notes": [
     "竞争低"
@@ -242,8 +222,8 @@
    ]
   },
   {
-   "h": "/questions/deploy-failure-6bb88dbe",
-   "t": "Deploy failure $10 1 replies 16d by hosikjosik",
+   "h": "/questions/problem-with-telegram-connection-3f73b600",
+   "t": "Problem with telegram connection $10 0 replies 8m by javagames77-dotcom",
    "score": -1,
    "notes": [
     "陈旧",
@@ -251,17 +231,17 @@
    ]
   },
   {
-   "h": "/questions/server-performance-issue-on-pro-plan-p-0aaac6e5",
-   "t": "Server Performance Issue on Pro Plan – Project B Not Responding / Login Failing",
-   "score": -2,
+   "h": "/questions/selective-connectivity-issue-dns-resolu-3612b603",
+   "t": "Selective Connectivity Issue: DNS Resolution/Routing Failure for specific Static IPs on priori-staging.up.railway.app $10 1 replies 8m by admin-renaissa",
+   "score": -1,
    "notes": [
-    "竞争低",
-    "⚠平台基建/已解"
+    "陈旧",
+    "竞争低"
    ]
   },
   {
-   "h": "/questions/performance-issue-container-crashes-un-49d142f0",
-   "t": "Performance issue - Container crashes under load with PHP built-in server",
+   "h": "/questions/domain-problem-74757b03",
+   "t": "Domain problem",
    "score": -2,
    "notes": [
     "竞争低",
@@ -277,15 +257,6 @@
     "竞争低",
     "⚠平台基建/已解",
     "提问·配置型"
-   ]
-  },
-  {
-   "h": "/questions/my-services-are-crashing-and-not-working-06949a79",
-   "t": "My services are crashing and not working $10 5 replies 7m by joselvelez",
-   "score": -4,
-   "notes": [
-    "陈旧",
-    "已5回复"
    ]
   },
   {
@@ -369,8 +340,38 @@
    ]
   },
   {
-   "h": "/questions/domain-problem-74757b03",
-   "t": "Domain problem $10 2 replies 7m by julianbessone",
+   "h": "/questions/sudden-dns-issue-0f13d660",
+   "t": "Sudden DNS issue on production system $20 2 replies 8m by upd",
+   "score": -5,
+   "notes": [
+    "陈旧",
+    "竞争低",
+    "⚠平台基建/已解"
+   ]
+  },
+  {
+   "h": "/questions/n8n-self-hosted-stopeed-working-2dbedbe7",
+   "t": "n8n self-hosted stopeed working $10 1 replies 8m by transformatiive",
+   "score": -5,
+   "notes": [
+    "陈旧",
+    "竞争低",
+    "⚠平台基建/已解"
+   ]
+  },
+  {
+   "h": "/questions/build-failing-because-npm-dependencies-a-4607a810",
+   "t": "Build failing because npm dependencies aren't being installed properly $10 2 replies 8m by davekaro",
+   "score": -5,
+   "notes": [
+    "陈旧",
+    "竞争低",
+    "⚠平台基建/已解"
+   ]
+  },
+  {
+   "h": "/questions/arangodb-container-doesn-t-deploy-0b07f784",
+   "t": "Arangodb container doesn't deploy $10 1 replies 8m by fjblau",
    "score": -5,
    "notes": [
     "陈旧",
@@ -385,6 +386,16 @@
    "notes": [
     "陈旧",
     "已6回复",
+    "⚠平台基建/已解"
+   ]
+  },
+  {
+   "h": "/questions/mongo-db-connection-failed-since-12-feb-855f3581",
+   "t": "MongoDB connection failed since 12 Feb. $10 4 replies 7m by jingle",
+   "score": -8,
+   "notes": [
+    "陈旧",
+    "已4回复",
     "⚠平台基建/已解"
    ]
   }
