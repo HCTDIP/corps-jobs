@@ -1,403 +1,99 @@
 {
- "at": "2026-10-11T06:27:57.328021+00:00",
- "total": 30,
- "hot": [
-  {
-   "h": "/questions/oauth-callback-query-header-handling-be-9c175a6b",
-   "t": "OAuth callback: query/header handling beyond visible HTTP logs $10 0 replies 2d by mexii06",
-   "score": 4,
-   "notes": [
-    "2天内",
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/fred-api-b12d2092",
-   "t": "Fred API",
-   "score": 4,
-   "notes": [
-    "竞争低",
-    "提问·配置型"
-   ]
-  },
-  {
-   "h": "/questions/contract-clarification-pause-one-produc-8fe3d4c5",
-   "t": "Contract clarification: pause one Production Cron without deployment or consuming unrelated staged changes",
-   "score": 4,
-   "notes": [
-    "竞争低",
-    "提问·配置型"
-   ]
-  },
-  {
-   "h": "/questions/railway-api-safely-resolving-an-alread-a22ce80a",
-   "t": "Railway API — Safely resolving an already-applied staged service creation",
-   "score": 4,
-   "notes": [
-    "竞争低",
-    "提问·配置型"
-   ]
-  }
- ],
- "new": [
-  {
-   "h": "/questions/basic-tcp-server-does-not-give-response-fb513eb8",
-   "t": "Basic TCP server does not give response",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/problem-with-telegram-connection-3f73b600",
-   "t": "Problem with telegram connection $10 0 replies 8m by javagames77-dotcom",
-   "score": -1,
-   "notes": [
-    "陈旧",
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/selective-connectivity-issue-dns-resolu-3612b603",
-   "t": "Selective Connectivity Issue: DNS Resolution/Routing Failure for specific Static IPs on priori-staging.up.railway.app $10 1 replies 8m by admin-renaissa",
-   "score": -1,
-   "notes": [
-    "陈旧",
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/sudden-dns-issue-0f13d660",
-   "t": "Sudden DNS issue on production system $20 2 replies 8m by upd",
-   "score": -5,
-   "notes": [
-    "陈旧",
-    "竞争低",
-    "⚠平台基建/已解"
-   ]
-  },
-  {
-   "h": "/questions/n8n-self-hosted-stopeed-working-2dbedbe7",
-   "t": "n8n self-hosted stopeed working $10 1 replies 8m by transformatiive",
-   "score": -5,
-   "notes": [
-    "陈旧",
-    "竞争低",
-    "⚠平台基建/已解"
-   ]
-  },
-  {
-   "h": "/questions/build-failing-because-npm-dependencies-a-4607a810",
-   "t": "Build failing because npm dependencies aren't being installed properly $10 2 replies 8m by davekaro",
-   "score": -5,
-   "notes": [
-    "陈旧",
-    "竞争低",
-    "⚠平台基建/已解"
-   ]
-  },
-  {
-   "h": "/questions/arangodb-container-doesn-t-deploy-0b07f784",
-   "t": "Arangodb container doesn't deploy $10 1 replies 8m by fjblau",
-   "score": -5,
-   "notes": [
-    "陈旧",
-    "竞争低",
-    "⚠平台基建/已解"
-   ]
-  },
-  {
-   "h": "/questions/mongo-db-connection-failed-since-12-feb-855f3581",
-   "t": "MongoDB connection failed since 12 Feb. $10 4 replies 7m by jingle",
-   "score": -8,
-   "notes": [
-    "陈旧",
-    "已4回复",
-    "⚠平台基建/已解"
-   ]
-  }
- ],
- "all": [
-  {
-   "h": "/questions/oauth-callback-query-header-handling-be-9c175a6b",
-   "t": "OAuth callback: query/header handling beyond visible HTTP logs $10 0 replies 2d by mexii06",
-   "score": 4,
-   "notes": [
-    "2天内",
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/fred-api-b12d2092",
-   "t": "Fred API",
-   "score": 4,
-   "notes": [
-    "竞争低",
-    "提问·配置型"
-   ]
-  },
-  {
-   "h": "/questions/contract-clarification-pause-one-produc-8fe3d4c5",
-   "t": "Contract clarification: pause one Production Cron without deployment or consuming unrelated staged changes",
-   "score": 4,
-   "notes": [
-    "竞争低",
-    "提问·配置型"
-   ]
-  },
-  {
-   "h": "/questions/railway-api-safely-resolving-an-alread-a22ce80a",
-   "t": "Railway API — Safely resolving an already-applied staged service creation",
-   "score": 4,
-   "notes": [
-    "竞争低",
-    "提问·配置型"
-   ]
-  },
-  {
-   "h": "/questions/basic-tcp-server-does-not-give-response-fb513eb8",
-   "t": "Basic TCP server does not give response",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/my-services-are-crashing-and-not-working-06949a79",
-   "t": "My services are crashing and not working",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/deploy-failure-6bb88dbe",
-   "t": "Deploy failure",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/trial-staged-service-creation-rejected-0300873f",
-   "t": "Trial: staged service creation rejected in an empty project",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/how-to-safely-pause-github-autodeploy-be-83116699",
-   "t": "How to safely pause GitHub autodeploy before repairing a missing App installation?",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/best-way-to-get-code-built-with-dev-new-204d5744",
-   "t": "Best way to get code built with dev.new",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/runtime-v2-injecting-empty-variable-valu-4c0fb717",
-   "t": "Runtime V2 injecting empty variable values into the deployment process $10 1 replies 4m by fantasycricketpros",
-   "score": 1,
-   "notes": [
-    "陈旧",
-    "竞争低",
-    "提问·配置型"
-   ]
-  },
-  {
-   "h": "/questions/ownership-transfer-acceptance-fails-with-1640f792",
-   "t": "Ownership transfer acceptance fails with “Not Authorized $10 1 replies 4d by mnona88",
-   "score": -1,
-   "notes": [
-    "陈旧",
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/problem-with-telegram-connection-3f73b600",
-   "t": "Problem with telegram connection $10 0 replies 8m by javagames77-dotcom",
-   "score": -1,
-   "notes": [
-    "陈旧",
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/selective-connectivity-issue-dns-resolu-3612b603",
-   "t": "Selective Connectivity Issue: DNS Resolution/Routing Failure for specific Static IPs on priori-staging.up.railway.app $10 1 replies 8m by admin-renaissa",
-   "score": -1,
-   "notes": [
-    "陈旧",
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/domain-problem-74757b03",
-   "t": "Domain problem",
-   "score": -2,
-   "notes": [
-    "竞争低",
-    "⚠平台基建/已解"
-   ]
-  },
-  {
-   "h": "/questions/request-for-csr-certificate-signing-req-6c07d2db",
-   "t": "Request for CSR (Certificate Signing Request) for Custom SSL Setup $10 1 replies 7m by mythoslabsinc",
-   "score": -3,
-   "notes": [
-    "陈旧",
-    "竞争低",
-    "⚠平台基建/已解",
-    "提问·配置型"
-   ]
-  },
-  {
-   "h": "/questions/production-impact-anycast-edge-misrout-f6aaed54",
-   "t": "Anycast edge misrouting from Hetzner AS24940 — every DB query +180ms $20 2 replies 2m by yigittekelioglu",
-   "score": -5,
-   "notes": [
-    "陈旧",
-    "竞争低",
-    "⚠平台基建/已解"
-   ]
-  },
-  {
-   "h": "/questions/per-request-ingress-metadata-required-fo-c2c61b5a",
-   "t": "Per-request ingress metadata required for HMRC fraud-prevention headers $20 2 replies 3m by raullomelino",
-   "score": -5,
-   "notes": [
-    "陈旧",
-    "竞争低",
-    "⚠平台基建/已解"
-   ]
-  },
-  {
-   "h": "/questions/production-outage-severe-disk-i-o-degr-daacb0c4",
-   "t": "Production outage — severe disk I/O degradation on Postgres volume (DB up but unusable) $20 2 replies 3m by contas-ginga",
-   "score": -5,
-   "notes": [
-    "陈旧",
-    "竞争低",
-    "⚠平台基建/已解"
-   ]
-  },
-  {
-   "h": "/questions/we-re-seeing-intermittent-latency-spikes-99ee0d69",
-   "t": "We're seeing intermittent latency spikes on our production service running in the **Singapore region**. $20 1 replies 3m by unit-blue",
-   "score": -5,
-   "notes": [
-    "陈旧",
-    "竞争低",
-    "⚠平台基建/已解"
-   ]
-  },
-  {
-   "h": "/questions/high-latency-on-singapore-region-impacti-3d6221a3",
-   "t": "High Latency on Singapore Region Impacting Business Operations $20 1 replies 4m by chaudharyali14",
-   "score": -5,
-   "notes": [
-    "陈旧",
-    "竞争低",
-    "⚠平台基建/已解"
-   ]
-  },
-  {
-   "h": "/questions/project-steadfast-education-5ceae60c",
-   "t": "Project: steadfast-education $10 2 replies 6m by acs73traveler-creator",
-   "score": -5,
-   "notes": [
-    "陈旧",
-    "竞争低",
-    "⚠平台基建/已解"
-   ]
-  },
-  {
-   "h": "/questions/deploy-nodes-cannot-reach-internal-regis-dfbe538a",
-   "t": "Deploy nodes cannot reach internal registry (us-west2) — service offline $10 1 replies 6m by bmetcalf21",
-   "score": -5,
-   "notes": [
-    "陈旧",
-    "竞争低",
-    "⚠平台基建/已解"
-   ]
-  },
-  {
-   "h": "/questions/volume-restore-button-not-working-load-a0e52a31",
-   "t": "Volume restore button not working - loads project instead $10 1 replies 7m by mosatiii",
-   "score": -5,
-   "notes": [
-    "陈旧",
-    "竞争低",
-    "⚠平台基建/已解"
-   ]
-  },
-  {
-   "h": "/questions/sudden-dns-issue-0f13d660",
-   "t": "Sudden DNS issue on production system $20 2 replies 8m by upd",
-   "score": -5,
-   "notes": [
-    "陈旧",
-    "竞争低",
-    "⚠平台基建/已解"
-   ]
-  },
-  {
-   "h": "/questions/n8n-self-hosted-stopeed-working-2dbedbe7",
-   "t": "n8n self-hosted stopeed working $10 1 replies 8m by transformatiive",
-   "score": -5,
-   "notes": [
-    "陈旧",
-    "竞争低",
-    "⚠平台基建/已解"
-   ]
-  },
-  {
-   "h": "/questions/build-failing-because-npm-dependencies-a-4607a810",
-   "t": "Build failing because npm dependencies aren't being installed properly $10 2 replies 8m by davekaro",
-   "score": -5,
-   "notes": [
-    "陈旧",
-    "竞争低",
-    "⚠平台基建/已解"
-   ]
-  },
-  {
-   "h": "/questions/arangodb-container-doesn-t-deploy-0b07f784",
-   "t": "Arangodb container doesn't deploy $10 1 replies 8m by fjblau",
-   "score": -5,
-   "notes": [
-    "陈旧",
-    "竞争低",
-    "⚠平台基建/已解"
-   ]
-  },
-  {
-   "h": "/questions/point-in-time-recovery-backup-restore-08522372",
-   "t": "Point-in-time recovery / backup restore for a Postgres service — recover rows deleted from sessions / session_events $20 6 replies 4m by mcampolongo-rg",
-   "score": -8,
-   "notes": [
-    "陈旧",
-    "已6回复",
-    "⚠平台基建/已解"
-   ]
-  },
-  {
-   "h": "/questions/mongo-db-connection-failed-since-12-feb-855f3581",
-   "t": "MongoDB connection failed since 12 Feb. $10 4 replies 7m by jingle",
-   "score": -8,
-   "notes": [
-    "陈旧",
-    "已4回复",
-    "⚠平台基建/已解"
-   ]
-  }
- ]
+  "timestamp": "2026-10-11T06:27:00Z",
+  "total_issues": 30,
+  "hot_issues": 4,
+  "new_issues": 8,
+  "issues": [
+    {
+      "title": "Basic TCP server does not give response",
+      "status": "new",
+      "reward": 0,
+      "replies": 0,
+      "age_minutes": 8
+    },
+    {
+      "title": "Problem with telegram connection",
+      "status": "new",
+      "reward": 10,
+      "replies": 0,
+      "age_minutes": 8,
+      "author": "javagames77-dotcom"
+    },
+    {
+      "title": "Selective Connectivity Issue: DNS Resolution/Routing Failure for specific Static IPs on priori-stagi",
+      "status": "new",
+      "reward": 0,
+      "replies": 0,
+      "age_minutes": 8
+    },
+    {
+      "title": "Sudden DNS issue on production system",
+      "status": "new",
+      "reward": 20,
+      "replies": 2,
+      "age_minutes": 8,
+      "author": "upd"
+    },
+    {
+      "title": "n8n self-hosted stopeed working",
+      "status": "new",
+      "reward": 10,
+      "replies": 1,
+      "age_minutes": 8,
+      "author": "transformatiive"
+    },
+    {
+      "title": "Build failing because npm dependencies aren't being installed properly",
+      "status": "new",
+      "reward": 10,
+      "replies": 2,
+      "age_minutes": 8,
+      "author": "davekaro"
+    },
+    {
+      "title": "Arangodb container doesn't deploy",
+      "status": "new",
+      "reward": 10,
+      "replies": 1,
+      "age_minutes": 8,
+      "author": "fjblau"
+    },
+    {
+      "title": "MongoDB connection failed since 12 Feb.",
+      "status": "new",
+      "reward": 10,
+      "replies": 4,
+      "age_minutes": 7,
+      "author": "jingle"
+    },
+    {
+      "title": "OAuth callback: query/header handling beyond visible HTTP logs",
+      "status": "active",
+      "reward": 10,
+      "replies": 0,
+      "age_days": 2,
+      "author": "mexii"
+    },
+    {
+      "title": "Fred API",
+      "status": "active",
+      "reward": 0,
+      "replies": 0,
+      "type": "configuration"
+    },
+    {
+      "title": "Contract clarification: pause one Production Cron without deployment or consuming unrela",
+      "status": "active",
+      "reward": 0,
+      "replies": 0,
+      "type": "configuration"
+    },
+    {
+      "title": "Railway API — Safely resolving an already-applied staged service creation",
+      "status": "active",
+      "reward": 0,
+      "replies": 0,
+      "type": "configuration"
+    }
+  ]
 }
