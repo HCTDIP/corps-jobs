@@ -1,16 +1,7 @@
 {
- "at": "2026-10-11T06:27:57.328021+00:00",
+ "at": "2026-10-11T13:32:26.456153+00:00",
  "total": 30,
  "hot": [
-  {
-   "h": "/questions/oauth-callback-query-header-handling-be-9c175a6b",
-   "t": "OAuth callback: query/header handling beyond visible HTTP logs $10 0 replies 2d by mexii06",
-   "score": 4,
-   "notes": [
-    "2天内",
-    "竞争低"
-   ]
-  },
   {
    "h": "/questions/fred-api-b12d2092",
    "t": "Fred API",
@@ -23,15 +14,6 @@
   {
    "h": "/questions/contract-clarification-pause-one-produc-8fe3d4c5",
    "t": "Contract clarification: pause one Production Cron without deployment or consuming unrelated staged changes",
-   "score": 4,
-   "notes": [
-    "竞争低",
-    "提问·配置型"
-   ]
-  },
-  {
-   "h": "/questions/railway-api-safely-resolving-an-alread-a22ce80a",
-   "t": "Railway API — Safely resolving an already-applied staged service creation",
    "score": 4,
    "notes": [
     "竞争低",
@@ -41,92 +23,32 @@
  ],
  "new": [
   {
-   "h": "/questions/basic-tcp-server-does-not-give-response-fb513eb8",
-   "t": "Basic TCP server does not give response",
+   "h": "/questions/docker-layer-cache-not-invalidating-for-48ca0502",
+   "t": "Docker layer cache not invalidating for multi-stage build - COPY --from always cached",
    "score": 2,
    "notes": [
     "竞争低"
    ]
   },
   {
-   "h": "/questions/problem-with-telegram-connection-3f73b600",
-   "t": "Problem with telegram connection $10 0 replies 8m by javagames77-dotcom",
-   "score": -1,
+   "h": "/questions/pause-public-ingress-067e8bc8",
+   "t": "Pause public ingress",
+   "score": 2,
    "notes": [
-    "陈旧",
     "竞争低"
    ]
   },
   {
-   "h": "/questions/selective-connectivity-issue-dns-resolu-3612b603",
-   "t": "Selective Connectivity Issue: DNS Resolution/Routing Failure for specific Static IPs on priori-staging.up.railway.app $10 1 replies 8m by admin-renaissa",
-   "score": -1,
+   "h": "/questions/this-deployment-is-temporarily-paused-b-ca412865",
+   "t": "This deployment is temporarily paused bom1::9bkln-1770210017515-a5451162c08f $10 3 replies 8m by nirala96",
+   "score": -4,
    "notes": [
     "陈旧",
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/sudden-dns-issue-0f13d660",
-   "t": "Sudden DNS issue on production system $20 2 replies 8m by upd",
-   "score": -5,
-   "notes": [
-    "陈旧",
-    "竞争低",
-    "⚠平台基建/已解"
-   ]
-  },
-  {
-   "h": "/questions/n8n-self-hosted-stopeed-working-2dbedbe7",
-   "t": "n8n self-hosted stopeed working $10 1 replies 8m by transformatiive",
-   "score": -5,
-   "notes": [
-    "陈旧",
-    "竞争低",
-    "⚠平台基建/已解"
-   ]
-  },
-  {
-   "h": "/questions/build-failing-because-npm-dependencies-a-4607a810",
-   "t": "Build failing because npm dependencies aren't being installed properly $10 2 replies 8m by davekaro",
-   "score": -5,
-   "notes": [
-    "陈旧",
-    "竞争低",
-    "⚠平台基建/已解"
-   ]
-  },
-  {
-   "h": "/questions/arangodb-container-doesn-t-deploy-0b07f784",
-   "t": "Arangodb container doesn't deploy $10 1 replies 8m by fjblau",
-   "score": -5,
-   "notes": [
-    "陈旧",
-    "竞争低",
-    "⚠平台基建/已解"
-   ]
-  },
-  {
-   "h": "/questions/mongo-db-connection-failed-since-12-feb-855f3581",
-   "t": "MongoDB connection failed since 12 Feb. $10 4 replies 7m by jingle",
-   "score": -8,
-   "notes": [
-    "陈旧",
-    "已4回复",
-    "⚠平台基建/已解"
+    "已3回复"
    ]
   }
  ],
  "all": [
-  {
-   "h": "/questions/oauth-callback-query-header-handling-be-9c175a6b",
-   "t": "OAuth callback: query/header handling beyond visible HTTP logs $10 0 replies 2d by mexii06",
-   "score": 4,
-   "notes": [
-    "2天内",
-    "竞争低"
-   ]
-  },
   {
    "h": "/questions/fred-api-b12d2092",
    "t": "Fred API",
@@ -146,12 +68,35 @@
    ]
   },
   {
-   "h": "/questions/railway-api-safely-resolving-an-alread-a22ce80a",
-   "t": "Railway API — Safely resolving an already-applied staged service creation",
-   "score": 4,
+   "h": "/questions/oauth-callback-query-header-handling-be-9c175a6b",
+   "t": "OAuth callback: query/header handling beyond visible HTTP logs",
+   "score": 2,
    "notes": [
-    "竞争低",
-    "提问·配置型"
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/docker-layer-cache-not-invalidating-for-48ca0502",
+   "t": "Docker layer cache not invalidating for multi-stage build - COPY --from always cached",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/pause-public-ingress-067e8bc8",
+   "t": "Pause public ingress",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/trial-staged-service-creation-rejected-0300873f",
+   "t": "Trial: staged service creation rejected in an empty project",
+   "score": 2,
+   "notes": [
+    "竞争低"
    ]
   },
   {
@@ -179,24 +124,8 @@
    ]
   },
   {
-   "h": "/questions/trial-staged-service-creation-rejected-0300873f",
-   "t": "Trial: staged service creation rejected in an empty project",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
    "h": "/questions/how-to-safely-pause-github-autodeploy-be-83116699",
    "t": "How to safely pause GitHub autodeploy before repairing a missing App installation?",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/best-way-to-get-code-built-with-dev-new-204d5744",
-   "t": "Best way to get code built with dev.new",
    "score": 2,
    "notes": [
     "竞争低"
@@ -214,7 +143,7 @@
   },
   {
    "h": "/questions/ownership-transfer-acceptance-fails-with-1640f792",
-   "t": "Ownership transfer acceptance fails with “Not Authorized $10 1 replies 4d by mnona88",
+   "t": "Ownership transfer acceptance fails with “Not Authorized $10 1 replies 5d by mnona88",
    "score": -1,
    "notes": [
     "陈旧",
@@ -240,15 +169,6 @@
    ]
   },
   {
-   "h": "/questions/domain-problem-74757b03",
-   "t": "Domain problem",
-   "score": -2,
-   "notes": [
-    "竞争低",
-    "⚠平台基建/已解"
-   ]
-  },
-  {
    "h": "/questions/request-for-csr-certificate-signing-req-6c07d2db",
    "t": "Request for CSR (Certificate Signing Request) for Custom SSL Setup $10 1 replies 7m by mythoslabsinc",
    "score": -3,
@@ -257,6 +177,15 @@
     "竞争低",
     "⚠平台基建/已解",
     "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/this-deployment-is-temporarily-paused-b-ca412865",
+   "t": "This deployment is temporarily paused bom1::9bkln-1770210017515-a5451162c08f $10 3 replies 8m by nirala96",
+   "score": -4,
+   "notes": [
+    "陈旧",
+    "已3回复"
    ]
   },
   {
