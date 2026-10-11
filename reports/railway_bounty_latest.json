@@ -1,17 +1,7 @@
 {
- "at": "2026-10-10T19:31:51.855743+00:00",
- "total": 28,
+ "at": "2026-10-11T00:30:14.106324+00:00",
+ "total": 27,
  "hot": [
-  {
-   "h": "/questions/railway-api-safely-resolving-an-alread-a22ce80a",
-   "t": "Railway API — Safely resolving an already-applied staged service creation $10 0 replies 12h by eddy0007",
-   "score": 7,
-   "notes": [
-    "数小时内",
-    "竞争低",
-    "提问·配置型"
-   ]
-  },
   {
    "h": "/questions/contract-clarification-pause-one-produc-8fe3d4c5",
    "t": "Contract clarification: pause one Production Cron without deployment or consuming unrelated staged changes $10 0 replies 1d by trisfas",
@@ -23,8 +13,8 @@
    ]
   },
   {
-   "h": "/questions/trial-staged-service-creation-rejected-0300873f",
-   "t": "Trial: staged service creation rejected in an empty project $10 0 replies 11h by totorich7",
+   "h": "/questions/best-way-to-get-code-built-with-dev-new-204d5744",
+   "t": "Best way to get code built with dev.new $10 0 replies 2h by Anonymous",
    "score": 5,
    "notes": [
     "数小时内",
@@ -32,11 +22,20 @@
    ]
   },
   {
-   "h": "/questions/long-lived-websockets-on-a-custom-domain-efd745d9",
-   "t": "Long-lived WebSockets on a custom domain closed by the edge in simultaneous waves, with no deploy on our side $10 0 replies 1d by timadrien",
-   "score": 4,
+   "h": "/questions/how-to-safely-pause-github-autodeploy-be-83116699",
+   "t": "How to safely pause GitHub autodeploy before repairing a missing App installation? $10 0 replies 5h by dwaynedaone",
+   "score": 5,
    "notes": [
-    "1天内",
+    "数小时内",
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/trial-staged-service-creation-rejected-0300873f",
+   "t": "Trial: staged service creation rejected in an empty project $10 0 replies 16h by totorich7",
+   "score": 5,
+   "notes": [
+    "数小时内",
     "竞争低"
    ]
   },
@@ -57,20 +56,56 @@
     "竞争低",
     "提问·配置型"
    ]
+  },
+  {
+   "h": "/questions/railway-api-safely-resolving-an-alread-a22ce80a",
+   "t": "Railway API — Safely resolving an already-applied staged service creation",
+   "score": 4,
+   "notes": [
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/postgres-volume-i-o-stall-on-us-east4-eq-99dae057",
+   "t": "Postgres volume I/O stall on us-east4-eqdc4a — checkpoint sync 42.7s, factory statement timeouts (exact-aco production)",
+   "score": 4,
+   "notes": [
+    "竞争低",
+    "提问·配置型"
+   ]
   }
  ],
  "new": [
   {
-   "h": "/questions/network-error-when-initiating-app-053f5ca2",
-   "t": "Network Error When Initiating App",
+   "h": "/questions/best-way-to-get-code-built-with-dev-new-204d5744",
+   "t": "Best way to get code built with dev.new $10 0 replies 2h by Anonymous",
+   "score": 5,
+   "notes": [
+    "数小时内",
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/how-to-safely-pause-github-autodeploy-be-83116699",
+   "t": "How to safely pause GitHub autodeploy before repairing a missing App installation? $10 0 replies 5h by dwaynedaone",
+   "score": 5,
+   "notes": [
+    "数小时内",
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/elk-stack-elastic-logstash-kibana-1290eca7",
+   "t": "Template Request: ELK Stack (Elastic, Logstash, Kibana)",
    "score": 2,
    "notes": [
     "竞争低"
    ]
   },
   {
-   "h": "/questions/deployments-from-github-fail-during-net-f2864a9a",
-   "t": "Deployments from GitHub fail \"during network process\" – healthcheck never reaches app, but railway up deploy works",
+   "h": "/questions/server-performance-issue-on-pro-plan-p-0aaac6e5",
+   "t": "Server Performance Issue on Pro Plan – Project B Not Responding / Login Failing",
    "score": -2,
    "notes": [
     "竞争低",
@@ -78,8 +113,8 @@
    ]
   },
   {
-   "h": "/questions/why-server-responds-too-much-slow-in-nig-938fbcf9",
-   "t": "Why Server responds too much slow in nights?",
+   "h": "/questions/performance-issue-container-crashes-un-49d142f0",
+   "t": "Performance issue - Container crashes under load with PHP built-in server",
    "score": -2,
    "notes": [
     "竞争低",
@@ -87,8 +122,8 @@
    ]
   },
   {
-   "h": "/questions/volume-restore-button-not-working-load-a0e52a31",
-   "t": "Volume restore button not working - loads project instead $10 1 replies 7m by mosatiii",
+   "h": "/questions/domain-problem-74757b03",
+   "t": "Domain problem $10 2 replies 7m by julianbessone",
    "score": -5,
    "notes": [
     "陈旧",
@@ -99,16 +134,6 @@
  ],
  "all": [
   {
-   "h": "/questions/railway-api-safely-resolving-an-alread-a22ce80a",
-   "t": "Railway API — Safely resolving an already-applied staged service creation $10 0 replies 12h by eddy0007",
-   "score": 7,
-   "notes": [
-    "数小时内",
-    "竞争低",
-    "提问·配置型"
-   ]
-  },
-  {
    "h": "/questions/contract-clarification-pause-one-produc-8fe3d4c5",
    "t": "Contract clarification: pause one Production Cron without deployment or consuming unrelated staged changes $10 0 replies 1d by trisfas",
    "score": 6,
@@ -119,8 +144,8 @@
    ]
   },
   {
-   "h": "/questions/trial-staged-service-creation-rejected-0300873f",
-   "t": "Trial: staged service creation rejected in an empty project $10 0 replies 11h by totorich7",
+   "h": "/questions/best-way-to-get-code-built-with-dev-new-204d5744",
+   "t": "Best way to get code built with dev.new $10 0 replies 2h by Anonymous",
    "score": 5,
    "notes": [
     "数小时内",
@@ -128,11 +153,20 @@
    ]
   },
   {
-   "h": "/questions/long-lived-websockets-on-a-custom-domain-efd745d9",
-   "t": "Long-lived WebSockets on a custom domain closed by the edge in simultaneous waves, with no deploy on our side $10 0 replies 1d by timadrien",
-   "score": 4,
+   "h": "/questions/how-to-safely-pause-github-autodeploy-be-83116699",
+   "t": "How to safely pause GitHub autodeploy before repairing a missing App installation? $10 0 replies 5h by dwaynedaone",
+   "score": 5,
    "notes": [
-    "1天内",
+    "数小时内",
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/trial-staged-service-creation-rejected-0300873f",
+   "t": "Trial: staged service creation rejected in an empty project $10 0 replies 16h by totorich7",
+   "score": 5,
+   "notes": [
+    "数小时内",
     "竞争低"
    ]
   },
@@ -155,24 +189,26 @@
    ]
   },
   {
-   "h": "/questions/network-error-when-initiating-app-053f5ca2",
-   "t": "Network Error When Initiating App",
-   "score": 2,
+   "h": "/questions/railway-api-safely-resolving-an-alread-a22ce80a",
+   "t": "Railway API — Safely resolving an already-applied staged service creation",
+   "score": 4,
    "notes": [
-    "竞争低"
+    "竞争低",
+    "提问·配置型"
    ]
   },
   {
-   "h": "/questions/service-level-externally-enforced-deny-f9695bf0",
-   "t": "Service-level, externally enforced deny-by-default egress",
-   "score": 2,
+   "h": "/questions/postgres-volume-i-o-stall-on-us-east4-eq-99dae057",
+   "t": "Postgres volume I/O stall on us-east4-eqdc4a — checkpoint sync 42.7s, factory statement timeouts (exact-aco production)",
+   "score": 4,
    "notes": [
-    "竞争低"
+    "竞争低",
+    "提问·配置型"
    ]
   },
   {
-   "h": "/questions/subject-sftp-timeout-accessing-persiste-2c6d25fa",
-   "t": "Subject: SFTP timeout accessing persistent volume for crashed cron service",
+   "h": "/questions/elk-stack-elastic-logstash-kibana-1290eca7",
+   "t": "Template Request: ELK Stack (Elastic, Logstash, Kibana)",
    "score": 2,
    "notes": [
     "竞争低"
@@ -181,14 +217,6 @@
   {
    "h": "/questions/pause-public-ingress-067e8bc8",
    "t": "Pause public ingress",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/repeated-failures-deploying-68813aa1",
-   "t": "repeated failures deploying",
    "score": 2,
    "notes": [
     "竞争低"
@@ -223,18 +251,8 @@
    ]
   },
   {
-   "h": "/questions/postgres-volume-i-o-stall-on-us-east4-eq-99dae057",
-   "t": "Postgres volume I/O stall on us-east4-eqdc4a — checkpoint sync 42.7s, factory statement timeouts (exact-aco production) $20 18 replies 23d by gustavo-paris",
-   "score": -2,
-   "notes": [
-    "陈旧",
-    "已18回复",
-    "提问·配置型"
-   ]
-  },
-  {
-   "h": "/questions/deployments-from-github-fail-during-net-f2864a9a",
-   "t": "Deployments from GitHub fail \"during network process\" – healthcheck never reaches app, but railway up deploy works",
+   "h": "/questions/server-performance-issue-on-pro-plan-p-0aaac6e5",
+   "t": "Server Performance Issue on Pro Plan – Project B Not Responding / Login Failing",
    "score": -2,
    "notes": [
     "竞争低",
@@ -242,8 +260,8 @@
    ]
   },
   {
-   "h": "/questions/why-server-responds-too-much-slow-in-nig-938fbcf9",
-   "t": "Why Server responds too much slow in nights?",
+   "h": "/questions/performance-issue-container-crashes-un-49d142f0",
+   "t": "Performance issue - Container crashes under load with PHP built-in server",
    "score": -2,
    "notes": [
     "竞争低",
@@ -343,6 +361,16 @@
   {
    "h": "/questions/volume-restore-button-not-working-load-a0e52a31",
    "t": "Volume restore button not working - loads project instead $10 1 replies 7m by mosatiii",
+   "score": -5,
+   "notes": [
+    "陈旧",
+    "竞争低",
+    "⚠平台基建/已解"
+   ]
+  },
+  {
+   "h": "/questions/domain-problem-74757b03",
+   "t": "Domain problem $10 2 replies 7m by julianbessone",
    "score": -5,
    "notes": [
     "陈旧",
