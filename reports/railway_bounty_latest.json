@@ -1,28 +1,10 @@
 {
- "at": "2026-10-12T06:36:15.952569+00:00",
- "total": 28,
+ "at": "2026-10-12T16:08:16.763426+00:00",
+ "total": 30,
  "hot": [
   {
-   "h": "/questions/digest-pinned-ghcr-image-empty-service-bbb54459",
-   "t": "Digest-pinned GHCR image: empty-service setup and deployment triggers $10 0 replies 8h by richbobdee",
-   "score": 5,
-   "notes": [
-    "数小时内",
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/sandbox-lifetime-and-egress-limits-for-a-93adc166",
-   "t": "Sandbox lifetime and egress limits for a bounded one-off test $10 0 replies 17h by piotrpawelswider-lab",
-   "score": 5,
-   "notes": [
-    "数小时内",
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/fred-api-b12d2092",
-   "t": "Fred API",
+   "h": "/questions/is-there-a-way-to-connect-railway-to-a-c-bbdcf294",
+   "t": "is there a way to connect railway to a custom domain without @",
    "score": 4,
    "notes": [
     "竞争低",
@@ -32,17 +14,8 @@
  ],
  "new": [
   {
-   "h": "/questions/digest-pinned-ghcr-image-empty-service-bbb54459",
-   "t": "Digest-pinned GHCR image: empty-service setup and deployment triggers $10 0 replies 8h by richbobdee",
-   "score": 5,
-   "notes": [
-    "数小时内",
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/fred-api-b12d2092",
-   "t": "Fred API",
+   "h": "/questions/is-there-a-way-to-connect-railway-to-a-c-bbdcf294",
+   "t": "is there a way to connect railway to a custom domain without @",
    "score": 4,
    "notes": [
     "竞争低",
@@ -50,56 +23,98 @@
    ]
   },
   {
-   "h": "/questions/yaphub-discord-login-blocked-by-http-429-b84481e7",
-   "t": "YapHub Discord login blocked by HTTP 429 on Railway US East; users cannot access bot",
+   "h": "/questions/webhook-fail-to-capture-payload-from-mob-83e486f8",
+   "t": "webhook fail to capture payload from mobile money provider during mno checkout",
    "score": 2,
    "notes": [
     "竞争低"
    ]
   },
   {
-   "h": "/questions/volume-sftp-timeout-for-stopped-cron-ser-0520e328",
-   "t": "Volume SFTP timeout for stopped cron service",
+   "h": "/questions/max-connections-on-postgres-bc6b5a56",
+   "t": "max_connections on Postgres",
    "score": 2,
    "notes": [
     "竞争低"
    ]
   },
   {
-   "h": "/questions/failed-builds-06202e65",
-   "t": "Failed builds",
+   "h": "/questions/socket-io-web-socket-upgrade-fails-on-rai-1a9b6c9e",
+   "t": "Socket.io WebSocket upgrade fails on Railway despite custom domain - polling works fine",
    "score": 2,
    "notes": [
     "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/custom-domain-dns-with-cloudflare-proxy-d1013d59",
+   "t": "Custom domain DNS with Cloudflare Proxy: CNAME target sharing + TXT verification records?",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/edge-returns-429-rate-limited-to-uptim-3640a6b8",
+   "t": "Edge returns 429 \"rate limited\" to UptimeRobot and GitHub Actions",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/not-updating-cache-05aee63f",
+   "t": "Not updating cache",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/cannot-access-n8n-via-ssh-or-web-console-9e971cb1",
+   "t": "Cannot access n8n via SSH or web console — backup needed before recovery",
+   "score": 0,
+   "notes": [
+    "竞争低",
+    "⚠平台基建/已解",
+    "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/selective-connectivity-issue-dns-resolu-3612b603",
+   "t": "Selective Connectivity Issue: DNS Resolution/Routing Failure for specific Static IPs on priori-staging.up.railway.app $10 1 replies 8m by admin-renaissa",
+   "score": -1,
+   "notes": [
+    "陈旧",
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/this-deployment-is-temporarily-paused-b-ca412865",
+   "t": "This deployment is temporarily paused bom1::9bkln-1770210017515-a5451162c08f $10 3 replies 8m by nirala96",
+   "score": -4,
+   "notes": [
+    "陈旧",
+    "已3回复"
    ]
   }
  ],
  "all": [
   {
-   "h": "/questions/digest-pinned-ghcr-image-empty-service-bbb54459",
-   "t": "Digest-pinned GHCR image: empty-service setup and deployment triggers $10 0 replies 8h by richbobdee",
-   "score": 5,
-   "notes": [
-    "数小时内",
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/sandbox-lifetime-and-egress-limits-for-a-93adc166",
-   "t": "Sandbox lifetime and egress limits for a bounded one-off test $10 0 replies 17h by piotrpawelswider-lab",
-   "score": 5,
-   "notes": [
-    "数小时内",
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/fred-api-b12d2092",
-   "t": "Fred API",
+   "h": "/questions/is-there-a-way-to-connect-railway-to-a-c-bbdcf294",
+   "t": "is there a way to connect railway to a custom domain without @",
    "score": 4,
    "notes": [
     "竞争低",
     "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/webhook-fail-to-capture-payload-from-mob-83e486f8",
+   "t": "webhook fail to capture payload from mobile money provider during mno checkout",
+   "score": 2,
+   "notes": [
+    "竞争低"
    ]
   },
   {
@@ -111,32 +126,8 @@
    ]
   },
   {
-   "h": "/questions/volume-sftp-timeout-for-stopped-cron-ser-0520e328",
-   "t": "Volume SFTP timeout for stopped cron service",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/failed-builds-06202e65",
-   "t": "Failed builds",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/i-am-receiving-an-email-indicating-the-s-321c2cc5",
-   "t": "I am receiving an email indicating the scraping is crashing",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/issues-with-cassandra-and-tcp-proxy-1a25219c",
-   "t": "Issues with Cassandra and TCP Proxy",
+   "h": "/questions/max-connections-on-postgres-bc6b5a56",
+   "t": "max_connections on Postgres",
    "score": 2,
    "notes": [
     "竞争低"
@@ -151,8 +142,32 @@
    ]
   },
   {
-   "h": "/questions/spawn-containers-on-background-workers-bcf82c8b",
-   "t": "Spawn containers on background workers (with a container limit )",
+   "h": "/questions/socket-io-web-socket-upgrade-fails-on-rai-1a9b6c9e",
+   "t": "Socket.io WebSocket upgrade fails on Railway despite custom domain - polling works fine",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/custom-domain-dns-with-cloudflare-proxy-d1013d59",
+   "t": "Custom domain DNS with Cloudflare Proxy: CNAME target sharing + TXT verification records?",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/edge-returns-429-rate-limited-to-uptim-3640a6b8",
+   "t": "Edge returns 429 \"rate limited\" to UptimeRobot and GitHub Actions",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/not-updating-cache-05aee63f",
+   "t": "Not updating cache",
    "score": 2,
    "notes": [
     "竞争低"
@@ -169,8 +184,18 @@
    ]
   },
   {
+   "h": "/questions/cannot-access-n8n-via-ssh-or-web-console-9e971cb1",
+   "t": "Cannot access n8n via SSH or web console — backup needed before recovery",
+   "score": 0,
+   "notes": [
+    "竞争低",
+    "⚠平台基建/已解",
+    "提问·配置型"
+   ]
+  },
+  {
    "h": "/questions/ownership-transfer-acceptance-fails-with-1640f792",
-   "t": "Ownership transfer acceptance fails with “Not Authorized $10 1 replies 5d by mnona88",
+   "t": "Ownership transfer acceptance fails with “Not Authorized $10 1 replies 6d by mnona88",
    "score": -1,
    "notes": [
     "陈旧",
@@ -187,6 +212,15 @@
    ]
   },
   {
+   "h": "/questions/selective-connectivity-issue-dns-resolu-3612b603",
+   "t": "Selective Connectivity Issue: DNS Resolution/Routing Failure for specific Static IPs on priori-staging.up.railway.app $10 1 replies 8m by admin-renaissa",
+   "score": -1,
+   "notes": [
+    "陈旧",
+    "竞争低"
+   ]
+  },
+  {
    "h": "/questions/request-for-csr-certificate-signing-req-6c07d2db",
    "t": "Request for CSR (Certificate Signing Request) for Custom SSL Setup $10 1 replies 7m by mythoslabsinc",
    "score": -3,
@@ -195,6 +229,15 @@
     "竞争低",
     "⚠平台基建/已解",
     "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/this-deployment-is-temporarily-paused-b-ca412865",
+   "t": "This deployment is temporarily paused bom1::9bkln-1770210017515-a5451162c08f $10 3 replies 8m by nirala96",
+   "score": -4,
+   "notes": [
+    "陈旧",
+    "已3回复"
    ]
   },
   {
