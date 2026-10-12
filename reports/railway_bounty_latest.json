@@ -1,10 +1,10 @@
 {
- "at": "2026-10-12T00:44:16.903367+00:00",
- "total": 30,
+ "at": "2026-10-12T06:36:15.952569+00:00",
+ "total": 28,
  "hot": [
   {
-   "h": "/questions/sandbox-lifetime-and-egress-limits-for-a-93adc166",
-   "t": "Sandbox lifetime and egress limits for a bounded one-off test $10 0 replies 11h by piotrpawelswider-lab",
+   "h": "/questions/digest-pinned-ghcr-image-empty-service-bbb54459",
+   "t": "Digest-pinned GHCR image: empty-service setup and deployment triggers $10 0 replies 8h by richbobdee",
    "score": 5,
    "notes": [
     "数小时内",
@@ -12,8 +12,17 @@
    ]
   },
   {
-   "h": "/questions/railway-ssh-session-has-a-different-pa-b7eea7d5",
-   "t": "railway ssh --session has a different PATH to railway ssh",
+   "h": "/questions/sandbox-lifetime-and-egress-limits-for-a-93adc166",
+   "t": "Sandbox lifetime and egress limits for a bounded one-off test $10 0 replies 17h by piotrpawelswider-lab",
+   "score": 5,
+   "notes": [
+    "数小时内",
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/fred-api-b12d2092",
+   "t": "Fred API",
    "score": 4,
    "notes": [
     "竞争低",
@@ -23,8 +32,8 @@
  ],
  "new": [
   {
-   "h": "/questions/sandbox-lifetime-and-egress-limits-for-a-93adc166",
-   "t": "Sandbox lifetime and egress limits for a bounded one-off test $10 0 replies 11h by piotrpawelswider-lab",
+   "h": "/questions/digest-pinned-ghcr-image-empty-service-bbb54459",
+   "t": "Digest-pinned GHCR image: empty-service setup and deployment triggers $10 0 replies 8h by richbobdee",
    "score": 5,
    "notes": [
     "数小时内",
@@ -32,16 +41,33 @@
    ]
   },
   {
-   "h": "/questions/i-am-receiving-an-email-indicating-the-s-321c2cc5",
-   "t": "I am receiving an email indicating the scraping is crashing",
+   "h": "/questions/fred-api-b12d2092",
+   "t": "Fred API",
+   "score": 4,
+   "notes": [
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/yaphub-discord-login-blocked-by-http-429-b84481e7",
+   "t": "YapHub Discord login blocked by HTTP 429 on Railway US East; users cannot access bot",
    "score": 2,
    "notes": [
     "竞争低"
    ]
   },
   {
-   "h": "/questions/graphql-meaning-of-unmergedchangescount-ac350b20",
-   "t": "GraphQL: meaning of unmergedChangesCount = null and stable verification of pending changes",
+   "h": "/questions/volume-sftp-timeout-for-stopped-cron-ser-0520e328",
+   "t": "Volume SFTP timeout for stopped cron service",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/failed-builds-06202e65",
+   "t": "Failed builds",
    "score": 2,
    "notes": [
     "竞争低"
@@ -50,8 +76,8 @@
  ],
  "all": [
   {
-   "h": "/questions/sandbox-lifetime-and-egress-limits-for-a-93adc166",
-   "t": "Sandbox lifetime and egress limits for a bounded one-off test $10 0 replies 11h by piotrpawelswider-lab",
+   "h": "/questions/digest-pinned-ghcr-image-empty-service-bbb54459",
+   "t": "Digest-pinned GHCR image: empty-service setup and deployment triggers $10 0 replies 8h by richbobdee",
    "score": 5,
    "notes": [
     "数小时内",
@@ -59,12 +85,45 @@
    ]
   },
   {
-   "h": "/questions/railway-ssh-session-has-a-different-pa-b7eea7d5",
-   "t": "railway ssh --session has a different PATH to railway ssh",
+   "h": "/questions/sandbox-lifetime-and-egress-limits-for-a-93adc166",
+   "t": "Sandbox lifetime and egress limits for a bounded one-off test $10 0 replies 17h by piotrpawelswider-lab",
+   "score": 5,
+   "notes": [
+    "数小时内",
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/fred-api-b12d2092",
+   "t": "Fred API",
    "score": 4,
    "notes": [
     "竞争低",
     "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/yaphub-discord-login-blocked-by-http-429-b84481e7",
+   "t": "YapHub Discord login blocked by HTTP 429 on Railway US East; users cannot access bot",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/volume-sftp-timeout-for-stopped-cron-ser-0520e328",
+   "t": "Volume SFTP timeout for stopped cron service",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/failed-builds-06202e65",
+   "t": "Failed builds",
+   "score": 2,
+   "notes": [
+    "竞争低"
    ]
   },
   {
@@ -100,38 +159,6 @@
    ]
   },
   {
-   "h": "/questions/graphql-meaning-of-unmergedchangescount-ac350b20",
-   "t": "GraphQL: meaning of unmergedChangesCount = null and stable verification of pending changes",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/mongo-server-selection-error-2fd724ba",
-   "t": "MongoServerSelectionError",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/bug-report-pre-deploy-command-on-dockerfi-c56734e3",
-   "t": "Bug report: preDeployCommand on Dockerfile builds",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/railway-frontend-reactjs-react-app-url-c-634d5829",
-   "t": "Railway frontend reactjs REACT_APP_URL changes automatically",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
    "h": "/questions/runtime-v2-injecting-empty-variable-valu-4c0fb717",
    "t": "Runtime V2 injecting empty variable values into the deployment process $10 1 replies 4m by fantasycricketpros",
    "score": 1,
@@ -157,24 +184,6 @@
    "notes": [
     "陈旧",
     "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/selective-connectivity-issue-dns-resolu-3612b603",
-   "t": "Selective Connectivity Issue: DNS Resolution/Routing Failure for specific Static IPs on priori-staging.up.railway.app $10 1 replies 8m by admin-renaissa",
-   "score": -1,
-   "notes": [
-    "陈旧",
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/healthcheck-fails-even-if-the-site-is-pr-fd92c5e2",
-   "t": "Healthcheck fails even if the site is properly deployed",
-   "score": -2,
-   "notes": [
-    "竞争低",
-    "⚠平台基建/已解"
    ]
   },
   {
