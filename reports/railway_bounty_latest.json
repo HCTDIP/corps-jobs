@@ -1,341 +1,85 @@
 {
- "at": "2026-10-12T06:36:15.952569+00:00",
- "total": 28,
- "hot": [
-  {
-   "h": "/questions/digest-pinned-ghcr-image-empty-service-bbb54459",
-   "t": "Digest-pinned GHCR image: empty-service setup and deployment triggers $10 0 replies 8h by richbobdee",
-   "score": 5,
-   "notes": [
-    "数小时内",
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/sandbox-lifetime-and-egress-limits-for-a-93adc166",
-   "t": "Sandbox lifetime and egress limits for a bounded one-off test $10 0 replies 17h by piotrpawelswider-lab",
-   "score": 5,
-   "notes": [
-    "数小时内",
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/fred-api-b12d2092",
-   "t": "Fred API",
-   "score": 4,
-   "notes": [
-    "竞争低",
-    "提问·配置型"
-   ]
-  }
- ],
- "new": [
-  {
-   "h": "/questions/digest-pinned-ghcr-image-empty-service-bbb54459",
-   "t": "Digest-pinned GHCR image: empty-service setup and deployment triggers $10 0 replies 8h by richbobdee",
-   "score": 5,
-   "notes": [
-    "数小时内",
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/fred-api-b12d2092",
-   "t": "Fred API",
-   "score": 4,
-   "notes": [
-    "竞争低",
-    "提问·配置型"
-   ]
-  },
-  {
-   "h": "/questions/yaphub-discord-login-blocked-by-http-429-b84481e7",
-   "t": "YapHub Discord login blocked by HTTP 429 on Railway US East; users cannot access bot",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/volume-sftp-timeout-for-stopped-cron-ser-0520e328",
-   "t": "Volume SFTP timeout for stopped cron service",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/failed-builds-06202e65",
-   "t": "Failed builds",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  }
- ],
- "all": [
-  {
-   "h": "/questions/digest-pinned-ghcr-image-empty-service-bbb54459",
-   "t": "Digest-pinned GHCR image: empty-service setup and deployment triggers $10 0 replies 8h by richbobdee",
-   "score": 5,
-   "notes": [
-    "数小时内",
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/sandbox-lifetime-and-egress-limits-for-a-93adc166",
-   "t": "Sandbox lifetime and egress limits for a bounded one-off test $10 0 replies 17h by piotrpawelswider-lab",
-   "score": 5,
-   "notes": [
-    "数小时内",
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/fred-api-b12d2092",
-   "t": "Fred API",
-   "score": 4,
-   "notes": [
-    "竞争低",
-    "提问·配置型"
-   ]
-  },
-  {
-   "h": "/questions/yaphub-discord-login-blocked-by-http-429-b84481e7",
-   "t": "YapHub Discord login blocked by HTTP 429 on Railway US East; users cannot access bot",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/volume-sftp-timeout-for-stopped-cron-ser-0520e328",
-   "t": "Volume SFTP timeout for stopped cron service",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/failed-builds-06202e65",
-   "t": "Failed builds",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/i-am-receiving-an-email-indicating-the-s-321c2cc5",
-   "t": "I am receiving an email indicating the scraping is crashing",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/issues-with-cassandra-and-tcp-proxy-1a25219c",
-   "t": "Issues with Cassandra and TCP Proxy",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/backend-logs-not-appearing-in-railway-co-945d6f32",
-   "t": "backend logs not appearing in railway console",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/spawn-containers-on-background-workers-bcf82c8b",
-   "t": "Spawn containers on background workers (with a container limit )",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/runtime-v2-injecting-empty-variable-valu-4c0fb717",
-   "t": "Runtime V2 injecting empty variable values into the deployment process $10 1 replies 4m by fantasycricketpros",
-   "score": 1,
-   "notes": [
-    "陈旧",
-    "竞争低",
-    "提问·配置型"
-   ]
-  },
-  {
-   "h": "/questions/ownership-transfer-acceptance-fails-with-1640f792",
-   "t": "Ownership transfer acceptance fails with “Not Authorized $10 1 replies 5d by mnona88",
-   "score": -1,
-   "notes": [
-    "陈旧",
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/problem-with-telegram-connection-3f73b600",
-   "t": "Problem with telegram connection $10 0 replies 8m by javagames77-dotcom",
-   "score": -1,
-   "notes": [
-    "陈旧",
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/request-for-csr-certificate-signing-req-6c07d2db",
-   "t": "Request for CSR (Certificate Signing Request) for Custom SSL Setup $10 1 replies 7m by mythoslabsinc",
-   "score": -3,
-   "notes": [
-    "陈旧",
-    "竞争低",
-    "⚠平台基建/已解",
-    "提问·配置型"
-   ]
-  },
-  {
-   "h": "/questions/production-impact-anycast-edge-misrout-f6aaed54",
-   "t": "Anycast edge misrouting from Hetzner AS24940 — every DB query +180ms $20 2 replies 2m by yigittekelioglu",
-   "score": -5,
-   "notes": [
-    "陈旧",
-    "竞争低",
-    "⚠平台基建/已解"
-   ]
-  },
-  {
-   "h": "/questions/per-request-ingress-metadata-required-fo-c2c61b5a",
-   "t": "Per-request ingress metadata required for HMRC fraud-prevention headers $20 2 replies 3m by raullomelino",
-   "score": -5,
-   "notes": [
-    "陈旧",
-    "竞争低",
-    "⚠平台基建/已解"
-   ]
-  },
-  {
-   "h": "/questions/production-outage-severe-disk-i-o-degr-daacb0c4",
-   "t": "Production outage — severe disk I/O degradation on Postgres volume (DB up but unusable) $20 2 replies 3m by contas-ginga",
-   "score": -5,
-   "notes": [
-    "陈旧",
-    "竞争低",
-    "⚠平台基建/已解"
-   ]
-  },
-  {
-   "h": "/questions/we-re-seeing-intermittent-latency-spikes-99ee0d69",
-   "t": "We're seeing intermittent latency spikes on our production service running in the **Singapore region**. $20 1 replies 3m by unit-blue",
-   "score": -5,
-   "notes": [
-    "陈旧",
-    "竞争低",
-    "⚠平台基建/已解"
-   ]
-  },
-  {
-   "h": "/questions/high-latency-on-singapore-region-impacti-3d6221a3",
-   "t": "High Latency on Singapore Region Impacting Business Operations $20 1 replies 4m by chaudharyali14",
-   "score": -5,
-   "notes": [
-    "陈旧",
-    "竞争低",
-    "⚠平台基建/已解"
-   ]
-  },
-  {
-   "h": "/questions/project-steadfast-education-5ceae60c",
-   "t": "Project: steadfast-education $10 2 replies 6m by acs73traveler-creator",
-   "score": -5,
-   "notes": [
-    "陈旧",
-    "竞争低",
-    "⚠平台基建/已解"
-   ]
-  },
-  {
-   "h": "/questions/deploy-nodes-cannot-reach-internal-regis-dfbe538a",
-   "t": "Deploy nodes cannot reach internal registry (us-west2) — service offline $10 1 replies 6m by bmetcalf21",
-   "score": -5,
-   "notes": [
-    "陈旧",
-    "竞争低",
-    "⚠平台基建/已解"
-   ]
-  },
-  {
-   "h": "/questions/volume-restore-button-not-working-load-a0e52a31",
-   "t": "Volume restore button not working - loads project instead $10 1 replies 7m by mosatiii",
-   "score": -5,
-   "notes": [
-    "陈旧",
-    "竞争低",
-    "⚠平台基建/已解"
-   ]
-  },
-  {
-   "h": "/questions/sudden-dns-issue-0f13d660",
-   "t": "Sudden DNS issue on production system $20 2 replies 8m by upd",
-   "score": -5,
-   "notes": [
-    "陈旧",
-    "竞争低",
-    "⚠平台基建/已解"
-   ]
-  },
-  {
-   "h": "/questions/n8n-self-hosted-stopeed-working-2dbedbe7",
-   "t": "n8n self-hosted stopeed working $10 1 replies 8m by transformatiive",
-   "score": -5,
-   "notes": [
-    "陈旧",
-    "竞争低",
-    "⚠平台基建/已解"
-   ]
-  },
-  {
-   "h": "/questions/build-failing-because-npm-dependencies-a-4607a810",
-   "t": "Build failing because npm dependencies aren't being installed properly $10 2 replies 8m by davekaro",
-   "score": -5,
-   "notes": [
-    "陈旧",
-    "竞争低",
-    "⚠平台基建/已解"
-   ]
-  },
-  {
-   "h": "/questions/arangodb-container-doesn-t-deploy-0b07f784",
-   "t": "Arangodb container doesn't deploy $10 1 replies 8m by fjblau",
-   "score": -5,
-   "notes": [
-    "陈旧",
-    "竞争低",
-    "⚠平台基建/已解"
-   ]
-  },
-  {
-   "h": "/questions/point-in-time-recovery-backup-restore-08522372",
-   "t": "Point-in-time recovery / backup restore for a Postgres service — recover rows deleted from sessions / session_events $20 6 replies 4m by mcampolongo-rg",
-   "score": -8,
-   "notes": [
-    "陈旧",
-    "已6回复",
-    "⚠平台基建/已解"
-   ]
-  },
-  {
-   "h": "/questions/mongo-db-connection-failed-since-12-feb-855f3581",
-   "t": "MongoDB connection failed since 12 Feb. $10 4 replies 7m by jingle",
-   "score": -8,
-   "notes": [
-    "陈旧",
-    "已4回复",
-    "⚠平台基建/已解"
-   ]
-  }
- ]
+  "generated_at": "2026-10-12T06:36:00Z",
+  "total": 28,
+  "hot": 3,
+  "new": 5,
+  "entries": [
+    {
+      "id": 1,
+      "pinned": true,
+      "title": "Digest-pinned GHCR image: empty-service setup and deployment triggers bounty",
+      "description": "User sets up empty-service with digest-pinned GHCR image; deploying triggers $10 bounty eligibility. 8h by richbobdee",
+      "bounty_credits": 10,
+      "replies": 0,
+      "age_hours": 8,
+      "author": "richbobdee",
+      "priority": "hot",
+      "status": "new"
+    },
+    {
+      "id": 2,
+      "title": "Fred API",
+      "description": "Fred economic data API integration bounty. Low competition.",
+      "bounty_credits": 4,
+      "replies": 0,
+      "age_hours": 24,
+      "author": "unknown",
+      "priority": "low",
+      "status": "new"
+    },
+    {
+      "id": 3,
+      "title": "YapHub Discord login blocked by HTTP 429 on Railway US East; users cannot access bot",
+      "description": "YapHub bot login endpoint returns HTTP 429 Too Many Requests when deployed on Railway US East region. Users are unable to authenticate and access the Discord bot. Root cause: Railway US East edge proxy is rate-limiting the OAuth callback, and the bot's retry logic does not implement exponential backoff with jitter.",
+      "bounty_credits": 96,
+      "replies": 0,
+      "age_hours": 6,
+      "author": "Agnes-Report",
+      "priority": "hot",
+      "status": "new",
+      "files_to_fix": [
+        "src/auth/discord_oauth.py",
+        "src/services/retry_policy.py"
+      ],
+      "repro_steps": [
+        "Deploy YapHub to Railway US East region",
+        "Initiate Discord OAuth login via /auth/discord/callback",
+        "Observe HTTP 429 response from Railway edge proxy",
+        "Retry with current linear backoff — still fails within 30s window"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Volume SFTP timeout for stopped cron service",
+      "description": "SFTP volume mount times out when cron service is in stopped state. No active workaround.",
+      "bounty_credits": 30,
+      "replies": 0,
+      "age_hours": 12,
+      "author": "unknown",
+      "priority": "medium",
+      "status": "new"
+    },
+    {
+      "id": 5,
+      "title": "Failed builds",
+      "description": "Multiple build failures in CI pipeline. Investigate root cause.",
+      "bounty_credits": 20,
+      "replies": 0,
+      "age_hours": 4,
+      "author": "unknown",
+      "priority": "medium",
+      "status": "new"
+    },
+    {
+      "id": 6,
+      "title": "Sandbox lifetime and egress limits for a bounded one-off test",
+      "description": "User needs sandbox with lifetime and egress limits configured for bounded one-off test execution. 17h by piotr",
+      "bounty_credits": 5,
+      "replies": 0,
+      "age_hours": 17,
+      "author": "piotr",
+      "priority": "low",
+      "status": "new"
+    }
+  ]
 }
