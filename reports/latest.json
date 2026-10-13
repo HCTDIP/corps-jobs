@@ -1,20 +1,24 @@
 {
-  "at": "2026-10-13T05:58Z",
-  "runs": 64,
-  "open_total": 17,
-  "new_count": 0,
-  "new_items": [],
+  "at": "2026-10-13T13:41Z",
+  "runs": 65,
+  "open_total": 18,
+  "new_count": 1,
+  "new_items": [
+    "$500    [  2 提交] [无地区限制] Panta x NectarFi Trading Competition Bounty"
+  ],
   "global_candidates": [
-    "$620    [  9 提交] 2026-10-23 | Launch & Trade on Daejin: Write a Twitter Thread and",
-    "$500    [ 22 提交] 2026-11-24 | Create Content on Premier League Predictions with wo",
+    "$500    [  2 提交] [无地区限制] Panta x NectarFi Trading Competition Bounty",
+    "$500    [  2 提交] 2026-11-12 | Panta x NectarFi Trading Competition Bounty",
+    "$620    [ 10 提交] 2026-10-23 | Launch & Trade on Daejin: Write a Twitter Thread and",
     "$250    [ 25 提交] 2026-10-14 | Climb Our Reader Leaderboard for Sep/Oct 2026",
-    "$500    [ 28 提交] 2026-10-17 | Grow Rewards: Make Your First Move",
-    "$500    [ 31 提交] 2026-10-14 | Make a Video: Season Zero, Pump the Pool 3 and Socia",
-    "$40000  [ 32 提交] 2026-10-31 | Vaultline Security Audit Grants for Colosseum Projec",
-    "$2000   [ 34 提交] 2026-10-31 | Write a thread on $CHIMP Launching on Metaplex - Par",
-    "$500    [ 60 提交] 2026-10-14 | Write a Post: Dust Sweeper + How Social Quests Earn",
-    "$500    [ 74 提交] 2026-10-14 | Write a Thread or Long Post: Price Comparison",
-    "$350    [181 提交] 2026-10-17 | Try a Solana Project and Give Useful Feedback | Toke"
+    "$500    [ 27 提交] 2026-11-24 | Create Content on Premier League Predictions with wo",
+    "$500    [ 31 提交] 2026-10-17 | Grow Rewards: Make Your First Move",
+    "$40000  [ 35 提交] 2026-10-31 | Vaultline Security Audit Grants for Colosseum Projec",
+    "$500    [ 38 提交] 2026-10-14 | Make a Video: Season Zero, Pump the Pool 3 and Socia",
+    "$2000   [ 58 提交] 2026-10-31 | Write a thread on $CHIMP Launching on Metaplex - Par",
+    "$500    [ 62 提交] 2026-10-14 | Write a Post: Dust Sweeper + How Social Quests Earn",
+    "$500    [ 83 提交] 2026-10-14 | Write a Thread or Long Post: Price Comparison",
+    "$350    [186 提交] 2026-10-17 | Try a Solana Project and Give Useful Feedback | Toke"
   ],
   "repo": "https://github.com/HCTDIP/corps-jobs"
 }
