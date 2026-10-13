@@ -1,56 +1,89 @@
 {
- "at": "2026-10-13T00:59:01.025930+00:00",
+ "at": "2026-10-13T11:07:09.047086+00:00",
  "total": 30,
- "hot": [],
+ "hot": [
+  {
+   "h": "/questions/documented-project-token-query-returns-h-ec5bd232",
+   "t": "Documented project-token query returns HTTP 403 from GitHub Actions",
+   "score": 4,
+   "notes": [
+    "竞争低",
+    "提问·配置型"
+   ]
+  }
+ ],
  "new": [
   {
-   "h": "/questions/digest-pinned-ghcr-image-empty-service-bbb54459",
-   "t": "Digest-pinned GHCR image: empty-service setup and deployment triggers",
-   "score": 2,
+   "h": "/questions/documented-project-token-query-returns-h-ec5bd232",
+   "t": "Documented project-token query returns HTTP 403 from GitHub Actions",
+   "score": 4,
    "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/subject-moatdip-com-unreachable-from-co-c67db939",
-   "t": "Subject: moatdip.com unreachable from Colombia & Finland (works with VPN)",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/which-memory-metric-is-actually-billed-f-9a819fb6",
-   "t": "Which memory metric is actually billed for a Postgres service ?",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/how-can-i-use-terminal-in-my-openclaw-de-b5b28bb6",
-   "t": "how can i use terminal in my openclaw deployment container $10 2 replies 8m by timsunzz",
-   "score": 1,
-   "notes": [
-    "陈旧",
     "竞争低",
     "提问·配置型"
    ]
   },
   {
-   "h": "/questions/old-vite-bundle-will-not-update-fb90594e",
-   "t": "Old Vite Bundle will not update $10 5 replies 8m by mammawrites",
-   "score": -4,
+   "h": "/questions/codex-sandbox-fails-bubblewrap-cannot-c-71a2988d",
+   "t": "Codex sandbox fails: bubblewrap cannot create user namespace",
+   "score": 2,
    "notes": [
-    "陈旧",
-    "已5回复"
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/failed-builds-06202e65",
+   "t": "Failed builds",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/my-railway-service-hermes-agent-is-crash-961af748",
+   "t": "My Railway service hermes-agent is crashing during startup.",
+   "score": 2,
+   "notes": [
+    "竞争低"
    ]
   }
  ],
  "all": [
   {
+   "h": "/questions/documented-project-token-query-returns-h-ec5bd232",
+   "t": "Documented project-token query returns HTTP 403 from GitHub Actions",
+   "score": 4,
+   "notes": [
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/codex-sandbox-fails-bubblewrap-cannot-c-71a2988d",
+   "t": "Codex sandbox fails: bubblewrap cannot create user namespace",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/failed-builds-06202e65",
+   "t": "Failed builds",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
    "h": "/questions/yaphub-discord-login-blocked-by-http-429-b84481e7",
    "t": "YapHub Discord login blocked by HTTP 429 on Railway US East; users cannot access bot",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/my-railway-service-hermes-agent-is-crash-961af748",
+   "t": "My Railway service hermes-agent is crashing during startup.",
    "score": 2,
    "notes": [
     "竞争低"
@@ -83,38 +116,6 @@
   {
    "h": "/questions/subject-moatdip-com-unreachable-from-co-c67db939",
    "t": "Subject: moatdip.com unreachable from Colombia & Finland (works with VPN)",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/which-memory-metric-is-actually-billed-f-9a819fb6",
-   "t": "Which memory metric is actually billed for a Postgres service ?",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/backend-logs-not-appearing-in-railway-co-945d6f32",
-   "t": "backend logs not appearing in railway console",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/webhook-fail-to-capture-payload-from-mob-83e486f8",
-   "t": "webhook fail to capture payload from mobile money provider during mno checkout",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/max-connections-on-postgres-bc6b5a56",
-   "t": "max_connections on Postgres",
    "score": 2,
    "notes": [
     "竞争低"
@@ -318,7 +319,7 @@
   },
   {
    "h": "/questions/mongo-db-connection-failed-since-12-feb-855f3581",
-   "t": "MongoDB connection failed since 12 Feb. $10 4 replies 7m by jingle",
+   "t": "MongoDB connection failed since 12 Feb. $10 4 replies 8m by jingle",
    "score": -8,
    "notes": [
     "陈旧",
