@@ -1,10 +1,10 @@
 {
- "at": "2026-10-14T00:37:37.328011+00:00",
+ "at": "2026-10-14T05:25:15.226083+00:00",
  "total": 29,
  "hot": [
   {
    "h": "/questions/deployment-configuration-snapshot-and-re-cf5f73e3",
-   "t": "Deployment configuration snapshot and reconciliation after an ambiguous deploy response $10 0 replies 4h by yasineken2002-sys",
+   "t": "Deployment configuration snapshot and reconciliation after an ambiguous deploy response $10 0 replies 9h by yasineken2002-sys",
    "score": 7,
    "notes": [
     "数小时内",
@@ -33,20 +33,18 @@
  ],
  "new": [
   {
-   "h": "/questions/deployment-configuration-snapshot-and-re-cf5f73e3",
-   "t": "Deployment configuration snapshot and reconciliation after an ambiguous deploy response $10 0 replies 4h by yasineken2002-sys",
-   "score": 7,
+   "h": "/questions/repeated-failures-deploying-68813aa1",
+   "t": "repeated failures deploying",
+   "score": 2,
    "notes": [
-    "数小时内",
-    "竞争低",
-    "提问·配置型"
+    "竞争低"
    ]
   }
  ],
  "all": [
   {
    "h": "/questions/deployment-configuration-snapshot-and-re-cf5f73e3",
-   "t": "Deployment configuration snapshot and reconciliation after an ambiguous deploy response $10 0 replies 4h by yasineken2002-sys",
+   "t": "Deployment configuration snapshot and reconciliation after an ambiguous deploy response $10 0 replies 9h by yasineken2002-sys",
    "score": 7,
    "notes": [
     "数小时内",
@@ -70,6 +68,14 @@
    "notes": [
     "竞争低",
     "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/repeated-failures-deploying-68813aa1",
+   "t": "repeated failures deploying",
+   "score": 2,
+   "notes": [
+    "竞争低"
    ]
   },
   {
@@ -115,14 +121,6 @@
   {
    "h": "/questions/couldn-t-connect-to-mysql-check-that-th-12fd3872",
    "t": "Couldn't connect to MySQL. Check that the service is running, then try again.",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/pause-public-ingress-067e8bc8",
-   "t": "Pause public ingress",
    "score": 2,
    "notes": [
     "竞争低"
