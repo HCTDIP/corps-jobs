@@ -1,10 +1,10 @@
 {
- "at": "2026-10-14T12:24:40.757496+00:00",
+ "at": "2026-10-14T17:37:23.125153+00:00",
  "total": 27,
  "hot": [
   {
    "h": "/questions/supported-executor-contract-for-a-one-sh-fe592931",
-   "t": "Supported executor contract for a one-shot Linux qualification $10 0 replies 1h by btheorystartups",
+   "t": "Supported executor contract for a one-shot Linux qualification $10 0 replies 6h by btheorystartups",
    "score": 7,
    "notes": [
     "数小时内",
@@ -14,7 +14,7 @@
   },
   {
    "h": "/questions/deployment-configuration-snapshot-and-re-cf5f73e3",
-   "t": "Deployment configuration snapshot and reconciliation after an ambiguous deploy response $10 0 replies 16h by yasineken2002-sys",
+   "t": "Deployment configuration snapshot and reconciliation after an ambiguous deploy response $10 0 replies 21h by yasineken2002-sys",
    "score": 7,
    "notes": [
     "数小时内",
@@ -23,8 +23,17 @@
    ]
   },
   {
-   "h": "/questions/http-403-verifying-a-project-scoped-api-07ce7dd1",
-   "t": "HTTP 403 verifying a project-scoped API token",
+   "h": "/questions/chromium-sandbox-support-for-non-root-pl-98165f30",
+   "t": "Chromium sandbox support for non-root Playwright workers on Railway $10 0 replies 6h by trisfas",
+   "score": 5,
+   "notes": [
+    "数小时内",
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/is-there-a-way-to-connect-railway-to-a-c-bbdcf294",
+   "t": "is there a way to connect railway to a custom domain without @",
    "score": 4,
    "notes": [
     "竞争低",
@@ -34,29 +43,35 @@
  ],
  "new": [
   {
-   "h": "/questions/supported-executor-contract-for-a-one-sh-fe592931",
-   "t": "Supported executor contract for a one-shot Linux qualification $10 0 replies 1h by btheorystartups",
-   "score": 7,
+   "h": "/questions/is-there-a-way-to-connect-railway-to-a-c-bbdcf294",
+   "t": "is there a way to connect railway to a custom domain without @",
+   "score": 4,
    "notes": [
-    "数小时内",
     "竞争低",
     "提问·配置型"
    ]
   },
   {
-   "h": "/questions/production-console-connected-but-keyboar-f5580fad",
-   "t": "Production Console connected but keyboard input not working — PostgreSQL backup blocked",
+   "h": "/questions/domain-failure-d4bf8156",
+   "t": "Domain failure",
    "score": 2,
    "notes": [
     "竞争低"
    ]
   },
   {
-   "h": "/questions/chromium-sandbox-support-for-non-root-pl-98165f30",
-   "t": "Chromium sandbox support for non-root Playwright workers on Railway $10 0 replies 37m by trisfas",
-   "score": -1,
+   "h": "/questions/railway-volume-files-download-after-down-8d163788",
+   "t": "railway volume files download after downgrading to free plan",
+   "score": 2,
    "notes": [
-    "陈旧",
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/does-postgresql-regenerate-password-affe-db9ee227",
+   "t": "Does PostgreSQL Regenerate Password affect PITR or Railway-managed backups?",
+   "score": 2,
+   "notes": [
     "竞争低"
    ]
   }
@@ -64,7 +79,7 @@
  "all": [
   {
    "h": "/questions/supported-executor-contract-for-a-one-sh-fe592931",
-   "t": "Supported executor contract for a one-shot Linux qualification $10 0 replies 1h by btheorystartups",
+   "t": "Supported executor contract for a one-shot Linux qualification $10 0 replies 6h by btheorystartups",
    "score": 7,
    "notes": [
     "数小时内",
@@ -74,7 +89,7 @@
   },
   {
    "h": "/questions/deployment-configuration-snapshot-and-re-cf5f73e3",
-   "t": "Deployment configuration snapshot and reconciliation after an ambiguous deploy response $10 0 replies 16h by yasineken2002-sys",
+   "t": "Deployment configuration snapshot and reconciliation after an ambiguous deploy response $10 0 replies 21h by yasineken2002-sys",
    "score": 7,
    "notes": [
     "数小时内",
@@ -83,12 +98,45 @@
    ]
   },
   {
-   "h": "/questions/http-403-verifying-a-project-scoped-api-07ce7dd1",
-   "t": "HTTP 403 verifying a project-scoped API token",
+   "h": "/questions/chromium-sandbox-support-for-non-root-pl-98165f30",
+   "t": "Chromium sandbox support for non-root Playwright workers on Railway $10 0 replies 6h by trisfas",
+   "score": 5,
+   "notes": [
+    "数小时内",
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/is-there-a-way-to-connect-railway-to-a-c-bbdcf294",
+   "t": "is there a way to connect railway to a custom domain without @",
    "score": 4,
    "notes": [
     "竞争低",
     "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/domain-failure-d4bf8156",
+   "t": "Domain failure",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/railway-volume-files-download-after-down-8d163788",
+   "t": "railway volume files download after downgrading to free plan",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/does-postgresql-regenerate-password-affe-db9ee227",
+   "t": "Does PostgreSQL Regenerate Password affect PITR or Railway-managed backups?",
+   "score": 2,
+   "notes": [
+    "竞争低"
    ]
   },
   {
@@ -116,30 +164,6 @@
    ]
   },
   {
-   "h": "/questions/recovery-of-data-from-removed-mysql-serv-71d50b19",
-   "t": "Recovery of data from removed MySQL service",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/intermittent-chromium-user-namespace-san-5b3f4199",
-   "t": "Intermittent Chromium user-namespace sandbox failure on Railway V2",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/codex-sandbox-fails-bubblewrap-cannot-c-71a2988d",
-   "t": "Codex sandbox fails: bubblewrap cannot create user namespace",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
    "h": "/questions/runtime-v2-injecting-empty-variable-valu-4c0fb717",
    "t": "Runtime V2 injecting empty variable values into the deployment process $10 1 replies 4m by fantasycricketpros",
    "score": 1,
@@ -147,15 +171,6 @@
     "陈旧",
     "竞争低",
     "提问·配置型"
-   ]
-  },
-  {
-   "h": "/questions/chromium-sandbox-support-for-non-root-pl-98165f30",
-   "t": "Chromium sandbox support for non-root Playwright workers on Railway $10 0 replies 37m by trisfas",
-   "score": -1,
-   "notes": [
-    "陈旧",
-    "竞争低"
    ]
   },
   {
