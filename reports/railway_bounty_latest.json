@@ -1,14 +1,15 @@
 {
- "at": "2026-10-13T19:32:52.255176+00:00",
+ "at": "2026-10-14T00:37:37.328011+00:00",
  "total": 29,
  "hot": [
   {
-   "h": "/questions/sftp-timeout-when-accessing-railway-volu-0c28cc84",
-   "t": "SFTP timeout when accessing Railway volume $10 0 replies 2h by watrado",
-   "score": 5,
+   "h": "/questions/deployment-configuration-snapshot-and-re-cf5f73e3",
+   "t": "Deployment configuration snapshot and reconciliation after an ambiguous deploy response $10 0 replies 4h by yasineken2002-sys",
+   "score": 7,
    "notes": [
     "数小时内",
-    "竞争低"
+    "竞争低",
+    "提问·配置型"
    ]
   },
   {
@@ -23,15 +24,6 @@
   {
    "h": "/questions/documented-project-token-query-returns-h-ec5bd232",
    "t": "Documented project-token query returns HTTP 403 from GitHub Actions",
-   "score": 4,
-   "notes": [
-    "竞争低",
-    "提问·配置型"
-   ]
-  },
-  {
-   "h": "/questions/connect-environment-to-branch-6eeede20",
-   "t": "Connect Environment to Branch",
    "score": 4,
    "notes": [
     "竞争低",
@@ -41,81 +33,25 @@
  ],
  "new": [
   {
-   "h": "/questions/sftp-timeout-when-accessing-railway-volu-0c28cc84",
-   "t": "SFTP timeout when accessing Railway volume $10 0 replies 2h by watrado",
-   "score": 5,
+   "h": "/questions/deployment-configuration-snapshot-and-re-cf5f73e3",
+   "t": "Deployment configuration snapshot and reconciliation after an ambiguous deploy response $10 0 replies 4h by yasineken2002-sys",
+   "score": 7,
    "notes": [
     "数小时内",
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/http-403-verifying-a-project-scoped-api-07ce7dd1",
-   "t": "HTTP 403 verifying a project-scoped API token",
-   "score": 4,
-   "notes": [
     "竞争低",
     "提问·配置型"
-   ]
-  },
-  {
-   "h": "/questions/connect-environment-to-branch-6eeede20",
-   "t": "Connect Environment to Branch",
-   "score": 4,
-   "notes": [
-    "竞争低",
-    "提问·配置型"
-   ]
-  },
-  {
-   "h": "/questions/recovery-of-data-from-removed-mysql-serv-71d50b19",
-   "t": "Recovery of data from removed MySQL service",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/intermittent-chromium-user-namespace-san-5b3f4199",
-   "t": "Intermittent Chromium user-namespace sandbox failure on Railway V2",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/service-memory-grows-with-every-file-wri-ef9adcac",
-   "t": "Service memory grows with every file written to the volume and only drops on restart",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/couldn-t-connect-to-mysql-check-that-th-12fd3872",
-   "t": "Couldn't connect to MySQL. Check that the service is running, then try again.",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/pause-public-ingress-067e8bc8",
-   "t": "Pause public ingress",
-   "score": 2,
-   "notes": [
-    "竞争低"
    ]
   }
  ],
  "all": [
   {
-   "h": "/questions/sftp-timeout-when-accessing-railway-volu-0c28cc84",
-   "t": "SFTP timeout when accessing Railway volume $10 0 replies 2h by watrado",
-   "score": 5,
+   "h": "/questions/deployment-configuration-snapshot-and-re-cf5f73e3",
+   "t": "Deployment configuration snapshot and reconciliation after an ambiguous deploy response $10 0 replies 4h by yasineken2002-sys",
+   "score": 7,
    "notes": [
     "数小时内",
-    "竞争低"
+    "竞争低",
+    "提问·配置型"
    ]
   },
   {
@@ -137,12 +73,11 @@
    ]
   },
   {
-   "h": "/questions/connect-environment-to-branch-6eeede20",
-   "t": "Connect Environment to Branch",
-   "score": 4,
+   "h": "/questions/sftp-timeout-when-accessing-railway-volu-0c28cc84",
+   "t": "SFTP timeout when accessing Railway volume",
+   "score": 2,
    "notes": [
-    "竞争低",
-    "提问·配置型"
+    "竞争低"
    ]
   },
   {
