@@ -1,17 +1,20 @@
 {
-  "at": "2026-10-15T02:31Z",
-  "runs": 71,
-  "open_total": 13,
-  "new_count": 0,
-  "new_items": [],
+  "at": "2026-10-15T10:37Z",
+  "runs": 72,
+  "open_total": 14,
+  "new_count": 1,
+  "new_items": [
+    "$6000   [  1 提交] [有地区分会] Travel boost: Create Content for Breakpoint 2026"
+  ],
   "global_candidates": [
+    "$6000   [  1 提交] [有地区分会] Travel boost: Create Content for Breakpoint 2026",
     "$500    [  2 提交] 2026-11-12 | Panta x NectarFi Trading Competition Bounty",
-    "$620    [ 12 提交] 2026-10-23 | Launch & Trade on Daejin: Write a Twitter Thread and",
-    "$500    [ 36 提交] 2026-11-24 | Create Content on Premier League Predictions with wo",
-    "$500    [ 37 提交] 2026-10-17 | Grow Rewards: Make Your First Move",
-    "$40000  [ 50 提交] 2026-10-31 | Vaultline Security Audit Grants for Colosseum Projec",
-    "$2000   [113 提交] 2026-10-31 | Write a thread on $CHIMP Launching on Metaplex - Par",
-    "$350    [214 提交] 2026-10-17 | Try a Solana Project and Give Useful Feedback | Toke"
+    "$620    [ 15 提交] 2026-10-23 | Launch & Trade on Daejin: Write a Twitter Thread and",
+    "$500    [ 38 提交] 2026-11-24 | Create Content on Premier League Predictions with wo",
+    "$500    [ 41 提交] 2026-10-17 | Grow Rewards: Make Your First Move",
+    "$40000  [ 52 提交] 2026-10-31 | Vaultline Security Audit Grants for Colosseum Projec",
+    "$2000   [124 提交] 2026-10-31 | Write a thread on $CHIMP Launching on Metaplex - Par",
+    "$350    [220 提交] 2026-10-17 | Try a Solana Project and Give Useful Feedback | Toke"
   ],
   "repo": "https://github.com/HCTDIP/corps-jobs"
 }
