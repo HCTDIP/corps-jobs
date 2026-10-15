@@ -1,17 +1,7 @@
 {
- "at": "2026-10-14T21:57:28.905857+00:00",
- "total": 27,
+ "at": "2026-10-15T05:13:25.695231+00:00",
+ "total": 29,
  "hot": [
-  {
-   "h": "/questions/supported-executor-contract-for-a-one-sh-fe592931",
-   "t": "Supported executor contract for a one-shot Linux qualification $10 0 replies 10h by btheorystartups",
-   "score": 7,
-   "notes": [
-    "数小时内",
-    "竞争低",
-    "提问·配置型"
-   ]
-  },
   {
    "h": "/questions/deployment-configuration-snapshot-and-re-cf5f73e3",
    "t": "Deployment configuration snapshot and reconciliation after an ambiguous deploy response $10 0 replies 1d by yasineken2002-sys",
@@ -23,17 +13,8 @@
    ]
   },
   {
-   "h": "/questions/chromium-sandbox-support-for-non-root-pl-98165f30",
-   "t": "Chromium sandbox support for non-root Playwright workers on Railway $10 0 replies 10h by trisfas",
-   "score": 5,
-   "notes": [
-    "数小时内",
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/request-for-postgresql-public-certificat-2faeed55",
-   "t": "Request for PostgreSQL public certificates — Self Training",
+   "h": "/questions/supported-executor-contract-for-a-one-sh-fe592931",
+   "t": "Supported executor contract for a one-shot Linux qualification",
    "score": 4,
    "notes": [
     "竞争低",
@@ -41,8 +22,8 @@
    ]
   },
   {
-   "h": "/questions/is-there-a-way-to-connect-railway-to-a-c-bbdcf294",
-   "t": "is there a way to connect railway to a custom domain without @",
+   "h": "/questions/request-for-postgresql-public-certificat-2faeed55",
+   "t": "Request for PostgreSQL public certificates — Self Training",
    "score": 4,
    "notes": [
     "竞争低",
@@ -52,43 +33,42 @@
  ],
  "new": [
   {
-   "h": "/questions/request-for-postgresql-public-certificat-2faeed55",
-   "t": "Request for PostgreSQL public certificates — Self Training",
-   "score": 4,
-   "notes": [
-    "竞争低",
-    "提问·配置型"
-   ]
-  },
-  {
-   "h": "/questions/cannot-connect-to-postgres-database-bfa5e316",
-   "t": "Cannot connect to Postgres Database",
+   "h": "/questions/production-mysql-error-1045-access-den-ac1d3eef",
+   "t": "Production MySQL ERROR 1045 - Access denied",
    "score": 2,
    "notes": [
     "竞争低"
    ]
   },
   {
-   "h": "/questions/this-deployment-is-temporarily-paused-b-ca412865",
-   "t": "This deployment is temporarily paused bom1::9bkln-1770210017515-a5451162c08f $10 3 replies 8m by nirala96",
-   "score": -4,
+   "h": "/questions/bot-deployment-failing-on-free-plan-86a46bd8",
+   "t": "Bot deployment failing on Free plan",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/how-can-i-use-terminal-in-my-openclaw-de-b5b28bb6",
+   "t": "how can i use terminal in my openclaw deployment container $10 2 replies 8m by timsunzz",
+   "score": 1,
    "notes": [
     "陈旧",
-    "已3回复"
-   ]
-  }
- ],
- "all": [
-  {
-   "h": "/questions/supported-executor-contract-for-a-one-sh-fe592931",
-   "t": "Supported executor contract for a one-shot Linux qualification $10 0 replies 10h by btheorystartups",
-   "score": 7,
-   "notes": [
-    "数小时内",
     "竞争低",
     "提问·配置型"
    ]
   },
+  {
+   "h": "/questions/old-vite-bundle-will-not-update-fb90594e",
+   "t": "Old Vite Bundle will not update $10 5 replies 8m by mammawrites",
+   "score": -4,
+   "notes": [
+    "陈旧",
+    "已5回复"
+   ]
+  }
+ ],
+ "all": [
   {
    "h": "/questions/deployment-configuration-snapshot-and-re-cf5f73e3",
    "t": "Deployment configuration snapshot and reconciliation after an ambiguous deploy response $10 0 replies 1d by yasineken2002-sys",
@@ -100,12 +80,12 @@
    ]
   },
   {
-   "h": "/questions/chromium-sandbox-support-for-non-root-pl-98165f30",
-   "t": "Chromium sandbox support for non-root Playwright workers on Railway $10 0 replies 10h by trisfas",
-   "score": 5,
+   "h": "/questions/supported-executor-contract-for-a-one-sh-fe592931",
+   "t": "Supported executor contract for a one-shot Linux qualification",
+   "score": 4,
    "notes": [
-    "数小时内",
-    "竞争低"
+    "竞争低",
+    "提问·配置型"
    ]
   },
   {
@@ -118,12 +98,27 @@
    ]
   },
   {
-   "h": "/questions/is-there-a-way-to-connect-railway-to-a-c-bbdcf294",
-   "t": "is there a way to connect railway to a custom domain without @",
-   "score": 4,
+   "h": "/questions/production-mysql-error-1045-access-den-ac1d3eef",
+   "t": "Production MySQL ERROR 1045 - Access denied",
+   "score": 2,
    "notes": [
-    "竞争低",
-    "提问·配置型"
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/bot-deployment-failing-on-free-plan-86a46bd8",
+   "t": "Bot deployment failing on Free plan",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/chromium-sandbox-support-for-non-root-pl-98165f30",
+   "t": "Chromium sandbox support for non-root Playwright workers on Railway",
+   "score": 2,
+   "notes": [
+    "竞争低"
    ]
   },
   {
@@ -151,16 +146,18 @@
    ]
   },
   {
-   "h": "/questions/does-postgresql-regenerate-password-affe-db9ee227",
-   "t": "Does PostgreSQL Regenerate Password affect PITR or Railway-managed backups?",
-   "score": 2,
+   "h": "/questions/runtime-v2-injecting-empty-variable-valu-4c0fb717",
+   "t": "Runtime V2 injecting empty variable values into the deployment process $10 1 replies 4m by fantasycricketpros",
+   "score": 1,
    "notes": [
-    "竞争低"
+    "陈旧",
+    "竞争低",
+    "提问·配置型"
    ]
   },
   {
-   "h": "/questions/runtime-v2-injecting-empty-variable-valu-4c0fb717",
-   "t": "Runtime V2 injecting empty variable values into the deployment process $10 1 replies 4m by fantasycricketpros",
+   "h": "/questions/how-can-i-use-terminal-in-my-openclaw-de-b5b28bb6",
+   "t": "how can i use terminal in my openclaw deployment container $10 2 replies 8m by timsunzz",
    "score": 1,
    "notes": [
     "陈旧",
@@ -213,6 +210,15 @@
    "notes": [
     "陈旧",
     "已3回复"
+   ]
+  },
+  {
+   "h": "/questions/old-vite-bundle-will-not-update-fb90594e",
+   "t": "Old Vite Bundle will not update $10 5 replies 8m by mammawrites",
+   "score": -4,
+   "notes": [
+    "陈旧",
+    "已5回复"
    ]
   },
   {
