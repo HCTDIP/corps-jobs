@@ -1,13 +1,13 @@
 {
- "at": "2026-10-15T05:13:25.695231+00:00",
- "total": 29,
+ "at": "2026-10-15T12:08:17.729057+00:00",
+ "total": 28,
  "hot": [
   {
    "h": "/questions/deployment-configuration-snapshot-and-re-cf5f73e3",
-   "t": "Deployment configuration snapshot and reconciliation after an ambiguous deploy response $10 0 replies 1d by yasineken2002-sys",
+   "t": "Deployment configuration snapshot and reconciliation after an ambiguous deploy response $10 0 replies 2d by yasineken2002-sys",
    "score": 6,
    "notes": [
-    "1天内",
+    "2天内",
     "竞争低",
     "提问·配置型"
    ]
@@ -33,48 +33,23 @@
  ],
  "new": [
   {
-   "h": "/questions/production-mysql-error-1045-access-den-ac1d3eef",
-   "t": "Production MySQL ERROR 1045 - Access denied",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/bot-deployment-failing-on-free-plan-86a46bd8",
-   "t": "Bot deployment failing on Free plan",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/how-can-i-use-terminal-in-my-openclaw-de-b5b28bb6",
-   "t": "how can i use terminal in my openclaw deployment container $10 2 replies 8m by timsunzz",
+   "h": "/questions/production-outage-outbound-tcp-443-to-a-5cb5860d",
+   "t": "Production outage: outbound TCP/443 to Allegro times out on web, works on worker $10 0 replies 5h by erpajans",
    "score": 1,
    "notes": [
-    "陈旧",
+    "数小时内",
     "竞争低",
-    "提问·配置型"
-   ]
-  },
-  {
-   "h": "/questions/old-vite-bundle-will-not-update-fb90594e",
-   "t": "Old Vite Bundle will not update $10 5 replies 8m by mammawrites",
-   "score": -4,
-   "notes": [
-    "陈旧",
-    "已5回复"
+    "⚠平台基建/已解"
    ]
   }
  ],
  "all": [
   {
    "h": "/questions/deployment-configuration-snapshot-and-re-cf5f73e3",
-   "t": "Deployment configuration snapshot and reconciliation after an ambiguous deploy response $10 0 replies 1d by yasineken2002-sys",
+   "t": "Deployment configuration snapshot and reconciliation after an ambiguous deploy response $10 0 replies 2d by yasineken2002-sys",
    "score": 6,
    "notes": [
-    "1天内",
+    "2天内",
     "竞争低",
     "提问·配置型"
    ]
@@ -98,6 +73,14 @@
    ]
   },
   {
+   "h": "/questions/chromium-sandbox-support-for-non-root-pl-98165f30",
+   "t": "Chromium sandbox support for non-root Playwright workers on Railway",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
    "h": "/questions/production-mysql-error-1045-access-den-ac1d3eef",
    "t": "Production MySQL ERROR 1045 - Access denied",
    "score": 2,
@@ -108,14 +91,6 @@
   {
    "h": "/questions/bot-deployment-failing-on-free-plan-86a46bd8",
    "t": "Bot deployment failing on Free plan",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/chromium-sandbox-support-for-non-root-pl-98165f30",
-   "t": "Chromium sandbox support for non-root Playwright workers on Railway",
    "score": 2,
    "notes": [
     "竞争低"
@@ -138,26 +113,18 @@
    ]
   },
   {
-   "h": "/questions/railway-volume-files-download-after-down-8d163788",
-   "t": "railway volume files download after downgrading to free plan",
-   "score": 2,
+   "h": "/questions/production-outage-outbound-tcp-443-to-a-5cb5860d",
+   "t": "Production outage: outbound TCP/443 to Allegro times out on web, works on worker $10 0 replies 5h by erpajans",
+   "score": 1,
    "notes": [
-    "竞争低"
+    "数小时内",
+    "竞争低",
+    "⚠平台基建/已解"
    ]
   },
   {
    "h": "/questions/runtime-v2-injecting-empty-variable-valu-4c0fb717",
    "t": "Runtime V2 injecting empty variable values into the deployment process $10 1 replies 4m by fantasycricketpros",
-   "score": 1,
-   "notes": [
-    "陈旧",
-    "竞争低",
-    "提问·配置型"
-   ]
-  },
-  {
-   "h": "/questions/how-can-i-use-terminal-in-my-openclaw-de-b5b28bb6",
-   "t": "how can i use terminal in my openclaw deployment container $10 2 replies 8m by timsunzz",
    "score": 1,
    "notes": [
     "陈旧",
