@@ -1,6 +1,6 @@
 {
- "at": "2026-10-15T12:08:17.729057+00:00",
- "total": 28,
+ "at": "2026-10-15T17:22:25.020195+00:00",
+ "total": 29,
  "hot": [
   {
    "h": "/questions/deployment-configuration-snapshot-and-re-cf5f73e3",
@@ -33,13 +33,27 @@
  ],
  "new": [
   {
-   "h": "/questions/production-outage-outbound-tcp-443-to-a-5cb5860d",
-   "t": "Production outage: outbound TCP/443 to Allegro times out on web, works on worker $10 0 replies 5h by erpajans",
-   "score": 1,
+   "h": "/questions/pleaseeee-help-restore-deleted-openc-a066982a",
+   "t": "Pleaseeee Help :-( Restore deleted openclaw instance database from ~1 hour ago",
+   "score": 2,
    "notes": [
-    "数小时内",
-    "竞争低",
-    "⚠平台基建/已解"
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/title-best-practice-for-migrating-an-ex-201d86e1",
+   "t": "Best Practice for Migrating an Existing SQLite Database to Persistent Storage on Railway",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/thev4ult-502-container-provisioning-fa-878f0114",
+   "t": "THEV4ULT 502 — Container Provisioning Failure",
+   "score": 2,
+   "notes": [
+    "竞争低"
    ]
   }
  ],
@@ -73,8 +87,32 @@
    ]
   },
   {
+   "h": "/questions/pleaseeee-help-restore-deleted-openc-a066982a",
+   "t": "Pleaseeee Help :-( Restore deleted openclaw instance database from ~1 hour ago",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/title-best-practice-for-migrating-an-ex-201d86e1",
+   "t": "Best Practice for Migrating an Existing SQLite Database to Persistent Storage on Railway",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
    "h": "/questions/chromium-sandbox-support-for-non-root-pl-98165f30",
    "t": "Chromium sandbox support for non-root Playwright workers on Railway",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/thev4ult-502-container-provisioning-fa-878f0114",
+   "t": "THEV4ULT 502 — Container Provisioning Failure",
    "score": 2,
    "notes": [
     "竞争低"
@@ -97,24 +135,8 @@
    ]
   },
   {
-   "h": "/questions/cannot-connect-to-postgres-database-bfa5e316",
-   "t": "Cannot connect to Postgres Database",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/domain-failure-d4bf8156",
-   "t": "Domain failure",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
    "h": "/questions/production-outage-outbound-tcp-443-to-a-5cb5860d",
-   "t": "Production outage: outbound TCP/443 to Allegro times out on web, works on worker $10 0 replies 5h by erpajans",
+   "t": "Production outage: outbound TCP/443 to Allegro times out on web, works on worker $10 0 replies 10h by erpajans",
    "score": 1,
    "notes": [
     "数小时内",
