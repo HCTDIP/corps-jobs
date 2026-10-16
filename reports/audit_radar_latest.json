@@ -1,7 +1,16 @@
 {
- "at": "2026-10-16T16:38:56.476085Z",
+ "at": "2026-10-16T21:07:17.730270Z",
  "count": 24,
- "new": [],
+ "new": [
+  {
+   "src": "sherlock-bounty",
+   "status": "live",
+   "title": "Kamino",
+   "updated": "Oct 16, 2026",
+   "amount": "$1,000,000",
+   "url": "https://audits.sherlock.xyz/bug-bounties"
+  }
+ ],
  "all": [
   {
    "src": "code4rena",
@@ -48,6 +57,14 @@
    "title": "Aave V4",
    "updated": "Sep 29, 2026",
    "amount": "$2,500,000",
+   "url": "https://audits.sherlock.xyz/bug-bounties"
+  },
+  {
+   "src": "sherlock-bounty",
+   "status": "live",
+   "title": "Kamino",
+   "updated": "Oct 16, 2026",
+   "amount": "$1,000,000",
    "url": "https://audits.sherlock.xyz/bug-bounties"
   },
   {
@@ -175,14 +192,6 @@
    "status": "live",
    "title": "USX",
    "updated": "May 3, 2026",
-   "amount": "$100,000",
-   "url": "https://audits.sherlock.xyz/bug-bounties"
-  },
-  {
-   "src": "sherlock-bounty",
-   "status": "live",
-   "title": "Mellow Core Vaults",
-   "updated": "Sep 25, 2025",
    "amount": "$100,000",
    "url": "https://audits.sherlock.xyz/bug-bounties"
   },
