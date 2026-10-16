@@ -1,7 +1,16 @@
 {
- "at": "2026-10-16T21:44:02.681658+00:00",
+ "at": "2026-10-16T23:55:45.930254+00:00",
  "total": 29,
  "hot": [
+  {
+   "h": "/questions/is-there-a-way-to-connect-railway-to-a-c-bbdcf294",
+   "t": "is there a way to connect railway to a custom domain without @",
+   "score": 4,
+   "notes": [
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
   {
    "h": "/questions/permissions-3ea15080",
    "t": "Permissions",
@@ -23,8 +32,8 @@
  ],
  "new": [
   {
-   "h": "/questions/permissions-3ea15080",
-   "t": "Permissions",
+   "h": "/questions/is-there-a-way-to-connect-railway-to-a-c-bbdcf294",
+   "t": "is there a way to connect railway to a custom domain without @",
    "score": 4,
    "notes": [
     "竞争低",
@@ -33,6 +42,15 @@
   }
  ],
  "all": [
+  {
+   "h": "/questions/is-there-a-way-to-connect-railway-to-a-c-bbdcf294",
+   "t": "is there a way to connect railway to a custom domain without @",
+   "score": 4,
+   "notes": [
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
   {
    "h": "/questions/permissions-3ea15080",
    "t": "Permissions",
@@ -140,15 +158,6 @@
   {
    "h": "/questions/n8n-self-hosted-stopeed-working-2dbedbe7",
    "t": "n8n self-hosted stopeed working",
-   "score": -2,
-   "notes": [
-    "竞争低",
-    "⚠平台基建/已解"
-   ]
-  },
-  {
-   "h": "/questions/production-outage-outbound-tcp-443-to-a-5cb5860d",
-   "t": "Production outage: outbound TCP/443 to Allegro times out on web, works on worker",
    "score": -2,
    "notes": [
     "竞争低",
