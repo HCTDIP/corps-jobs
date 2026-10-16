@@ -1,20 +1,19 @@
 {
- "at": "2026-10-15T21:47:19.582759+00:00",
- "total": 29,
+ "at": "2026-10-16T05:00:33.596506+00:00",
+ "total": 28,
  "hot": [
   {
-   "h": "/questions/deployment-configuration-snapshot-and-re-cf5f73e3",
-   "t": "Deployment configuration snapshot and reconciliation after an ambiguous deploy response $10 0 replies 2d by yasineken2002-sys",
-   "score": 6,
+   "h": "/questions/request-specific-http-2-response-interru-bc0e50c2",
+   "t": "Request-specific HTTP/2 response interruption in private QA $20 0 replies 3h by valdorar44-droid",
+   "score": 5,
    "notes": [
-    "2天内",
-    "竞争低",
-    "提问·配置型"
+    "数小时内",
+    "竞争低"
    ]
   },
   {
-   "h": "/questions/supported-executor-contract-for-a-one-sh-fe592931",
-   "t": "Supported executor contract for a one-shot Linux qualification",
+   "h": "/questions/deployment-configuration-snapshot-and-re-cf5f73e3",
+   "t": "Deployment configuration snapshot and reconciliation after an ambiguous deploy response",
    "score": 4,
    "notes": [
     "竞争低",
@@ -22,8 +21,8 @@
    ]
   },
   {
-   "h": "/questions/request-for-postgresql-public-certificat-2faeed55",
-   "t": "Request for PostgreSQL public certificates — Self Training",
+   "h": "/questions/supported-executor-contract-for-a-one-sh-fe592931",
+   "t": "Supported executor contract for a one-shot Linux qualification",
    "score": 4,
    "notes": [
     "竞争低",
@@ -31,21 +30,30 @@
    ]
   }
  ],
- "new": [],
+ "new": [
+  {
+   "h": "/questions/request-specific-http-2-response-interru-bc0e50c2",
+   "t": "Request-specific HTTP/2 response interruption in private QA $20 0 replies 3h by valdorar44-droid",
+   "score": 5,
+   "notes": [
+    "数小时内",
+    "竞争低"
+   ]
+  }
+ ],
  "all": [
   {
-   "h": "/questions/deployment-configuration-snapshot-and-re-cf5f73e3",
-   "t": "Deployment configuration snapshot and reconciliation after an ambiguous deploy response $10 0 replies 2d by yasineken2002-sys",
-   "score": 6,
+   "h": "/questions/request-specific-http-2-response-interru-bc0e50c2",
+   "t": "Request-specific HTTP/2 response interruption in private QA $20 0 replies 3h by valdorar44-droid",
+   "score": 5,
    "notes": [
-    "2天内",
-    "竞争低",
-    "提问·配置型"
+    "数小时内",
+    "竞争低"
    ]
   },
   {
-   "h": "/questions/supported-executor-contract-for-a-one-sh-fe592931",
-   "t": "Supported executor contract for a one-shot Linux qualification",
+   "h": "/questions/deployment-configuration-snapshot-and-re-cf5f73e3",
+   "t": "Deployment configuration snapshot and reconciliation after an ambiguous deploy response",
    "score": 4,
    "notes": [
     "竞争低",
@@ -53,8 +61,8 @@
    ]
   },
   {
-   "h": "/questions/request-for-postgresql-public-certificat-2faeed55",
-   "t": "Request for PostgreSQL public certificates — Self Training",
+   "h": "/questions/supported-executor-contract-for-a-one-sh-fe592931",
+   "t": "Supported executor contract for a one-shot Linux qualification",
    "score": 4,
    "notes": [
     "竞争低",
@@ -110,16 +118,6 @@
    ]
   },
   {
-   "h": "/questions/production-outage-outbound-tcp-443-to-a-5cb5860d",
-   "t": "Production outage: outbound TCP/443 to Allegro times out on web, works on worker $10 0 replies 15h by erpajans",
-   "score": 1,
-   "notes": [
-    "数小时内",
-    "竞争低",
-    "⚠平台基建/已解"
-   ]
-  },
-  {
    "h": "/questions/runtime-v2-injecting-empty-variable-valu-4c0fb717",
    "t": "Runtime V2 injecting empty variable values into the deployment process $10 1 replies 4m by fantasycricketpros",
    "score": 1,
@@ -127,6 +125,16 @@
     "陈旧",
     "竞争低",
     "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/production-outage-outbound-tcp-443-to-a-5cb5860d",
+   "t": "Production outage: outbound TCP/443 to Allegro times out on web, works on worker $10 0 replies 1d by erpajans",
+   "score": 0,
+   "notes": [
+    "1天内",
+    "竞争低",
+    "⚠平台基建/已解"
    ]
   },
   {
@@ -145,15 +153,6 @@
    "notes": [
     "陈旧",
     "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/project-steadfast-education-5ceae60c",
-   "t": "Project: steadfast-education",
-   "score": -2,
-   "notes": [
-    "竞争低",
-    "⚠平台基建/已解"
    ]
   },
   {
