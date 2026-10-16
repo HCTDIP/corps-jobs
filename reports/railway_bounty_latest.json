@@ -1,10 +1,10 @@
 {
- "at": "2026-10-16T11:55:33.096125+00:00",
- "total": 30,
+ "at": "2026-10-16T16:58:04.420861+00:00",
+ "total": 29,
  "hot": [
   {
-   "h": "/questions/deployment-configuration-snapshot-and-re-cf5f73e3",
-   "t": "Deployment configuration snapshot and reconciliation after an ambiguous deploy response",
+   "h": "/questions/how-can-i-use-terminal-in-my-openclaw-de-b5b28bb6",
+   "t": "how can i use terminal in my openclaw deployment container",
    "score": 4,
    "notes": [
     "竞争低",
@@ -14,45 +14,45 @@
  ],
  "new": [
   {
-   "h": "/questions/does-postgresql-regenerate-password-affe-db9ee227",
-   "t": "Does PostgreSQL Regenerate Password affect PITR or Railway-managed backups?",
+   "h": "/questions/bot-deployment-failing-on-free-plan-86a46bd8",
+   "t": "Bot deployment failing on Free plan",
    "score": 2,
    "notes": [
     "竞争低"
    ]
   },
   {
-   "h": "/questions/railway-runs-arbitrary-commands-during-d-3a2f0b2b",
-   "t": "Something is running arbitrary commands during deployments",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/how-can-i-use-terminal-in-my-openclaw-de-b5b28bb6",
-   "t": "how can i use terminal in my openclaw deployment container $10 2 replies 8m by timsunzz",
-   "score": 1,
-   "notes": [
-    "陈旧",
-    "竞争低",
-    "提问·配置型"
-   ]
-  },
-  {
-   "h": "/questions/my-project-wasn-t-working-77107188",
-   "t": "My project wasn't working $10 1 replies 8m by anliben",
+   "h": "/questions/recurring-custom-domain-routing-failures-b76869ab",
+   "t": "Recurring custom domain routing failures with Cloudflare proxy - Request ID 016YyGc5T0CNez2ZozsQ6Q $20 1 replies 8m by yuno-code",
    "score": -1,
    "notes": [
     "陈旧",
     "竞争低"
    ]
+  },
+  {
+   "h": "/questions/deploying-37signals-writebook-as-a-comp-762bb8bb",
+   "t": "deploying 37signals' Writebook as a complete beginner $20 1 replies 8m by fherceg",
+   "score": -1,
+   "notes": [
+    "陈旧",
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/all-requests-to-python-service-502-with-3f1570ef",
+   "t": "All requests to python service 502 with no logs available $30 5 replies 8m by Anonymous",
+   "score": -4,
+   "notes": [
+    "陈旧",
+    "已5回复"
+   ]
   }
  ],
  "all": [
   {
-   "h": "/questions/deployment-configuration-snapshot-and-re-cf5f73e3",
-   "t": "Deployment configuration snapshot and reconciliation after an ambiguous deploy response",
+   "h": "/questions/how-can-i-use-terminal-in-my-openclaw-de-b5b28bb6",
+   "t": "how can i use terminal in my openclaw deployment container",
    "score": 4,
    "notes": [
     "竞争低",
@@ -60,8 +60,8 @@
    ]
   },
   {
-   "h": "/questions/does-postgresql-regenerate-password-affe-db9ee227",
-   "t": "Does PostgreSQL Regenerate Password affect PITR or Railway-managed backups?",
+   "h": "/questions/bot-deployment-failing-on-free-plan-86a46bd8",
+   "t": "Bot deployment failing on Free plan",
    "score": 2,
    "notes": [
     "竞争低"
@@ -70,6 +70,22 @@
   {
    "h": "/questions/railway-runs-arbitrary-commands-during-d-3a2f0b2b",
    "t": "Something is running arbitrary commands during deployments",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/does-postgresql-regenerate-password-affe-db9ee227",
+   "t": "Does PostgreSQL Regenerate Password affect PITR or Railway-managed backups?",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/problem-with-telegram-connection-3f73b600",
+   "t": "Problem with telegram connection",
    "score": 2,
    "notes": [
     "竞争低"
@@ -92,38 +108,6 @@
    ]
   },
   {
-   "h": "/questions/pleaseeee-help-restore-deleted-openc-a066982a",
-   "t": "Pleaseeee Help :-( Restore deleted openclaw instance database from ~1 hour ago",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/title-best-practice-for-migrating-an-ex-201d86e1",
-   "t": "Best Practice for Migrating an Existing SQLite Database to Persistent Storage on Railway",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/chromium-sandbox-support-for-non-root-pl-98165f30",
-   "t": "Chromium sandbox support for non-root Playwright workers on Railway",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/production-mysql-error-1045-access-den-ac1d3eef",
-   "t": "Production MySQL ERROR 1045 - Access denied",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
    "h": "/questions/runtime-v2-injecting-empty-variable-valu-4c0fb717",
    "t": "Runtime V2 injecting empty variable values into the deployment process $10 1 replies 4m by fantasycricketpros",
    "score": 1,
@@ -131,25 +115,6 @@
     "陈旧",
     "竞争低",
     "提问·配置型"
-   ]
-  },
-  {
-   "h": "/questions/how-can-i-use-terminal-in-my-openclaw-de-b5b28bb6",
-   "t": "how can i use terminal in my openclaw deployment container $10 2 replies 8m by timsunzz",
-   "score": 1,
-   "notes": [
-    "陈旧",
-    "竞争低",
-    "提问·配置型"
-   ]
-  },
-  {
-   "h": "/questions/problem-with-telegram-connection-3f73b600",
-   "t": "Problem with telegram connection $10 0 replies 8m by javagames77-dotcom",
-   "score": -1,
-   "notes": [
-    "陈旧",
-    "竞争低"
    ]
   },
   {
@@ -168,6 +133,33 @@
    "notes": [
     "陈旧",
     "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/recurring-custom-domain-routing-failures-b76869ab",
+   "t": "Recurring custom domain routing failures with Cloudflare proxy - Request ID 016YyGc5T0CNez2ZozsQ6Q $20 1 replies 8m by yuno-code",
+   "score": -1,
+   "notes": [
+    "陈旧",
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/deploying-37signals-writebook-as-a-comp-762bb8bb",
+   "t": "deploying 37signals' Writebook as a complete beginner $20 1 replies 8m by fherceg",
+   "score": -1,
+   "notes": [
+    "陈旧",
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/n8n-self-hosted-stopeed-working-2dbedbe7",
+   "t": "n8n self-hosted stopeed working",
+   "score": -2,
+   "notes": [
+    "竞争低",
+    "⚠平台基建/已解"
    ]
   },
   {
@@ -202,6 +194,15 @@
   {
    "h": "/questions/old-vite-bundle-will-not-update-fb90594e",
    "t": "Old Vite Bundle will not update $10 5 replies 8m by mammawrites",
+   "score": -4,
+   "notes": [
+    "陈旧",
+    "已5回复"
+   ]
+  },
+  {
+   "h": "/questions/all-requests-to-python-service-502-with-3f1570ef",
+   "t": "All requests to python service 502 with no logs available $30 5 replies 8m by Anonymous",
    "score": -4,
    "notes": [
     "陈旧",
@@ -271,16 +272,6 @@
   {
    "h": "/questions/sudden-dns-issue-0f13d660",
    "t": "Sudden DNS issue on production system $20 2 replies 8m by upd",
-   "score": -5,
-   "notes": [
-    "陈旧",
-    "竞争低",
-    "⚠平台基建/已解"
-   ]
-  },
-  {
-   "h": "/questions/n8n-self-hosted-stopeed-working-2dbedbe7",
-   "t": "n8n self-hosted stopeed working $10 1 replies 8m by transformatiive",
    "score": -5,
    "notes": [
     "陈旧",
