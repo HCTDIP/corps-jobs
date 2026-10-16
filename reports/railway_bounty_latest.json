@@ -1,7 +1,16 @@
 {
- "at": "2026-10-16T16:58:04.420861+00:00",
+ "at": "2026-10-16T21:44:02.681658+00:00",
  "total": 29,
  "hot": [
+  {
+   "h": "/questions/permissions-3ea15080",
+   "t": "Permissions",
+   "score": 4,
+   "notes": [
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
   {
    "h": "/questions/how-can-i-use-terminal-in-my-openclaw-de-b5b28bb6",
    "t": "how can i use terminal in my openclaw deployment container",
@@ -14,42 +23,25 @@
  ],
  "new": [
   {
-   "h": "/questions/bot-deployment-failing-on-free-plan-86a46bd8",
-   "t": "Bot deployment failing on Free plan",
-   "score": 2,
+   "h": "/questions/permissions-3ea15080",
+   "t": "Permissions",
+   "score": 4,
    "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/recurring-custom-domain-routing-failures-b76869ab",
-   "t": "Recurring custom domain routing failures with Cloudflare proxy - Request ID 016YyGc5T0CNez2ZozsQ6Q $20 1 replies 8m by yuno-code",
-   "score": -1,
-   "notes": [
-    "陈旧",
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/deploying-37signals-writebook-as-a-comp-762bb8bb",
-   "t": "deploying 37signals' Writebook as a complete beginner $20 1 replies 8m by fherceg",
-   "score": -1,
-   "notes": [
-    "陈旧",
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/all-requests-to-python-service-502-with-3f1570ef",
-   "t": "All requests to python service 502 with no logs available $30 5 replies 8m by Anonymous",
-   "score": -4,
-   "notes": [
-    "陈旧",
-    "已5回复"
+    "竞争低",
+    "提问·配置型"
    ]
   }
  ],
  "all": [
+  {
+   "h": "/questions/permissions-3ea15080",
+   "t": "Permissions",
+   "score": 4,
+   "notes": [
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
   {
    "h": "/questions/how-can-i-use-terminal-in-my-openclaw-de-b5b28bb6",
    "t": "how can i use terminal in my openclaw deployment container",
@@ -94,14 +86,6 @@
   {
    "h": "/questions/request-specific-http-2-response-interru-bc0e50c2",
    "t": "Request-specific HTTP/2 response interruption in private QA",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/thev4ult-502-container-provisioning-fa-878f0114",
-   "t": "THEV4ULT 502 — Container Provisioning Failure",
    "score": 2,
    "notes": [
     "竞争低"
