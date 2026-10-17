@@ -1,7 +1,16 @@
 {
- "at": "2026-10-17T15:57:06.491367+00:00",
- "total": 29,
+ "at": "2026-10-17T20:59:15.959993+00:00",
+ "total": 28,
  "hot": [
+  {
+   "h": "/questions/public-domain-returns-404-while-containe-44366a76",
+   "t": "Public domain returns 404 while container returns 401 internally – anyone experienced this? $10 0 replies 4h by v7nc35",
+   "score": 5,
+   "notes": [
+    "数小时内",
+    "竞争低"
+   ]
+  },
   {
    "h": "/questions/deployment-fails-immediately-after-succe-348f484b",
    "t": "Deployment fails immediately after successful build and image export $10 2 replies 1d by countbackpilot-glitch",
@@ -23,15 +32,6 @@
   {
    "h": "/questions/is-there-a-way-to-connect-railway-to-a-c-bbdcf294",
    "t": "is there a way to connect railway to a custom domain without @",
-   "score": 4,
-   "notes": [
-    "竞争低",
-    "提问·配置型"
-   ]
-  },
-  {
-   "h": "/questions/permissions-3ea15080",
-   "t": "Permissions",
    "score": 4,
    "notes": [
     "竞争低",
@@ -41,24 +41,25 @@
  ],
  "new": [
   {
-   "h": "/questions/couldn-t-connect-to-mysql-check-that-th-12fd3872",
-   "t": "Couldn't connect to MySQL. Check that the service is running, then try again.",
+   "h": "/questions/public-domain-returns-404-while-containe-44366a76",
+   "t": "Public domain returns 404 while container returns 401 internally – anyone experienced this? $10 0 replies 4h by v7nc35",
+   "score": 5,
+   "notes": [
+    "数小时内",
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/can-t-import-simple-sql-dump-via-phpmyad-0e904a74",
+   "t": "Can't import simple sql dump via phpmyadmin",
    "score": 2,
    "notes": [
     "竞争低"
    ]
   },
   {
-   "h": "/questions/production-mysql-error-1045-access-den-ac1d3eef",
-   "t": "Production MySQL ERROR 1045 - Access denied",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/deployment-crashing-due-to-next-start-5b078052",
-   "t": "Deployment Crashing Due to \"next start\" with output: export in Next.js 14",
+   "h": "/questions/enable-performance-schema-on-railway-man-84c4738d",
+   "t": "Enable performance_schema on Railway managed MySQL",
    "score": 2,
    "notes": [
     "竞争低"
@@ -66,6 +67,15 @@
   }
  ],
  "all": [
+  {
+   "h": "/questions/public-domain-returns-404-while-containe-44366a76",
+   "t": "Public domain returns 404 while container returns 401 internally – anyone experienced this? $10 0 replies 4h by v7nc35",
+   "score": 5,
+   "notes": [
+    "数小时内",
+    "竞争低"
+   ]
+  },
   {
    "h": "/questions/deployment-fails-immediately-after-succe-348f484b",
    "t": "Deployment fails immediately after successful build and image export $10 2 replies 1d by countbackpilot-glitch",
@@ -94,12 +104,19 @@
    ]
   },
   {
-   "h": "/questions/permissions-3ea15080",
-   "t": "Permissions",
-   "score": 4,
+   "h": "/questions/can-t-import-simple-sql-dump-via-phpmyad-0e904a74",
+   "t": "Can't import simple sql dump via phpmyadmin",
+   "score": 2,
    "notes": [
-    "竞争低",
-    "提问·配置型"
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/enable-performance-schema-on-railway-man-84c4738d",
+   "t": "Enable performance_schema on Railway managed MySQL",
+   "score": 2,
+   "notes": [
+    "竞争低"
    ]
   },
   {
@@ -129,14 +146,6 @@
   {
    "h": "/questions/bot-deployment-failing-on-free-plan-86a46bd8",
    "t": "Bot deployment failing on Free plan",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/railway-runs-arbitrary-commands-during-d-3a2f0b2b",
-   "t": "Something is running arbitrary commands during deployments",
    "score": 2,
    "notes": [
     "竞争低"
@@ -180,15 +189,6 @@
    ]
   },
   {
-   "h": "/questions/n8n-self-hosted-stopeed-working-2dbedbe7",
-   "t": "n8n self-hosted stopeed working",
-   "score": -2,
-   "notes": [
-    "竞争低",
-    "⚠平台基建/已解"
-   ]
-  },
-  {
    "h": "/questions/request-for-csr-certificate-signing-req-6c07d2db",
    "t": "Request for CSR (Certificate Signing Request) for Custom SSL Setup $10 1 replies 7m by mythoslabsinc",
    "score": -3,
@@ -211,15 +211,6 @@
   {
    "h": "/questions/old-vite-bundle-will-not-update-fb90594e",
    "t": "Old Vite Bundle will not update $10 5 replies 8m by mammawrites",
-   "score": -4,
-   "notes": [
-    "陈旧",
-    "已5回复"
-   ]
-  },
-  {
-   "h": "/questions/all-requests-to-python-service-502-with-3f1570ef",
-   "t": "All requests to python service 502 with no logs available $30 5 replies 8m by Anonymous",
    "score": -4,
    "notes": [
     "陈旧",
