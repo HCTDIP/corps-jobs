@@ -1,10 +1,10 @@
 {
- "at": "2026-10-17T20:59:15.959993+00:00",
+ "at": "2026-10-17T23:26:08.923813+00:00",
  "total": 28,
  "hot": [
   {
    "h": "/questions/public-domain-returns-404-while-containe-44366a76",
-   "t": "Public domain returns 404 while container returns 401 internally – anyone experienced this? $10 0 replies 4h by v7nc35",
+   "t": "Public domain returns 404 while container returns 401 internally – anyone experienced this? $10 0 replies 6h by v7nc35",
    "score": 5,
    "notes": [
     "数小时内",
@@ -13,10 +13,10 @@
   },
   {
    "h": "/questions/deployment-fails-immediately-after-succe-348f484b",
-   "t": "Deployment fails immediately after successful build and image export $10 2 replies 1d by countbackpilot-glitch",
+   "t": "Deployment fails immediately after successful build and image export $10 2 replies 2d by countbackpilot-glitch",
    "score": 4,
    "notes": [
-    "1天内",
+    "2天内",
     "竞争低"
    ]
   },
@@ -39,37 +39,11 @@
    ]
   }
  ],
- "new": [
-  {
-   "h": "/questions/public-domain-returns-404-while-containe-44366a76",
-   "t": "Public domain returns 404 while container returns 401 internally – anyone experienced this? $10 0 replies 4h by v7nc35",
-   "score": 5,
-   "notes": [
-    "数小时内",
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/can-t-import-simple-sql-dump-via-phpmyad-0e904a74",
-   "t": "Can't import simple sql dump via phpmyadmin",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/enable-performance-schema-on-railway-man-84c4738d",
-   "t": "Enable performance_schema on Railway managed MySQL",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  }
- ],
+ "new": [],
  "all": [
   {
    "h": "/questions/public-domain-returns-404-while-containe-44366a76",
-   "t": "Public domain returns 404 while container returns 401 internally – anyone experienced this? $10 0 replies 4h by v7nc35",
+   "t": "Public domain returns 404 while container returns 401 internally – anyone experienced this? $10 0 replies 6h by v7nc35",
    "score": 5,
    "notes": [
     "数小时内",
@@ -78,10 +52,10 @@
   },
   {
    "h": "/questions/deployment-fails-immediately-after-succe-348f484b",
-   "t": "Deployment fails immediately after successful build and image export $10 2 replies 1d by countbackpilot-glitch",
+   "t": "Deployment fails immediately after successful build and image export $10 2 replies 2d by countbackpilot-glitch",
    "score": 4,
    "notes": [
-    "1天内",
+    "2天内",
     "竞争低"
    ]
   },
