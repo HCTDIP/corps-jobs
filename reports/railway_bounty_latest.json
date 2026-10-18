@@ -1,10 +1,10 @@
 {
- "at": "2026-10-18T11:43:46.917963+00:00",
+ "at": "2026-10-18T16:08:47.175766+00:00",
  "total": 29,
  "hot": [
   {
    "h": "/questions/southeast-asia-egress-ips-152-55-188-0-5c5acecd",
-   "t": "Southeast Asia egress IPs (152.55.188.0/22) geolocate to San Francisco, US -> Binance 451 / Bybit 403 $10 0 replies 7h by jeftewan",
+   "t": "Southeast Asia egress IPs (152.55.188.0/22) geolocate to San Francisco, US -> Binance 451 / Bybit 403 $10 0 replies 11h by jeftewan",
    "score": 5,
    "notes": [
     "数小时内",
@@ -23,36 +23,18 @@
  ],
  "new": [
   {
-   "h": "/questions/public-domain-returns-404-application-r-5e847a3f",
-   "t": "Public domain returns 404, application returns 200",
+   "h": "/questions/backup-retention-pitr-window-and-two-c-4cf10292",
+   "t": "Backup retention, PITR window, and two compliance questions — project 8613fb22-005a-43b6-b2db-b9563494260b",
    "score": 2,
    "notes": [
     "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/recurring-custom-domain-routing-failures-b76869ab",
-   "t": "Recurring custom domain routing failures with Cloudflare proxy - Request ID 016YyGc5T0CNez2ZozsQ6Q $20 1 replies 8m by yuno-code",
-   "score": -1,
-   "notes": [
-    "陈旧",
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/assistance-n8n-deployment-crashed-da-e7710f50",
-   "t": "assistance — n8n deployment crashed / data preservation",
-   "score": -2,
-   "notes": [
-    "竞争低",
-    "⚠平台基建/已解"
    ]
   }
  ],
  "all": [
   {
    "h": "/questions/southeast-asia-egress-ips-152-55-188-0-5c5acecd",
-   "t": "Southeast Asia egress IPs (152.55.188.0/22) geolocate to San Francisco, US -> Binance 451 / Bybit 403 $10 0 replies 7h by jeftewan",
+   "t": "Southeast Asia egress IPs (152.55.188.0/22) geolocate to San Francisco, US -> Binance 451 / Bybit 403 $10 0 replies 11h by jeftewan",
    "score": 5,
    "notes": [
     "数小时内",
@@ -69,6 +51,22 @@
    ]
   },
   {
+   "h": "/questions/backup-retention-pitr-window-and-two-c-4cf10292",
+   "t": "Backup retention, PITR window, and two compliance questions — project 8613fb22-005a-43b6-b2db-b9563494260b",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/public-domain-returns-404-application-r-5e847a3f",
+   "t": "Public domain returns 404, application returns 200",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
    "h": "/questions/production-console-connected-but-keyboar-f5580fad",
    "t": "Production Console connected but keyboard input not working — PostgreSQL backup blocked",
    "score": 2,
@@ -79,14 +77,6 @@
   {
    "h": "/questions/my-railway-service-hermes-agent-is-crash-961af748",
    "t": "My Railway service hermes-agent is crashing during startup.",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/public-domain-returns-404-application-r-5e847a3f",
-   "t": "Public domain returns 404, application returns 200",
    "score": 2,
    "notes": [
     "竞争低"
@@ -119,14 +109,6 @@
   {
    "h": "/questions/couldn-t-connect-to-mysql-check-that-th-12fd3872",
    "t": "Couldn't connect to MySQL. Check that the service is running, then try again.",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/production-mysql-error-1045-access-den-ac1d3eef",
-   "t": "Production MySQL ERROR 1045 - Access denied",
    "score": 2,
    "notes": [
     "竞争低"
