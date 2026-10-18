@@ -1,10 +1,10 @@
 {
- "at": "2026-10-18T16:08:47.175766+00:00",
+ "at": "2026-10-18T21:03:04.377574+00:00",
  "total": 29,
  "hot": [
   {
    "h": "/questions/southeast-asia-egress-ips-152-55-188-0-5c5acecd",
-   "t": "Southeast Asia egress IPs (152.55.188.0/22) geolocate to San Francisco, US -> Binance 451 / Bybit 403 $10 0 replies 11h by jeftewan",
+   "t": "Southeast Asia egress IPs (152.55.188.0/22) geolocate to San Francisco, US -> Binance 451 / Bybit 403 $10 0 replies 16h by jeftewan",
    "score": 5,
    "notes": [
     "数小时内",
@@ -12,29 +12,82 @@
    ]
   },
   {
-   "h": "/questions/deployment-fails-immediately-after-succe-348f484b",
-   "t": "Deployment fails immediately after successful build and image export $10 2 replies 2d by countbackpilot-glitch",
+   "h": "/questions/railpack-how-to-use-a-per-service-confi-b87c4c0e",
+   "t": "Railpack: how to use a per-service config file path (nixpacksConfigPath ignored)",
    "score": 4,
    "notes": [
-    "2天内",
-    "竞争低"
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/http-403-verifying-a-project-scoped-api-07ce7dd1",
+   "t": "HTTP 403 verifying a project-scoped API token",
+   "score": 4,
+   "notes": [
+    "竞争低",
+    "提问·配置型"
    ]
   }
  ],
  "new": [
   {
-   "h": "/questions/backup-retention-pitr-window-and-two-c-4cf10292",
-   "t": "Backup retention, PITR window, and two compliance questions — project 8613fb22-005a-43b6-b2db-b9563494260b",
+   "h": "/questions/railpack-how-to-use-a-per-service-confi-b87c4c0e",
+   "t": "Railpack: how to use a per-service config file path (nixpacksConfigPath ignored)",
+   "score": 4,
+   "notes": [
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/http-403-verifying-a-project-scoped-api-07ce7dd1",
+   "t": "HTTP 403 verifying a project-scoped API token",
+   "score": 4,
+   "notes": [
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/backup-location-52972516",
+   "t": "Backup location",
    "score": 2,
    "notes": [
     "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/request-specific-http-2-response-interru-bc0e50c2",
+   "t": "Request-specific HTTP/2 response interruption in private QA",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/production-outage-outbound-tcp-443-to-a-5cb5860d",
+   "t": "Production outage: outbound TCP/443 to Allegro times out on web, works on worker",
+   "score": -2,
+   "notes": [
+    "竞争低",
+    "⚠平台基建/已解"
+   ]
+  },
+  {
+   "h": "/questions/all-requests-to-python-service-502-with-3f1570ef",
+   "t": "All requests to python service 502 with no logs available $30 5 replies 8m by Anonymous",
+   "score": -4,
+   "notes": [
+    "陈旧",
+    "已5回复"
    ]
   }
  ],
  "all": [
   {
    "h": "/questions/southeast-asia-egress-ips-152-55-188-0-5c5acecd",
-   "t": "Southeast Asia egress IPs (152.55.188.0/22) geolocate to San Francisco, US -> Binance 451 / Bybit 403 $10 0 replies 11h by jeftewan",
+   "t": "Southeast Asia egress IPs (152.55.188.0/22) geolocate to San Francisco, US -> Binance 451 / Bybit 403 $10 0 replies 16h by jeftewan",
    "score": 5,
    "notes": [
     "数小时内",
@@ -42,33 +95,34 @@
    ]
   },
   {
-   "h": "/questions/deployment-fails-immediately-after-succe-348f484b",
-   "t": "Deployment fails immediately after successful build and image export $10 2 replies 2d by countbackpilot-glitch",
+   "h": "/questions/railpack-how-to-use-a-per-service-confi-b87c4c0e",
+   "t": "Railpack: how to use a per-service config file path (nixpacksConfigPath ignored)",
    "score": 4,
    "notes": [
-    "2天内",
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/http-403-verifying-a-project-scoped-api-07ce7dd1",
+   "t": "HTTP 403 verifying a project-scoped API token",
+   "score": 4,
+   "notes": [
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/backup-location-52972516",
+   "t": "Backup location",
+   "score": 2,
+   "notes": [
     "竞争低"
    ]
   },
   {
    "h": "/questions/backup-retention-pitr-window-and-two-c-4cf10292",
    "t": "Backup retention, PITR window, and two compliance questions — project 8613fb22-005a-43b6-b2db-b9563494260b",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/public-domain-returns-404-application-r-5e847a3f",
-   "t": "Public domain returns 404, application returns 200",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/production-console-connected-but-keyboar-f5580fad",
-   "t": "Production Console connected but keyboard input not working — PostgreSQL backup blocked",
    "score": 2,
    "notes": [
     "竞争低"
@@ -83,32 +137,24 @@
    ]
   },
   {
+   "h": "/questions/request-specific-http-2-response-interru-bc0e50c2",
+   "t": "Request-specific HTTP/2 response interruption in private QA",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/deployment-fails-immediately-after-succe-348f484b",
+   "t": "Deployment fails immediately after successful build and image export",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
    "h": "/questions/public-domain-returns-404-while-containe-44366a76",
    "t": "Public domain returns 404 while container returns 401 internally – anyone experienced this?",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/can-t-import-simple-sql-dump-via-phpmyad-0e904a74",
-   "t": "Can't import simple sql dump via phpmyadmin",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/enable-performance-schema-on-railway-man-84c4738d",
-   "t": "Enable performance_schema on Railway managed MySQL",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/couldn-t-connect-to-mysql-check-that-th-12fd3872",
-   "t": "Couldn't connect to MySQL. Check that the service is running, then try again.",
    "score": 2,
    "notes": [
     "竞争低"
@@ -152,8 +198,8 @@
    ]
   },
   {
-   "h": "/questions/assistance-n8n-deployment-crashed-da-e7710f50",
-   "t": "assistance — n8n deployment crashed / data preservation",
+   "h": "/questions/production-outage-outbound-tcp-443-to-a-5cb5860d",
+   "t": "Production outage: outbound TCP/443 to Allegro times out on web, works on worker",
    "score": -2,
    "notes": [
     "竞争低",
@@ -183,6 +229,15 @@
   {
    "h": "/questions/old-vite-bundle-will-not-update-fb90594e",
    "t": "Old Vite Bundle will not update $10 5 replies 8m by mammawrites",
+   "score": -4,
+   "notes": [
+    "陈旧",
+    "已5回复"
+   ]
+  },
+  {
+   "h": "/questions/all-requests-to-python-service-502-with-3f1570ef",
+   "t": "All requests to python service 502 with no logs available $30 5 replies 8m by Anonymous",
    "score": -4,
    "notes": [
     "陈旧",
