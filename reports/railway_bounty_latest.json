@@ -1,16 +1,7 @@
 {
- "at": "2026-10-18T21:03:04.377574+00:00",
+ "at": "2026-10-18T23:40:46.168104+00:00",
  "total": 29,
  "hot": [
-  {
-   "h": "/questions/southeast-asia-egress-ips-152-55-188-0-5c5acecd",
-   "t": "Southeast Asia egress IPs (152.55.188.0/22) geolocate to San Francisco, US -> Binance 451 / Bybit 403 $10 0 replies 16h by jeftewan",
-   "score": 5,
-   "notes": [
-    "数小时内",
-    "竞争低"
-   ]
-  },
   {
    "h": "/questions/railpack-how-to-use-a-per-service-confi-b87c4c0e",
    "t": "Railpack: how to use a per-service config file path (nixpacksConfigPath ignored)",
@@ -32,69 +23,17 @@
  ],
  "new": [
   {
-   "h": "/questions/railpack-how-to-use-a-per-service-confi-b87c4c0e",
-   "t": "Railpack: how to use a per-service config file path (nixpacksConfigPath ignored)",
-   "score": 4,
-   "notes": [
-    "竞争低",
-    "提问·配置型"
-   ]
-  },
-  {
-   "h": "/questions/http-403-verifying-a-project-scoped-api-07ce7dd1",
-   "t": "HTTP 403 verifying a project-scoped API token",
-   "score": 4,
-   "notes": [
-    "竞争低",
-    "提问·配置型"
-   ]
-  },
-  {
-   "h": "/questions/backup-location-52972516",
-   "t": "Backup location",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/request-specific-http-2-response-interru-bc0e50c2",
-   "t": "Request-specific HTTP/2 response interruption in private QA",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/production-outage-outbound-tcp-443-to-a-5cb5860d",
-   "t": "Production outage: outbound TCP/443 to Allegro times out on web, works on worker",
-   "score": -2,
-   "notes": [
-    "竞争低",
-    "⚠平台基建/已解"
-   ]
-  },
-  {
-   "h": "/questions/all-requests-to-python-service-502-with-3f1570ef",
-   "t": "All requests to python service 502 with no logs available $30 5 replies 8m by Anonymous",
-   "score": -4,
+   "h": "/questions/deploying-37signals-writebook-as-a-comp-762bb8bb",
+   "t": "deploying 37signals' Writebook as a complete beginner $20 1 replies 9m by fherceg",
+   "score": -1,
    "notes": [
     "陈旧",
-    "已5回复"
+    "竞争低"
    ]
   }
  ],
  "all": [
   {
-   "h": "/questions/southeast-asia-egress-ips-152-55-188-0-5c5acecd",
-   "t": "Southeast Asia egress IPs (152.55.188.0/22) geolocate to San Francisco, US -> Binance 451 / Bybit 403 $10 0 replies 16h by jeftewan",
-   "score": 5,
-   "notes": [
-    "数小时内",
-    "竞争低"
-   ]
-  },
-  {
    "h": "/questions/railpack-how-to-use-a-per-service-confi-b87c4c0e",
    "t": "Railpack: how to use a per-service config file path (nixpacksConfigPath ignored)",
    "score": 4,
@@ -110,6 +49,22 @@
    "notes": [
     "竞争低",
     "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/southeast-asia-egress-ips-152-55-188-0-5c5acecd",
+   "t": "Southeast Asia egress IPs (152.55.188.0/22) geolocate to San Francisco, US -> Binance 451 / Bybit 403",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/my-railway-service-hermes-agent-is-crash-961af748",
+   "t": "My Railway service hermes-agent is crashing during startup.",
+   "score": 2,
+   "notes": [
+    "竞争低"
    ]
   },
   {
@@ -129,14 +84,6 @@
    ]
   },
   {
-   "h": "/questions/my-railway-service-hermes-agent-is-crash-961af748",
-   "t": "My Railway service hermes-agent is crashing during startup.",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
    "h": "/questions/request-specific-http-2-response-interru-bc0e50c2",
    "t": "Request-specific HTTP/2 response interruption in private QA",
    "score": 2,
@@ -147,14 +94,6 @@
   {
    "h": "/questions/deployment-fails-immediately-after-succe-348f484b",
    "t": "Deployment fails immediately after successful build and image export",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/public-domain-returns-404-while-containe-44366a76",
-   "t": "Public domain returns 404 while container returns 401 internally – anyone experienced this?",
    "score": 2,
    "notes": [
     "竞争低"
@@ -191,6 +130,15 @@
   {
    "h": "/questions/recurring-custom-domain-routing-failures-b76869ab",
    "t": "Recurring custom domain routing failures with Cloudflare proxy - Request ID 016YyGc5T0CNez2ZozsQ6Q $20 1 replies 8m by yuno-code",
+   "score": -1,
+   "notes": [
+    "陈旧",
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/deploying-37signals-writebook-as-a-comp-762bb8bb",
+   "t": "deploying 37signals' Writebook as a complete beginner $20 1 replies 9m by fherceg",
    "score": -1,
    "notes": [
     "陈旧",
