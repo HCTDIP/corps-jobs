@@ -1,5 +1,5 @@
 {
- "at": "2026-10-18T23:40:46.168104+00:00",
+ "at": "2026-10-19T05:20:40.508065+00:00",
  "total": 29,
  "hot": [
   {
@@ -21,17 +21,7 @@
    ]
   }
  ],
- "new": [
-  {
-   "h": "/questions/deploying-37signals-writebook-as-a-comp-762bb8bb",
-   "t": "deploying 37signals' Writebook as a complete beginner $20 1 replies 9m by fherceg",
-   "score": -1,
-   "notes": [
-    "陈旧",
-    "竞争低"
-   ]
-  }
- ],
+ "new": [],
  "all": [
   {
    "h": "/questions/railpack-how-to-use-a-per-service-confi-b87c4c0e",
@@ -49,6 +39,14 @@
    "notes": [
     "竞争低",
     "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/deployment-fails-immediately-after-succe-348f484b",
+   "t": "Deployment fails immediately after successful build and image export",
+   "score": 2,
+   "notes": [
+    "竞争低"
    ]
   },
   {
@@ -92,14 +90,6 @@
    ]
   },
   {
-   "h": "/questions/deployment-fails-immediately-after-succe-348f484b",
-   "t": "Deployment fails immediately after successful build and image export",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
    "h": "/questions/runtime-v2-injecting-empty-variable-valu-4c0fb717",
    "t": "Runtime V2 injecting empty variable values into the deployment process $10 1 replies 4m by fantasycricketpros",
    "score": 1,
@@ -129,7 +119,7 @@
   },
   {
    "h": "/questions/recurring-custom-domain-routing-failures-b76869ab",
-   "t": "Recurring custom domain routing failures with Cloudflare proxy - Request ID 016YyGc5T0CNez2ZozsQ6Q $20 1 replies 8m by yuno-code",
+   "t": "Recurring custom domain routing failures with Cloudflare proxy - Request ID 016YyGc5T0CNez2ZozsQ6Q $20 1 replies 9m by yuno-code",
    "score": -1,
    "notes": [
     "陈旧",
