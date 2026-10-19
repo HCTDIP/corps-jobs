@@ -1,5 +1,5 @@
 {
- "at": "2026-10-19T05:20:40.508065+00:00",
+ "at": "2026-10-19T13:58:07.279330+00:00",
  "total": 29,
  "hot": [
   {
@@ -42,6 +42,14 @@
    ]
   },
   {
+   "h": "/questions/my-railway-service-hermes-agent-is-crash-961af748",
+   "t": "My Railway service hermes-agent is crashing during startup.",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
    "h": "/questions/deployment-fails-immediately-after-succe-348f484b",
    "t": "Deployment fails immediately after successful build and image export",
    "score": 2,
@@ -52,14 +60,6 @@
   {
    "h": "/questions/southeast-asia-egress-ips-152-55-188-0-5c5acecd",
    "t": "Southeast Asia egress IPs (152.55.188.0/22) geolocate to San Francisco, US -> Binance 451 / Bybit 403",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/my-railway-service-hermes-agent-is-crash-961af748",
-   "t": "My Railway service hermes-agent is crashing during startup.",
    "score": 2,
    "notes": [
     "竞争低"
@@ -110,7 +110,7 @@
   },
   {
    "h": "/questions/my-project-wasn-t-working-77107188",
-   "t": "My project wasn't working $10 1 replies 8m by anliben",
+   "t": "My project wasn't working $10 1 replies 9m by anliben",
    "score": -1,
    "notes": [
     "陈旧",
@@ -175,7 +175,7 @@
   },
   {
    "h": "/questions/all-requests-to-python-service-502-with-3f1570ef",
-   "t": "All requests to python service 502 with no logs available $30 5 replies 8m by Anonymous",
+   "t": "All requests to python service 502 with no logs available $30 5 replies 9m by Anonymous",
    "score": -4,
    "notes": [
     "陈旧",
@@ -274,7 +274,7 @@
   },
   {
    "h": "/questions/point-in-time-recovery-backup-restore-08522372",
-   "t": "Point-in-time recovery / backup restore for a Postgres service — recover rows deleted from sessions / session_events $20 6 replies 4m by mcampolongo-rg",
+   "t": "Point-in-time recovery / backup restore for a Postgres service — recover rows deleted from sessions / session_events $20 6 replies 5m by mcampolongo-rg",
    "score": -8,
    "notes": [
     "陈旧",
