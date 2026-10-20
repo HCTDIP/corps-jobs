@@ -1,6 +1,6 @@
 {
- "at": "2026-10-20T05:19:10.120988+00:00",
- "total": 29,
+ "at": "2026-10-20T12:13:09.754349+00:00",
+ "total": 30,
  "hot": [
   {
    "h": "/questions/discord-api-returns-http-429-cloudflar-e409365e",
@@ -12,7 +12,36 @@
    ]
   }
  ],
- "new": [],
+ "new": [
+  {
+   "h": "/questions/can-t-import-simple-sql-dump-via-phpmyad-0e904a74",
+   "t": "Can't import simple sql dump via phpmyadmin",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/sealed-variables-show-up-in-logs-671e9d12",
+   "t": "Sealed variables show up in logs $10 2 replies 9m by gunni",
+   "score": 1,
+   "notes": [
+    "陈旧",
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/n8n-workflow-stopped-updating-605cc477",
+   "t": "N8N workflow stopped updating $10 1 replies 9m by carolinevfxsup",
+   "score": -5,
+   "notes": [
+    "陈旧",
+    "竞争低",
+    "⚠平台基建/已解"
+   ]
+  }
+ ],
  "all": [
   {
    "h": "/questions/discord-api-returns-http-429-cloudflar-e409365e",
@@ -24,8 +53,8 @@
    ]
   },
   {
-   "h": "/questions/backup-retention-pitr-window-and-two-c-4cf10292",
-   "t": "Backup retention, PITR window, and two compliance questions — project 8613fb22-005a-43b6-b2db-b9563494260b",
+   "h": "/questions/can-t-import-simple-sql-dump-via-phpmyad-0e904a74",
+   "t": "Can't import simple sql dump via phpmyadmin",
    "score": 2,
    "notes": [
     "竞争低"
@@ -34,6 +63,14 @@
   {
    "h": "/questions/my-railway-service-hermes-agent-is-crash-961af748",
    "t": "My Railway service hermes-agent is crashing during startup.",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/backup-retention-pitr-window-and-two-c-4cf10292",
+   "t": "Backup retention, PITR window, and two compliance questions — project 8613fb22-005a-43b6-b2db-b9563494260b",
    "score": 2,
    "notes": [
     "竞争低"
@@ -64,16 +101,18 @@
    ]
   },
   {
-   "h": "/questions/request-specific-http-2-response-interru-bc0e50c2",
-   "t": "Request-specific HTTP/2 response interruption in private QA",
-   "score": 2,
+   "h": "/questions/runtime-v2-injecting-empty-variable-valu-4c0fb717",
+   "t": "Runtime V2 injecting empty variable values into the deployment process $10 1 replies 4m by fantasycricketpros",
+   "score": 1,
    "notes": [
-    "竞争低"
+    "陈旧",
+    "竞争低",
+    "提问·配置型"
    ]
   },
   {
-   "h": "/questions/runtime-v2-injecting-empty-variable-valu-4c0fb717",
-   "t": "Runtime V2 injecting empty variable values into the deployment process $10 1 replies 4m by fantasycricketpros",
+   "h": "/questions/sealed-variables-show-up-in-logs-671e9d12",
+   "t": "Sealed variables show up in logs $10 2 replies 9m by gunni",
    "score": 1,
    "notes": [
     "陈旧",
@@ -118,6 +157,15 @@
    ]
   },
   {
+   "h": "/questions/per-request-ingress-metadata-required-fo-c2c61b5a",
+   "t": "Per-request ingress metadata required for HMRC fraud-prevention headers",
+   "score": -2,
+   "notes": [
+    "竞争低",
+    "⚠平台基建/已解"
+   ]
+  },
+  {
    "h": "/questions/mongo-db-8-0-fails-to-start-on-kernel-6-1-95346827",
    "t": "MongoDB 8.0 fails to start on kernel 6.19+ (europe-west4-drams3a region)",
    "score": -2,
@@ -127,8 +175,8 @@
    ]
   },
   {
-   "h": "/questions/production-outage-outbound-tcp-443-to-a-5cb5860d",
-   "t": "Production outage: outbound TCP/443 to Allegro times out on web, works on worker",
+   "h": "/questions/production-impact-anycast-edge-misrout-f6aaed54",
+   "t": "Anycast edge misrouting from Hetzner AS24940 — every DB query +180ms",
    "score": -2,
    "notes": [
     "竞争低",
@@ -171,26 +219,6 @@
    "notes": [
     "陈旧",
     "已5回复"
-   ]
-  },
-  {
-   "h": "/questions/production-impact-anycast-edge-misrout-f6aaed54",
-   "t": "Anycast edge misrouting from Hetzner AS24940 — every DB query +180ms $20 2 replies 2m by yigittekelioglu",
-   "score": -5,
-   "notes": [
-    "陈旧",
-    "竞争低",
-    "⚠平台基建/已解"
-   ]
-  },
-  {
-   "h": "/questions/per-request-ingress-metadata-required-fo-c2c61b5a",
-   "t": "Per-request ingress metadata required for HMRC fraud-prevention headers $20 2 replies 3m by raullomelino",
-   "score": -5,
-   "notes": [
-    "陈旧",
-    "竞争低",
-    "⚠平台基建/已解"
    ]
   },
   {
@@ -256,6 +284,16 @@
   {
    "h": "/questions/arangodb-container-doesn-t-deploy-0b07f784",
    "t": "Arangodb container doesn't deploy $10 1 replies 8m by fjblau",
+   "score": -5,
+   "notes": [
+    "陈旧",
+    "竞争低",
+    "⚠平台基建/已解"
+   ]
+  },
+  {
+   "h": "/questions/n8n-workflow-stopped-updating-605cc477",
+   "t": "N8N workflow stopped updating $10 1 replies 9m by carolinevfxsup",
    "score": -5,
    "notes": [
     "陈旧",
