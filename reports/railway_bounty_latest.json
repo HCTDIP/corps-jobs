@@ -1,7 +1,16 @@
 {
- "at": "2026-10-20T17:32:19.524739+00:00",
+ "at": "2026-10-20T21:53:22.056417+00:00",
  "total": 30,
  "hot": [
+  {
+   "h": "/questions/sealed-variables-show-up-in-logs-671e9d12",
+   "t": "Sealed variables show up in logs",
+   "score": 4,
+   "notes": [
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
   {
    "h": "/questions/discord-api-returns-http-429-cloudflar-e409365e",
    "t": "Discord API returns HTTP 429 / Cloudflare 1015 for bot in Southeast Asia",
@@ -12,8 +21,27 @@
    ]
   }
  ],
- "new": [],
+ "new": [
+  {
+   "h": "/questions/all-apps-on-500-0c21c018",
+   "t": "All apps on 500 $20 1 replies 9m by bgolconcie",
+   "score": -1,
+   "notes": [
+    "陈旧",
+    "竞争低"
+   ]
+  }
+ ],
  "all": [
+  {
+   "h": "/questions/sealed-variables-show-up-in-logs-671e9d12",
+   "t": "Sealed variables show up in logs",
+   "score": 4,
+   "notes": [
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
   {
    "h": "/questions/discord-api-returns-http-429-cloudflar-e409365e",
    "t": "Discord API returns HTTP 429 / Cloudflare 1015 for bot in Southeast Asia",
@@ -64,14 +92,6 @@
    ]
   },
   {
-   "h": "/questions/backup-location-52972516",
-   "t": "Backup location",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
    "h": "/questions/runtime-v2-injecting-empty-variable-valu-4c0fb717",
    "t": "Runtime V2 injecting empty variable values into the deployment process $10 1 replies 4m by fantasycricketpros",
    "score": 1,
@@ -82,18 +102,8 @@
    ]
   },
   {
-   "h": "/questions/sealed-variables-show-up-in-logs-671e9d12",
-   "t": "Sealed variables show up in logs $10 2 replies 9m by gunni",
-   "score": 1,
-   "notes": [
-    "陈旧",
-    "竞争低",
-    "提问·配置型"
-   ]
-  },
-  {
    "h": "/questions/selective-connectivity-issue-dns-resolu-3612b603",
-   "t": "Selective Connectivity Issue: DNS Resolution/Routing Failure for specific Static IPs on priori-staging.up.railway.app $10 1 replies 8m by admin-renaissa",
+   "t": "Selective Connectivity Issue: DNS Resolution/Routing Failure for specific Static IPs on priori-staging.up.railway.app $10 1 replies 9m by admin-renaissa",
    "score": -1,
    "notes": [
     "陈旧",
@@ -121,6 +131,15 @@
   {
    "h": "/questions/deploying-37signals-writebook-as-a-comp-762bb8bb",
    "t": "deploying 37signals' Writebook as a complete beginner $20 1 replies 9m by fherceg",
+   "score": -1,
+   "notes": [
+    "陈旧",
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/all-apps-on-500-0c21c018",
+   "t": "All apps on 500 $20 1 replies 9m by bgolconcie",
    "score": -1,
    "notes": [
     "陈旧",
