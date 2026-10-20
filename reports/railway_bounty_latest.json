@@ -1,5 +1,5 @@
 {
- "at": "2026-10-20T12:13:09.754349+00:00",
+ "at": "2026-10-20T17:32:19.524739+00:00",
  "total": 30,
  "hot": [
   {
@@ -12,36 +12,7 @@
    ]
   }
  ],
- "new": [
-  {
-   "h": "/questions/can-t-import-simple-sql-dump-via-phpmyad-0e904a74",
-   "t": "Can't import simple sql dump via phpmyadmin",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/sealed-variables-show-up-in-logs-671e9d12",
-   "t": "Sealed variables show up in logs $10 2 replies 9m by gunni",
-   "score": 1,
-   "notes": [
-    "陈旧",
-    "竞争低",
-    "提问·配置型"
-   ]
-  },
-  {
-   "h": "/questions/n8n-workflow-stopped-updating-605cc477",
-   "t": "N8N workflow stopped updating $10 1 replies 9m by carolinevfxsup",
-   "score": -5,
-   "notes": [
-    "陈旧",
-    "竞争低",
-    "⚠平台基建/已解"
-   ]
-  }
- ],
+ "new": [],
  "all": [
   {
    "h": "/questions/discord-api-returns-http-429-cloudflar-e409365e",
@@ -205,7 +176,7 @@
   },
   {
    "h": "/questions/old-vite-bundle-will-not-update-fb90594e",
-   "t": "Old Vite Bundle will not update $10 5 replies 8m by mammawrites",
+   "t": "Old Vite Bundle will not update $10 5 replies 9m by mammawrites",
    "score": -4,
    "notes": [
     "陈旧",
