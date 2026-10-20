@@ -1,5 +1,5 @@
 {
- "at": "2026-10-19T20:43:31.263218+00:00",
+ "at": "2026-10-20T00:40:19.884806+00:00",
  "total": 29,
  "hot": [
   {
@@ -12,26 +12,7 @@
    ]
   }
  ],
- "new": [
-  {
-   "h": "/questions/discord-api-returns-http-429-cloudflar-e409365e",
-   "t": "Discord API returns HTTP 429 / Cloudflare 1015 for bot in Southeast Asia",
-   "score": 4,
-   "notes": [
-    "竞争低",
-    "提问·配置型"
-   ]
-  },
-  {
-   "h": "/questions/mongo-db-8-0-fails-to-start-on-kernel-6-1-95346827",
-   "t": "MongoDB 8.0 fails to start on kernel 6.19+ (europe-west4-drams3a region)",
-   "score": -2,
-   "notes": [
-    "竞争低",
-    "⚠平台基建/已解"
-   ]
-  }
- ],
+ "new": [],
  "all": [
   {
    "h": "/questions/discord-api-returns-http-429-cloudflar-e409365e",
@@ -224,7 +205,7 @@
   },
   {
    "h": "/questions/high-latency-on-singapore-region-impacti-3d6221a3",
-   "t": "High Latency on Singapore Region Impacting Business Operations $20 1 replies 4m by chaudharyali14",
+   "t": "High Latency on Singapore Region Impacting Business Operations $20 1 replies 5m by chaudharyali14",
    "score": -5,
    "notes": [
     "陈旧",
