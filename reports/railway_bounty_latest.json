@@ -1,5 +1,5 @@
 {
- "at": "2026-10-20T21:53:22.056417+00:00",
+ "at": "2026-10-21T05:19:37.144529+00:00",
  "total": 30,
  "hot": [
   {
@@ -23,11 +23,26 @@
  ],
  "new": [
   {
-   "h": "/questions/all-apps-on-500-0c21c018",
-   "t": "All apps on 500 $20 1 replies 9m by bgolconcie",
-   "score": -1,
+   "h": "/questions/production-pilot-backup-retirement-and-84e8e36d",
+   "t": "Production pilot: backup retirement and empty private scanner service",
+   "score": 2,
    "notes": [
-    "陈旧",
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/websocket-connection-limit-per-replica-713af0aa",
+   "t": "WebSocket connection limit per replica, 502 at ~6, 000",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/infrastructure-error-lavalink-and-pyth-a7821020",
+   "t": "Infrastructure Error – Lavalink and Python bot builds failing without logs",
+   "score": 2,
+   "notes": [
     "竞争低"
    ]
   }
@@ -52,6 +67,30 @@
    ]
   },
   {
+   "h": "/questions/production-pilot-backup-retirement-and-84e8e36d",
+   "t": "Production pilot: backup retirement and empty private scanner service",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/websocket-connection-limit-per-replica-713af0aa",
+   "t": "WebSocket connection limit per replica, 502 at ~6, 000",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/infrastructure-error-lavalink-and-pyth-a7821020",
+   "t": "Infrastructure Error – Lavalink and Python bot builds failing without logs",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
    "h": "/questions/can-t-import-simple-sql-dump-via-phpmyad-0e904a74",
    "t": "Can't import simple sql dump via phpmyadmin",
    "score": 2,
@@ -70,22 +109,6 @@
   {
    "h": "/questions/backup-retention-pitr-window-and-two-c-4cf10292",
    "t": "Backup retention, PITR window, and two compliance questions — project 8613fb22-005a-43b6-b2db-b9563494260b",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/deployment-fails-immediately-after-succe-348f484b",
-   "t": "Deployment fails immediately after successful build and image export",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/southeast-asia-egress-ips-152-55-188-0-5c5acecd",
-   "t": "Southeast Asia egress IPs (152.55.188.0/22) geolocate to San Francisco, US -> Binance 451 / Bybit 403",
    "score": 2,
    "notes": [
     "竞争低"
@@ -158,15 +181,6 @@
   {
    "h": "/questions/mongo-db-8-0-fails-to-start-on-kernel-6-1-95346827",
    "t": "MongoDB 8.0 fails to start on kernel 6.19+ (europe-west4-drams3a region)",
-   "score": -2,
-   "notes": [
-    "竞争低",
-    "⚠平台基建/已解"
-   ]
-  },
-  {
-   "h": "/questions/production-impact-anycast-edge-misrout-f6aaed54",
-   "t": "Anycast edge misrouting from Hetzner AS24940 — every DB query +180ms",
    "score": -2,
    "notes": [
     "竞争低",
@@ -273,7 +287,7 @@
   },
   {
    "h": "/questions/arangodb-container-doesn-t-deploy-0b07f784",
-   "t": "Arangodb container doesn't deploy $10 1 replies 8m by fjblau",
+   "t": "Arangodb container doesn't deploy $10 1 replies 9m by fjblau",
    "score": -5,
    "notes": [
     "陈旧",
