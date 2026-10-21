@@ -1,7 +1,16 @@
 {
- "at": "2026-10-21T17:11:30.875413Z",
+ "at": "2026-10-21T21:42:21.961139Z",
  "count": 24,
- "new": [],
+ "new": [
+  {
+   "src": "sherlock-bounty",
+   "status": "live",
+   "title": "Aero",
+   "updated": "Oct 21, 2026",
+   "amount": "$500,000",
+   "url": "https://audits.sherlock.xyz/bug-bounties"
+  }
+ ],
  "all": [
   {
    "src": "code4rena",
@@ -80,6 +89,14 @@
    "title": "SYMMIO",
    "updated": "Oct 30, 2024",
    "amount": "$808,808",
+   "url": "https://audits.sherlock.xyz/bug-bounties"
+  },
+  {
+   "src": "sherlock-bounty",
+   "status": "live",
+   "title": "Aero",
+   "updated": "Oct 21, 2026",
+   "amount": "$500,000",
    "url": "https://audits.sherlock.xyz/bug-bounties"
   },
   {
@@ -175,14 +192,6 @@
    "status": "live",
    "title": "Puffer",
    "updated": "Aug 17, 2026",
-   "amount": "$100,000",
-   "url": "https://audits.sherlock.xyz/bug-bounties"
-  },
-  {
-   "src": "sherlock-bounty",
-   "status": "live",
-   "title": "USX",
-   "updated": "May 3, 2026",
    "amount": "$100,000",
    "url": "https://audits.sherlock.xyz/bug-bounties"
   },
