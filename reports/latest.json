@@ -1,20 +1,17 @@
 {
-  "at": "2026-10-22T16:21Z",
-  "runs": 100,
+  "at": "2026-10-22T21:01Z",
+  "runs": 101,
   "open_total": 13,
-  "new_count": 1,
-  "new_items": [
-    "$500    [  1 提交] [无地区限制] Show us how you use MozaikPay"
-  ],
+  "new_count": 0,
+  "new_items": [],
   "global_candidates": [
-    "$500    [  1 提交] [无地区限制] Show us how you use MozaikPay",
     "$500    [  1 提交] 2026-11-12 | Show us how you use MozaikPay",
-    "$5000   [ 11 提交] 2026-12-14 | MultiHopper Build & Route Challenge | Up to $50,000",
     "$500    [ 13 提交] 2026-11-12 | Panta x NectarFi Trading Competition Bounty",
-    "$620    [ 37 提交] 2026-10-23 | Launch & Trade on Daejin: Write a Twitter Thread and",
-    "$40000  [ 81 提交] 2026-10-31 | Vaultline Security Audit Grants for Colosseum Projec",
-    "$500    [107 提交] 2026-11-24 | Create Content on Premier League Predictions with wo",
-    "$500    [261 提交] 2026-11-14 | Write a thread on $CHIMP Fair Launch - Part 1"
+    "$5000   [ 15 提交] 2026-12-14 | MultiHopper Build & Route Challenge | Up to $50,000",
+    "$620    [ 38 提交] 2026-10-23 | Launch & Trade on Daejin: Write a Twitter Thread and",
+    "$40000  [ 83 提交] 2026-10-31 | Vaultline Security Audit Grants for Colosseum Projec",
+    "$500    [111 提交] 2026-11-24 | Create Content on Premier League Predictions with wo",
+    "$500    [262 提交] 2026-11-14 | Write a thread on $CHIMP Fair Launch - Part 1"
   ],
   "repo": "https://github.com/HCTDIP/corps-jobs"
 }
