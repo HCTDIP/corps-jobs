@@ -1,16 +1,7 @@
 {
- "at": "2026-10-21T21:42:21.961139Z",
+ "at": "2026-10-22T04:43:59.683313Z",
  "count": 24,
- "new": [
-  {
-   "src": "sherlock-bounty",
-   "status": "live",
-   "title": "Aero",
-   "updated": "Oct 21, 2026",
-   "amount": "$500,000",
-   "url": "https://audits.sherlock.xyz/bug-bounties"
-  }
- ],
+ "new": [],
  "all": [
   {
    "src": "code4rena",
