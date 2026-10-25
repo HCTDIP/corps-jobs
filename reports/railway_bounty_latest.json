@@ -1,5 +1,5 @@
 {
- "at": "2026-10-25T05:19:29.879654+00:00",
+ "at": "2026-10-25T12:00:23.004939+00:00",
  "total": 29,
  "hot": [
   {
@@ -12,7 +12,26 @@
    ]
   }
  ],
- "new": [],
+ "new": [
+  {
+   "h": "/questions/can-t-see-my-postgresql-database-in-dash-9c04693e",
+   "t": "Can't see my postgresql database in dashboard $10 0 replies 9m by 1776m",
+   "score": -1,
+   "notes": [
+    "陈旧",
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/n8n-repeatedly-crashes-after-rotation-of-7001dcc5",
+   "t": "n8n repeatedly crashes after rotation of Postgres password",
+   "score": -2,
+   "notes": [
+    "竞争低",
+    "⚠平台基建/已解"
+   ]
+  }
+ ],
  "all": [
   {
    "h": "/questions/runtime-v2-injecting-empty-variable-valu-4c0fb717",
@@ -58,14 +77,6 @@
   {
    "h": "/questions/production-pilot-backup-retirement-and-84e8e36d",
    "t": "Production pilot: backup retirement and empty private scanner service",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/websocket-connection-limit-per-replica-713af0aa",
-   "t": "WebSocket connection limit per replica, 502 at ~6, 000",
    "score": 2,
    "notes": [
     "竞争低"
@@ -133,6 +144,24 @@
    "notes": [
     "陈旧",
     "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/can-t-see-my-postgresql-database-in-dash-9c04693e",
+   "t": "Can't see my postgresql database in dashboard $10 0 replies 9m by 1776m",
+   "score": -1,
+   "notes": [
+    "陈旧",
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/n8n-repeatedly-crashes-after-rotation-of-7001dcc5",
+   "t": "n8n repeatedly crashes after rotation of Postgres password",
+   "score": -2,
+   "notes": [
+    "竞争低",
+    "⚠平台基建/已解"
    ]
   },
   {
@@ -268,16 +297,6 @@
    "notes": [
     "陈旧",
     "已6回复",
-    "⚠平台基建/已解"
-   ]
-  },
-  {
-   "h": "/questions/mongo-db-connection-failed-since-12-feb-855f3581",
-   "t": "MongoDB connection failed since 12 Feb. $10 4 replies 8m by jingle",
-   "score": -8,
-   "notes": [
-    "陈旧",
-    "已4回复",
     "⚠平台基建/已解"
    ]
   }
