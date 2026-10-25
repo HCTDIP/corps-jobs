@@ -1,7 +1,16 @@
 {
- "at": "2026-10-25T21:15:00.012560+00:00",
+ "at": "2026-10-25T23:33:26.517991+00:00",
  "total": 30,
  "hot": [
+  {
+   "h": "/questions/worker-only-cli-scale-with-unrelated-sta-90671c2b",
+   "t": "Worker-only CLI scale with unrelated staged changes",
+   "score": 4,
+   "notes": [
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
   {
    "h": "/questions/runtime-v2-injecting-empty-variable-valu-4c0fb717",
    "t": "Runtime V2 injecting empty variable values into the deployment process",
@@ -14,17 +23,25 @@
  ],
  "new": [
   {
-   "h": "/questions/dns-resolution-failure-for-external-ap-is-fb440c4d",
-   "t": "DNS Resolution Failure for External APIs $10 0 replies 9m by aidexlabs",
-   "score": 1,
+   "h": "/questions/cookie-header-being-stripped-from-respon-f26934ee",
+   "t": "Cookie header being stripped from response $10 0 replies 9m by benwainwright",
+   "score": -1,
    "notes": [
     "陈旧",
-    "竞争低",
-    "提问·配置型"
+    "竞争低"
    ]
   }
  ],
  "all": [
+  {
+   "h": "/questions/worker-only-cli-scale-with-unrelated-sta-90671c2b",
+   "t": "Worker-only CLI scale with unrelated staged changes",
+   "score": 4,
+   "notes": [
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
   {
    "h": "/questions/runtime-v2-injecting-empty-variable-valu-4c0fb717",
    "t": "Runtime V2 injecting empty variable values into the deployment process",
@@ -35,16 +52,16 @@
    ]
   },
   {
-   "h": "/questions/shifttracker-backend-recurring-europe-w-6cda607d",
-   "t": "shifttracker-backend: recurring europe-west4-drams3a edge issue, possible regression of 2026-06-09 fix",
+   "h": "/questions/edge-intermittently-refuses-tcp-connecti-3f20ab51",
+   "t": "Edge intermittently refuses TCP connections (~12%) — affects both custom domain and *.up.railway.app",
    "score": 2,
    "notes": [
     "竞争低"
    ]
   },
   {
-   "h": "/questions/edge-intermittently-refuses-tcp-connecti-3f20ab51",
-   "t": "Edge intermittently refuses TCP connections (~12%) — affects both custom domain and *.up.railway.app",
+   "h": "/questions/shifttracker-backend-recurring-europe-w-6cda607d",
+   "t": "shifttracker-backend: recurring europe-west4-drams3a edge issue, possible regression of 2026-06-09 fix",
    "score": 2,
    "notes": [
     "竞争低"
@@ -72,24 +89,6 @@
    "score": 2,
    "notes": [
     "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/repeated-failures-deploying-68813aa1",
-   "t": "repeated failures deploying",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/worker-only-cli-scale-with-unrelated-sta-90671c2b",
-   "t": "Worker-only CLI scale with unrelated staged changes $10 0 replies 5d by stollenbold",
-   "score": 1,
-   "notes": [
-    "陈旧",
-    "竞争低",
-    "提问·配置型"
    ]
   },
   {
@@ -166,8 +165,17 @@
    ]
   },
   {
-   "h": "/questions/n8n-repeatedly-crashes-after-rotation-of-7001dcc5",
-   "t": "n8n repeatedly crashes after rotation of Postgres password",
+   "h": "/questions/cookie-header-being-stripped-from-respon-f26934ee",
+   "t": "Cookie header being stripped from response $10 0 replies 9m by benwainwright",
+   "score": -1,
+   "notes": [
+    "陈旧",
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/high-latency-on-singapore-region-impacti-3d6221a3",
+   "t": "High Latency on Singapore Region Impacting Business Operations",
    "score": -2,
    "notes": [
     "竞争低",
@@ -175,8 +183,8 @@
    ]
   },
   {
-   "h": "/questions/high-latency-on-singapore-region-impacti-3d6221a3",
-   "t": "High Latency on Singapore Region Impacting Business Operations",
+   "h": "/questions/n8n-repeatedly-crashes-after-rotation-of-7001dcc5",
+   "t": "n8n repeatedly crashes after rotation of Postgres password",
    "score": -2,
    "notes": [
     "竞争低",
