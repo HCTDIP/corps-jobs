@@ -1,6 +1,6 @@
 {
- "at": "2026-10-25T12:00:23.004939+00:00",
- "total": 29,
+ "at": "2026-10-25T16:49:51.389438+00:00",
+ "total": 30,
  "hot": [
   {
    "h": "/questions/runtime-v2-injecting-empty-variable-valu-4c0fb717",
@@ -14,21 +14,19 @@
  ],
  "new": [
   {
-   "h": "/questions/can-t-see-my-postgresql-database-in-dash-9c04693e",
-   "t": "Can't see my postgresql database in dashboard $10 0 replies 9m by 1776m",
-   "score": -1,
+   "h": "/questions/shifttracker-backend-recurring-europe-w-6cda607d",
+   "t": "shifttracker-backend: recurring europe-west4-drams3a edge issue, possible regression of 2026-06-09 fix",
+   "score": 2,
    "notes": [
-    "陈旧",
     "竞争低"
    ]
   },
   {
-   "h": "/questions/n8n-repeatedly-crashes-after-rotation-of-7001dcc5",
-   "t": "n8n repeatedly crashes after rotation of Postgres password",
-   "score": -2,
+   "h": "/questions/edge-intermittently-refuses-tcp-connecti-3f20ab51",
+   "t": "Edge intermittently refuses TCP connections (~12%) — affects both custom domain and *.up.railway.app",
+   "score": 2,
    "notes": [
-    "竞争低",
-    "⚠平台基建/已解"
+    "竞争低"
    ]
   }
  ],
@@ -40,6 +38,22 @@
    "notes": [
     "竞争低",
     "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/shifttracker-backend-recurring-europe-w-6cda607d",
+   "t": "shifttracker-backend: recurring europe-west4-drams3a edge issue, possible regression of 2026-06-09 fix",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/edge-intermittently-refuses-tcp-connecti-3f20ab51",
+   "t": "Edge intermittently refuses TCP connections (~12%) — affects both custom domain and *.up.railway.app",
+   "score": 2,
+   "notes": [
+    "竞争低"
    ]
   },
   {
@@ -69,14 +83,6 @@
   {
    "h": "/questions/repeated-failures-deploying-68813aa1",
    "t": "repeated failures deploying",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/production-pilot-backup-retirement-and-84e8e36d",
-   "t": "Production pilot: backup retirement and empty private scanner service",
    "score": 2,
    "notes": [
     "竞争低"
