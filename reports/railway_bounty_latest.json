@@ -1,5 +1,5 @@
 {
- "at": "2026-10-25T16:49:51.389438+00:00",
+ "at": "2026-10-25T21:15:00.012560+00:00",
  "total": 30,
  "hot": [
   {
@@ -14,19 +14,13 @@
  ],
  "new": [
   {
-   "h": "/questions/shifttracker-backend-recurring-europe-w-6cda607d",
-   "t": "shifttracker-backend: recurring europe-west4-drams3a edge issue, possible regression of 2026-06-09 fix",
-   "score": 2,
+   "h": "/questions/dns-resolution-failure-for-external-ap-is-fb440c4d",
+   "t": "DNS Resolution Failure for External APIs $10 0 replies 9m by aidexlabs",
+   "score": 1,
    "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/edge-intermittently-refuses-tcp-connecti-3f20ab51",
-   "t": "Edge intermittently refuses TCP connections (~12%) — affects both custom domain and *.up.railway.app",
-   "score": 2,
-   "notes": [
-    "竞争低"
+    "陈旧",
+    "竞争低",
+    "提问·配置型"
    ]
   }
  ],
@@ -90,7 +84,17 @@
   },
   {
    "h": "/questions/worker-only-cli-scale-with-unrelated-sta-90671c2b",
-   "t": "Worker-only CLI scale with unrelated staged changes $10 0 replies 4d by stollenbold",
+   "t": "Worker-only CLI scale with unrelated staged changes $10 0 replies 5d by stollenbold",
+   "score": 1,
+   "notes": [
+    "陈旧",
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/dns-resolution-failure-for-external-ap-is-fb440c4d",
+   "t": "DNS Resolution Failure for External APIs $10 0 replies 9m by aidexlabs",
    "score": 1,
    "notes": [
     "陈旧",
@@ -171,8 +175,8 @@
    ]
   },
   {
-   "h": "/questions/production-outage-severe-disk-i-o-degr-daacb0c4",
-   "t": "Production outage — severe disk I/O degradation on Postgres volume (DB up but unusable)",
+   "h": "/questions/high-latency-on-singapore-region-impacti-3d6221a3",
+   "t": "High Latency on Singapore Region Impacting Business Operations",
    "score": -2,
    "notes": [
     "竞争低",
@@ -180,8 +184,8 @@
    ]
   },
   {
-   "h": "/questions/project-steadfast-education-5ceae60c",
-   "t": "Project: steadfast-education",
+   "h": "/questions/production-outage-severe-disk-i-o-degr-daacb0c4",
+   "t": "Production outage — severe disk I/O degradation on Postgres volume (DB up but unusable)",
    "score": -2,
    "notes": [
     "竞争低",
@@ -224,16 +228,6 @@
    "notes": [
     "陈旧",
     "已5回复"
-   ]
-  },
-  {
-   "h": "/questions/high-latency-on-singapore-region-impacti-3d6221a3",
-   "t": "High Latency on Singapore Region Impacting Business Operations $20 1 replies 5m by chaudharyali14",
-   "score": -5,
-   "notes": [
-    "陈旧",
-    "竞争低",
-    "⚠平台基建/已解"
    ]
   },
   {
