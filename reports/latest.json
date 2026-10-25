@@ -1,7 +1,7 @@
 {
-  "at": "2026-10-24T20:00Z",
-  "runs": 109,
-  "open_total": 12,
+  "at": "2026-10-25T02:29Z",
+  "runs": 110,
+  "open_total": 11,
   "new_count": 0,
   "new_items": [],
   "global_candidates": [
@@ -9,8 +9,8 @@
     "$500    [ 15 提交] 2026-11-12 | Panta x NectarFi Trading Competition Bounty",
     "$5000   [ 25 提交] 2026-12-14 | MultiHopper Build & Route Challenge | Up to $50,000",
     "$40000  [ 88 提交] 2026-10-31 | Vaultline Security Audit Grants for Colosseum Projec",
-    "$500    [129 提交] 2026-11-24 | Create Content on Premier League Predictions with wo",
-    "$500    [296 提交] 2026-11-14 | Write a thread on $CHIMP Fair Launch - Part 1"
+    "$500    [131 提交] 2026-11-24 | Create Content on Premier League Predictions with wo",
+    "$500    [301 提交] 2026-11-14 | Write a thread on $CHIMP Fair Launch - Part 1"
   ],
   "repo": "https://github.com/HCTDIP/corps-jobs"
 }
