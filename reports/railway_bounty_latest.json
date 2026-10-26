@@ -1,10 +1,10 @@
 {
- "at": "2026-10-26T13:35:48.852740+00:00",
+ "at": "2026-10-26T20:45:50.995852+00:00",
  "total": 29,
  "hot": [
   {
-   "h": "/questions/worker-only-cli-scale-with-unrelated-sta-90671c2b",
-   "t": "Worker-only CLI scale with unrelated staged changes",
+   "h": "/questions/cloud-pdf-reads-fail-after-bucket-creden-619d46a4",
+   "t": "Cloud PDF reads fail after bucket credential change; SSH host-key verification needed",
    "score": 4,
    "notes": [
     "竞争低",
@@ -12,8 +12,17 @@
    ]
   },
   {
-   "h": "/questions/runtime-v2-injecting-empty-variable-valu-4c0fb717",
-   "t": "Runtime V2 injecting empty variable values into the deployment process",
+   "h": "/questions/ios-clients-lose-the-connection-right-af-b891c87e",
+   "t": "iOS clients lose the connection right after upload; backend completes every request (edge lax1, since Oct 20)",
+   "score": 4,
+   "notes": [
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/worker-only-cli-scale-with-unrelated-sta-90671c2b",
+   "t": "Worker-only CLI scale with unrelated staged changes",
    "score": 4,
    "notes": [
     "竞争低",
@@ -23,18 +32,8 @@
  ],
  "new": [
   {
-   "h": "/questions/websocket-connection-limit-per-replica-713af0aa",
-   "t": "WebSocket connection limit per replica, 502 at ~6, 000",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  }
- ],
- "all": [
-  {
-   "h": "/questions/worker-only-cli-scale-with-unrelated-sta-90671c2b",
-   "t": "Worker-only CLI scale with unrelated staged changes",
+   "h": "/questions/cloud-pdf-reads-fail-after-bucket-creden-619d46a4",
+   "t": "Cloud PDF reads fail after bucket credential change; SSH host-key verification needed",
    "score": 4,
    "notes": [
     "竞争低",
@@ -42,8 +41,37 @@
    ]
   },
   {
-   "h": "/questions/runtime-v2-injecting-empty-variable-valu-4c0fb717",
-   "t": "Runtime V2 injecting empty variable values into the deployment process",
+   "h": "/questions/ios-clients-lose-the-connection-right-af-b891c87e",
+   "t": "iOS clients lose the connection right after upload; backend completes every request (edge lax1, since Oct 20)",
+   "score": 4,
+   "notes": [
+    "竞争低",
+    "提问·配置型"
+   ]
+  }
+ ],
+ "all": [
+  {
+   "h": "/questions/cloud-pdf-reads-fail-after-bucket-creden-619d46a4",
+   "t": "Cloud PDF reads fail after bucket credential change; SSH host-key verification needed",
+   "score": 4,
+   "notes": [
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/ios-clients-lose-the-connection-right-af-b891c87e",
+   "t": "iOS clients lose the connection right after upload; backend completes every request (edge lax1, since Oct 20)",
+   "score": 4,
+   "notes": [
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/worker-only-cli-scale-with-unrelated-sta-90671c2b",
+   "t": "Worker-only CLI scale with unrelated staged changes",
    "score": 4,
    "notes": [
     "竞争低",
@@ -176,15 +204,6 @@
   {
    "h": "/questions/n8n-repeatedly-crashes-after-rotation-of-7001dcc5",
    "t": "n8n repeatedly crashes after rotation of Postgres password",
-   "score": -2,
-   "notes": [
-    "竞争低",
-    "⚠平台基建/已解"
-   ]
-  },
-  {
-   "h": "/questions/production-outage-severe-disk-i-o-degr-daacb0c4",
-   "t": "Production outage — severe disk I/O degradation on Postgres volume (DB up but unusable)",
    "score": -2,
    "notes": [
     "竞争低",

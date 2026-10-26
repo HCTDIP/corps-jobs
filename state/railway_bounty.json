@@ -1,7 +1,8 @@
 {
  "slugs": [
+  "/questions/cloud-pdf-reads-fail-after-bucket-creden-619d46a4",
+  "/questions/ios-clients-lose-the-connection-right-af-b891c87e",
   "/questions/worker-only-cli-scale-with-unrelated-sta-90671c2b",
-  "/questions/runtime-v2-injecting-empty-variable-valu-4c0fb717",
   "/questions/websocket-connection-limit-per-replica-713af0aa",
   "/questions/edge-intermittently-refuses-tcp-connecti-3f20ab51",
   "/questions/shifttracker-backend-recurring-europe-w-6cda607d",
@@ -17,7 +18,6 @@
   "/questions/cookie-header-being-stripped-from-respon-f26934ee",
   "/questions/high-latency-on-singapore-region-impacti-3d6221a3",
   "/questions/n8n-repeatedly-crashes-after-rotation-of-7001dcc5",
-  "/questions/production-outage-severe-disk-i-o-degr-daacb0c4",
   "/questions/request-for-csr-certificate-signing-req-6c07d2db",
   "/questions/this-deployment-is-temporarily-paused-b-ca412865",
   "/questions/old-vite-bundle-will-not-update-fb90594e",
