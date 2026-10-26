@@ -1,6 +1,6 @@
 {
- "at": "2026-10-25T23:33:26.517991+00:00",
- "total": 30,
+ "at": "2026-10-26T05:18:55.435437+00:00",
+ "total": 29,
  "hot": [
   {
    "h": "/questions/worker-only-cli-scale-with-unrelated-sta-90671c2b",
@@ -21,17 +21,7 @@
    ]
   }
  ],
- "new": [
-  {
-   "h": "/questions/cookie-header-being-stripped-from-respon-f26934ee",
-   "t": "Cookie header being stripped from response $10 0 replies 9m by benwainwright",
-   "score": -1,
-   "notes": [
-    "陈旧",
-    "竞争低"
-   ]
-  }
- ],
+ "new": [],
  "all": [
   {
    "h": "/questions/worker-only-cli-scale-with-unrelated-sta-90671c2b",
@@ -78,14 +68,6 @@
   {
    "h": "/questions/digest-pinned-ghcr-image-empty-service-bbb54459",
    "t": "Digest-pinned GHCR image: empty-service setup and deployment triggers",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/public-domain-returns-404-application-r-5e847a3f",
-   "t": "Public domain returns 404, application returns 200",
    "score": 2,
    "notes": [
     "竞争低"
