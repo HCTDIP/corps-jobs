@@ -1,5 +1,5 @@
 {
- "at": "2026-10-26T05:18:55.435437+00:00",
+ "at": "2026-10-26T13:35:48.852740+00:00",
  "total": 29,
  "hot": [
   {
@@ -21,7 +21,16 @@
    ]
   }
  ],
- "new": [],
+ "new": [
+  {
+   "h": "/questions/websocket-connection-limit-per-replica-713af0aa",
+   "t": "WebSocket connection limit per replica, 502 at ~6, 000",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  }
+ ],
  "all": [
   {
    "h": "/questions/worker-only-cli-scale-with-unrelated-sta-90671c2b",
@@ -39,6 +48,14 @@
    "notes": [
     "竞争低",
     "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/websocket-connection-limit-per-replica-713af0aa",
+   "t": "WebSocket connection limit per replica, 502 at ~6, 000",
+   "score": 2,
+   "notes": [
+    "竞争低"
    ]
   },
   {
@@ -60,14 +77,6 @@
   {
    "h": "/questions/streamlit-app-on-railway-hangs-unreachab-9bf962f7",
    "t": "Streamlit app on Railway hangs/unreachable periodically - only recovers after manual restart",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/digest-pinned-ghcr-image-empty-service-bbb54459",
-   "t": "Digest-pinned GHCR image: empty-service setup and deployment triggers",
    "score": 2,
    "notes": [
     "竞争低"
@@ -184,7 +193,7 @@
   },
   {
    "h": "/questions/request-for-csr-certificate-signing-req-6c07d2db",
-   "t": "Request for CSR (Certificate Signing Request) for Custom SSL Setup $10 1 replies 7m by mythoslabsinc",
+   "t": "Request for CSR (Certificate Signing Request) for Custom SSL Setup $10 1 replies 8m by mythoslabsinc",
    "score": -3,
    "notes": [
     "陈旧",
