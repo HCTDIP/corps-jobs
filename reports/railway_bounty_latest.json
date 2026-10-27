@@ -1,26 +1,8 @@
 {
- "at": "2026-10-27T09:21:12.875854+00:00",
+ "at": "2026-10-27T15:43:43.039022+00:00",
  "total": 29,
  "hot": [
   {
-   "h": "/questions/api-contract-public-variable-values-in-1051d3c9",
-   "t": "API contract: public variable values in environmentStageChanges patch(decryptVariables:false)",
-   "score": 4,
-   "notes": [
-    "竞争低",
-    "提问·配置型"
-   ]
-  },
-  {
-   "h": "/questions/ios-clients-lose-the-connection-right-af-b891c87e",
-   "t": "iOS clients lose the connection right after upload; backend completes every request (edge lax1, since Oct 20)",
-   "score": 4,
-   "notes": [
-    "竞争低",
-    "提问·配置型"
-   ]
-  },
-  {
    "h": "/questions/cloud-pdf-reads-fail-after-bucket-creden-619d46a4",
    "t": "Cloud PDF reads fail after bucket credential change; SSH host-key verification needed",
    "score": 4,
@@ -37,9 +19,7 @@
     "竞争低",
     "提问·配置型"
    ]
-  }
- ],
- "new": [
+  },
   {
    "h": "/questions/api-contract-public-variable-values-in-1051d3c9",
    "t": "API contract: public variable values in environmentStageChanges patch(decryptVariables:false)",
@@ -50,34 +30,18 @@
    ]
   },
   {
-   "h": "/questions/can-t-access-railway-reports-page-upda-d3eec248",
-   "t": "can't access railway - reports page updated while loading",
-   "score": 2,
+   "h": "/questions/ios-clients-lose-the-connection-right-af-b891c87e",
+   "t": "iOS clients lose the connection right after upload; backend completes every request (edge lax1, since Oct 20)",
+   "score": 4,
    "notes": [
-    "竞争低"
+    "竞争低",
+    "提问·配置型"
    ]
   }
  ],
+ "new": [],
  "all": [
   {
-   "h": "/questions/api-contract-public-variable-values-in-1051d3c9",
-   "t": "API contract: public variable values in environmentStageChanges patch(decryptVariables:false)",
-   "score": 4,
-   "notes": [
-    "竞争低",
-    "提问·配置型"
-   ]
-  },
-  {
-   "h": "/questions/ios-clients-lose-the-connection-right-af-b891c87e",
-   "t": "iOS clients lose the connection right after upload; backend completes every request (edge lax1, since Oct 20)",
-   "score": 4,
-   "notes": [
-    "竞争低",
-    "提问·配置型"
-   ]
-  },
-  {
    "h": "/questions/cloud-pdf-reads-fail-after-bucket-creden-619d46a4",
    "t": "Cloud PDF reads fail after bucket credential change; SSH host-key verification needed",
    "score": 4,
@@ -89,6 +53,24 @@
   {
    "h": "/questions/worker-only-cli-scale-with-unrelated-sta-90671c2b",
    "t": "Worker-only CLI scale with unrelated staged changes",
+   "score": 4,
+   "notes": [
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/api-contract-public-variable-values-in-1051d3c9",
+   "t": "API contract: public variable values in environmentStageChanges patch(decryptVariables:false)",
+   "score": 4,
+   "notes": [
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/ios-clients-lose-the-connection-right-af-b891c87e",
+   "t": "iOS clients lose the connection right after upload; backend completes every request (edge lax1, since Oct 20)",
    "score": 4,
    "notes": [
     "竞争低",
