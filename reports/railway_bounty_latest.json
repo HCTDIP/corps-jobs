@@ -1,7 +1,16 @@
 {
- "at": "2026-10-27T15:43:43.039022+00:00",
- "total": 29,
+ "at": "2026-10-27T20:15:33.740353+00:00",
+ "total": 27,
  "hot": [
+  {
+   "h": "/questions/reusing-a-private-image-and-verifying-it-710bfc12",
+   "t": "Reusing a private image and verifying its digest (Pro/Hobby) $10 1 replies 4h by Anonymous",
+   "score": 5,
+   "notes": [
+    "数小时内",
+    "竞争低"
+   ]
+  },
   {
    "h": "/questions/cloud-pdf-reads-fail-after-bucket-creden-619d46a4",
    "t": "Cloud PDF reads fail after bucket credential change; SSH host-key verification needed",
@@ -12,8 +21,8 @@
    ]
   },
   {
-   "h": "/questions/worker-only-cli-scale-with-unrelated-sta-90671c2b",
-   "t": "Worker-only CLI scale with unrelated staged changes",
+   "h": "/questions/api-contract-public-variable-values-in-1051d3c9",
+   "t": "API contract: public variable values in environmentStageChanges patch(decryptVariables:false)",
    "score": 4,
    "notes": [
     "竞争低",
@@ -21,8 +30,8 @@
    ]
   },
   {
-   "h": "/questions/api-contract-public-variable-values-in-1051d3c9",
-   "t": "API contract: public variable values in environmentStageChanges patch(decryptVariables:false)",
+   "h": "/questions/worker-only-cli-scale-with-unrelated-sta-90671c2b",
+   "t": "Worker-only CLI scale with unrelated staged changes",
    "score": 4,
    "notes": [
     "竞争低",
@@ -39,20 +48,38 @@
    ]
   }
  ],
- "new": [],
- "all": [
+ "new": [
   {
-   "h": "/questions/cloud-pdf-reads-fail-after-bucket-creden-619d46a4",
-   "t": "Cloud PDF reads fail after bucket credential change; SSH host-key verification needed",
-   "score": 4,
+   "h": "/questions/reusing-a-private-image-and-verifying-it-710bfc12",
+   "t": "Reusing a private image and verifying its digest (Pro/Hobby) $10 1 replies 4h by Anonymous",
+   "score": 5,
    "notes": [
-    "竞争低",
-    "提问·配置型"
+    "数小时内",
+    "竞争低"
    ]
   },
   {
-   "h": "/questions/worker-only-cli-scale-with-unrelated-sta-90671c2b",
-   "t": "Worker-only CLI scale with unrelated staged changes",
+   "h": "/questions/dashboard-console-authentication-depl-b09df406",
+   "t": "Dashboard Console — authentication, deployment targeting and command completion",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  }
+ ],
+ "all": [
+  {
+   "h": "/questions/reusing-a-private-image-and-verifying-it-710bfc12",
+   "t": "Reusing a private image and verifying its digest (Pro/Hobby) $10 1 replies 4h by Anonymous",
+   "score": 5,
+   "notes": [
+    "数小时内",
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/cloud-pdf-reads-fail-after-bucket-creden-619d46a4",
+   "t": "Cloud PDF reads fail after bucket credential change; SSH host-key verification needed",
    "score": 4,
    "notes": [
     "竞争低",
@@ -69,12 +96,29 @@
    ]
   },
   {
+   "h": "/questions/worker-only-cli-scale-with-unrelated-sta-90671c2b",
+   "t": "Worker-only CLI scale with unrelated staged changes",
+   "score": 4,
+   "notes": [
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
+  {
    "h": "/questions/ios-clients-lose-the-connection-right-af-b891c87e",
    "t": "iOS clients lose the connection right after upload; backend completes every request (edge lax1, since Oct 20)",
    "score": 4,
    "notes": [
     "竞争低",
     "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/dashboard-console-authentication-depl-b09df406",
+   "t": "Dashboard Console — authentication, deployment targeting and command completion",
+   "score": 2,
+   "notes": [
+    "竞争低"
    ]
   },
   {
@@ -88,14 +132,6 @@
   {
    "h": "/questions/websocket-connection-limit-per-replica-713af0aa",
    "t": "WebSocket connection limit per replica, 502 at ~6, 000",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/edge-intermittently-refuses-tcp-connecti-3f20ab51",
-   "t": "Edge intermittently refuses TCP connections (~12%) — affects both custom domain and *.up.railway.app",
    "score": 2,
    "notes": [
     "竞争低"
@@ -172,33 +208,6 @@
    "notes": [
     "陈旧",
     "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/cookie-header-being-stripped-from-respon-f26934ee",
-   "t": "Cookie header being stripped from response $10 0 replies 9m by benwainwright",
-   "score": -1,
-   "notes": [
-    "陈旧",
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/high-latency-on-singapore-region-impacti-3d6221a3",
-   "t": "High Latency on Singapore Region Impacting Business Operations",
-   "score": -2,
-   "notes": [
-    "竞争低",
-    "⚠平台基建/已解"
-   ]
-  },
-  {
-   "h": "/questions/n8n-repeatedly-crashes-after-rotation-of-7001dcc5",
-   "t": "n8n repeatedly crashes after rotation of Postgres password",
-   "score": -2,
-   "notes": [
-    "竞争低",
-    "⚠平台基建/已解"
    ]
   },
   {
