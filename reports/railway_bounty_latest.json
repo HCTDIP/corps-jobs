@@ -1,10 +1,10 @@
 {
- "at": "2026-10-27T00:51:28.497099+00:00",
+ "at": "2026-10-27T09:21:12.875854+00:00",
  "total": 29,
  "hot": [
   {
-   "h": "/questions/cloud-pdf-reads-fail-after-bucket-creden-619d46a4",
-   "t": "Cloud PDF reads fail after bucket credential change; SSH host-key verification needed",
+   "h": "/questions/api-contract-public-variable-values-in-1051d3c9",
+   "t": "API contract: public variable values in environmentStageChanges patch(decryptVariables:false)",
    "score": 4,
    "notes": [
     "竞争低",
@@ -14,6 +14,15 @@
   {
    "h": "/questions/ios-clients-lose-the-connection-right-af-b891c87e",
    "t": "iOS clients lose the connection right after upload; backend completes every request (edge lax1, since Oct 20)",
+   "score": 4,
+   "notes": [
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/cloud-pdf-reads-fail-after-bucket-creden-619d46a4",
+   "t": "Cloud PDF reads fail after bucket credential change; SSH host-key verification needed",
    "score": 4,
    "notes": [
     "竞争低",
@@ -30,11 +39,29 @@
    ]
   }
  ],
- "new": [],
+ "new": [
+  {
+   "h": "/questions/api-contract-public-variable-values-in-1051d3c9",
+   "t": "API contract: public variable values in environmentStageChanges patch(decryptVariables:false)",
+   "score": 4,
+   "notes": [
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/can-t-access-railway-reports-page-upda-d3eec248",
+   "t": "can't access railway - reports page updated while loading",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  }
+ ],
  "all": [
   {
-   "h": "/questions/cloud-pdf-reads-fail-after-bucket-creden-619d46a4",
-   "t": "Cloud PDF reads fail after bucket credential change; SSH host-key verification needed",
+   "h": "/questions/api-contract-public-variable-values-in-1051d3c9",
+   "t": "API contract: public variable values in environmentStageChanges patch(decryptVariables:false)",
    "score": 4,
    "notes": [
     "竞争低",
@@ -51,12 +78,29 @@
    ]
   },
   {
+   "h": "/questions/cloud-pdf-reads-fail-after-bucket-creden-619d46a4",
+   "t": "Cloud PDF reads fail after bucket credential change; SSH host-key verification needed",
+   "score": 4,
+   "notes": [
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
+  {
    "h": "/questions/worker-only-cli-scale-with-unrelated-sta-90671c2b",
    "t": "Worker-only CLI scale with unrelated staged changes",
    "score": 4,
    "notes": [
     "竞争低",
     "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/can-t-access-railway-reports-page-upda-d3eec248",
+   "t": "can't access railway - reports page updated while loading",
+   "score": 2,
+   "notes": [
+    "竞争低"
    ]
   },
   {
@@ -70,22 +114,6 @@
   {
    "h": "/questions/edge-intermittently-refuses-tcp-connecti-3f20ab51",
    "t": "Edge intermittently refuses TCP connections (~12%) — affects both custom domain and *.up.railway.app",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/shifttracker-backend-recurring-europe-w-6cda607d",
-   "t": "shifttracker-backend: recurring europe-west4-drams3a edge issue, possible regression of 2026-06-09 fix",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/streamlit-app-on-railway-hangs-unreachab-9bf962f7",
-   "t": "Streamlit app on Railway hangs/unreachable periodically - only recovers after manual restart",
    "score": 2,
    "notes": [
     "竞争低"
