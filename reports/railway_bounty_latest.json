@@ -1,5 +1,5 @@
 {
- "at": "2026-10-26T20:45:50.995852+00:00",
+ "at": "2026-10-27T00:51:28.497099+00:00",
  "total": 29,
  "hot": [
   {
@@ -30,26 +30,7 @@
    ]
   }
  ],
- "new": [
-  {
-   "h": "/questions/cloud-pdf-reads-fail-after-bucket-creden-619d46a4",
-   "t": "Cloud PDF reads fail after bucket credential change; SSH host-key verification needed",
-   "score": 4,
-   "notes": [
-    "竞争低",
-    "提问·配置型"
-   ]
-  },
-  {
-   "h": "/questions/ios-clients-lose-the-connection-right-af-b891c87e",
-   "t": "iOS clients lose the connection right after upload; backend completes every request (edge lax1, since Oct 20)",
-   "score": 4,
-   "notes": [
-    "竞争低",
-    "提问·配置型"
-   ]
-  }
- ],
+ "new": [],
  "all": [
   {
    "h": "/questions/cloud-pdf-reads-fail-after-bucket-creden-619d46a4",
