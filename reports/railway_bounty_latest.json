@@ -1,10 +1,10 @@
 {
- "at": "2026-10-27T20:15:33.740353+00:00",
+ "at": "2026-10-28T00:44:50.355884+00:00",
  "total": 27,
  "hot": [
   {
    "h": "/questions/reusing-a-private-image-and-verifying-it-710bfc12",
-   "t": "Reusing a private image and verifying its digest (Pro/Hobby) $10 1 replies 4h by Anonymous",
+   "t": "Reusing a private image and verifying its digest (Pro/Hobby) $10 1 replies 8h by Anonymous",
    "score": 5,
    "notes": [
     "数小时内",
@@ -50,17 +50,8 @@
  ],
  "new": [
   {
-   "h": "/questions/reusing-a-private-image-and-verifying-it-710bfc12",
-   "t": "Reusing a private image and verifying its digest (Pro/Hobby) $10 1 replies 4h by Anonymous",
-   "score": 5,
-   "notes": [
-    "数小时内",
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/dashboard-console-authentication-depl-b09df406",
-   "t": "Dashboard Console — authentication, deployment targeting and command completion",
+   "h": "/questions/discord-bot-offline-railway-outbound-co-686d0aea",
+   "t": "Discord bot offline: Railway outbound connection receives Cloudflare 1015 / HTTP 429",
    "score": 2,
    "notes": [
     "竞争低"
@@ -70,7 +61,7 @@
  "all": [
   {
    "h": "/questions/reusing-a-private-image-and-verifying-it-710bfc12",
-   "t": "Reusing a private image and verifying its digest (Pro/Hobby) $10 1 replies 4h by Anonymous",
+   "t": "Reusing a private image and verifying its digest (Pro/Hobby) $10 1 replies 8h by Anonymous",
    "score": 5,
    "notes": [
     "数小时内",
@@ -114,6 +105,14 @@
    ]
   },
   {
+   "h": "/questions/discord-bot-offline-railway-outbound-co-686d0aea",
+   "t": "Discord bot offline: Railway outbound connection receives Cloudflare 1015 / HTTP 429",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
    "h": "/questions/dashboard-console-authentication-depl-b09df406",
    "t": "Dashboard Console — authentication, deployment targeting and command completion",
    "score": 2,
@@ -124,14 +123,6 @@
   {
    "h": "/questions/can-t-access-railway-reports-page-upda-d3eec248",
    "t": "can't access railway - reports page updated while loading",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/websocket-connection-limit-per-replica-713af0aa",
-   "t": "WebSocket connection limit per replica, 502 at ~6, 000",
    "score": 2,
    "notes": [
     "竞争低"
