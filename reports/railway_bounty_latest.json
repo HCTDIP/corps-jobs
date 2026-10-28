@@ -1,10 +1,10 @@
 {
- "at": "2026-10-28T06:21:23.300780+00:00",
+ "at": "2026-10-28T13:33:24.687850+00:00",
  "total": 27,
  "hot": [
   {
    "h": "/questions/reusing-a-private-image-and-verifying-it-710bfc12",
-   "t": "Reusing a private image and verifying its digest (Pro/Hobby) $10 1 replies 14h by Anonymous",
+   "t": "Reusing a private image and verifying its digest (Pro/Hobby) $10 1 replies 21h by Anonymous",
    "score": 5,
    "notes": [
     "数小时内",
@@ -32,15 +32,6 @@
   {
    "h": "/questions/worker-only-cli-scale-with-unrelated-sta-90671c2b",
    "t": "Worker-only CLI scale with unrelated staged changes",
-   "score": 4,
-   "notes": [
-    "竞争低",
-    "提问·配置型"
-   ]
-  },
-  {
-   "h": "/questions/ios-clients-lose-the-connection-right-af-b891c87e",
-   "t": "iOS clients lose the connection right after upload; backend completes every request (edge lax1, since Oct 20)",
    "score": 4,
    "notes": [
     "竞争低",
@@ -50,11 +41,10 @@
  ],
  "new": [
   {
-   "h": "/questions/cookie-header-being-stripped-from-respon-f26934ee",
-   "t": "Cookie header being stripped from response $10 0 replies 9m by benwainwright",
-   "score": -1,
+   "h": "/questions/severe-outbound-throughput-collapse-20-a0082416",
+   "t": "Intermittent throughput collapse to Singapore from us-west2 replica (US destinations unaffected)",
+   "score": 2,
    "notes": [
-    "陈旧",
     "竞争低"
    ]
   }
@@ -62,7 +52,7 @@
  "all": [
   {
    "h": "/questions/reusing-a-private-image-and-verifying-it-710bfc12",
-   "t": "Reusing a private image and verifying its digest (Pro/Hobby) $10 1 replies 14h by Anonymous",
+   "t": "Reusing a private image and verifying its digest (Pro/Hobby) $10 1 replies 21h by Anonymous",
    "score": 5,
    "notes": [
     "数小时内",
@@ -97,12 +87,11 @@
    ]
   },
   {
-   "h": "/questions/ios-clients-lose-the-connection-right-af-b891c87e",
-   "t": "iOS clients lose the connection right after upload; backend completes every request (edge lax1, since Oct 20)",
-   "score": 4,
+   "h": "/questions/severe-outbound-throughput-collapse-20-a0082416",
+   "t": "Intermittent throughput collapse to Singapore from us-west2 replica (US destinations unaffected)",
+   "score": 2,
    "notes": [
-    "竞争低",
-    "提问·配置型"
+    "竞争低"
    ]
   },
   {
