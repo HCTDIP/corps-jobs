@@ -1,17 +1,21 @@
 {
-  "at": "2026-10-28T03:15Z",
-  "runs": 121,
-  "open_total": 10,
-  "new_count": 0,
-  "new_items": [],
+  "at": "2026-10-28T11:52Z",
+  "runs": 122,
+  "open_total": 11,
+  "new_count": 1,
+  "new_items": [
+    "$200    [  0 提交] [无地区限制] Create Content About KriptoK · 200 USDC Creator Challeng"
+  ],
   "global_candidates": [
-    "$500    [  5 提交] 2026-11-12 | Show us how you use MozaikPay",
-    "$500    [ 22 提交] 2026-11-12 | Panta x NectarFi Trading Competition Bounty",
-    "$5000   [ 30 提交] 2026-12-14 | MultiHopper Build & Route Challenge | Up to $50,000",
+    "$200    [  0 提交] [无地区限制] Create Content About KriptoK · 200 USDC Creator Challeng",
+    "$200    [  0 提交] 2026-11-18 | Create Content About KriptoK · 200 USDC Creator Chal",
+    "$500    [  6 提交] 2026-11-12 | Show us how you use MozaikPay",
+    "$500    [ 23 提交] 2026-11-12 | Panta x NectarFi Trading Competition Bounty",
+    "$5000   [ 31 提交] 2026-12-14 | MultiHopper Build & Route Challenge | Up to $50,000",
     "$40000  [100 提交] 2026-10-31 | Vaultline Security Audit Grants for Colosseum Projec",
-    "$125    [105 提交] 2026-11-02 | RaptorX Research Challenge: Ask Better Questions. Fi",
-    "$500    [166 提交] 2026-11-24 | Create Content on Premier League Predictions with wo",
-    "$500    [370 提交] 2026-11-14 | Write a thread on $CHIMP Fair Launch - Part 1"
+    "$125    [127 提交] 2026-11-02 | RaptorX Research Challenge: Ask Better Questions. Fi",
+    "$500    [167 提交] 2026-11-24 | Create Content on Premier League Predictions with wo",
+    "$500    [374 提交] 2026-11-14 | Write a thread on $CHIMP Fair Launch - Part 1"
   ],
   "repo": "https://github.com/HCTDIP/corps-jobs"
 }
