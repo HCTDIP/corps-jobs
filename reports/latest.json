@@ -1,18 +1,18 @@
 {
-  "at": "2026-10-28T17:41Z",
-  "runs": 123,
+  "at": "2026-10-28T22:02Z",
+  "runs": 124,
   "open_total": 11,
   "new_count": 0,
   "new_items": [],
   "global_candidates": [
-    "$200    [  6 提交] 2026-11-18 | Create Content About KriptoK · 200 USDC Creator Chal",
     "$500    [  7 提交] 2026-11-12 | Show us how you use MozaikPay",
+    "$200    [  9 提交] 2026-11-18 | Create Content About KriptoK · 200 USDC Creator Chal",
     "$500    [ 23 提交] 2026-11-12 | Panta x NectarFi Trading Competition Bounty",
     "$5000   [ 31 提交] 2026-12-14 | MultiHopper Build & Route Challenge | Up to $50,000",
     "$40000  [102 提交] 2026-10-31 | Vaultline Security Audit Grants for Colosseum Projec",
-    "$125    [136 提交] 2026-11-02 | RaptorX Research Challenge: Ask Better Questions. Fi",
+    "$125    [138 提交] 2026-11-02 | RaptorX Research Challenge: Ask Better Questions. Fi",
     "$500    [170 提交] 2026-11-24 | Create Content on Premier League Predictions with wo",
-    "$500    [382 提交] 2026-11-14 | Write a thread on $CHIMP Fair Launch - Part 1"
+    "$500    [386 提交] 2026-11-14 | Write a thread on $CHIMP Fair Launch - Part 1"
   ],
   "repo": "https://github.com/HCTDIP/corps-jobs"
 }
