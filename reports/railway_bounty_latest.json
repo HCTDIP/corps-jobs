@@ -1,10 +1,10 @@
 {
- "at": "2026-10-29T01:14:42.299270+00:00",
+ "at": "2026-10-29T10:25:30.548914+00:00",
  "total": 29,
  "hot": [
   {
    "h": "/questions/config-as-code-iac-migration-railway-bab3852f",
-   "t": "Config as Code → IaC migration: railway.toml (NIXPACKS) vs actual Dockerfile build, and safe cutover order $10 0 replies 7h by dilson123-tech",
+   "t": "Config as Code → IaC migration: railway.toml (NIXPACKS) vs actual Dockerfile build, and safe cutover order $10 0 replies 16h by dilson123-tech",
    "score": 7,
    "notes": [
     "数小时内",
@@ -14,11 +14,20 @@
   },
   {
    "h": "/questions/reusing-a-private-image-and-verifying-it-710bfc12",
-   "t": "Reusing a private image and verifying its digest (Pro/Hobby) $10 1 replies 1d by Anonymous",
+   "t": "Reusing a private image and verifying its digest (Pro/Hobby) $10 1 replies 2d by Anonymous",
    "score": 4,
    "notes": [
-    "1天内",
+    "2天内",
     "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/apply-saved-service-variables-while-reta-bb7d57b7",
+   "t": "Apply saved service variables while retaining an exact existing deployment image",
+   "score": 4,
+   "notes": [
+    "竞争低",
+    "提问·配置型"
    ]
   },
   {
@@ -42,26 +51,19 @@
  ],
  "new": [
   {
-   "h": "/questions/production-postgresql-administrator-cred-f1ffda15",
-   "t": "Railway PostgreSQL administrator credential does not authenticate",
-   "score": 2,
+   "h": "/questions/apply-saved-service-variables-while-reta-bb7d57b7",
+   "t": "Apply saved service variables while retaining an exact existing deployment image",
+   "score": 4,
    "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/websocket-connection-limit-per-replica-713af0aa",
-   "t": "WebSocket connection limit per replica, 502 at ~6, 000",
-   "score": 2,
-   "notes": [
-    "竞争低"
+    "竞争低",
+    "提问·配置型"
    ]
   }
  ],
  "all": [
   {
    "h": "/questions/config-as-code-iac-migration-railway-bab3852f",
-   "t": "Config as Code → IaC migration: railway.toml (NIXPACKS) vs actual Dockerfile build, and safe cutover order $10 0 replies 7h by dilson123-tech",
+   "t": "Config as Code → IaC migration: railway.toml (NIXPACKS) vs actual Dockerfile build, and safe cutover order $10 0 replies 16h by dilson123-tech",
    "score": 7,
    "notes": [
     "数小时内",
@@ -71,11 +73,20 @@
   },
   {
    "h": "/questions/reusing-a-private-image-and-verifying-it-710bfc12",
-   "t": "Reusing a private image and verifying its digest (Pro/Hobby) $10 1 replies 1d by Anonymous",
+   "t": "Reusing a private image and verifying its digest (Pro/Hobby) $10 1 replies 2d by Anonymous",
    "score": 4,
    "notes": [
-    "1天内",
+    "2天内",
     "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/apply-saved-service-variables-while-reta-bb7d57b7",
+   "t": "Apply saved service variables while retaining an exact existing deployment image",
+   "score": 4,
+   "notes": [
+    "竞争低",
+    "提问·配置型"
    ]
   },
   {
@@ -139,14 +150,6 @@
   {
    "h": "/questions/severe-outbound-throughput-collapse-20-a0082416",
    "t": "Intermittent throughput collapse to Singapore from us-west2 replica (US destinations unaffected)",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/recurring-custom-domain-routing-failures-b76869ab",
-   "t": "Recurring custom domain routing failures with Cloudflare proxy - Request ID 016YyGc5T0CNez2ZozsQ6Q",
    "score": 2,
    "notes": [
     "竞争低"
