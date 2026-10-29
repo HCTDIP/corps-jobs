@@ -1,5 +1,5 @@
 {
- "at": "2026-10-29T00:55:47.803680Z",
+ "at": "2026-10-29T09:57:25.261441Z",
  "count": 24,
  "new": [],
  "all": [
@@ -118,7 +118,7 @@
    "src": "sherlock-bounty",
    "status": "live",
    "title": "Midas",
-   "updated": "Aug 21, 2026",
+   "updated": "Oct 29, 2026",
    "amount": "$500,000",
    "url": "https://audits.sherlock.xyz/bug-bounties"
   },
