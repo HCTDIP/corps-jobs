@@ -1,10 +1,10 @@
 {
- "at": "2026-10-28T20:34:11.759659+00:00",
+ "at": "2026-10-29T01:14:42.299270+00:00",
  "total": 29,
  "hot": [
   {
    "h": "/questions/config-as-code-iac-migration-railway-bab3852f",
-   "t": "Config as Code → IaC migration: railway.toml (NIXPACKS) vs actual Dockerfile build, and safe cutover order $10 0 replies 2h by dilson123-tech",
+   "t": "Config as Code → IaC migration: railway.toml (NIXPACKS) vs actual Dockerfile build, and safe cutover order $10 0 replies 7h by dilson123-tech",
    "score": 7,
    "notes": [
     "数小时内",
@@ -33,15 +33,6 @@
   {
    "h": "/questions/database-tab-absent-on-postgres-ssl-16-i-ae6dfb58",
    "t": "Database tab absent on postgres-ssl:16 image service: supported credential rotation",
-   "score": 4,
-   "notes": [
-    "竞争低",
-    "提问·配置型"
-   ]
-  },
-  {
-   "h": "/questions/apply-saved-service-variables-while-reta-bb7d57b7",
-   "t": "Apply saved service variables while retaining an exact existing deployment image",
    "score": 4,
    "notes": [
     "竞争低",
@@ -51,53 +42,16 @@
  ],
  "new": [
   {
-   "h": "/questions/config-as-code-iac-migration-railway-bab3852f",
-   "t": "Config as Code → IaC migration: railway.toml (NIXPACKS) vs actual Dockerfile build, and safe cutover order $10 0 replies 2h by dilson123-tech",
-   "score": 7,
-   "notes": [
-    "数小时内",
-    "竞争低",
-    "提问·配置型"
-   ]
-  },
-  {
-   "h": "/questions/ios-clients-lose-the-connection-right-af-b891c87e",
-   "t": "iOS clients lose the connection right after upload; backend completes every request (edge lax1, since Oct 20)",
-   "score": 4,
-   "notes": [
-    "竞争低",
-    "提问·配置型"
-   ]
-  },
-  {
-   "h": "/questions/database-tab-absent-on-postgres-ssl-16-i-ae6dfb58",
-   "t": "Database tab absent on postgres-ssl:16 image service: supported credential rotation",
-   "score": 4,
-   "notes": [
-    "竞争低",
-    "提问·配置型"
-   ]
-  },
-  {
-   "h": "/questions/apply-saved-service-variables-while-reta-bb7d57b7",
-   "t": "Apply saved service variables while retaining an exact existing deployment image",
-   "score": 4,
-   "notes": [
-    "竞争低",
-    "提问·配置型"
-   ]
-  },
-  {
-   "h": "/questions/template-grafana-health-stuck-at-48-fo-d202ce37",
-   "t": "Template \"grafana\" health stuck at 48 for weeks with 0 deployments in last 90 days – recalculation?",
+   "h": "/questions/production-postgresql-administrator-cred-f1ffda15",
+   "t": "Railway PostgreSQL administrator credential does not authenticate",
    "score": 2,
    "notes": [
     "竞争低"
    ]
   },
   {
-   "h": "/questions/i-can-t-run-commands-from-the-console-4a251720",
-   "t": "I can't run commands from the Console",
+   "h": "/questions/websocket-connection-limit-per-replica-713af0aa",
+   "t": "WebSocket connection limit per replica, 502 at ~6, 000",
    "score": 2,
    "notes": [
     "竞争低"
@@ -107,7 +61,7 @@
  "all": [
   {
    "h": "/questions/config-as-code-iac-migration-railway-bab3852f",
-   "t": "Config as Code → IaC migration: railway.toml (NIXPACKS) vs actual Dockerfile build, and safe cutover order $10 0 replies 2h by dilson123-tech",
+   "t": "Config as Code → IaC migration: railway.toml (NIXPACKS) vs actual Dockerfile build, and safe cutover order $10 0 replies 7h by dilson123-tech",
    "score": 7,
    "notes": [
     "数小时内",
@@ -143,17 +97,8 @@
    ]
   },
   {
-   "h": "/questions/apply-saved-service-variables-while-reta-bb7d57b7",
-   "t": "Apply saved service variables while retaining an exact existing deployment image",
-   "score": 4,
-   "notes": [
-    "竞争低",
-    "提问·配置型"
-   ]
-  },
-  {
-   "h": "/questions/template-grafana-health-stuck-at-48-fo-d202ce37",
-   "t": "Template \"grafana\" health stuck at 48 for weeks with 0 deployments in last 90 days – recalculation?",
+   "h": "/questions/production-postgresql-administrator-cred-f1ffda15",
+   "t": "Railway PostgreSQL administrator credential does not authenticate",
    "score": 2,
    "notes": [
     "竞争低"
@@ -162,6 +107,22 @@
   {
    "h": "/questions/i-can-t-run-commands-from-the-console-4a251720",
    "t": "I can't run commands from the Console",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/websocket-connection-limit-per-replica-713af0aa",
+   "t": "WebSocket connection limit per replica, 502 at ~6, 000",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/template-grafana-health-stuck-at-48-fo-d202ce37",
+   "t": "Template \"grafana\" health stuck at 48 for weeks with 0 deployments in last 90 days – recalculation?",
    "score": 2,
    "notes": [
     "竞争低"
@@ -186,14 +147,6 @@
   {
    "h": "/questions/recurring-custom-domain-routing-failures-b76869ab",
    "t": "Recurring custom domain routing failures with Cloudflare proxy - Request ID 016YyGc5T0CNez2ZozsQ6Q",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/discord-bot-offline-railway-outbound-co-686d0aea",
-   "t": "Discord bot offline: Railway outbound connection receives Cloudflare 1015 / HTTP 429",
    "score": 2,
    "notes": [
     "竞争低"
