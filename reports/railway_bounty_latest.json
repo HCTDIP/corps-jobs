@@ -1,17 +1,7 @@
 {
- "at": "2026-10-29T10:25:30.548914+00:00",
- "total": 29,
+ "at": "2026-10-29T18:39:49.791044+00:00",
+ "total": 30,
  "hot": [
-  {
-   "h": "/questions/config-as-code-iac-migration-railway-bab3852f",
-   "t": "Config as Code → IaC migration: railway.toml (NIXPACKS) vs actual Dockerfile build, and safe cutover order $10 0 replies 16h by dilson123-tech",
-   "score": 7,
-   "notes": [
-    "数小时内",
-    "竞争低",
-    "提问·配置型"
-   ]
-  },
   {
    "h": "/questions/reusing-a-private-image-and-verifying-it-710bfc12",
    "t": "Reusing a private image and verifying its digest (Pro/Hobby) $10 1 replies 2d by Anonymous",
@@ -22,26 +12,26 @@
    ]
   },
   {
-   "h": "/questions/apply-saved-service-variables-while-reta-bb7d57b7",
-   "t": "Apply saved service variables while retaining an exact existing deployment image",
-   "score": 4,
-   "notes": [
-    "竞争低",
-    "提问·配置型"
-   ]
-  },
-  {
-   "h": "/questions/ios-clients-lose-the-connection-right-af-b891c87e",
-   "t": "iOS clients lose the connection right after upload; backend completes every request (edge lax1, since Oct 20)",
-   "score": 4,
-   "notes": [
-    "竞争低",
-    "提问·配置型"
-   ]
-  },
-  {
    "h": "/questions/database-tab-absent-on-postgres-ssl-16-i-ae6dfb58",
    "t": "Database tab absent on postgres-ssl:16 image service: supported credential rotation",
+   "score": 4,
+   "notes": [
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/config-as-code-iac-migration-railway-bab3852f",
+   "t": "Config as Code → IaC migration: railway.toml (NIXPACKS) vs actual Dockerfile build, and safe cutover order",
+   "score": 4,
+   "notes": [
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/apply-saved-service-variables-while-reta-bb7d57b7",
+   "t": "Apply saved service variables while retaining an exact existing deployment image",
    "score": 4,
    "notes": [
     "竞争低",
@@ -51,26 +41,42 @@
  ],
  "new": [
   {
-   "h": "/questions/apply-saved-service-variables-while-reta-bb7d57b7",
-   "t": "Apply saved service variables while retaining an exact existing deployment image",
-   "score": 4,
+   "h": "/questions/restoring-access-to-the-database-deb2ba91",
+   "t": "Restoring access to the database",
+   "score": 2,
    "notes": [
-    "竞争低",
-    "提问·配置型"
+    "竞争低"
    ]
-  }
- ],
- "all": [
+  },
   {
-   "h": "/questions/config-as-code-iac-migration-railway-bab3852f",
-   "t": "Config as Code → IaC migration: railway.toml (NIXPACKS) vs actual Dockerfile build, and safe cutover order $10 0 replies 16h by dilson123-tech",
-   "score": 7,
+   "h": "/questions/recent-issues-connecting-to-postgres-dat-cd349cfb",
+   "t": "recent Issues connecting to Postgres Database via DATABASE_PUBLIC_URL",
+   "score": 2,
    "notes": [
-    "数小时内",
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/i-m-having-trouble-configuring-type-bot-c35c1405",
+   "t": "I'm having trouble configuring Type Bot. $10 0 replies 9m by japadonutraglobal",
+   "score": 1,
+   "notes": [
+    "陈旧",
     "竞争低",
     "提问·配置型"
    ]
   },
+  {
+   "h": "/questions/cookie-header-being-stripped-from-respon-f26934ee",
+   "t": "Cookie header being stripped from response $10 0 replies 9m by benwainwright",
+   "score": -1,
+   "notes": [
+    "陈旧",
+    "竞争低"
+   ]
+  }
+ ],
+ "all": [
   {
    "h": "/questions/reusing-a-private-image-and-verifying-it-710bfc12",
    "t": "Reusing a private image and verifying its digest (Pro/Hobby) $10 1 replies 2d by Anonymous",
@@ -81,6 +87,24 @@
    ]
   },
   {
+   "h": "/questions/database-tab-absent-on-postgres-ssl-16-i-ae6dfb58",
+   "t": "Database tab absent on postgres-ssl:16 image service: supported credential rotation",
+   "score": 4,
+   "notes": [
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/config-as-code-iac-migration-railway-bab3852f",
+   "t": "Config as Code → IaC migration: railway.toml (NIXPACKS) vs actual Dockerfile build, and safe cutover order",
+   "score": 4,
+   "notes": [
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
+  {
    "h": "/questions/apply-saved-service-variables-while-reta-bb7d57b7",
    "t": "Apply saved service variables while retaining an exact existing deployment image",
    "score": 4,
@@ -90,21 +114,27 @@
    ]
   },
   {
-   "h": "/questions/ios-clients-lose-the-connection-right-af-b891c87e",
-   "t": "iOS clients lose the connection right after upload; backend completes every request (edge lax1, since Oct 20)",
-   "score": 4,
+   "h": "/questions/can-t-see-my-postgresql-database-in-dash-9c04693e",
+   "t": "Can't see my postgresql database in dashboard",
+   "score": 2,
    "notes": [
-    "竞争低",
-    "提问·配置型"
+    "竞争低"
    ]
   },
   {
-   "h": "/questions/database-tab-absent-on-postgres-ssl-16-i-ae6dfb58",
-   "t": "Database tab absent on postgres-ssl:16 image service: supported credential rotation",
-   "score": 4,
+   "h": "/questions/restoring-access-to-the-database-deb2ba91",
+   "t": "Restoring access to the database",
+   "score": 2,
    "notes": [
-    "竞争低",
-    "提问·配置型"
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/recent-issues-connecting-to-postgres-dat-cd349cfb",
+   "t": "recent Issues connecting to Postgres Database via DATABASE_PUBLIC_URL",
+   "score": 2,
+   "notes": [
+    "竞争低"
    ]
   },
   {
@@ -140,24 +170,18 @@
    ]
   },
   {
-   "h": "/questions/dashboard-console-authentication-depl-b09df406",
-   "t": "Dashboard Console — authentication, deployment targeting and command completion",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/severe-outbound-throughput-collapse-20-a0082416",
-   "t": "Intermittent throughput collapse to Singapore from us-west2 replica (US destinations unaffected)",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
    "h": "/questions/dns-resolution-failure-for-external-ap-is-fb440c4d",
    "t": "DNS Resolution Failure for External APIs $10 0 replies 9m by aidexlabs",
+   "score": 1,
+   "notes": [
+    "陈旧",
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/i-m-having-trouble-configuring-type-bot-c35c1405",
+   "t": "I'm having trouble configuring Type Bot. $10 0 replies 9m by japadonutraglobal",
    "score": 1,
    "notes": [
     "陈旧",
@@ -211,8 +235,8 @@
    ]
   },
   {
-   "h": "/questions/can-t-see-my-postgresql-database-in-dash-9c04693e",
-   "t": "Can't see my postgresql database in dashboard $10 0 replies 9m by 1776m",
+   "h": "/questions/cookie-header-being-stripped-from-respon-f26934ee",
+   "t": "Cookie header being stripped from response $10 0 replies 9m by benwainwright",
    "score": -1,
    "notes": [
     "陈旧",
