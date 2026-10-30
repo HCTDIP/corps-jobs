@@ -1,5 +1,5 @@
 {
- "at": "2026-10-30T17:59:48.535794Z",
+ "at": "2026-10-30T22:19:00.235634Z",
  "count": 24,
  "new": [],
  "all": [
@@ -86,7 +86,7 @@
    "src": "sherlock-bounty",
    "status": "live",
    "title": "Aero",
-   "updated": "Oct 21, 2026",
+   "updated": "Oct 30, 2026",
    "amount": "$500,000",
    "url": "https://audits.sherlock.xyz/bug-bounties"
   },
