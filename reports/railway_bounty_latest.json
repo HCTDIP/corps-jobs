@@ -1,10 +1,10 @@
 {
- "at": "2026-10-30T06:28:10.016321+00:00",
- "total": 30,
+ "at": "2026-10-30T13:35:48.279422+00:00",
+ "total": 23,
  "hot": [
   {
-   "h": "/questions/database-tab-absent-on-postgres-ssl-16-i-ae6dfb58",
-   "t": "Database tab absent on postgres-ssl:16 image service: supported credential rotation",
+   "h": "/questions/i-m-having-trouble-configuring-type-bot-c35c1405",
+   "t": "I'm having trouble configuring Type Bot.",
    "score": 4,
    "notes": [
     "竞争低",
@@ -12,17 +12,8 @@
    ]
   },
   {
-   "h": "/questions/config-as-code-iac-migration-railway-bab3852f",
-   "t": "Config as Code → IaC migration: railway.toml (NIXPACKS) vs actual Dockerfile build, and safe cutover order",
-   "score": 4,
-   "notes": [
-    "竞争低",
-    "提问·配置型"
-   ]
-  },
-  {
-   "h": "/questions/apply-saved-service-variables-while-reta-bb7d57b7",
-   "t": "Apply saved service variables while retaining an exact existing deployment image",
+   "h": "/questions/dns-resolution-failure-for-external-ap-is-fb440c4d",
+   "t": "DNS Resolution Failure for External APIs",
    "score": 4,
    "notes": [
     "竞争低",
@@ -32,118 +23,60 @@
  ],
  "new": [
   {
-   "h": "/questions/i-m-having-trouble-configuring-type-bot-c35c1405",
-   "t": "I'm having trouble configuring Type Bot. $10 0 replies 9m by japadonutraglobal",
-   "score": 1,
+   "h": "/questions/recurring-custom-domain-routing-failures-b76869ab",
+   "t": "Recurring custom domain routing failures with Cloudflare proxy - Request ID 016YyGc5T0CNez2ZozsQ6Q $20 1 replies 9m by yuno-code",
+   "score": -1,
+   "notes": [
+    "陈旧",
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/production-impact-anycast-edge-misrout-f6aaed54",
+   "t": "Anycast edge misrouting from Hetzner AS24940 — every DB query +180ms $20 2 replies 2m by yigittekelioglu",
+   "score": -5,
    "notes": [
     "陈旧",
     "竞争低",
-    "提问·配置型"
+    "⚠平台基建/已解"
+   ]
+  },
+  {
+   "h": "/questions/per-request-ingress-metadata-required-fo-c2c61b5a",
+   "t": "Per-request ingress metadata required for HMRC fraud-prevention headers $20 2 replies 3m by raullomelino",
+   "score": -5,
+   "notes": [
+    "陈旧",
+    "竞争低",
+    "⚠平台基建/已解"
    ]
   }
  ],
  "all": [
   {
-   "h": "/questions/database-tab-absent-on-postgres-ssl-16-i-ae6dfb58",
-   "t": "Database tab absent on postgres-ssl:16 image service: supported credential rotation",
+   "h": "/questions/i-m-having-trouble-configuring-type-bot-c35c1405",
+   "t": "I'm having trouble configuring Type Bot.",
    "score": 4,
    "notes": [
     "竞争低",
     "提问·配置型"
-   ]
-  },
-  {
-   "h": "/questions/config-as-code-iac-migration-railway-bab3852f",
-   "t": "Config as Code → IaC migration: railway.toml (NIXPACKS) vs actual Dockerfile build, and safe cutover order",
-   "score": 4,
-   "notes": [
-    "竞争低",
-    "提问·配置型"
-   ]
-  },
-  {
-   "h": "/questions/apply-saved-service-variables-while-reta-bb7d57b7",
-   "t": "Apply saved service variables while retaining an exact existing deployment image",
-   "score": 4,
-   "notes": [
-    "竞争低",
-    "提问·配置型"
-   ]
-  },
-  {
-   "h": "/questions/railway-connect-ssh-fails-with-connec-4c12e020",
-   "t": "railway connect --ssh fails with \"Connection URL should point to the Railway TCP proxy\" on MySQL",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/wrong-version-of-node-js-deployed-1bc19073",
-   "t": "wrong version of node.js deployed",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/production-pilot-backup-retirement-and-84e8e36d",
-   "t": "Production pilot: backup retirement and empty private scanner service",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/production-postgresql-administrator-cred-f1ffda15",
-   "t": "Railway PostgreSQL administrator credential does not authenticate",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/restoring-access-to-the-database-deb2ba91",
-   "t": "Restoring access to the database",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/can-t-see-my-postgresql-database-in-dash-9c04693e",
-   "t": "Can't see my postgresql database in dashboard",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/recent-issues-connecting-to-postgres-dat-cd349cfb",
-   "t": "recent Issues connecting to Postgres Database via DATABASE_PUBLIC_URL",
-   "score": 2,
-   "notes": [
-    "竞争低"
    ]
   },
   {
    "h": "/questions/dns-resolution-failure-for-external-ap-is-fb440c4d",
-   "t": "DNS Resolution Failure for External APIs $10 0 replies 9m by aidexlabs",
-   "score": 1,
+   "t": "DNS Resolution Failure for External APIs",
+   "score": 4,
    "notes": [
-    "陈旧",
     "竞争低",
     "提问·配置型"
    ]
   },
   {
-   "h": "/questions/i-m-having-trouble-configuring-type-bot-c35c1405",
-   "t": "I'm having trouble configuring Type Bot. $10 0 replies 9m by japadonutraglobal",
-   "score": 1,
+   "h": "/questions/cookie-header-being-stripped-from-respon-f26934ee",
+   "t": "Cookie header being stripped from response",
+   "score": 2,
    "notes": [
-    "陈旧",
-    "竞争低",
-    "提问·配置型"
+    "竞争低"
    ]
   },
   {
@@ -174,6 +107,15 @@
    ]
   },
   {
+   "h": "/questions/recurring-custom-domain-routing-failures-b76869ab",
+   "t": "Recurring custom domain routing failures with Cloudflare proxy - Request ID 016YyGc5T0CNez2ZozsQ6Q $20 1 replies 9m by yuno-code",
+   "score": -1,
+   "notes": [
+    "陈旧",
+    "竞争低"
+   ]
+  },
+  {
    "h": "/questions/deploying-37signals-writebook-as-a-comp-762bb8bb",
    "t": "deploying 37signals' Writebook as a complete beginner $20 1 replies 9m by fherceg",
    "score": -1,
@@ -194,15 +136,6 @@
   {
    "h": "/questions/postgres-db-started-having-connection-is-d10e0672",
    "t": "Postgres DB started having connection issues. Haven't changed anything $10 1 replies 9m by pinch",
-   "score": -1,
-   "notes": [
-    "陈旧",
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/cookie-header-being-stripped-from-respon-f26934ee",
-   "t": "Cookie header being stripped from response $10 0 replies 9m by benwainwright",
    "score": -1,
    "notes": [
     "陈旧",
@@ -245,6 +178,26 @@
    "notes": [
     "陈旧",
     "已5回复"
+   ]
+  },
+  {
+   "h": "/questions/production-impact-anycast-edge-misrout-f6aaed54",
+   "t": "Anycast edge misrouting from Hetzner AS24940 — every DB query +180ms $20 2 replies 2m by yigittekelioglu",
+   "score": -5,
+   "notes": [
+    "陈旧",
+    "竞争低",
+    "⚠平台基建/已解"
+   ]
+  },
+  {
+   "h": "/questions/per-request-ingress-metadata-required-fo-c2c61b5a",
+   "t": "Per-request ingress metadata required for HMRC fraud-prevention headers $20 2 replies 3m by raullomelino",
+   "score": -5,
+   "notes": [
+    "陈旧",
+    "竞争低",
+    "⚠平台基建/已解"
    ]
   },
   {
