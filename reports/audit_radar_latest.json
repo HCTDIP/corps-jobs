@@ -1,15 +1,7 @@
 {
- "at": "2026-10-30T09:59:55.203616Z",
+ "at": "2026-10-30T17:59:48.535794Z",
  "count": 24,
- "new": [
-  {
-   "src": "immunefi",
-   "status": "live",
-   "programs": 156,
-   "top": [],
-   "url": "https://immunefi.com/bug-bounty/?filter=KYC+"
-  }
- ],
+ "new": [],
  "all": [
   {
    "src": "code4rena",
