@@ -1,25 +1,7 @@
 {
- "at": "2026-10-29T22:58:56.898689+00:00",
- "total": 29,
+ "at": "2026-10-30T06:28:10.016321+00:00",
+ "total": 30,
  "hot": [
-  {
-   "h": "/questions/railway-connect-ssh-fails-with-connec-4c12e020",
-   "t": "railway connect --ssh fails with \"Connection URL should point to the Railway TCP proxy\" on MySQL $60 2 replies 6h by nonamehansen",
-   "score": 5,
-   "notes": [
-    "数小时内",
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/reusing-a-private-image-and-verifying-it-710bfc12",
-   "t": "Reusing a private image and verifying its digest (Pro/Hobby) $10 1 replies 2d by Anonymous",
-   "score": 4,
-   "notes": [
-    "2天内",
-    "竞争低"
-   ]
-  },
   {
    "h": "/questions/database-tab-absent-on-postgres-ssl-16-i-ae6dfb58",
    "t": "Database tab absent on postgres-ssl:16 image service: supported credential rotation",
@@ -50,50 +32,17 @@
  ],
  "new": [
   {
-   "h": "/questions/railway-connect-ssh-fails-with-connec-4c12e020",
-   "t": "railway connect --ssh fails with \"Connection URL should point to the Railway TCP proxy\" on MySQL $60 2 replies 6h by nonamehansen",
-   "score": 5,
+   "h": "/questions/i-m-having-trouble-configuring-type-bot-c35c1405",
+   "t": "I'm having trouble configuring Type Bot. $10 0 replies 9m by japadonutraglobal",
+   "score": 1,
    "notes": [
-    "数小时内",
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/wrong-version-of-node-js-deployed-1bc19073",
-   "t": "wrong version of node.js deployed",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/production-pilot-backup-retirement-and-84e8e36d",
-   "t": "Production pilot: backup retirement and empty private scanner service",
-   "score": 2,
-   "notes": [
-    "竞争低"
+    "陈旧",
+    "竞争低",
+    "提问·配置型"
    ]
   }
  ],
  "all": [
-  {
-   "h": "/questions/railway-connect-ssh-fails-with-connec-4c12e020",
-   "t": "railway connect --ssh fails with \"Connection URL should point to the Railway TCP proxy\" on MySQL $60 2 replies 6h by nonamehansen",
-   "score": 5,
-   "notes": [
-    "数小时内",
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/reusing-a-private-image-and-verifying-it-710bfc12",
-   "t": "Reusing a private image and verifying its digest (Pro/Hobby) $10 1 replies 2d by Anonymous",
-   "score": 4,
-   "notes": [
-    "2天内",
-    "竞争低"
-   ]
-  },
   {
    "h": "/questions/database-tab-absent-on-postgres-ssl-16-i-ae6dfb58",
    "t": "Database tab absent on postgres-ssl:16 image service: supported credential rotation",
@@ -119,6 +68,14 @@
    "notes": [
     "竞争低",
     "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/railway-connect-ssh-fails-with-connec-4c12e020",
+   "t": "railway connect --ssh fails with \"Connection URL should point to the Railway TCP proxy\" on MySQL",
+   "score": 2,
+   "notes": [
+    "竞争低"
    ]
   },
   {
@@ -177,6 +134,25 @@
     "陈旧",
     "竞争低",
     "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/i-m-having-trouble-configuring-type-bot-c35c1405",
+   "t": "I'm having trouble configuring Type Bot. $10 0 replies 9m by japadonutraglobal",
+   "score": 1,
+   "notes": [
+    "陈旧",
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/reusing-a-private-image-and-verifying-it-710bfc12",
+   "t": "Reusing a private image and verifying its digest (Pro/Hobby) $10 1 replies 3d by Anonymous",
+   "score": -1,
+   "notes": [
+    "陈旧",
+    "竞争低"
    ]
   },
   {
