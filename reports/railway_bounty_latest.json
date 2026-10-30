@@ -1,6 +1,6 @@
 {
- "at": "2026-10-30T13:35:48.279422+00:00",
- "total": 23,
+ "at": "2026-10-30T20:08:56.453599+00:00",
+ "total": 26,
  "hot": [
   {
    "h": "/questions/i-m-having-trouble-configuring-type-bot-c35c1405",
@@ -23,8 +23,8 @@
  ],
  "new": [
   {
-   "h": "/questions/recurring-custom-domain-routing-failures-b76869ab",
-   "t": "Recurring custom domain routing failures with Cloudflare proxy - Request ID 016YyGc5T0CNez2ZozsQ6Q $20 1 replies 9m by yuno-code",
+   "h": "/questions/i-am-facing-problem-with-deploying-a-wro-f9cd5ada",
+   "t": "I am facing problem when deploying a wrodpress template. $10 1 replies 9m by thompsonkylaw",
    "score": -1,
    "notes": [
     "陈旧",
@@ -32,23 +32,21 @@
    ]
   },
   {
-   "h": "/questions/production-impact-anycast-edge-misrout-f6aaed54",
-   "t": "Anycast edge misrouting from Hetzner AS24940 — every DB query +180ms $20 2 replies 2m by yigittekelioglu",
-   "score": -5,
+   "h": "/questions/min-io-service-is-down-after-a-service-re-b377b6fe",
+   "t": "MinIO service is down after a service restart and not coming up again! $20 3 replies 9m by Anonymous",
+   "score": -4,
    "notes": [
     "陈旧",
-    "竞争低",
-    "⚠平台基建/已解"
+    "已3回复"
    ]
   },
   {
-   "h": "/questions/per-request-ingress-metadata-required-fo-c2c61b5a",
-   "t": "Per-request ingress metadata required for HMRC fraud-prevention headers $20 2 replies 3m by raullomelino",
-   "score": -5,
+   "h": "/questions/fix-supabase-alias-resolution-people-sel-25319f58",
+   "t": "Fix supabase alias resolution PeopleSelect/creerlio-platform main $15 5 replies 9m by creerlio2026",
+   "score": -4,
    "notes": [
     "陈旧",
-    "竞争低",
-    "⚠平台基建/已解"
+    "已5回复"
    ]
   }
  ],
@@ -72,8 +70,24 @@
    ]
   },
   {
+   "h": "/questions/postgres-db-started-having-connection-is-d10e0672",
+   "t": "Postgres DB started having connection issues. Haven't changed anything",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
    "h": "/questions/cookie-header-being-stripped-from-respon-f26934ee",
    "t": "Cookie header being stripped from response",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/my-project-wasn-t-working-77107188",
+   "t": "My project wasn't working",
    "score": 2,
    "notes": [
     "竞争低"
@@ -91,15 +105,6 @@
   {
    "h": "/questions/selective-connectivity-issue-dns-resolu-3612b603",
    "t": "Selective Connectivity Issue: DNS Resolution/Routing Failure for specific Static IPs on priori-staging.up.railway.app $10 1 replies 9m by admin-renaissa",
-   "score": -1,
-   "notes": [
-    "陈旧",
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/my-project-wasn-t-working-77107188",
-   "t": "My project wasn't working $10 1 replies 9m by anliben",
    "score": -1,
    "notes": [
     "陈旧",
@@ -134,12 +139,21 @@
    ]
   },
   {
-   "h": "/questions/postgres-db-started-having-connection-is-d10e0672",
-   "t": "Postgres DB started having connection issues. Haven't changed anything $10 1 replies 9m by pinch",
+   "h": "/questions/i-am-facing-problem-with-deploying-a-wro-f9cd5ada",
+   "t": "I am facing problem when deploying a wrodpress template. $10 1 replies 9m by thompsonkylaw",
    "score": -1,
    "notes": [
     "陈旧",
     "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/n8n-workflow-stopped-updating-605cc477",
+   "t": "N8N workflow stopped updating",
+   "score": -2,
+   "notes": [
+    "竞争低",
+    "⚠平台基建/已解"
    ]
   },
   {
@@ -174,6 +188,24 @@
   {
    "h": "/questions/all-requests-to-python-service-502-with-3f1570ef",
    "t": "All requests to python service 502 with no logs available $30 5 replies 9m by Anonymous",
+   "score": -4,
+   "notes": [
+    "陈旧",
+    "已5回复"
+   ]
+  },
+  {
+   "h": "/questions/min-io-service-is-down-after-a-service-re-b377b6fe",
+   "t": "MinIO service is down after a service restart and not coming up again! $20 3 replies 9m by Anonymous",
+   "score": -4,
+   "notes": [
+    "陈旧",
+    "已3回复"
+   ]
+  },
+  {
+   "h": "/questions/fix-supabase-alias-resolution-people-sel-25319f58",
+   "t": "Fix supabase alias resolution PeopleSelect/creerlio-platform main $15 5 replies 9m by creerlio2026",
    "score": -4,
    "notes": [
     "陈旧",
@@ -243,16 +275,6 @@
   {
    "h": "/questions/arangodb-container-doesn-t-deploy-0b07f784",
    "t": "Arangodb container doesn't deploy $10 1 replies 9m by fjblau",
-   "score": -5,
-   "notes": [
-    "陈旧",
-    "竞争低",
-    "⚠平台基建/已解"
-   ]
-  },
-  {
-   "h": "/questions/n8n-workflow-stopped-updating-605cc477",
-   "t": "N8N workflow stopped updating $10 1 replies 9m by carolinevfxsup",
    "score": -5,
    "notes": [
     "陈旧",
