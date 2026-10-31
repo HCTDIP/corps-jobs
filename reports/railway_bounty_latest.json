@@ -1,6 +1,6 @@
 {
- "at": "2026-10-31T09:57:55.458187+00:00",
- "total": 28,
+ "at": "2026-10-31T17:22:00.400114+00:00",
+ "total": 30,
  "hot": [
   {
    "h": "/questions/config-as-code-iac-migration-railway-bab3852f",
@@ -41,12 +41,20 @@
  ],
  "new": [
   {
-   "h": "/questions/config-as-code-iac-migration-railway-bab3852f",
-   "t": "Config as Code → IaC migration: railway.toml (NIXPACKS) vs actual Dockerfile build, and safe cutover order",
-   "score": 4,
+   "h": "/questions/railway-connect-ssh-fails-with-connec-4c12e020",
+   "t": "railway connect --ssh fails with \"Connection URL should point to the Railway TCP proxy\" on MySQL",
+   "score": 2,
    "notes": [
-    "竞争低",
-    "提问·配置型"
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/metabase-deployment-failed-during-the-43f88ca4",
+   "t": "Metabase - Deployment failed during the network process $10 0 replies 9m by charbel",
+   "score": -1,
+   "notes": [
+    "陈旧",
+    "竞争低"
    ]
   }
  ],
@@ -85,6 +93,14 @@
    "notes": [
     "竞争低",
     "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/railway-connect-ssh-fails-with-connec-4c12e020",
+   "t": "railway connect --ssh fails with \"Connection URL should point to the Railway TCP proxy\" on MySQL",
+   "score": 2,
+   "notes": [
+    "竞争低"
    ]
   },
   {
@@ -163,6 +179,24 @@
    "notes": [
     "陈旧",
     "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/metabase-deployment-failed-during-the-43f88ca4",
+   "t": "Metabase - Deployment failed during the network process $10 0 replies 9m by charbel",
+   "score": -1,
+   "notes": [
+    "陈旧",
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/arangodb-container-doesn-t-deploy-0b07f784",
+   "t": "Arangodb container doesn't deploy",
+   "score": -2,
+   "notes": [
+    "竞争低",
+    "⚠平台基建/已解"
    ]
   },
   {
@@ -283,16 +317,6 @@
   {
    "h": "/questions/build-failing-because-npm-dependencies-a-4607a810",
    "t": "Build failing because npm dependencies aren't being installed properly $10 2 replies 9m by davekaro",
-   "score": -5,
-   "notes": [
-    "陈旧",
-    "竞争低",
-    "⚠平台基建/已解"
-   ]
-  },
-  {
-   "h": "/questions/arangodb-container-doesn-t-deploy-0b07f784",
-   "t": "Arangodb container doesn't deploy $10 1 replies 9m by fjblau",
    "score": -5,
    "notes": [
     "陈旧",
