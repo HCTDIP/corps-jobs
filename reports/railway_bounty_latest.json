@@ -1,7 +1,16 @@
 {
- "at": "2026-10-30T20:08:56.453599+00:00",
- "total": 26,
+ "at": "2026-10-31T01:03:34.483743+00:00",
+ "total": 27,
  "hot": [
+  {
+   "h": "/questions/railway-api-token-returns-unauthorized-c9a776b6",
+   "t": "RAILWAY_API_TOKEN returns \"Unauthorized\"",
+   "score": 4,
+   "notes": [
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
   {
    "h": "/questions/i-m-having-trouble-configuring-type-bot-c35c1405",
    "t": "I'm having trouble configuring Type Bot.",
@@ -23,34 +32,25 @@
  ],
  "new": [
   {
-   "h": "/questions/i-am-facing-problem-with-deploying-a-wro-f9cd5ada",
-   "t": "I am facing problem when deploying a wrodpress template. $10 1 replies 9m by thompsonkylaw",
-   "score": -1,
+   "h": "/questions/railway-api-token-returns-unauthorized-c9a776b6",
+   "t": "RAILWAY_API_TOKEN returns \"Unauthorized\"",
+   "score": 4,
    "notes": [
-    "陈旧",
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/min-io-service-is-down-after-a-service-re-b377b6fe",
-   "t": "MinIO service is down after a service restart and not coming up again! $20 3 replies 9m by Anonymous",
-   "score": -4,
-   "notes": [
-    "陈旧",
-    "已3回复"
-   ]
-  },
-  {
-   "h": "/questions/fix-supabase-alias-resolution-people-sel-25319f58",
-   "t": "Fix supabase alias resolution PeopleSelect/creerlio-platform main $15 5 replies 9m by creerlio2026",
-   "score": -4,
-   "notes": [
-    "陈旧",
-    "已5回复"
+    "竞争低",
+    "提问·配置型"
    ]
   }
  ],
  "all": [
+  {
+   "h": "/questions/railway-api-token-returns-unauthorized-c9a776b6",
+   "t": "RAILWAY_API_TOKEN returns \"Unauthorized\"",
+   "score": 4,
+   "notes": [
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
   {
    "h": "/questions/i-m-having-trouble-configuring-type-bot-c35c1405",
    "t": "I'm having trouble configuring Type Bot.",
