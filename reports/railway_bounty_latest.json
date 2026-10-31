@@ -1,5 +1,5 @@
 {
- "at": "2026-10-31T17:22:00.400114+00:00",
+ "at": "2026-10-31T21:52:35.222189+00:00",
  "total": 30,
  "hot": [
   {
@@ -41,19 +41,10 @@
  ],
  "new": [
   {
-   "h": "/questions/railway-connect-ssh-fails-with-connec-4c12e020",
-   "t": "railway connect --ssh fails with \"Connection URL should point to the Railway TCP proxy\" on MySQL",
+   "h": "/questions/quiltpro-pre-deploy-networking-failure-a-3f342ff7",
+   "t": "Quiltpro pre-deploy networking failure after subscription reactivation",
    "score": 2,
    "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/metabase-deployment-failed-during-the-43f88ca4",
-   "t": "Metabase - Deployment failed during the network process $10 0 replies 9m by charbel",
-   "score": -1,
-   "notes": [
-    "陈旧",
     "竞争低"
    ]
   }
@@ -96,6 +87,14 @@
    ]
   },
   {
+   "h": "/questions/quiltpro-pre-deploy-networking-failure-a-3f342ff7",
+   "t": "Quiltpro pre-deploy networking failure after subscription reactivation",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
    "h": "/questions/railway-connect-ssh-fails-with-connec-4c12e020",
    "t": "railway connect --ssh fails with \"Connection URL should point to the Railway TCP proxy\" on MySQL",
    "score": 2,
@@ -114,14 +113,6 @@
   {
    "h": "/questions/cookie-header-being-stripped-from-respon-f26934ee",
    "t": "Cookie header being stripped from response",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/my-project-wasn-t-working-77107188",
-   "t": "My project wasn't working",
    "score": 2,
    "notes": [
     "竞争低"
