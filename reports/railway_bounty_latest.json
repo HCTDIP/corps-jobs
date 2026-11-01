@@ -1,5 +1,5 @@
 {
- "at": "2026-11-01T16:24:37.302940+00:00",
+ "at": "2026-11-01T22:27:08.281345+00:00",
  "total": 30,
  "hot": [
   {
@@ -19,33 +19,33 @@
     "竞争低",
     "提问·配置型"
    ]
-  },
-  {
-   "h": "/questions/i-m-having-trouble-configuring-type-bot-c35c1405",
-   "t": "I'm having trouble configuring Type Bot.",
-   "score": 4,
-   "notes": [
-    "竞争低",
-    "提问·配置型"
-   ]
-  },
-  {
-   "h": "/questions/dns-resolution-failure-for-external-ap-is-fb440c4d",
-   "t": "DNS Resolution Failure for External APIs",
-   "score": 4,
-   "notes": [
-    "竞争低",
-    "提问·配置型"
-   ]
   }
  ],
  "new": [
   {
-   "h": "/questions/502-error-b644a9e4",
-   "t": "502 error",
+   "h": "/questions/i-am-receiving-an-email-indicating-the-s-321c2cc5",
+   "t": "I am receiving an email indicating the scraping is crashing",
    "score": 2,
    "notes": [
     "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/crash-c65ec755",
+   "t": "Crash",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/subject-build-failing-java-script-heap-81db8363",
+   "t": "Subject: Build Failing FIXED!!! $10 0 replies 9m by jeffkompon",
+   "score": -5,
+   "notes": [
+    "陈旧",
+    "竞争低",
+    "⚠平台基建/已解"
    ]
   }
  ],
@@ -69,21 +69,27 @@
    ]
   },
   {
-   "h": "/questions/i-m-having-trouble-configuring-type-bot-c35c1405",
-   "t": "I'm having trouble configuring Type Bot.",
-   "score": 4,
+   "h": "/questions/i-am-receiving-an-email-indicating-the-s-321c2cc5",
+   "t": "I am receiving an email indicating the scraping is crashing",
+   "score": 2,
    "notes": [
-    "竞争低",
-    "提问·配置型"
+    "竞争低"
    ]
   },
   {
-   "h": "/questions/dns-resolution-failure-for-external-ap-is-fb440c4d",
-   "t": "DNS Resolution Failure for External APIs",
-   "score": 4,
+   "h": "/questions/metabase-deployment-failed-during-the-43f88ca4",
+   "t": "Metabase - Deployment failed during the network process",
+   "score": 2,
    "notes": [
-    "竞争低",
-    "提问·配置型"
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/crash-c65ec755",
+   "t": "Crash",
+   "score": 2,
+   "notes": [
+    "竞争低"
    ]
   },
   {
@@ -113,14 +119,6 @@
   {
    "h": "/questions/postgres-db-started-having-connection-is-d10e0672",
    "t": "Postgres DB started having connection issues. Haven't changed anything",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/cookie-header-being-stripped-from-respon-f26934ee",
-   "t": "Cookie header being stripped from response",
    "score": 2,
    "notes": [
     "竞争低"
@@ -174,15 +172,6 @@
   {
    "h": "/questions/i-am-facing-problem-with-deploying-a-wro-f9cd5ada",
    "t": "I am facing problem when deploying a wrodpress template. $10 1 replies 9m by thompsonkylaw",
-   "score": -1,
-   "notes": [
-    "陈旧",
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/metabase-deployment-failed-during-the-43f88ca4",
-   "t": "Metabase - Deployment failed during the network process $10 0 replies 9m by charbel",
    "score": -1,
    "notes": [
     "陈旧",
@@ -307,6 +296,16 @@
   {
    "h": "/questions/build-failing-because-npm-dependencies-a-4607a810",
    "t": "Build failing because npm dependencies aren't being installed properly $10 2 replies 9m by davekaro",
+   "score": -5,
+   "notes": [
+    "陈旧",
+    "竞争低",
+    "⚠平台基建/已解"
+   ]
+  },
+  {
+   "h": "/questions/subject-build-failing-java-script-heap-81db8363",
+   "t": "Subject: Build Failing FIXED!!! $10 0 replies 9m by jeffkompon",
    "score": -5,
    "notes": [
     "陈旧",
