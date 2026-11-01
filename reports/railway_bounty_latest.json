@@ -1,5 +1,5 @@
 {
- "at": "2026-10-31T21:52:35.222189+00:00",
+ "at": "2026-11-01T06:52:00.617203+00:00",
  "total": 30,
  "hot": [
   {
@@ -39,16 +39,7 @@
    ]
   }
  ],
- "new": [
-  {
-   "h": "/questions/quiltpro-pre-deploy-networking-failure-a-3f342ff7",
-   "t": "Quiltpro pre-deploy networking failure after subscription reactivation",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  }
- ],
+ "new": [],
  "all": [
   {
    "h": "/questions/config-as-code-iac-migration-railway-bab3852f",
@@ -120,7 +111,7 @@
   },
   {
    "h": "/questions/reusing-a-private-image-and-verifying-it-710bfc12",
-   "t": "Reusing a private image and verifying its digest (Pro/Hobby) $10 1 replies 4d by Anonymous",
+   "t": "Reusing a private image and verifying its digest (Pro/Hobby) $10 1 replies 5d by Anonymous",
    "score": -1,
    "notes": [
     "陈旧",
