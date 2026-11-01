@@ -1,5 +1,5 @@
 {
- "at": "2026-11-01T06:52:00.617203+00:00",
+ "at": "2026-11-01T16:24:37.302940+00:00",
  "total": 30,
  "hot": [
   {
@@ -39,7 +39,16 @@
    ]
   }
  ],
- "new": [],
+ "new": [
+  {
+   "h": "/questions/502-error-b644a9e4",
+   "t": "502 error",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  }
+ ],
  "all": [
   {
    "h": "/questions/config-as-code-iac-migration-railway-bab3852f",
@@ -75,6 +84,14 @@
    "notes": [
     "竞争低",
     "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/502-error-b644a9e4",
+   "t": "502 error",
+   "score": 2,
+   "notes": [
+    "竞争低"
    ]
   },
   {
@@ -175,15 +192,6 @@
   {
    "h": "/questions/arangodb-container-doesn-t-deploy-0b07f784",
    "t": "Arangodb container doesn't deploy",
-   "score": -2,
-   "notes": [
-    "竞争低",
-    "⚠平台基建/已解"
-   ]
-  },
-  {
-   "h": "/questions/n8n-workflow-stopped-updating-605cc477",
-   "t": "N8N workflow stopped updating",
    "score": -2,
    "notes": [
     "竞争低",
