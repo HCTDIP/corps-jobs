@@ -1,5 +1,5 @@
 {
- "at": "2026-11-01T22:27:08.281345+00:00",
+ "at": "2026-11-02T06:50:43.467779+00:00",
  "total": 30,
  "hot": [
   {
@@ -23,29 +23,11 @@
  ],
  "new": [
   {
-   "h": "/questions/i-am-receiving-an-email-indicating-the-s-321c2cc5",
-   "t": "I am receiving an email indicating the scraping is crashing",
+   "h": "/questions/there-is-no-india-region-7c26b6d1",
+   "t": "There is no india Region?",
    "score": 2,
    "notes": [
     "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/crash-c65ec755",
-   "t": "Crash",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/subject-build-failing-java-script-heap-81db8363",
-   "t": "Subject: Build Failing FIXED!!! $10 0 replies 9m by jeffkompon",
-   "score": -5,
-   "notes": [
-    "陈旧",
-    "竞争低",
-    "⚠平台基建/已解"
    ]
   }
  ],
@@ -66,6 +48,22 @@
    "notes": [
     "竞争低",
     "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/there-is-no-india-region-7c26b6d1",
+   "t": "There is no india Region?",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/502-error-b644a9e4",
+   "t": "502 error",
+   "score": 2,
+   "notes": [
+    "竞争低"
    ]
   },
   {
@@ -93,14 +91,6 @@
    ]
   },
   {
-   "h": "/questions/502-error-b644a9e4",
-   "t": "502 error",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
    "h": "/questions/quiltpro-pre-deploy-networking-failure-a-3f342ff7",
    "t": "Quiltpro pre-deploy networking failure after subscription reactivation",
    "score": 2,
@@ -117,16 +107,8 @@
    ]
   },
   {
-   "h": "/questions/postgres-db-started-having-connection-is-d10e0672",
-   "t": "Postgres DB started having connection issues. Haven't changed anything",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
    "h": "/questions/reusing-a-private-image-and-verifying-it-710bfc12",
-   "t": "Reusing a private image and verifying its digest (Pro/Hobby) $10 1 replies 5d by Anonymous",
+   "t": "Reusing a private image and verifying its digest (Pro/Hobby) $10 1 replies 6d by Anonymous",
    "score": -1,
    "notes": [
     "陈旧",
