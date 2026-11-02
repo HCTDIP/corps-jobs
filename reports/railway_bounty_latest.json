@@ -1,19 +1,10 @@
 {
- "at": "2026-11-02T06:50:43.467779+00:00",
+ "at": "2026-11-02T19:47:10.159489+00:00",
  "total": 30,
  "hot": [
   {
-   "h": "/questions/config-as-code-iac-migration-railway-bab3852f",
-   "t": "Config as Code → IaC migration: railway.toml (NIXPACKS) vs actual Dockerfile build, and safe cutover order",
-   "score": 4,
-   "notes": [
-    "竞争低",
-    "提问·配置型"
-   ]
-  },
-  {
-   "h": "/questions/railway-api-token-returns-unauthorized-c9a776b6",
-   "t": "RAILWAY_API_TOKEN returns \"Unauthorized\"",
+   "h": "/questions/account-api-token-returns-not-authorized-fd16cb28",
+   "t": "Account API Token returns Not Authorized",
    "score": 4,
    "notes": [
     "竞争低",
@@ -23,8 +14,17 @@
  ],
  "new": [
   {
-   "h": "/questions/there-is-no-india-region-7c26b6d1",
-   "t": "There is no india Region?",
+   "h": "/questions/account-api-token-returns-not-authorized-fd16cb28",
+   "t": "Account API Token returns Not Authorized",
+   "score": 4,
+   "notes": [
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/intermittent-tcp-connection-failures-on-c0a9450f",
+   "t": "Intermittent TCP connection failures on Railway public edge — 69.46.46.119",
    "score": 2,
    "notes": [
     "竞争低"
@@ -33,8 +33,8 @@
  ],
  "all": [
   {
-   "h": "/questions/config-as-code-iac-migration-railway-bab3852f",
-   "t": "Config as Code → IaC migration: railway.toml (NIXPACKS) vs actual Dockerfile build, and safe cutover order",
+   "h": "/questions/account-api-token-returns-not-authorized-fd16cb28",
+   "t": "Account API Token returns Not Authorized",
    "score": 4,
    "notes": [
     "竞争低",
@@ -42,12 +42,11 @@
    ]
   },
   {
-   "h": "/questions/railway-api-token-returns-unauthorized-c9a776b6",
-   "t": "RAILWAY_API_TOKEN returns \"Unauthorized\"",
-   "score": 4,
+   "h": "/questions/intermittent-tcp-connection-failures-on-c0a9450f",
+   "t": "Intermittent TCP connection failures on Railway public edge — 69.46.46.119",
+   "score": 2,
    "notes": [
-    "竞争低",
-    "提问·配置型"
+    "竞争低"
    ]
   },
   {
@@ -237,7 +236,7 @@
   },
   {
    "h": "/questions/per-request-ingress-metadata-required-fo-c2c61b5a",
-   "t": "Per-request ingress metadata required for HMRC fraud-prevention headers $20 2 replies 3m by raullomelino",
+   "t": "Per-request ingress metadata required for HMRC fraud-prevention headers $20 2 replies 4m by raullomelino",
    "score": -5,
    "notes": [
     "陈旧",
