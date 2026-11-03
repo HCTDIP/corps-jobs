@@ -1,13 +1,12 @@
 {
- "at": "2026-11-03T03:04:46.101136+00:00",
+ "at": "2026-11-03T11:21:26.657261+00:00",
  "total": 29,
  "hot": [
   {
    "h": "/questions/how-to-securely-obtain-and-verify-postgr-89f1e3bf",
-   "t": "How to securely obtain and verify PostgreSQL 17 TLS certificates and CA for sslmode=verify-full on $10 0 replies 6h by cimpoua",
-   "score": 7,
+   "t": "How to securely obtain and verify PostgreSQL 17 TLS certificates and CA for sslmode=verify-full on",
+   "score": 4,
    "notes": [
-    "数小时内",
     "竞争低",
     "提问·配置型"
    ]
@@ -24,15 +23,6 @@
   {
    "h": "/questions/api-project-token-expiry-policy-and-read-43654d21",
    "t": "API/project token expiry policy and read-only token identification",
-   "score": 4,
-   "notes": [
-    "竞争低",
-    "提问·配置型"
-   ]
-  },
-  {
-   "h": "/questions/account-api-token-returns-not-authorized-fd16cb28",
-   "t": "Account API Token returns Not Authorized",
    "score": 4,
    "notes": [
     "竞争低",
@@ -42,41 +32,63 @@
  ],
  "new": [
   {
-   "h": "/questions/how-to-securely-obtain-and-verify-postgr-89f1e3bf",
-   "t": "How to securely obtain and verify PostgreSQL 17 TLS certificates and CA for sslmode=verify-full on $10 0 replies 6h by cimpoua",
-   "score": 7,
+   "h": "/questions/postgre-sql-logical-replication-wal-stre-31386adc",
+   "t": "PostgreSQL logical replication (WAL streaming) connections drop with \"unexpected EOF\" every few minutes",
+   "score": 2,
    "notes": [
-    "数小时内",
-    "竞争低",
-    "提问·配置型"
+    "竞争低"
    ]
   },
   {
-   "h": "/questions/config-as-code-iac-migration-railway-bab3852f",
-   "t": "Config as Code → IaC migration: railway.toml (NIXPACKS) vs actual Dockerfile build, and safe cutover order",
-   "score": 4,
+   "h": "/questions/postgresql-service-75d2291f",
+   "t": "PostgreSQL service",
+   "score": 2,
    "notes": [
-    "竞争低",
-    "提问·配置型"
+    "竞争低"
    ]
   },
   {
-   "h": "/questions/api-project-token-expiry-policy-and-read-43654d21",
-   "t": "API/project token expiry policy and read-only token identification",
-   "score": 4,
+   "h": "/questions/dockerfile-rejected-before-build-with-no-1a0b7874",
+   "t": "Dockerfile rejected before build with no logs, but the same recipe passes Docker and CI",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/volume-usage-increases-5eb886aa",
+   "t": "Volume usage increases",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/extremely-slow-first-request-latency-1-4cded57d",
+   "t": "Extremely slow first request latency (~11 seconds) - Pro Plan",
+   "score": -2,
    "notes": [
     "竞争低",
-    "提问·配置型"
+    "⚠平台基建/已解"
+   ]
+  },
+  {
+   "h": "/questions/subject-build-failing-java-script-heap-81db8363",
+   "t": "Subject: Build Failing FIXED!!! $10 0 replies 9m by jeffkompon",
+   "score": -5,
+   "notes": [
+    "陈旧",
+    "竞争低",
+    "⚠平台基建/已解"
    ]
   }
  ],
  "all": [
   {
    "h": "/questions/how-to-securely-obtain-and-verify-postgr-89f1e3bf",
-   "t": "How to securely obtain and verify PostgreSQL 17 TLS certificates and CA for sslmode=verify-full on $10 0 replies 6h by cimpoua",
-   "score": 7,
+   "t": "How to securely obtain and verify PostgreSQL 17 TLS certificates and CA for sslmode=verify-full on",
+   "score": 4,
    "notes": [
-    "数小时内",
     "竞争低",
     "提问·配置型"
    ]
@@ -93,15 +105,6 @@
   {
    "h": "/questions/api-project-token-expiry-policy-and-read-43654d21",
    "t": "API/project token expiry policy and read-only token identification",
-   "score": 4,
-   "notes": [
-    "竞争低",
-    "提问·配置型"
-   ]
-  },
-  {
-   "h": "/questions/account-api-token-returns-not-authorized-fd16cb28",
-   "t": "Account API Token returns Not Authorized",
    "score": 4,
    "notes": [
     "竞争低",
@@ -117,40 +120,40 @@
    ]
   },
   {
-   "h": "/questions/there-is-no-india-region-7c26b6d1",
-   "t": "There is no india Region?",
+   "h": "/questions/postgre-sql-logical-replication-wal-stre-31386adc",
+   "t": "PostgreSQL logical replication (WAL streaming) connections drop with \"unexpected EOF\" every few minutes",
    "score": 2,
    "notes": [
     "竞争低"
    ]
   },
   {
-   "h": "/questions/502-error-b644a9e4",
-   "t": "502 error",
+   "h": "/questions/fix-supabase-alias-resolution-people-sel-25319f58",
+   "t": "Fix supabase alias resolution PeopleSelect/creerlio-platform main",
    "score": 2,
    "notes": [
     "竞争低"
    ]
   },
   {
-   "h": "/questions/i-am-receiving-an-email-indicating-the-s-321c2cc5",
-   "t": "I am receiving an email indicating the scraping is crashing",
+   "h": "/questions/postgresql-service-75d2291f",
+   "t": "PostgreSQL service",
    "score": 2,
    "notes": [
     "竞争低"
    ]
   },
   {
-   "h": "/questions/metabase-deployment-failed-during-the-43f88ca4",
-   "t": "Metabase - Deployment failed during the network process",
+   "h": "/questions/dockerfile-rejected-before-build-with-no-1a0b7874",
+   "t": "Dockerfile rejected before build with no logs, but the same recipe passes Docker and CI",
    "score": 2,
    "notes": [
     "竞争低"
    ]
   },
   {
-   "h": "/questions/crash-c65ec755",
-   "t": "Crash",
+   "h": "/questions/volume-usage-increases-5eb886aa",
+   "t": "Volume usage increases",
    "score": 2,
    "notes": [
     "竞争低"
@@ -158,7 +161,7 @@
   },
   {
    "h": "/questions/reusing-a-private-image-and-verifying-it-710bfc12",
-   "t": "Reusing a private image and verifying its digest (Pro/Hobby) $10 1 replies 6d by Anonymous",
+   "t": "Reusing a private image and verifying its digest (Pro/Hobby) $10 1 replies 7d by Anonymous",
    "score": -1,
    "notes": [
     "陈旧",
@@ -211,6 +214,15 @@
    ]
   },
   {
+   "h": "/questions/extremely-slow-first-request-latency-1-4cded57d",
+   "t": "Extremely slow first request latency (~11 seconds) - Pro Plan",
+   "score": -2,
+   "notes": [
+    "竞争低",
+    "⚠平台基建/已解"
+   ]
+  },
+  {
    "h": "/questions/request-for-csr-certificate-signing-req-6c07d2db",
    "t": "Request for CSR (Certificate Signing Request) for Custom SSL Setup $10 1 replies 8m by mythoslabsinc",
    "score": -3,
@@ -255,15 +267,6 @@
    "notes": [
     "陈旧",
     "已3回复"
-   ]
-  },
-  {
-   "h": "/questions/fix-supabase-alias-resolution-people-sel-25319f58",
-   "t": "Fix supabase alias resolution PeopleSelect/creerlio-platform main $15 5 replies 9m by creerlio2026",
-   "score": -4,
-   "notes": [
-    "陈旧",
-    "已5回复"
    ]
   },
   {
@@ -319,6 +322,16 @@
   {
    "h": "/questions/build-failing-because-npm-dependencies-a-4607a810",
    "t": "Build failing because npm dependencies aren't being installed properly $10 2 replies 9m by davekaro",
+   "score": -5,
+   "notes": [
+    "陈旧",
+    "竞争低",
+    "⚠平台基建/已解"
+   ]
+  },
+  {
+   "h": "/questions/subject-build-failing-java-script-heap-81db8363",
+   "t": "Subject: Build Failing FIXED!!! $10 0 replies 9m by jeffkompon",
    "score": -5,
    "notes": [
     "陈旧",
