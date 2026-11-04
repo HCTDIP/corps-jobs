@@ -1,10 +1,28 @@
 {
- "at": "2026-11-04T01:40:22.559434+00:00",
- "total": 27,
+ "at": "2026-11-04T11:35:16.323004+00:00",
+ "total": 26,
  "hot": [
   {
-   "h": "/questions/mysql-root-password-out-of-sync-after-re-51962411",
-   "t": "MySQL root password out of sync after regenerate/revert, deploys blocked since 24 Oct (email ticket open)",
+   "h": "/questions/edge-unreachable-from-one-source-ip-62-c0a500e6",
+   "t": "Edge unreachable from one source IP (62.72.50.156) since Nov 3 05:40 UTC $20 0 replies 5h by markjramos2009",
+   "score": 5,
+   "notes": [
+    "数小时内",
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/request-source-provenance-for-active-pro-2c739e73",
+   "t": "Request source provenance for active production deployment $20 0 replies 6h by lulou",
+   "score": 5,
+   "notes": [
+    "数小时内",
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/evolution-api-crashing-with-postgre-sql-p-6f077718",
+   "t": "Evolution API crashing with PostgreSQL P1000 authentication error (Railway internal Postgres)",
    "score": 4,
    "notes": [
     "竞争低",
@@ -12,8 +30,17 @@
    ]
   },
   {
-   "h": "/questions/api-contract-public-variable-values-in-1051d3c9",
-   "t": "API contract: public variable values in environmentStageChanges patch(decryptVariables:false)",
+   "h": "/questions/railway-iac-staging-environment-doesnt-w-9be651ea",
+   "t": "Railway IaC Staging environment doesnt work with github actions",
+   "score": 4,
+   "notes": [
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/railway-config-apply-in-second-environme-e8bb1e5a",
+   "t": "railway config apply in second environment fails silently",
    "score": 4,
    "notes": [
     "竞争低",
@@ -21,11 +48,28 @@
    ]
   }
  ],
- "new": [],
- "all": [
+ "new": [
   {
-   "h": "/questions/mysql-root-password-out-of-sync-after-re-51962411",
-   "t": "MySQL root password out of sync after regenerate/revert, deploys blocked since 24 Oct (email ticket open)",
+   "h": "/questions/edge-unreachable-from-one-source-ip-62-c0a500e6",
+   "t": "Edge unreachable from one source IP (62.72.50.156) since Nov 3 05:40 UTC $20 0 replies 5h by markjramos2009",
+   "score": 5,
+   "notes": [
+    "数小时内",
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/request-source-provenance-for-active-pro-2c739e73",
+   "t": "Request source provenance for active production deployment $20 0 replies 6h by lulou",
+   "score": 5,
+   "notes": [
+    "数小时内",
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/evolution-api-crashing-with-postgre-sql-p-6f077718",
+   "t": "Evolution API crashing with PostgreSQL P1000 authentication error (Railway internal Postgres)",
    "score": 4,
    "notes": [
     "竞争低",
@@ -33,12 +77,100 @@
    ]
   },
   {
-   "h": "/questions/api-contract-public-variable-values-in-1051d3c9",
-   "t": "API contract: public variable values in environmentStageChanges patch(decryptVariables:false)",
+   "h": "/questions/railway-iac-staging-environment-doesnt-w-9be651ea",
+   "t": "Railway IaC Staging environment doesnt work with github actions",
    "score": 4,
    "notes": [
     "竞争低",
     "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/railway-config-apply-in-second-environme-e8bb1e5a",
+   "t": "railway config apply in second environment fails silently",
+   "score": 4,
+   "notes": [
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/railway-public-endpoint-unreachable-on-i-8702b459",
+   "t": "Railway public endpoint unreachable on iPhone LTE while origin is healthy",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/outbound-ip-147-79-99-12-hostinger-tim-9568443f",
+   "t": "Outbound IP 147.79.99.12 (Hostinger) times out connecting to Railway edge 69.46.46.0/24",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  }
+ ],
+ "all": [
+  {
+   "h": "/questions/edge-unreachable-from-one-source-ip-62-c0a500e6",
+   "t": "Edge unreachable from one source IP (62.72.50.156) since Nov 3 05:40 UTC $20 0 replies 5h by markjramos2009",
+   "score": 5,
+   "notes": [
+    "数小时内",
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/request-source-provenance-for-active-pro-2c739e73",
+   "t": "Request source provenance for active production deployment $20 0 replies 6h by lulou",
+   "score": 5,
+   "notes": [
+    "数小时内",
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/evolution-api-crashing-with-postgre-sql-p-6f077718",
+   "t": "Evolution API crashing with PostgreSQL P1000 authentication error (Railway internal Postgres)",
+   "score": 4,
+   "notes": [
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/railway-iac-staging-environment-doesnt-w-9be651ea",
+   "t": "Railway IaC Staging environment doesnt work with github actions",
+   "score": 4,
+   "notes": [
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/railway-config-apply-in-second-environme-e8bb1e5a",
+   "t": "railway config apply in second environment fails silently",
+   "score": 4,
+   "notes": [
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/railway-public-endpoint-unreachable-on-i-8702b459",
+   "t": "Railway public endpoint unreachable on iPhone LTE while origin is healthy",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/outbound-ip-147-79-99-12-hostinger-tim-9568443f",
+   "t": "Outbound IP 147.79.99.12 (Hostinger) times out connecting to Railway edge 69.46.46.0/24",
+   "score": 2,
+   "notes": [
+    "竞争低"
    ]
   },
   {
@@ -50,48 +182,8 @@
    ]
   },
   {
-   "h": "/questions/postgresql-service-75d2291f",
-   "t": "PostgreSQL service",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/fix-supabase-alias-resolution-people-sel-25319f58",
-   "t": "Fix supabase alias resolution PeopleSelect/creerlio-platform main",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/postgre-sql-logical-replication-wal-stre-31386adc",
-   "t": "PostgreSQL logical replication (WAL streaming) connections drop with \"unexpected EOF\" every few minutes",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/dockerfile-rejected-before-build-with-no-1a0b7874",
-   "t": "Dockerfile rejected before build with no logs, but the same recipe passes Docker and CI",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/what-does-linking-a-service-to-a-public-a137be7d",
-   "t": "What does linking a service to a public support thread disclose?",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
    "h": "/questions/reusing-a-private-image-and-verifying-it-710bfc12",
-   "t": "Reusing a private image and verifying its digest (Pro/Hobby) $10 1 replies 7d by Anonymous",
+   "t": "Reusing a private image and verifying its digest (Pro/Hobby) $10 1 replies 8d by Anonymous",
    "score": -1,
    "notes": [
     "陈旧",
@@ -243,16 +335,6 @@
   {
    "h": "/questions/build-failing-because-npm-dependencies-a-4607a810",
    "t": "Build failing because npm dependencies aren't being installed properly $10 2 replies 9m by davekaro",
-   "score": -5,
-   "notes": [
-    "陈旧",
-    "竞争低",
-    "⚠平台基建/已解"
-   ]
-  },
-  {
-   "h": "/questions/subject-build-failing-java-script-heap-81db8363",
-   "t": "Subject: Build Failing FIXED!!! $10 0 replies 9m by jeffkompon",
    "score": -5,
    "notes": [
     "陈旧",
