@@ -1,13 +1,13 @@
 {
- "at": "2026-11-05T11:30:14.583074+00:00",
+ "at": "2026-11-05T20:16:35.969803+00:00",
  "total": 29,
  "hot": [
   {
    "h": "/questions/outbound-connections-from-web-host-ip-82-4287527f",
-   "t": "Outbound connections from web host IP 82.25.67.11 to Railway edge 69.46.46.67 time out since Nov 4 $20 1 replies 21h by bkconsorcio",
-   "score": 5,
+   "t": "Outbound connections from web host IP 82.25.67.11 to Railway edge 69.46.46.67 time out since Nov 4 $20 1 replies 1d by bkconsorcio",
+   "score": 4,
    "notes": [
-    "数小时内",
+    "1天内",
     "竞争低"
    ]
   },
@@ -23,74 +23,45 @@
  ],
  "new": [
   {
-   "h": "/questions/railway-config-apply-in-second-environme-e8bb1e5a",
-   "t": "railway config apply in second environment fails silently",
-   "score": 4,
-   "notes": [
-    "竞争低",
-    "提问·配置型"
-   ]
-  },
-  {
-   "h": "/questions/format-valid-ip-985f749b",
-   "t": "as",
+   "h": "/questions/dockerfile-rejected-before-build-with-no-1a0b7874",
+   "t": "Dockerfile rejected before build with no logs, but the same recipe passes Docker and CI",
    "score": 2,
    "notes": [
     "竞争低"
    ]
   },
   {
-   "h": "/questions/public-tcp-proxy-for-postgresql-not-acce-8d2519e6",
-   "t": "Public TCP Proxy for PostgreSQL not accepting connections",
+   "h": "/questions/infrastructure-error-lavalink-and-pyth-a7821020",
+   "t": "Infrastructure Error – Lavalink and Python bot builds failing without logs",
    "score": 2,
    "notes": [
     "竞争低"
    ]
   },
   {
-   "h": "/questions/railway-not-reachable-from-webpass-netwo-f4797d1b",
-   "t": "Railway not reachable from Webpass network",
+   "h": "/questions/postgresql-16-connection-failure-and-u-bd6cfcf9",
+   "t": "PostgreSQL 16 – Connection Failure and Urgent Credential Rotation",
    "score": 2,
    "notes": [
     "竞争低"
    ]
   },
   {
-   "h": "/questions/i-am-facing-problem-with-deploying-a-wro-f9cd5ada",
-   "t": "I am facing problem when deploying a wrodpress template. $10 1 replies 9m by thompsonkylaw",
-   "score": -1,
+   "h": "/questions/my-first-app-deploys-but-no-website-cd86bd8c",
+   "t": "My first app deploys, but no website?",
+   "score": 2,
    "notes": [
-    "陈旧",
     "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/min-io-service-is-down-after-a-service-re-b377b6fe",
-   "t": "MinIO service is down after a service restart and not coming up again! $20 3 replies 9m by Anonymous",
-   "score": -4,
-   "notes": [
-    "陈旧",
-    "已3回复"
-   ]
-  },
-  {
-   "h": "/questions/subject-build-failing-java-script-heap-81db8363",
-   "t": "Subject: Build Failing FIXED!!! $10 0 replies 10m by jeffkompon",
-   "score": -5,
-   "notes": [
-    "陈旧",
-    "竞争低",
-    "⚠平台基建/已解"
    ]
   }
  ],
  "all": [
   {
    "h": "/questions/outbound-connections-from-web-host-ip-82-4287527f",
-   "t": "Outbound connections from web host IP 82.25.67.11 to Railway edge 69.46.46.67 time out since Nov 4 $20 1 replies 21h by bkconsorcio",
-   "score": 5,
+   "t": "Outbound connections from web host IP 82.25.67.11 to Railway edge 69.46.46.67 time out since Nov 4 $20 1 replies 1d by bkconsorcio",
+   "score": 4,
    "notes": [
-    "数小时内",
+    "1天内",
     "竞争低"
    ]
   },
@@ -101,6 +72,38 @@
    "notes": [
     "竞争低",
     "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/dockerfile-rejected-before-build-with-no-1a0b7874",
+   "t": "Dockerfile rejected before build with no logs, but the same recipe passes Docker and CI",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/infrastructure-error-lavalink-and-pyth-a7821020",
+   "t": "Infrastructure Error – Lavalink and Python bot builds failing without logs",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/postgresql-16-connection-failure-and-u-bd6cfcf9",
+   "t": "PostgreSQL 16 – Connection Failure and Urgent Credential Rotation",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/my-first-app-deploys-but-no-website-cd86bd8c",
+   "t": "My first app deploys, but no website?",
+   "score": 2,
+   "notes": [
+    "竞争低"
    ]
   },
   {
@@ -130,38 +133,6 @@
   {
    "h": "/questions/our-server-can-t-reach-our-railway-servi-75eef994",
    "t": "Our server can't reach our Railway services since 4 Nov (connection times out)",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/railway-public-endpoint-unreachable-on-i-8702b459",
-   "t": "Railway public endpoint unreachable on iPhone LTE while origin is healthy",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/railway-edge-69-46-46-82-is-unreachabl-45164f63",
-   "t": "Railway edge (69.46.46.82) is unreachable from multiple Czech fixed networks",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/public-tcp-proxy-for-postgresql-not-acce-8d2519e6",
-   "t": "Public TCP Proxy for PostgreSQL not accepting connections",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/railway-not-reachable-from-webpass-netwo-f4797d1b",
-   "t": "Railway not reachable from Webpass network",
    "score": 2,
    "notes": [
     "竞争低"
