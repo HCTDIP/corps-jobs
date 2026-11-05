@@ -1,5 +1,5 @@
 {
- "at": "2026-11-05T06:45:05.972483Z",
+ "at": "2026-11-05T17:23:30.899618Z",
  "count": 24,
  "new": [],
  "all": [
@@ -78,7 +78,7 @@
    "src": "sherlock-bounty",
    "status": "live",
    "title": "SYMMIO",
-   "updated": "Oct 30, 2024",
+   "updated": "Nov 5, 2026",
    "amount": "$808,808",
    "url": "https://audits.sherlock.xyz/bug-bounties"
   },
