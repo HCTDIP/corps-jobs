@@ -1,5 +1,5 @@
 {
- "at": "2026-11-05T17:23:30.899618Z",
+ "at": "2026-11-05T23:37:51.068032Z",
  "count": 24,
  "new": [],
  "all": [
@@ -174,7 +174,7 @@
    "src": "sherlock-bounty",
    "status": "live",
    "title": "Yearn",
-   "updated": "May 15, 2026",
+   "updated": "Nov 5, 2026",
    "amount": "$200,000",
    "url": "https://audits.sherlock.xyz/bug-bounties"
   },
