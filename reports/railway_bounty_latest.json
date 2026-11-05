@@ -1,10 +1,10 @@
 {
- "at": "2026-11-05T01:49:25.136917+00:00",
- "total": 27,
+ "at": "2026-11-05T11:30:14.583074+00:00",
+ "total": 29,
  "hot": [
   {
    "h": "/questions/outbound-connections-from-web-host-ip-82-4287527f",
-   "t": "Outbound connections from web host IP 82.25.67.11 to Railway edge 69.46.46.67 time out since Nov 4 $20 1 replies 12h by bkconsorcio",
+   "t": "Outbound connections from web host IP 82.25.67.11 to Railway edge 69.46.46.67 time out since Nov 4 $20 1 replies 21h by bkconsorcio",
    "score": 5,
    "notes": [
     "数小时内",
@@ -12,47 +12,82 @@
    ]
   },
   {
-   "h": "/questions/hostinger-145-223-89-177-cannot-reach-ra-0daa53e5",
-   "t": "Hostinger 145.223.89.177 cannot reach Railway PostgreSQL proxy or railway.com $20 1 replies 14h by tayothecoder",
-   "score": 5,
+   "h": "/questions/railway-config-apply-in-second-environme-e8bb1e5a",
+   "t": "railway config apply in second environment fails silently",
+   "score": 4,
    "notes": [
-    "数小时内",
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/edge-unreachable-from-one-source-ip-62-c0a500e6",
-   "t": "Edge unreachable from one source IP (62.72.50.156) since Nov 3 05:40 UTC $20 1 replies 20h by markjramos2009",
-   "score": 5,
-   "notes": [
-    "数小时内",
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/request-source-provenance-for-active-pro-2c739e73",
-   "t": "Request source provenance for active production deployment $20 0 replies 20h by lulou",
-   "score": 5,
-   "notes": [
-    "数小时内",
-    "竞争低"
+    "竞争低",
+    "提问·配置型"
    ]
   }
  ],
  "new": [
   {
-   "h": "/questions/railway-public-endpoint-unreachable-on-i-8702b459",
-   "t": "Railway public endpoint unreachable on iPhone LTE while origin is healthy",
+   "h": "/questions/railway-config-apply-in-second-environme-e8bb1e5a",
+   "t": "railway config apply in second environment fails silently",
+   "score": 4,
+   "notes": [
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/format-valid-ip-985f749b",
+   "t": "as",
    "score": 2,
    "notes": [
     "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/public-tcp-proxy-for-postgresql-not-acce-8d2519e6",
+   "t": "Public TCP Proxy for PostgreSQL not accepting connections",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/railway-not-reachable-from-webpass-netwo-f4797d1b",
+   "t": "Railway not reachable from Webpass network",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/i-am-facing-problem-with-deploying-a-wro-f9cd5ada",
+   "t": "I am facing problem when deploying a wrodpress template. $10 1 replies 9m by thompsonkylaw",
+   "score": -1,
+   "notes": [
+    "陈旧",
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/min-io-service-is-down-after-a-service-re-b377b6fe",
+   "t": "MinIO service is down after a service restart and not coming up again! $20 3 replies 9m by Anonymous",
+   "score": -4,
+   "notes": [
+    "陈旧",
+    "已3回复"
+   ]
+  },
+  {
+   "h": "/questions/subject-build-failing-java-script-heap-81db8363",
+   "t": "Subject: Build Failing FIXED!!! $10 0 replies 10m by jeffkompon",
+   "score": -5,
+   "notes": [
+    "陈旧",
+    "竞争低",
+    "⚠平台基建/已解"
    ]
   }
  ],
  "all": [
   {
    "h": "/questions/outbound-connections-from-web-host-ip-82-4287527f",
-   "t": "Outbound connections from web host IP 82.25.67.11 to Railway edge 69.46.46.67 time out since Nov 4 $20 1 replies 12h by bkconsorcio",
+   "t": "Outbound connections from web host IP 82.25.67.11 to Railway edge 69.46.46.67 time out since Nov 4 $20 1 replies 21h by bkconsorcio",
    "score": 5,
    "notes": [
     "数小时内",
@@ -60,43 +95,33 @@
    ]
   },
   {
-   "h": "/questions/hostinger-145-223-89-177-cannot-reach-ra-0daa53e5",
-   "t": "Hostinger 145.223.89.177 cannot reach Railway PostgreSQL proxy or railway.com $20 1 replies 14h by tayothecoder",
-   "score": 5,
+   "h": "/questions/railway-config-apply-in-second-environme-e8bb1e5a",
+   "t": "railway config apply in second environment fails silently",
+   "score": 4,
    "notes": [
-    "数小时内",
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/edge-unreachable-from-one-source-ip-62-c0a500e6",
-   "t": "Edge unreachable from one source IP (62.72.50.156) since Nov 3 05:40 UTC $20 1 replies 20h by markjramos2009",
-   "score": 5,
-   "notes": [
-    "数小时内",
-    "竞争低"
+    "竞争低",
+    "提问·配置型"
    ]
   },
   {
    "h": "/questions/request-source-provenance-for-active-pro-2c739e73",
-   "t": "Request source provenance for active production deployment $20 0 replies 20h by lulou",
-   "score": 5,
-   "notes": [
-    "数小时内",
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/outbound-ip-147-79-99-12-hostinger-tim-9568443f",
-   "t": "Outbound IP 147.79.99.12 (Hostinger) times out connecting to Railway edge 69.46.46.0/24",
+   "t": "Request source provenance for active production deployment",
    "score": 2,
    "notes": [
     "竞争低"
    ]
   },
   {
-   "h": "/questions/outbound-connections-from-187-77-53-108-e34271e3",
-   "t": "Outbound connections from 187.77.53.108 to 69.46.46.9 / 69.46.46.100 on port 443 timing out since Nov 3, 23:55 BRT",
+   "h": "/questions/format-valid-ip-985f749b",
+   "t": "as",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/outbound-ip-147-79-99-12-hostinger-tim-9568443f",
+   "t": "Outbound IP 147.79.99.12 (Hostinger) times out connecting to Railway edge 69.46.46.0/24",
    "score": 2,
    "notes": [
     "竞争低"
@@ -119,14 +144,6 @@
    ]
   },
   {
-   "h": "/questions/hostinger-vps-as47583-frankfurt-can-t-0e636d46",
-   "t": "Hostinger VPS (AS47583, Frankfurt) can't reach Railway since 4 Nov, traffic stops after CDN77 Berlin",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
    "h": "/questions/railway-edge-69-46-46-82-is-unreachabl-45164f63",
    "t": "Railway edge (69.46.46.82) is unreachable from multiple Czech fixed networks",
    "score": 2,
@@ -135,18 +152,24 @@
    ]
   },
   {
-   "h": "/questions/ostinger-n8n-cannot-establish-tcp-connec-5679de97",
-   "t": "ostinger n8n cannot establish TCP connections to Railway API",
-   "score": 0,
+   "h": "/questions/public-tcp-proxy-for-postgresql-not-acce-8d2519e6",
+   "t": "Public TCP Proxy for PostgreSQL not accepting connections",
+   "score": 2,
    "notes": [
-    "竞争低",
-    "⚠平台基建/已解",
-    "提问·配置型"
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/railway-not-reachable-from-webpass-netwo-f4797d1b",
+   "t": "Railway not reachable from Webpass network",
+   "score": 2,
+   "notes": [
+    "竞争低"
    ]
   },
   {
    "h": "/questions/reusing-a-private-image-and-verifying-it-710bfc12",
-   "t": "Reusing a private image and verifying its digest (Pro/Hobby) $10 1 replies 8d by Anonymous",
+   "t": "Reusing a private image and verifying its digest (Pro/Hobby) $10 1 replies 9d by Anonymous",
    "score": -1,
    "notes": [
     "陈旧",
@@ -190,6 +213,15 @@
    ]
   },
   {
+   "h": "/questions/i-am-facing-problem-with-deploying-a-wro-f9cd5ada",
+   "t": "I am facing problem when deploying a wrodpress template. $10 1 replies 9m by thompsonkylaw",
+   "score": -1,
+   "notes": [
+    "陈旧",
+    "竞争低"
+   ]
+  },
+  {
    "h": "/questions/request-for-csr-certificate-signing-req-6c07d2db",
    "t": "Request for CSR (Certificate Signing Request) for Custom SSL Setup $10 1 replies 8m by mythoslabsinc",
    "score": -3,
@@ -225,6 +257,15 @@
    "notes": [
     "陈旧",
     "已5回复"
+   ]
+  },
+  {
+   "h": "/questions/min-io-service-is-down-after-a-service-re-b377b6fe",
+   "t": "MinIO service is down after a service restart and not coming up again! $20 3 replies 9m by Anonymous",
+   "score": -4,
+   "notes": [
+    "陈旧",
+    "已3回复"
    ]
   },
   {
@@ -280,6 +321,16 @@
   {
    "h": "/questions/build-failing-because-npm-dependencies-a-4607a810",
    "t": "Build failing because npm dependencies aren't being installed properly $10 2 replies 9m by davekaro",
+   "score": -5,
+   "notes": [
+    "陈旧",
+    "竞争低",
+    "⚠平台基建/已解"
+   ]
+  },
+  {
+   "h": "/questions/subject-build-failing-java-script-heap-81db8363",
+   "t": "Subject: Build Failing FIXED!!! $10 0 replies 10m by jeffkompon",
    "score": -5,
    "notes": [
     "陈旧",
