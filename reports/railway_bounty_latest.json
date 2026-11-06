@@ -1,19 +1,37 @@
 {
- "at": "2026-11-06T01:49:15.188792+00:00",
- "total": 30,
+ "at": "2026-11-06T11:30:30.834362+00:00",
+ "total": 29,
  "hot": [
   {
    "h": "/questions/outbound-connections-from-web-host-ip-82-4287527f",
-   "t": "Outbound connections from web host IP 82.25.67.11 to Railway edge 69.46.46.67 time out since Nov 4 $20 1 replies 1d by bkconsorcio",
+   "t": "Outbound connections from web host IP 82.25.67.11 to Railway edge 69.46.46.67 time out since Nov 4 $20 1 replies 2d by bkconsorcio",
    "score": 4,
    "notes": [
-    "1天内",
+    "2天内",
     "竞争低"
    ]
   },
   {
-   "h": "/questions/railway-config-apply-in-second-environme-e8bb1e5a",
-   "t": "railway config apply in second environment fails silently",
+   "h": "/questions/railway-iac-staging-environment-doesnt-w-9be651ea",
+   "t": "Railway IaC Staging environment doesnt work with github actions",
+   "score": 4,
+   "notes": [
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/api-project-token-expiry-policy-and-read-43654d21",
+   "t": "API/project token expiry policy and read-only token identification",
+   "score": 4,
+   "notes": [
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/account-api-token-returns-not-authorized-fd16cb28",
+   "t": "Account API Token returns Not Authorized",
    "score": 4,
    "notes": [
     "竞争低",
@@ -23,24 +41,43 @@
  ],
  "new": [
   {
-   "h": "/questions/railway-cannot-pull-public-minio-minio-l-efb6846b",
-   "t": "Railway cannot pull public minio/minio:latest image in development",
+   "h": "/questions/railway-iac-staging-environment-doesnt-w-9be651ea",
+   "t": "Railway IaC Staging environment doesnt work with github actions",
+   "score": 4,
+   "notes": [
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/api-project-token-expiry-policy-and-read-43654d21",
+   "t": "API/project token expiry policy and read-only token identification",
+   "score": 4,
+   "notes": [
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/account-api-token-returns-not-authorized-fd16cb28",
+   "t": "Account API Token returns Not Authorized",
+   "score": 4,
+   "notes": [
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/intermittent-tcp-connection-failures-on-c0a9450f",
+   "t": "Intermittent TCP connection failures on Railway public edge — 69.46.46.119",
    "score": 2,
    "notes": [
     "竞争低"
    ]
   },
   {
-   "h": "/questions/problem-starting-symfony-application-0e3418ba",
-   "t": "Problem starting symfony application",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/sftp-timeout-when-accessing-railway-volu-0c28cc84",
-   "t": "SFTP timeout when accessing Railway volume",
+   "h": "/questions/metabase-deployment-failed-during-the-43f88ca4",
+   "t": "Metabase - Deployment failed during the network process",
    "score": 2,
    "notes": [
     "竞争低"
@@ -50,16 +87,16 @@
  "all": [
   {
    "h": "/questions/outbound-connections-from-web-host-ip-82-4287527f",
-   "t": "Outbound connections from web host IP 82.25.67.11 to Railway edge 69.46.46.67 time out since Nov 4 $20 1 replies 1d by bkconsorcio",
+   "t": "Outbound connections from web host IP 82.25.67.11 to Railway edge 69.46.46.67 time out since Nov 4 $20 1 replies 2d by bkconsorcio",
    "score": 4,
    "notes": [
-    "1天内",
+    "2天内",
     "竞争低"
    ]
   },
   {
-   "h": "/questions/railway-config-apply-in-second-environme-e8bb1e5a",
-   "t": "railway config apply in second environment fails silently",
+   "h": "/questions/railway-iac-staging-environment-doesnt-w-9be651ea",
+   "t": "Railway IaC Staging environment doesnt work with github actions",
    "score": 4,
    "notes": [
     "竞争低",
@@ -67,40 +104,26 @@
    ]
   },
   {
-   "h": "/questions/railway-cannot-pull-public-minio-minio-l-efb6846b",
-   "t": "Railway cannot pull public minio/minio:latest image in development",
-   "score": 2,
+   "h": "/questions/api-project-token-expiry-policy-and-read-43654d21",
+   "t": "API/project token expiry policy and read-only token identification",
+   "score": 4,
    "notes": [
-    "竞争低"
+    "竞争低",
+    "提问·配置型"
    ]
   },
   {
-   "h": "/questions/problem-starting-symfony-application-0e3418ba",
-   "t": "Problem starting symfony application",
-   "score": 2,
+   "h": "/questions/account-api-token-returns-not-authorized-fd16cb28",
+   "t": "Account API Token returns Not Authorized",
+   "score": 4,
    "notes": [
-    "竞争低"
+    "竞争低",
+    "提问·配置型"
    ]
   },
   {
-   "h": "/questions/sftp-timeout-when-accessing-railway-volu-0c28cc84",
-   "t": "SFTP timeout when accessing Railway volume",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/dockerfile-rejected-before-build-with-no-1a0b7874",
-   "t": "Dockerfile rejected before build with no logs, but the same recipe passes Docker and CI",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/infrastructure-error-lavalink-and-pyth-a7821020",
-   "t": "Infrastructure Error – Lavalink and Python bot builds failing without logs",
+   "h": "/questions/recurring-custom-domain-routing-failures-b76869ab",
+   "t": "Recurring custom domain routing failures with Cloudflare proxy - Request ID 016YyGc5T0CNez2ZozsQ6Q",
    "score": 2,
    "notes": [
     "竞争低"
@@ -115,6 +138,22 @@
    ]
   },
   {
+   "h": "/questions/intermittent-tcp-connection-failures-on-c0a9450f",
+   "t": "Intermittent TCP connection failures on Railway public edge — 69.46.46.119",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/metabase-deployment-failed-during-the-43f88ca4",
+   "t": "Metabase - Deployment failed during the network process",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
    "h": "/questions/my-first-app-deploys-but-no-website-cd86bd8c",
    "t": "My first app deploys, but no website?",
    "score": 2,
@@ -123,16 +162,16 @@
    ]
   },
   {
-   "h": "/questions/request-source-provenance-for-active-pro-2c739e73",
-   "t": "Request source provenance for active production deployment",
+   "h": "/questions/problem-starting-symfony-application-0e3418ba",
+   "t": "Problem starting symfony application",
    "score": 2,
    "notes": [
     "竞争低"
    ]
   },
   {
-   "h": "/questions/format-valid-ip-985f749b",
-   "t": "as",
+   "h": "/questions/railway-cannot-pull-public-minio-minio-l-efb6846b",
+   "t": "Railway cannot pull public minio/minio:latest image in development",
    "score": 2,
    "notes": [
     "竞争低"
@@ -140,7 +179,7 @@
   },
   {
    "h": "/questions/reusing-a-private-image-and-verifying-it-710bfc12",
-   "t": "Reusing a private image and verifying its digest (Pro/Hobby) $10 1 replies 9d by Anonymous",
+   "t": "Reusing a private image and verifying its digest (Pro/Hobby) $10 1 replies 10d by Anonymous",
    "score": -1,
    "notes": [
     "陈旧",
@@ -150,15 +189,6 @@
   {
    "h": "/questions/selective-connectivity-issue-dns-resolu-3612b603",
    "t": "Selective Connectivity Issue: DNS Resolution/Routing Failure for specific Static IPs on priori-staging.up.railway.app $10 1 replies 9m by admin-renaissa",
-   "score": -1,
-   "notes": [
-    "陈旧",
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/recurring-custom-domain-routing-failures-b76869ab",
-   "t": "Recurring custom domain routing failures with Cloudflare proxy - Request ID 016YyGc5T0CNez2ZozsQ6Q $20 1 replies 9m by yuno-code",
    "score": -1,
    "notes": [
     "陈旧",
