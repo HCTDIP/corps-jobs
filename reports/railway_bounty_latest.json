@@ -1,7 +1,16 @@
 {
- "at": "2026-11-06T19:42:21.000449+00:00",
+ "at": "2026-11-07T01:13:57.379326+00:00",
  "total": 29,
  "hot": [
+  {
+   "h": "/questions/multiple-set-cookie-headers-are-merged-d-f0edff34",
+   "t": "Multiple Set-Cookie headers are merged/dropped by Railway proxy; only one cookie reaches the client",
+   "score": 4,
+   "notes": [
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
   {
    "h": "/questions/railway-iac-staging-environment-doesnt-w-9be651ea",
    "t": "Railway IaC Staging environment doesnt work with github actions",
@@ -14,15 +23,6 @@
   {
    "h": "/questions/api-project-token-expiry-policy-and-read-43654d21",
    "t": "API/project token expiry policy and read-only token identification",
-   "score": 4,
-   "notes": [
-    "竞争低",
-    "提问·配置型"
-   ]
-  },
-  {
-   "h": "/questions/account-api-token-returns-not-authorized-fd16cb28",
-   "t": "Account API Token returns Not Authorized",
    "score": 4,
    "notes": [
     "竞争低",
@@ -32,24 +32,51 @@
  ],
  "new": [
   {
-   "h": "/questions/dockerfile-rejected-before-build-with-no-1a0b7874",
-   "t": "Dockerfile rejected before build with no logs, but the same recipe passes Docker and CI",
+   "h": "/questions/multiple-set-cookie-headers-are-merged-d-f0edff34",
+   "t": "Multiple Set-Cookie headers are merged/dropped by Railway proxy; only one cookie reaches the client",
+   "score": 4,
+   "notes": [
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/title-invalid-authorization-header-erro-9e8dd1fd",
+   "t": "Title: Invalid Authorization Header Error – Bot Deployment Failure",
    "score": 2,
    "notes": [
     "竞争低"
    ]
   },
   {
-   "h": "/questions/can-t-see-my-postgresql-database-in-dash-9c04693e",
-   "t": "Can't see my postgresql database in dashboard $10 0 replies 9m by 1776m",
-   "score": -1,
+   "h": "/questions/cross-site-cookies-setup-problem-fc88e36e",
+   "t": "Cross-site cookies setup problem",
+   "score": 2,
    "notes": [
-    "陈旧",
     "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/title-railway-deployment-cannot-connect-27670a6c",
+   "t": "Title: Railway deployment cannot connect to MongoDB Atlas — need help diagnosing outbound connection $20 1 replies 4h by Anonymous",
+   "score": 1,
+   "notes": [
+    "数小时内",
+    "竞争低",
+    "⚠平台基建/已解"
    ]
   }
  ],
  "all": [
+  {
+   "h": "/questions/multiple-set-cookie-headers-are-merged-d-f0edff34",
+   "t": "Multiple Set-Cookie headers are merged/dropped by Railway proxy; only one cookie reaches the client",
+   "score": 4,
+   "notes": [
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
   {
    "h": "/questions/railway-iac-staging-environment-doesnt-w-9be651ea",
    "t": "Railway IaC Staging environment doesnt work with github actions",
@@ -69,12 +96,19 @@
    ]
   },
   {
-   "h": "/questions/account-api-token-returns-not-authorized-fd16cb28",
-   "t": "Account API Token returns Not Authorized",
-   "score": 4,
+   "h": "/questions/title-invalid-authorization-header-erro-9e8dd1fd",
+   "t": "Title: Invalid Authorization Header Error – Bot Deployment Failure",
+   "score": 2,
    "notes": [
-    "竞争低",
-    "提问·配置型"
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/cross-site-cookies-setup-problem-fc88e36e",
+   "t": "Cross-site cookies setup problem",
+   "score": 2,
+   "notes": [
+    "竞争低"
    ]
   },
   {
@@ -110,27 +144,13 @@
    ]
   },
   {
-   "h": "/questions/intermittent-tcp-connection-failures-on-c0a9450f",
-   "t": "Intermittent TCP connection failures on Railway public edge — 69.46.46.119",
-   "score": 2,
+   "h": "/questions/title-railway-deployment-cannot-connect-27670a6c",
+   "t": "Title: Railway deployment cannot connect to MongoDB Atlas — need help diagnosing outbound connection $20 1 replies 4h by Anonymous",
+   "score": 1,
    "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/metabase-deployment-failed-during-the-43f88ca4",
-   "t": "Metabase - Deployment failed during the network process",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/my-first-app-deploys-but-no-website-cd86bd8c",
-   "t": "My first app deploys, but no website?",
-   "score": 2,
-   "notes": [
-    "竞争低"
+    "数小时内",
+    "竞争低",
+    "⚠平台基建/已解"
    ]
   },
   {
@@ -227,7 +247,7 @@
   },
   {
    "h": "/questions/min-io-service-is-down-after-a-service-re-b377b6fe",
-   "t": "MinIO service is down after a service restart and not coming up again! $20 3 replies 9m by Anonymous",
+   "t": "MinIO service is down after a service restart and not coming up again! $20 3 replies 10m by Anonymous",
    "score": -4,
    "notes": [
     "陈旧",
