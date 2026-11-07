@@ -1,5 +1,5 @@
 {
- "at": "2026-11-07T10:41:39.495697+00:00",
+ "at": "2026-11-07T17:52:01.009832+00:00",
  "total": 29,
  "hot": [
   {
@@ -10,33 +10,22 @@
     "竞争低",
     "提问·配置型"
    ]
-  },
-  {
-   "h": "/questions/railway-iac-staging-environment-doesnt-w-9be651ea",
-   "t": "Railway IaC Staging environment doesnt work with github actions",
-   "score": 4,
-   "notes": [
-    "竞争低",
-    "提问·配置型"
-   ]
-  },
-  {
-   "h": "/questions/api-project-token-expiry-policy-and-read-43654d21",
-   "t": "API/project token expiry policy and read-only token identification",
-   "score": 4,
-   "notes": [
-    "竞争低",
-    "提问·配置型"
-   ]
   }
  ],
  "new": [
   {
-   "h": "/questions/trying-to-connect-to-ghcr-and-getting-er-57d6de9e",
-   "t": "Trying to connect to GHCR and getting error $10 0 replies 10m by chrispalle",
-   "score": -1,
+   "h": "/questions/safe-export-of-an-idle-cron-volume-cons-ee2d608d",
+   "t": "Safe export of an idle cron volume: consistent SQLite/WAL backup on Hobby",
+   "score": 2,
    "notes": [
-    "陈旧",
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/railway-deployment-crashes-cannot-find-fb9e9e01",
+   "t": "Railway deployment crashes – Cannot find module server.js",
+   "score": 2,
+   "notes": [
     "竞争低"
    ]
   }
@@ -52,21 +41,19 @@
    ]
   },
   {
-   "h": "/questions/railway-iac-staging-environment-doesnt-w-9be651ea",
-   "t": "Railway IaC Staging environment doesnt work with github actions",
-   "score": 4,
+   "h": "/questions/safe-export-of-an-idle-cron-volume-cons-ee2d608d",
+   "t": "Safe export of an idle cron volume: consistent SQLite/WAL backup on Hobby",
+   "score": 2,
    "notes": [
-    "竞争低",
-    "提问·配置型"
+    "竞争低"
    ]
   },
   {
-   "h": "/questions/api-project-token-expiry-policy-and-read-43654d21",
-   "t": "API/project token expiry policy and read-only token identification",
-   "score": 4,
+   "h": "/questions/railway-deployment-crashes-cannot-find-fb9e9e01",
+   "t": "Railway deployment crashes – Cannot find module server.js",
+   "score": 2,
    "notes": [
-    "竞争低",
-    "提问·配置型"
+    "竞争低"
    ]
   },
   {
@@ -229,7 +216,7 @@
   },
   {
    "h": "/questions/production-impact-anycast-edge-misrout-f6aaed54",
-   "t": "Anycast edge misrouting from Hetzner AS24940 — every DB query +180ms $20 2 replies 2m by yigittekelioglu",
+   "t": "Anycast edge misrouting from Hetzner AS24940 — every DB query +180ms $20 2 replies 3m by yigittekelioglu",
    "score": -5,
    "notes": [
     "陈旧",
