@@ -1,5 +1,5 @@
 {
- "at": "2026-11-07T17:52:01.009832+00:00",
+ "at": "2026-11-07T22:17:50.305288+00:00",
  "total": 29,
  "hot": [
   {
@@ -12,24 +12,7 @@
    ]
   }
  ],
- "new": [
-  {
-   "h": "/questions/safe-export-of-an-idle-cron-volume-cons-ee2d608d",
-   "t": "Safe export of an idle cron volume: consistent SQLite/WAL backup on Hobby",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/railway-deployment-crashes-cannot-find-fb9e9e01",
-   "t": "Railway deployment crashes – Cannot find module server.js",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  }
- ],
+ "new": [],
  "all": [
   {
    "h": "/questions/multiple-set-cookie-headers-are-merged-d-f0edff34",
@@ -41,8 +24,8 @@
    ]
   },
   {
-   "h": "/questions/safe-export-of-an-idle-cron-volume-cons-ee2d608d",
-   "t": "Safe export of an idle cron volume: consistent SQLite/WAL backup on Hobby",
+   "h": "/questions/can-t-see-my-postgresql-database-in-dash-9c04693e",
+   "t": "Can't see my postgresql database in dashboard",
    "score": 2,
    "notes": [
     "竞争低"
@@ -57,16 +40,16 @@
    ]
   },
   {
-   "h": "/questions/title-invalid-authorization-header-erro-9e8dd1fd",
-   "t": "Title: Invalid Authorization Header Error – Bot Deployment Failure",
+   "h": "/questions/safe-export-of-an-idle-cron-volume-cons-ee2d608d",
+   "t": "Safe export of an idle cron volume: consistent SQLite/WAL backup on Hobby",
    "score": 2,
    "notes": [
     "竞争低"
    ]
   },
   {
-   "h": "/questions/can-t-see-my-postgresql-database-in-dash-9c04693e",
-   "t": "Can't see my postgresql database in dashboard",
+   "h": "/questions/title-invalid-authorization-header-erro-9e8dd1fd",
+   "t": "Title: Invalid Authorization Header Error – Bot Deployment Failure",
    "score": 2,
    "notes": [
     "竞争低"
