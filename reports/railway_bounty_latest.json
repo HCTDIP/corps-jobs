@@ -1,5 +1,5 @@
 {
- "at": "2026-11-07T01:13:57.379326+00:00",
+ "at": "2026-11-07T10:41:39.495697+00:00",
  "total": 29,
  "hot": [
   {
@@ -32,38 +32,12 @@
  ],
  "new": [
   {
-   "h": "/questions/multiple-set-cookie-headers-are-merged-d-f0edff34",
-   "t": "Multiple Set-Cookie headers are merged/dropped by Railway proxy; only one cookie reaches the client",
-   "score": 4,
+   "h": "/questions/trying-to-connect-to-ghcr-and-getting-er-57d6de9e",
+   "t": "Trying to connect to GHCR and getting error $10 0 replies 10m by chrispalle",
+   "score": -1,
    "notes": [
-    "竞争低",
-    "提问·配置型"
-   ]
-  },
-  {
-   "h": "/questions/title-invalid-authorization-header-erro-9e8dd1fd",
-   "t": "Title: Invalid Authorization Header Error – Bot Deployment Failure",
-   "score": 2,
-   "notes": [
+    "陈旧",
     "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/cross-site-cookies-setup-problem-fc88e36e",
-   "t": "Cross-site cookies setup problem",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/title-railway-deployment-cannot-connect-27670a6c",
-   "t": "Title: Railway deployment cannot connect to MongoDB Atlas — need help diagnosing outbound connection $20 1 replies 4h by Anonymous",
-   "score": 1,
-   "notes": [
-    "数小时内",
-    "竞争低",
-    "⚠平台基建/已解"
    ]
   }
  ],
@@ -104,6 +78,14 @@
    ]
   },
   {
+   "h": "/questions/can-t-see-my-postgresql-database-in-dash-9c04693e",
+   "t": "Can't see my postgresql database in dashboard",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
    "h": "/questions/cross-site-cookies-setup-problem-fc88e36e",
    "t": "Cross-site cookies setup problem",
    "score": 2,
@@ -136,26 +118,8 @@
    ]
   },
   {
-   "h": "/questions/postgresql-16-connection-failure-and-u-bd6cfcf9",
-   "t": "PostgreSQL 16 – Connection Failure and Urgent Credential Rotation",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/title-railway-deployment-cannot-connect-27670a6c",
-   "t": "Title: Railway deployment cannot connect to MongoDB Atlas — need help diagnosing outbound connection $20 1 replies 4h by Anonymous",
-   "score": 1,
-   "notes": [
-    "数小时内",
-    "竞争低",
-    "⚠平台基建/已解"
-   ]
-  },
-  {
    "h": "/questions/reusing-a-private-image-and-verifying-it-710bfc12",
-   "t": "Reusing a private image and verifying its digest (Pro/Hobby) $10 1 replies 10d by Anonymous",
+   "t": "Reusing a private image and verifying its digest (Pro/Hobby) $10 1 replies 11d by Anonymous",
    "score": -1,
    "notes": [
     "陈旧",
@@ -190,8 +154,8 @@
    ]
   },
   {
-   "h": "/questions/can-t-see-my-postgresql-database-in-dash-9c04693e",
-   "t": "Can't see my postgresql database in dashboard $10 0 replies 9m by 1776m",
+   "h": "/questions/i-am-facing-problem-with-deploying-a-wro-f9cd5ada",
+   "t": "I am facing problem when deploying a wrodpress template. $10 1 replies 10m by thompsonkylaw",
    "score": -1,
    "notes": [
     "陈旧",
@@ -199,12 +163,21 @@
    ]
   },
   {
-   "h": "/questions/i-am-facing-problem-with-deploying-a-wro-f9cd5ada",
-   "t": "I am facing problem when deploying a wrodpress template. $10 1 replies 10m by thompsonkylaw",
+   "h": "/questions/trying-to-connect-to-ghcr-and-getting-er-57d6de9e",
+   "t": "Trying to connect to GHCR and getting error $10 0 replies 10m by chrispalle",
    "score": -1,
    "notes": [
     "陈旧",
     "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/title-railway-deployment-cannot-connect-27670a6c",
+   "t": "Title: Railway deployment cannot connect to MongoDB Atlas — need help diagnosing outbound connection",
+   "score": -2,
+   "notes": [
+    "竞争低",
+    "⚠平台基建/已解"
    ]
   },
   {
