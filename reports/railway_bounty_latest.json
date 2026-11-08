@@ -1,5 +1,5 @@
 {
- "at": "2026-11-08T13:52:52.982832+00:00",
+ "at": "2026-11-08T19:58:10.644745+00:00",
  "total": 29,
  "hot": [
   {
@@ -12,7 +12,16 @@
    ]
   }
  ],
- "new": [],
+ "new": [
+  {
+   "h": "/questions/does-an-ordinary-railway-service-support-bbd4008a",
+   "t": "Does an ordinary Railway service support non-root Chrome with its OS sandbox enabled?",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  }
+ ],
  "all": [
   {
    "h": "/questions/multiple-set-cookie-headers-are-merged-d-f0edff34",
@@ -21,6 +30,14 @@
    "notes": [
     "竞争低",
     "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/does-an-ordinary-railway-service-support-bbd4008a",
+   "t": "Does an ordinary Railway service support non-root Chrome with its OS sandbox enabled?",
+   "score": 2,
+   "notes": [
+    "竞争低"
    ]
   },
   {
@@ -74,14 +91,6 @@
   {
    "h": "/questions/outbound-connections-from-web-host-ip-82-4287527f",
    "t": "Outbound connections from web host IP 82.25.67.11 to Railway edge 69.46.46.67 time out since Nov 4",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/recurring-custom-domain-routing-failures-b76869ab",
-   "t": "Recurring custom domain routing failures with Cloudflare proxy - Request ID 016YyGc5T0CNez2ZozsQ6Q",
    "score": 2,
    "notes": [
     "竞争低"
