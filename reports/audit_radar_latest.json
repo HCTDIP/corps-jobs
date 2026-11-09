@@ -1,11 +1,32 @@
 {
- "at": "2026-11-08T22:03:51.096066Z",
+ "at": "2026-11-09T06:25:54.621297Z",
  "count": 24,
- "new": [],
+ "new": [
+  {
+   "src": "code4rena",
+   "status": "reporting",
+   "title": "Rujira",
+   "org": {
+    "image": "https://code4-api-v0-public-storage.s3.us-east-1.amazonaws.com/upload-2QNMNPd3u53",
+    "link": "https://x.com/RujiraNetwork",
+    "name": "Rujira"
+   },
+   "amount": "$40,000 in USDC",
+   "url": "https://code4rena.com/audits/2025-12-rujira"
+  }
+ ],
  "all": [
   {
    "src": "code4rena",
-   "error": "HTTP Error 502: Bad Gateway"
+   "status": "reporting",
+   "title": "Rujira",
+   "org": {
+    "image": "https://code4-api-v0-public-storage.s3.us-east-1.amazonaws.com/upload-2QNMNPd3u53",
+    "link": "https://x.com/RujiraNetwork",
+    "name": "Rujira"
+   },
+   "amount": "$40,000 in USDC",
+   "url": "https://code4rena.com/audits/2025-12-rujira"
   },
   {
    "src": "sherlock",
