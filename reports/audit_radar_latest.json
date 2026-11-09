@@ -1,18 +1,13 @@
 {
- "at": "2026-11-09T06:25:54.621297Z",
+ "at": "2026-11-09T19:48:31.947239Z",
  "count": 24,
  "new": [
   {
-   "src": "code4rena",
-   "status": "reporting",
-   "title": "Rujira",
-   "org": {
-    "image": "https://code4-api-v0-public-storage.s3.us-east-1.amazonaws.com/upload-2QNMNPd3u53",
-    "link": "https://x.com/RujiraNetwork",
-    "name": "Rujira"
-   },
-   "amount": "$40,000 in USDC",
-   "url": "https://code4rena.com/audits/2025-12-rujira"
+   "src": "immunefi",
+   "status": "live",
+   "programs": 154,
+   "top": [],
+   "url": "https://immunefi.com/bug-bounty/?filter=KYC+"
   }
  ],
  "all": [
@@ -202,7 +197,7 @@
   {
    "src": "immunefi",
    "status": "live",
-   "programs": 155,
+   "programs": 154,
    "top": [],
    "url": "https://immunefi.com/bug-bounty/?filter=KYC+"
   }
