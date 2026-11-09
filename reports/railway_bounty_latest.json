@@ -1,5 +1,5 @@
 {
- "at": "2026-11-08T19:58:10.644745+00:00",
+ "at": "2026-11-09T01:13:59.878526+00:00",
  "total": 29,
  "hot": [
   {
@@ -12,16 +12,7 @@
    ]
   }
  ],
- "new": [
-  {
-   "h": "/questions/does-an-ordinary-railway-service-support-bbd4008a",
-   "t": "Does an ordinary Railway service support non-root Chrome with its OS sandbox enabled?",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  }
- ],
+ "new": [],
  "all": [
   {
    "h": "/questions/multiple-set-cookie-headers-are-merged-d-f0edff34",
