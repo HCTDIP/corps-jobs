@@ -1,7 +1,16 @@
 {
- "at": "2026-11-09T01:13:59.878526+00:00",
+ "at": "2026-11-09T12:08:51.697985+00:00",
  "total": 29,
  "hot": [
+  {
+   "h": "/questions/railway-iac-staging-environment-doesnt-w-9be651ea",
+   "t": "Railway IaC Staging environment doesnt work with github actions",
+   "score": 4,
+   "notes": [
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
   {
    "h": "/questions/multiple-set-cookie-headers-are-merged-d-f0edff34",
    "t": "Multiple Set-Cookie headers are merged/dropped by Railway proxy; only one cookie reaches the client",
@@ -12,8 +21,78 @@
    ]
   }
  ],
- "new": [],
+ "new": [
+  {
+   "h": "/questions/railway-iac-staging-environment-doesnt-w-9be651ea",
+   "t": "Railway IaC Staging environment doesnt work with github actions",
+   "score": 4,
+   "notes": [
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/intermittent-tcp-connection-failures-on-c0a9450f",
+   "t": "Intermittent TCP connection failures on Railway public edge — 69.46.46.119",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/can-t-import-simple-sql-dump-via-phpmyad-0e904a74",
+   "t": "Can't import simple sql dump via phpmyadmin",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/postgre-sql-logical-replication-wal-stre-31386adc",
+   "t": "PostgreSQL logical replication (WAL streaming) connections drop with \"unexpected EOF\" every few minutes",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/citrine-os-everest-full-stack-on-railwa-2cfb8a0d",
+   "t": "CitrineOS + Everest full stack on Railway (production + extensible)",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/sleeping-webhook-api-gateway-502-1c6e0de4",
+   "t": "Sleeping Webhook API Gateway 502 $10 2 replies 10m by sevron-gil",
+   "score": 1,
+   "notes": [
+    "陈旧",
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/critical-bun-backend-on-railway-memor-9471c2fc",
+   "t": "Critical: Bun backend on Railway — memory growth, frequent request hangs/timeouts, slow/stuck deploys",
+   "score": -2,
+   "notes": [
+    "竞争低",
+    "⚠平台基建/已解"
+   ]
+  }
+ ],
  "all": [
+  {
+   "h": "/questions/railway-iac-staging-environment-doesnt-w-9be651ea",
+   "t": "Railway IaC Staging environment doesnt work with github actions",
+   "score": 4,
+   "notes": [
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
   {
    "h": "/questions/multiple-set-cookie-headers-are-merged-d-f0edff34",
    "t": "Multiple Set-Cookie headers are merged/dropped by Railway proxy; only one cookie reaches the client",
@@ -24,24 +103,8 @@
    ]
   },
   {
-   "h": "/questions/does-an-ordinary-railway-service-support-bbd4008a",
-   "t": "Does an ordinary Railway service support non-root Chrome with its OS sandbox enabled?",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/can-t-see-my-postgresql-database-in-dash-9c04693e",
-   "t": "Can't see my postgresql database in dashboard",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/railway-deployment-crashes-cannot-find-fb9e9e01",
-   "t": "Railway deployment crashes – Cannot find module server.js",
+   "h": "/questions/reusing-a-private-image-and-verifying-it-710bfc12",
+   "t": "Reusing a private image and verifying its digest (Pro/Hobby)",
    "score": 2,
    "notes": [
     "竞争低"
@@ -56,22 +119,6 @@
    ]
   },
   {
-   "h": "/questions/title-invalid-authorization-header-erro-9e8dd1fd",
-   "t": "Title: Invalid Authorization Header Error – Bot Deployment Failure",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/cross-site-cookies-setup-problem-fc88e36e",
-   "t": "Cross-site cookies setup problem",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
    "h": "/questions/dockerfile-rejected-before-build-with-no-1a0b7874",
    "t": "Dockerfile rejected before build with no logs, but the same recipe passes Docker and CI",
    "score": 2,
@@ -80,20 +127,45 @@
    ]
   },
   {
-   "h": "/questions/outbound-connections-from-web-host-ip-82-4287527f",
-   "t": "Outbound connections from web host IP 82.25.67.11 to Railway edge 69.46.46.67 time out since Nov 4",
+   "h": "/questions/intermittent-tcp-connection-failures-on-c0a9450f",
+   "t": "Intermittent TCP connection failures on Railway public edge — 69.46.46.119",
    "score": 2,
    "notes": [
     "竞争低"
    ]
   },
   {
-   "h": "/questions/reusing-a-private-image-and-verifying-it-710bfc12",
-   "t": "Reusing a private image and verifying its digest (Pro/Hobby) $10 1 replies 12d by Anonymous",
-   "score": -1,
+   "h": "/questions/can-t-import-simple-sql-dump-via-phpmyad-0e904a74",
+   "t": "Can't import simple sql dump via phpmyadmin",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/postgre-sql-logical-replication-wal-stre-31386adc",
+   "t": "PostgreSQL logical replication (WAL streaming) connections drop with \"unexpected EOF\" every few minutes",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/citrine-os-everest-full-stack-on-railwa-2cfb8a0d",
+   "t": "CitrineOS + Everest full stack on Railway (production + extensible)",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/sleeping-webhook-api-gateway-502-1c6e0de4",
+   "t": "Sleeping Webhook API Gateway 502 $10 2 replies 10m by sevron-gil",
+   "score": 1,
    "notes": [
     "陈旧",
-    "竞争低"
+    "竞争低",
+    "提问·配置型"
    ]
   },
   {
@@ -142,8 +214,8 @@
    ]
   },
   {
-   "h": "/questions/title-railway-deployment-cannot-connect-27670a6c",
-   "t": "Title: Railway deployment cannot connect to MongoDB Atlas — need help diagnosing outbound connection",
+   "h": "/questions/critical-bun-backend-on-railway-memor-9471c2fc",
+   "t": "Critical: Bun backend on Railway — memory growth, frequent request hangs/timeouts, slow/stuck deploys",
    "score": -2,
    "notes": [
     "竞争低",
