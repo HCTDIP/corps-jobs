@@ -1,26 +1,7 @@
 {
- "at": "2026-11-10T07:45:37.170816+00:00",
- "total": 27,
+ "at": "2026-11-10T17:18:17.970035+00:00",
+ "total": 29,
  "hot": [
-  {
-   "h": "/questions/runner-only-image-binding-without-deploy-33099a30",
-   "t": "Runner-Only Image Binding Without Deploying Pending API Changes $20 0 replies 4h by joseph0426",
-   "score": 7,
-   "notes": [
-    "数小时内",
-    "竞争低",
-    "提问·配置型"
-   ]
-  },
-  {
-   "h": "/questions/program-cras-8d77d849",
-   "t": "program cras $20 0 replies 2h by thingswedonttalkaboutmovie",
-   "score": 5,
-   "notes": [
-    "数小时内",
-    "竞争低"
-   ]
-  },
   {
    "h": "/questions/railway-iac-staging-environment-doesnt-w-9be651ea",
    "t": "Railway IaC Staging environment doesnt work with github actions",
@@ -31,8 +12,8 @@
    ]
   },
   {
-   "h": "/questions/multiple-set-cookie-headers-are-merged-d-f0edff34",
-   "t": "Multiple Set-Cookie headers are merged/dropped by Railway proxy; only one cookie reaches the client",
+   "h": "/questions/runner-only-image-binding-without-deploy-33099a30",
+   "t": "Runner-Only Image Binding Without Deploying Pending API Changes",
    "score": 4,
    "notes": [
     "竞争低",
@@ -42,45 +23,42 @@
  ],
  "new": [
   {
-   "h": "/questions/runner-only-image-binding-without-deploy-33099a30",
-   "t": "Runner-Only Image Binding Without Deploying Pending API Changes $20 0 replies 4h by joseph0426",
-   "score": 7,
+   "h": "/questions/restrict-public-app-ingress-while-retain-0d6ed049",
+   "t": "Restrict public app ingress while retaining private Postgres/Redis access",
+   "score": 2,
    "notes": [
-    "数小时内",
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/cli-triggered-builds-failed-6737cd9a",
+   "t": "CLI-triggered builds failed",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/sleeping-webhook-api-gateway-502-1c6e0de4",
+   "t": "Sleeping Webhook API Gateway 502 $10 2 replies 10m by sevron-gil",
+   "score": 1,
+   "notes": [
+    "陈旧",
     "竞争低",
     "提问·配置型"
    ]
   },
   {
-   "h": "/questions/program-cras-8d77d849",
-   "t": "program cras $20 0 replies 2h by thingswedonttalkaboutmovie",
-   "score": 5,
+   "h": "/questions/trying-to-connect-to-ghcr-and-getting-er-57d6de9e",
+   "t": "Trying to connect to GHCR and getting error $10 0 replies 10m by chrispalle",
+   "score": -1,
    "notes": [
-    "数小时内",
+    "陈旧",
     "竞争低"
    ]
   }
  ],
  "all": [
-  {
-   "h": "/questions/runner-only-image-binding-without-deploy-33099a30",
-   "t": "Runner-Only Image Binding Without Deploying Pending API Changes $20 0 replies 4h by joseph0426",
-   "score": 7,
-   "notes": [
-    "数小时内",
-    "竞争低",
-    "提问·配置型"
-   ]
-  },
-  {
-   "h": "/questions/program-cras-8d77d849",
-   "t": "program cras $20 0 replies 2h by thingswedonttalkaboutmovie",
-   "score": 5,
-   "notes": [
-    "数小时内",
-    "竞争低"
-   ]
-  },
   {
    "h": "/questions/railway-iac-staging-environment-doesnt-w-9be651ea",
    "t": "Railway IaC Staging environment doesnt work with github actions",
@@ -91,12 +69,44 @@
    ]
   },
   {
-   "h": "/questions/multiple-set-cookie-headers-are-merged-d-f0edff34",
-   "t": "Multiple Set-Cookie headers are merged/dropped by Railway proxy; only one cookie reaches the client",
+   "h": "/questions/runner-only-image-binding-without-deploy-33099a30",
+   "t": "Runner-Only Image Binding Without Deploying Pending API Changes",
    "score": 4,
    "notes": [
     "竞争低",
     "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/restrict-public-app-ingress-while-retain-0d6ed049",
+   "t": "Restrict public app ingress while retaining private Postgres/Redis access",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/cli-triggered-builds-failed-6737cd9a",
+   "t": "CLI-triggered builds failed",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/can-t-import-simple-sql-dump-via-phpmyad-0e904a74",
+   "t": "Can't import simple sql dump via phpmyadmin",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/program-cras-8d77d849",
+   "t": "program cras",
+   "score": 2,
+   "notes": [
+    "竞争低"
    ]
   },
   {
@@ -132,19 +142,13 @@
    ]
   },
   {
-   "h": "/questions/intermittent-tcp-connection-failures-on-c0a9450f",
-   "t": "Intermittent TCP connection failures on Railway public edge — 69.46.46.119",
-   "score": 2,
+   "h": "/questions/sleeping-webhook-api-gateway-502-1c6e0de4",
+   "t": "Sleeping Webhook API Gateway 502 $10 2 replies 10m by sevron-gil",
+   "score": 1,
    "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/can-t-import-simple-sql-dump-via-phpmyad-0e904a74",
-   "t": "Can't import simple sql dump via phpmyadmin",
-   "score": 2,
-   "notes": [
-    "竞争低"
+    "陈旧",
+    "竞争低",
+    "提问·配置型"
    ]
   },
   {
@@ -177,6 +181,15 @@
   {
    "h": "/questions/i-am-facing-problem-with-deploying-a-wro-f9cd5ada",
    "t": "I am facing problem when deploying a wrodpress template. $10 1 replies 10m by thompsonkylaw",
+   "score": -1,
+   "notes": [
+    "陈旧",
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/trying-to-connect-to-ghcr-and-getting-er-57d6de9e",
+   "t": "Trying to connect to GHCR and getting error $10 0 replies 10m by chrispalle",
    "score": -1,
    "notes": [
     "陈旧",
