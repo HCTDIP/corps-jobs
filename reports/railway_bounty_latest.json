@@ -1,5 +1,5 @@
 {
- "at": "2026-11-10T17:18:17.970035+00:00",
+ "at": "2026-11-10T23:43:57.849243+00:00",
  "total": 29,
  "hot": [
   {
@@ -21,43 +21,7 @@
    ]
   }
  ],
- "new": [
-  {
-   "h": "/questions/restrict-public-app-ingress-while-retain-0d6ed049",
-   "t": "Restrict public app ingress while retaining private Postgres/Redis access",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/cli-triggered-builds-failed-6737cd9a",
-   "t": "CLI-triggered builds failed",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/sleeping-webhook-api-gateway-502-1c6e0de4",
-   "t": "Sleeping Webhook API Gateway 502 $10 2 replies 10m by sevron-gil",
-   "score": 1,
-   "notes": [
-    "陈旧",
-    "竞争低",
-    "提问·配置型"
-   ]
-  },
-  {
-   "h": "/questions/trying-to-connect-to-ghcr-and-getting-er-57d6de9e",
-   "t": "Trying to connect to GHCR and getting error $10 0 replies 10m by chrispalle",
-   "score": -1,
-   "notes": [
-    "陈旧",
-    "竞争低"
-   ]
-  }
- ],
+ "new": [],
  "all": [
   {
    "h": "/questions/railway-iac-staging-environment-doesnt-w-9be651ea",
