@@ -1,17 +1,21 @@
 {
-  "at": "2026-11-09T14:47Z",
-  "runs": 160,
-  "open_total": 8,
-  "new_count": 0,
-  "new_items": [],
+  "at": "2026-11-10T01:00Z",
+  "runs": 161,
+  "open_total": 9,
+  "new_count": 1,
+  "new_items": [
+    "$250    [  4 提交] [无地区限制] Create an Engaging X Thread Introducing Anna AI Messenge"
+  ],
   "global_candidates": [
+    "$250    [  4 提交] [无地区限制] Create an Engaging X Thread Introducing Anna AI Messenge",
+    "$250    [  4 提交] 2026-11-19 | Create an Engaging X Thread Introducing Anna AI Mess",
     "$500    [ 28 提交] 2026-11-12 | Show us how you use MozaikPay",
     "$500    [ 57 提交] 2026-11-12 | Panta x NectarFi Trading Competition Bounty",
-    "$500    [ 58 提交] 2026-11-14 | Make a video about our x402 Feature",
     "$5000   [ 72 提交] 2026-12-14 | MultiHopper Build & Route Challenge | Up to $50,000",
-    "$200    [166 提交] 2026-11-18 | Create Content About KriptoK · 200 USDC Creator Chal",
-    "$500    [245 提交] 2026-11-24 | Create Content on Premier League Predictions with wo",
-    "$500    [607 提交] 2026-11-14 | Write a thread on $CHIMP Fair Launch - Part 1"
+    "$500    [ 76 提交] 2026-11-14 | Make a video about our x402 Feature",
+    "$200    [171 提交] 2026-11-18 | Create Content About KriptoK · 200 USDC Creator Chal",
+    "$500    [247 提交] 2026-11-24 | Create Content on Premier League Predictions with wo",
+    "$500    [617 提交] 2026-11-14 | Write a thread on $CHIMP Fair Launch - Part 1"
   ],
   "repo": "https://github.com/HCTDIP/corps-jobs"
 }
