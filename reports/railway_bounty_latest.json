@@ -1,7 +1,16 @@
 {
- "at": "2026-11-10T23:43:57.849243+00:00",
+ "at": "2026-11-11T07:09:55.003292+00:00",
  "total": 29,
  "hot": [
+  {
+   "h": "/questions/build-behaviour-of-a-staged-variable-dep-9ed5dbd0",
+   "t": "Build behaviour of a staged variable deploy on a CLI-uploaded service with a GitHub repo connected (auto-deploy off)",
+   "score": 4,
+   "notes": [
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
   {
    "h": "/questions/railway-iac-staging-environment-doesnt-w-9be651ea",
    "t": "Railway IaC Staging environment doesnt work with github actions",
@@ -21,8 +30,52 @@
    ]
   }
  ],
- "new": [],
+ "new": [
+  {
+   "h": "/questions/build-behaviour-of-a-staged-variable-dep-9ed5dbd0",
+   "t": "Build behaviour of a staged variable deploy on a CLI-uploaded service with a GitHub repo connected (auto-deploy off)",
+   "score": 4,
+   "notes": [
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/railway-container-runtime-security-contr-4b9220b5",
+   "t": "Railway Container Runtime Security Controls Verification",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/spawn-failed-no-such-file-or-directory-77529e86",
+   "t": "\"spawn failed: No such file or directory.",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/healthcheck-fails-with-service-unavaila-8b645b2d",
+   "t": "Healthcheck fails with \"service unavailable\" even though the deploy logs show my server listening",
+   "score": -2,
+   "notes": [
+    "竞争低",
+    "⚠平台基建/已解"
+   ]
+  }
+ ],
  "all": [
+  {
+   "h": "/questions/build-behaviour-of-a-staged-variable-dep-9ed5dbd0",
+   "t": "Build behaviour of a staged variable deploy on a CLI-uploaded service with a GitHub repo connected (auto-deploy off)",
+   "score": 4,
+   "notes": [
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
   {
    "h": "/questions/railway-iac-staging-environment-doesnt-w-9be651ea",
    "t": "Railway IaC Staging environment doesnt work with github actions",
@@ -39,6 +92,22 @@
    "notes": [
     "竞争低",
     "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/railway-container-runtime-security-contr-4b9220b5",
+   "t": "Railway Container Runtime Security Controls Verification",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/spawn-failed-no-such-file-or-directory-77529e86",
+   "t": "\"spawn failed: No such file or directory.",
+   "score": 2,
+   "notes": [
+    "竞争低"
    ]
   },
   {
@@ -68,38 +137,6 @@
   {
    "h": "/questions/program-cras-8d77d849",
    "t": "program cras",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/does-an-ordinary-railway-service-support-bbd4008a",
-   "t": "Does an ordinary Railway service support non-root Chrome with its OS sandbox enabled?",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/reusing-a-private-image-and-verifying-it-710bfc12",
-   "t": "Reusing a private image and verifying its digest (Pro/Hobby)",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/safe-export-of-an-idle-cron-volume-cons-ee2d608d",
-   "t": "Safe export of an idle cron volume: consistent SQLite/WAL backup on Hobby",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/dockerfile-rejected-before-build-with-no-1a0b7874",
-   "t": "Dockerfile rejected before build with no logs, but the same recipe passes Docker and CI",
    "score": 2,
    "notes": [
     "竞争低"
@@ -158,6 +195,15 @@
    "notes": [
     "陈旧",
     "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/healthcheck-fails-with-service-unavaila-8b645b2d",
+   "t": "Healthcheck fails with \"service unavailable\" even though the deploy logs show my server listening",
+   "score": -2,
+   "notes": [
+    "竞争低",
+    "⚠平台基建/已解"
    ]
   },
   {
