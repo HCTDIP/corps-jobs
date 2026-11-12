@@ -1,20 +1,27 @@
 {
-  "at": "2026-11-12T05:03Z",
-  "runs": 167,
-  "open_total": 10,
-  "new_count": 0,
-  "new_items": [],
+  "at": "2026-11-12T14:21Z",
+  "runs": 168,
+  "open_total": 12,
+  "new_count": 2,
+  "new_items": [
+    "$689655 [  1 提交] [无地区限制] A Narrative of Buying BAOBAO on PAJ - Twitter thread",
+    "$660    [  3 提交] [无地区限制] Create Nosana content: Explainer Thread/Article or Creat"
+  ],
   "global_candidates": [
+    "$689655 [  1 提交] [无地区限制] A Narrative of Buying BAOBAO on PAJ - Twitter thread",
+    "$660    [  3 提交] [无地区限制] Create Nosana content: Explainer Thread/Article or Creat",
+    "$689655 [  1 提交] 2026-11-21 | A Narrative of Buying BAOBAO on PAJ - Twitter thread",
     "$500    [  1 提交] 2026-12-10 | Build an Autonomous Capital Agent on Solana & Compet",
-    "$300    [  1 提交] 2026-11-30 | SSR.FUN Beta Launch Challenge",
-    "$500    [ 30 提交] 2026-11-12 | Show us how you use MozaikPay",
-    "$500    [ 62 提交] 2026-11-12 | Panta x NectarFi Trading Competition Bounty",
+    "$660    [  3 提交] 2026-11-25 | Create Nosana content: Explainer Thread/Article or C",
+    "$300    [  3 提交] 2026-11-30 | SSR.FUN Beta Launch Challenge",
+    "$500    [ 32 提交] 2026-11-12 | Show us how you use MozaikPay",
+    "$500    [ 65 提交] 2026-11-12 | Panta x NectarFi Trading Competition Bounty",
     "$5000   [ 73 提交] 2026-12-14 | MultiHopper Build & Route Challenge | Up to $50,000",
-    "$250    [ 92 提交] 2026-11-19 | Create an Engaging X Thread Introducing Anna AI Mess",
-    "$500    [146 提交] 2026-11-14 | Make a video about our x402 Feature",
-    "$200    [193 提交] 2026-11-18 | Create Content About KriptoK · 200 USDC Creator Chal",
-    "$500    [252 提交] 2026-11-24 | Create Content on Premier League Predictions with wo",
-    "$500    [669 提交] 2026-11-14 | Write a thread on $CHIMP Fair Launch - Part 1"
+    "$250    [105 提交] 2026-11-19 | Create an Engaging X Thread Introducing Anna AI Mess",
+    "$500    [161 提交] 2026-11-14 | Make a video about our x402 Feature",
+    "$200    [195 提交] 2026-11-18 | Create Content About KriptoK · 200 USDC Creator Chal",
+    "$500    [254 提交] 2026-11-24 | Create Content on Premier League Predictions with wo",
+    "$500    [681 提交] 2026-11-14 | Write a thread on $CHIMP Fair Launch - Part 1"
   ],
   "repo": "https://github.com/HCTDIP/corps-jobs"
 }
