@@ -1,5 +1,5 @@
 {
- "at": "2026-11-12T11:51:40.319384+00:00",
+ "at": "2026-11-12T20:28:08.095928+00:00",
  "total": 28,
  "hot": [
   {
@@ -19,26 +19,32 @@
     "竞争低",
     "提问·配置型"
    ]
-  },
-  {
-   "h": "/questions/railway-iac-staging-environment-doesnt-w-9be651ea",
-   "t": "Railway IaC Staging environment doesnt work with github actions",
-   "score": 4,
-   "notes": [
-    "竞争低",
-    "提问·配置型"
-   ]
   }
  ],
  "new": [
   {
-   "h": "/questions/sleeping-webhook-api-gateway-502-1c6e0de4",
-   "t": "Sleeping Webhook API Gateway 502 $10 2 replies 10m by sevron-gil",
-   "score": 1,
+   "h": "/questions/hello-my-telegram-bot-cannot-connect-to-705c11e9",
+   "t": "Hello. My Telegram bot cannot connect to Railway PostgreSQL from Yandex Cloud Functions.",
+   "score": 2,
    "notes": [
-    "陈旧",
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/crash-9e903787",
+   "t": "crash",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/build-failing-65f257cb",
+   "t": "Build Failing",
+   "score": -2,
+   "notes": [
     "竞争低",
-    "提问·配置型"
+    "⚠平台基建/已解"
    ]
   }
  ],
@@ -62,25 +68,16 @@
    ]
   },
   {
-   "h": "/questions/railway-iac-staging-environment-doesnt-w-9be651ea",
-   "t": "Railway IaC Staging environment doesnt work with github actions",
-   "score": 4,
-   "notes": [
-    "竞争低",
-    "提问·配置型"
-   ]
-  },
-  {
-   "h": "/questions/http-metrics-semantics-duration-popula-77893e51",
-   "t": "HTTP metrics semantics: duration, population, sampling and paths",
+   "h": "/questions/hello-my-telegram-bot-cannot-connect-to-705c11e9",
+   "t": "Hello. My Telegram bot cannot connect to Railway PostgreSQL from Yandex Cloud Functions.",
    "score": 2,
    "notes": [
     "竞争低"
    ]
   },
   {
-   "h": "/questions/railway-container-runtime-security-contr-4b9220b5",
-   "t": "Railway Container Runtime Security Controls Verification",
+   "h": "/questions/crash-9e903787",
+   "t": "crash",
    "score": 2,
    "notes": [
     "竞争低"
@@ -95,16 +92,16 @@
    ]
   },
   {
-   "h": "/questions/restrict-public-app-ingress-while-retain-0d6ed049",
-   "t": "Restrict public app ingress while retaining private Postgres/Redis access",
+   "h": "/questions/http-metrics-semantics-duration-popula-77893e51",
+   "t": "HTTP metrics semantics: duration, population, sampling and paths",
    "score": 2,
    "notes": [
     "竞争低"
    ]
   },
   {
-   "h": "/questions/cli-triggered-builds-failed-6737cd9a",
-   "t": "CLI-triggered builds failed",
+   "h": "/questions/railway-container-runtime-security-contr-4b9220b5",
+   "t": "Railway Container Runtime Security Controls Verification",
    "score": 2,
    "notes": [
     "竞争低"
@@ -163,6 +160,15 @@
    "notes": [
     "陈旧",
     "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/build-failing-65f257cb",
+   "t": "Build Failing",
+   "score": -2,
+   "notes": [
+    "竞争低",
+    "⚠平台基建/已解"
    ]
   },
   {
