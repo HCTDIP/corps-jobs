@@ -1,13 +1,12 @@
 {
- "at": "2026-11-12T01:00:21.409721+00:00",
+ "at": "2026-11-12T11:51:40.319384+00:00",
  "total": 28,
  "hot": [
   {
    "h": "/questions/console-ancestor-executable-marked-delet-5e265bf3",
-   "t": "Console ancestor executable marked deleted: supported path with safety guard intact $20 0 replies 3h by kishansk7",
-   "score": 7,
+   "t": "Console ancestor executable marked deleted: supported path with safety guard intact",
+   "score": 4,
    "notes": [
-    "数小时内",
     "竞争低",
     "提问·配置型"
    ]
@@ -24,15 +23,6 @@
   {
    "h": "/questions/railway-iac-staging-environment-doesnt-w-9be651ea",
    "t": "Railway IaC Staging environment doesnt work with github actions",
-   "score": 4,
-   "notes": [
-    "竞争低",
-    "提问·配置型"
-   ]
-  },
-  {
-   "h": "/questions/runner-only-image-binding-without-deploy-33099a30",
-   "t": "Runner-Only Image Binding Without Deploying Pending API Changes",
    "score": 4,
    "notes": [
     "竞争低",
@@ -42,31 +32,22 @@
  ],
  "new": [
   {
-   "h": "/questions/console-ancestor-executable-marked-delet-5e265bf3",
-   "t": "Console ancestor executable marked deleted: supported path with safety guard intact $20 0 replies 3h by kishansk7",
-   "score": 7,
+   "h": "/questions/sleeping-webhook-api-gateway-502-1c6e0de4",
+   "t": "Sleeping Webhook API Gateway 502 $10 2 replies 10m by sevron-gil",
+   "score": 1,
    "notes": [
-    "数小时内",
+    "陈旧",
     "竞争低",
     "提问·配置型"
-   ]
-  },
-  {
-   "h": "/questions/http-metrics-semantics-duration-popula-77893e51",
-   "t": "HTTP metrics semantics: duration, population, sampling and paths",
-   "score": 2,
-   "notes": [
-    "竞争低"
    ]
   }
  ],
  "all": [
   {
    "h": "/questions/console-ancestor-executable-marked-delet-5e265bf3",
-   "t": "Console ancestor executable marked deleted: supported path with safety guard intact $20 0 replies 3h by kishansk7",
-   "score": 7,
+   "t": "Console ancestor executable marked deleted: supported path with safety guard intact",
+   "score": 4,
    "notes": [
-    "数小时内",
     "竞争低",
     "提问·配置型"
    ]
@@ -83,15 +64,6 @@
   {
    "h": "/questions/railway-iac-staging-environment-doesnt-w-9be651ea",
    "t": "Railway IaC Staging environment doesnt work with github actions",
-   "score": 4,
-   "notes": [
-    "竞争低",
-    "提问·配置型"
-   ]
-  },
-  {
-   "h": "/questions/runner-only-image-binding-without-deploy-33099a30",
-   "t": "Runner-Only Image Binding Without Deploying Pending API Changes",
    "score": 4,
    "notes": [
     "竞争低",
@@ -136,6 +108,16 @@
    "score": 2,
    "notes": [
     "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/sleeping-webhook-api-gateway-502-1c6e0de4",
+   "t": "Sleeping Webhook API Gateway 502 $10 2 replies 10m by sevron-gil",
+   "score": 1,
+   "notes": [
+    "陈旧",
+    "竞争低",
+    "提问·配置型"
    ]
   },
   {
