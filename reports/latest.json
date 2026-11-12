@@ -1,27 +1,27 @@
 {
-  "at": "2026-11-12T14:21Z",
-  "runs": 168,
+  "at": "2026-11-12T23:00Z",
+  "runs": 169,
   "open_total": 12,
   "new_count": 2,
   "new_items": [
-    "$689655 [  1 提交] [无地区限制] A Narrative of Buying BAOBAO on PAJ - Twitter thread",
-    "$660    [  3 提交] [无地区限制] Create Nosana content: Explainer Thread/Article or Creat"
+    "$13000  [  1 提交] [无地区限制] The Raenest Global Bounty - Writing, Video & Animation B",
+    "$205    [  8 提交] [无地区限制] Play a cat game. 40 players win 5 USDC each."
   ],
   "global_candidates": [
-    "$689655 [  1 提交] [无地区限制] A Narrative of Buying BAOBAO on PAJ - Twitter thread",
-    "$660    [  3 提交] [无地区限制] Create Nosana content: Explainer Thread/Article or Creat",
+    "$13000  [  1 提交] [无地区限制] The Raenest Global Bounty - Writing, Video & Animation B",
+    "$205    [  8 提交] [无地区限制] Play a cat game. 40 players win 5 USDC each.",
     "$689655 [  1 提交] 2026-11-21 | A Narrative of Buying BAOBAO on PAJ - Twitter thread",
-    "$500    [  1 提交] 2026-12-10 | Build an Autonomous Capital Agent on Solana & Compet",
-    "$660    [  3 提交] 2026-11-25 | Create Nosana content: Explainer Thread/Article or C",
+    "$13000  [  1 提交] 2026-12-13 | The Raenest Global Bounty - Writing, Video & Animati",
+    "$500    [  2 提交] 2026-12-10 | Build an Autonomous Capital Agent on Solana & Compet",
     "$300    [  3 提交] 2026-11-30 | SSR.FUN Beta Launch Challenge",
-    "$500    [ 32 提交] 2026-11-12 | Show us how you use MozaikPay",
-    "$500    [ 65 提交] 2026-11-12 | Panta x NectarFi Trading Competition Bounty",
-    "$5000   [ 73 提交] 2026-12-14 | MultiHopper Build & Route Challenge | Up to $50,000",
-    "$250    [105 提交] 2026-11-19 | Create an Engaging X Thread Introducing Anna AI Mess",
-    "$500    [161 提交] 2026-11-14 | Make a video about our x402 Feature",
-    "$200    [195 提交] 2026-11-18 | Create Content About KriptoK · 200 USDC Creator Chal",
-    "$500    [254 提交] 2026-11-24 | Create Content on Premier League Predictions with wo",
-    "$500    [681 提交] 2026-11-14 | Write a thread on $CHIMP Fair Launch - Part 1"
+    "$205    [  8 提交] 2026-11-15 | Play a cat game. 40 players win 5 USDC each.",
+    "$660    [ 10 提交] 2026-11-25 | Create Nosana content: Explainer Thread/Article or C",
+    "$5000   [ 75 提交] 2026-12-14 | MultiHopper Build & Route Challenge | Up to $50,000",
+    "$250    [119 提交] 2026-11-19 | Create an Engaging X Thread Introducing Anna AI Mess",
+    "$500    [169 提交] 2026-11-14 | Make a video about our x402 Feature",
+    "$200    [197 提交] 2026-11-18 | Create Content About KriptoK · 200 USDC Creator Chal",
+    "$500    [256 提交] 2026-11-24 | Create Content on Premier League Predictions with wo",
+    "$500    [684 提交] 2026-11-14 | Write a thread on $CHIMP Fair Launch - Part 1"
   ],
   "repo": "https://github.com/HCTDIP/corps-jobs"
 }
