@@ -1,7 +1,16 @@
 {
- "at": "2026-11-13T11:35:14.088944+00:00",
+ "at": "2026-11-13T20:03:28.938288+00:00",
  "total": 26,
  "hot": [
+  {
+   "h": "/questions/read-only-source-snapshot-export-for-a-c-463827aa",
+   "t": "Read-only source snapshot export for a CLI deployment",
+   "score": 4,
+   "notes": [
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
   {
    "h": "/questions/console-ancestor-executable-marked-delet-5e265bf3",
    "t": "Console ancestor executable marked deleted: supported path with safety guard intact",
@@ -12,8 +21,35 @@
    ]
   }
  ],
- "new": [],
+ "new": [
+  {
+   "h": "/questions/read-only-source-snapshot-export-for-a-c-463827aa",
+   "t": "Read-only source snapshot export for a CLI deployment",
+   "score": 4,
+   "notes": [
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/simple-solution-to-show-request-headers-65083402",
+   "t": "Simple solution to show request headers",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  }
+ ],
  "all": [
+  {
+   "h": "/questions/read-only-source-snapshot-export-for-a-c-463827aa",
+   "t": "Read-only source snapshot export for a CLI deployment",
+   "score": 4,
+   "notes": [
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
   {
    "h": "/questions/console-ancestor-executable-marked-delet-5e265bf3",
    "t": "Console ancestor executable marked deleted: supported path with safety guard intact",
@@ -21,6 +57,14 @@
    "notes": [
     "竞争低",
     "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/simple-solution-to-show-request-headers-65083402",
+   "t": "Simple solution to show request headers",
+   "score": 2,
+   "notes": [
+    "竞争低"
    ]
   },
   {
@@ -48,22 +92,6 @@
    ]
   },
   {
-   "h": "/questions/http-metrics-semantics-duration-popula-77893e51",
-   "t": "HTTP metrics semantics: duration, population, sampling and paths",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/railway-container-runtime-security-contr-4b9220b5",
-   "t": "Railway Container Runtime Security Controls Verification",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
    "h": "/questions/sleeping-webhook-api-gateway-502-1c6e0de4",
    "t": "Sleeping Webhook API Gateway 502 $10 2 replies 10m by sevron-gil",
    "score": 1,
@@ -75,7 +103,7 @@
   },
   {
    "h": "/questions/selective-connectivity-issue-dns-resolu-3612b603",
-   "t": "Selective Connectivity Issue: DNS Resolution/Routing Failure for specific Static IPs on priori-staging.up.railway.app $10 1 replies 9m by admin-renaissa",
+   "t": "Selective Connectivity Issue: DNS Resolution/Routing Failure for specific Static IPs on priori-staging.up.railway.app $10 1 reply 9m by admin-renaissa",
    "score": -1,
    "notes": [
     "陈旧",
@@ -84,7 +112,7 @@
   },
   {
    "h": "/questions/deploying-37signals-writebook-as-a-comp-762bb8bb",
-   "t": "deploying 37signals' Writebook as a complete beginner $20 1 replies 9m by fherceg",
+   "t": "deploying 37signals' Writebook as a complete beginner $20 1 reply 9m by fherceg",
    "score": -1,
    "notes": [
     "陈旧",
@@ -93,7 +121,7 @@
   },
   {
    "h": "/questions/all-apps-on-500-0c21c018",
-   "t": "All apps on 500 $20 1 replies 10m by bgolconcie",
+   "t": "All apps on 500 $20 1 reply 10m by bgolconcie",
    "score": -1,
    "notes": [
     "陈旧",
@@ -102,7 +130,7 @@
   },
   {
    "h": "/questions/i-am-facing-problem-with-deploying-a-wro-f9cd5ada",
-   "t": "I am facing problem when deploying a wrodpress template. $10 1 replies 10m by thompsonkylaw",
+   "t": "I am facing problem when deploying a wrodpress template. $10 1 reply 10m by thompsonkylaw",
    "score": -1,
    "notes": [
     "陈旧",
@@ -129,7 +157,7 @@
   },
   {
    "h": "/questions/request-for-csr-certificate-signing-req-6c07d2db",
-   "t": "Request for CSR (Certificate Signing Request) for Custom SSL Setup $10 1 replies 8m by mythoslabsinc",
+   "t": "Request for CSR (Certificate Signing Request) for Custom SSL Setup $10 1 reply 8m by mythoslabsinc",
    "score": -3,
    "notes": [
     "陈旧",
@@ -196,7 +224,7 @@
   },
   {
    "h": "/questions/deploy-nodes-cannot-reach-internal-regis-dfbe538a",
-   "t": "Deploy nodes cannot reach internal registry (us-west2) — service offline $10 1 replies 7m by bmetcalf21",
+   "t": "Deploy nodes cannot reach internal registry (us-west2) — service offline $10 1 reply 7m by bmetcalf21",
    "score": -5,
    "notes": [
     "陈旧",
@@ -206,7 +234,7 @@
   },
   {
    "h": "/questions/volume-restore-button-not-working-load-a0e52a31",
-   "t": "Volume restore button not working - loads project instead $10 1 replies 8m by mosatiii",
+   "t": "Volume restore button not working - loads project instead $10 1 reply 8m by mosatiii",
    "score": -5,
    "notes": [
     "陈旧",
