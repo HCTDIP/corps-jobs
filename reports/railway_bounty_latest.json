@@ -1,5 +1,5 @@
 {
- "at": "2026-11-12T20:28:08.095928+00:00",
+ "at": "2026-11-13T02:08:33.868863+00:00",
  "total": 28,
  "hot": [
   {
@@ -21,33 +21,7 @@
    ]
   }
  ],
- "new": [
-  {
-   "h": "/questions/hello-my-telegram-bot-cannot-connect-to-705c11e9",
-   "t": "Hello. My Telegram bot cannot connect to Railway PostgreSQL from Yandex Cloud Functions.",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/crash-9e903787",
-   "t": "crash",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/build-failing-65f257cb",
-   "t": "Build Failing",
-   "score": -2,
-   "notes": [
-    "竞争低",
-    "⚠平台基建/已解"
-   ]
-  }
- ],
+ "new": [],
  "all": [
   {
    "h": "/questions/console-ancestor-executable-marked-delet-5e265bf3",
@@ -137,7 +111,7 @@
   },
   {
    "h": "/questions/all-apps-on-500-0c21c018",
-   "t": "All apps on 500 $20 1 replies 9m by bgolconcie",
+   "t": "All apps on 500 $20 1 replies 10m by bgolconcie",
    "score": -1,
    "notes": [
     "陈旧",
