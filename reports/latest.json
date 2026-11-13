@@ -1,22 +1,28 @@
 {
-  "at": "2026-11-13T04:19Z",
-  "runs": 170,
-  "open_total": 12,
-  "new_count": 0,
-  "new_items": [],
+  "at": "2026-11-13T13:41Z",
+  "runs": 171,
+  "open_total": 14,
+  "new_count": 2,
+  "new_items": [
+    "$400    [  0 提交] [有地区分会] Write a Twitter Thread on Opportunities for Students Wor",
+    "$100    [  2 提交] [无地区限制] Startup Village Chitwan - Gaida Race"
+  ],
   "global_candidates": [
-    "$689655 [  1 提交] 2026-11-21 | A Narrative of Buying BAOBAO on PAJ - Twitter thread",
-    "$13000  [  2 提交] 2026-12-13 | The Raenest Global Bounty - Writing, Video & Animati",
+    "$400    [  0 提交] [有地区分会] Write a Twitter Thread on Opportunities for Students Wor",
+    "$100    [  2 提交] [无地区限制] Startup Village Chitwan - Gaida Race",
     "$500    [  2 提交] 2026-12-10 | Build an Autonomous Capital Agent on Solana & Compet",
-    "$300    [  3 提交] 2026-11-30 | SSR.FUN Beta Launch Challenge",
-    "$205    [ 10 提交] 2026-11-15 | Play a cat game. 40 players win 5 USDC each.",
-    "$660    [ 13 提交] 2026-11-25 | Create Nosana content: Explainer Thread/Article or C",
-    "$5000   [ 75 提交] 2026-12-14 | MultiHopper Build & Route Challenge | Up to $50,000",
-    "$250    [122 提交] 2026-11-19 | Create an Engaging X Thread Introducing Anna AI Mess",
-    "$500    [174 提交] 2026-11-14 | Make a video about our x402 Feature",
-    "$200    [197 提交] 2026-11-18 | Create Content About KriptoK · 200 USDC Creator Chal",
-    "$500    [256 提交] 2026-11-24 | Create Content on Premier League Predictions with wo",
-    "$500    [685 提交] 2026-11-14 | Write a thread on $CHIMP Fair Launch - Part 1"
+    "$100    [  2 提交] 2026-11-14 | Startup Village Chitwan - Gaida Race",
+    "$689655 [  3 提交] 2026-11-21 | A Narrative of Buying BAOBAO on PAJ - Twitter thread",
+    "$300    [  4 提交] 2026-11-30 | SSR.FUN Beta Launch Challenge",
+    "$13000  [  6 提交] 2026-12-13 | The Raenest Global Bounty - Writing, Video & Animati",
+    "$205    [ 16 提交] 2026-11-15 | Play a cat game. 40 players win 5 USDC each.",
+    "$660    [ 25 提交] 2026-11-25 | Create Nosana content: Explainer Thread/Article or C",
+    "$5000   [ 76 提交] 2026-12-14 | MultiHopper Build & Route Challenge | Up to $50,000",
+    "$250    [134 提交] 2026-11-19 | Create an Engaging X Thread Introducing Anna AI Mess",
+    "$500    [191 提交] 2026-11-14 | Make a video about our x402 Feature",
+    "$200    [200 提交] 2026-11-18 | Create Content About KriptoK · 200 USDC Creator Chal",
+    "$500    [257 提交] 2026-11-24 | Create Content on Premier League Predictions with wo",
+    "$500    [695 提交] 2026-11-14 | Write a thread on $CHIMP Fair Launch - Part 1"
   ],
   "repo": "https://github.com/HCTDIP/corps-jobs"
 }
