@@ -1,14 +1,14 @@
 {
- "at": "2026-11-14T10:56:39.714375+00:00",
- "total": 27,
+ "at": "2026-11-14T18:29:54.881749+00:00",
+ "total": 28,
  "hot": [
   {
-   "h": "/questions/auto-deployment-crashed-897e7824",
-   "t": "auto deployment crashed $20 0 replies 1h by luvakashdear",
-   "score": 5,
+   "h": "/questions/subject-secure-credential-silent-ssh-tu-2d86faa2",
+   "t": "Subject: Secure credential-silent SSH tunnel for private MySQL — Railway CLI 5.71.0",
+   "score": 4,
    "notes": [
-    "数小时内",
-    "竞争低"
+    "竞争低",
+    "提问·配置型"
    ]
   },
   {
@@ -32,15 +32,6 @@
   {
    "h": "/questions/hobby-postgresql-secure-backup-restore-d6c81ae5",
    "t": "Hobby PostgreSQL: Secure Backup, Restore and Migration Without SSH",
-   "score": 4,
-   "notes": [
-    "竞争低",
-    "提问·配置型"
-   ]
-  },
-  {
-   "h": "/questions/sleeping-webhook-api-gateway-502-1c6e0de4",
-   "t": "Sleeping Webhook API Gateway 502",
    "score": 4,
    "notes": [
     "竞争低",
@@ -50,23 +41,39 @@
  ],
  "new": [
   {
-   "h": "/questions/auto-deployment-crashed-897e7824",
-   "t": "auto deployment crashed $20 0 replies 1h by luvakashdear",
-   "score": 5,
+   "h": "/questions/subject-secure-credential-silent-ssh-tu-2d86faa2",
+   "t": "Subject: Secure credential-silent SSH tunnel for private MySQL — Railway CLI 5.71.0",
+   "score": 4,
    "notes": [
-    "数小时内",
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/mongo-iac-helper-bug-eb6c380b",
+   "t": "Mongo iac helper bug",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/https-connection-to-goszakupki-by-times-394df8b1",
+   "t": "HTTPS connection to goszakupki.by times out from Railway",
+   "score": 2,
+   "notes": [
     "竞争低"
    ]
   }
  ],
  "all": [
   {
-   "h": "/questions/auto-deployment-crashed-897e7824",
-   "t": "auto deployment crashed $20 0 replies 1h by luvakashdear",
-   "score": 5,
+   "h": "/questions/subject-secure-credential-silent-ssh-tu-2d86faa2",
+   "t": "Subject: Secure credential-silent SSH tunnel for private MySQL — Railway CLI 5.71.0",
+   "score": 4,
    "notes": [
-    "数小时内",
-    "竞争低"
+    "竞争低",
+    "提问·配置型"
    ]
   },
   {
@@ -97,12 +104,27 @@
    ]
   },
   {
-   "h": "/questions/sleeping-webhook-api-gateway-502-1c6e0de4",
-   "t": "Sleeping Webhook API Gateway 502",
-   "score": 4,
+   "h": "/questions/mongo-iac-helper-bug-eb6c380b",
+   "t": "Mongo iac helper bug",
+   "score": 2,
    "notes": [
-    "竞争低",
-    "提问·配置型"
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/https-connection-to-goszakupki-by-times-394df8b1",
+   "t": "HTTPS connection to goszakupki.by times out from Railway",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/auto-deployment-crashed-897e7824",
+   "t": "auto deployment crashed",
+   "score": 2,
+   "notes": [
+    "竞争低"
    ]
   },
   {
@@ -114,19 +136,13 @@
    ]
   },
   {
-   "h": "/questions/hello-my-telegram-bot-cannot-connect-to-705c11e9",
-   "t": "Hello. My Telegram bot cannot connect to Railway PostgreSQL from Yandex Cloud Functions.",
-   "score": 2,
+   "h": "/questions/sleeping-webhook-api-gateway-502-1c6e0de4",
+   "t": "Sleeping Webhook API Gateway 502 $10 2 replies 10m by sevron-gil",
+   "score": 1,
    "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/crash-9e903787",
-   "t": "crash",
-   "score": 2,
-   "notes": [
-    "竞争低"
+    "陈旧",
+    "竞争低",
+    "提问·配置型"
    ]
   },
   {
