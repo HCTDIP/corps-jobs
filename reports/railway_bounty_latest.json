@@ -1,10 +1,28 @@
 {
- "at": "2026-11-14T01:48:20.776430+00:00",
+ "at": "2026-11-14T10:56:39.714375+00:00",
  "total": 27,
  "hot": [
   {
+   "h": "/questions/auto-deployment-crashed-897e7824",
+   "t": "auto deployment crashed $20 0 replies 1h by luvakashdear",
+   "score": 5,
+   "notes": [
+    "数小时内",
+    "竞争低"
+   ]
+  },
+  {
    "h": "/questions/read-only-source-snapshot-export-for-a-c-463827aa",
    "t": "Read-only source snapshot export for a CLI deployment",
+   "score": 4,
+   "notes": [
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/console-ancestor-executable-marked-delet-5e265bf3",
+   "t": "Console ancestor executable marked deleted: supported path with safety guard intact",
    "score": 4,
    "notes": [
     "竞争低",
@@ -21,8 +39,8 @@
    ]
   },
   {
-   "h": "/questions/console-ancestor-executable-marked-delet-5e265bf3",
-   "t": "Console ancestor executable marked deleted: supported path with safety guard intact",
+   "h": "/questions/sleeping-webhook-api-gateway-502-1c6e0de4",
+   "t": "Sleeping Webhook API Gateway 502",
    "score": 4,
    "notes": [
     "竞争低",
@@ -32,16 +50,25 @@
  ],
  "new": [
   {
-   "h": "/questions/hobby-postgresql-secure-backup-restore-d6c81ae5",
-   "t": "Hobby PostgreSQL: Secure Backup, Restore and Migration Without SSH",
-   "score": 4,
+   "h": "/questions/auto-deployment-crashed-897e7824",
+   "t": "auto deployment crashed $20 0 replies 1h by luvakashdear",
+   "score": 5,
    "notes": [
-    "竞争低",
-    "提问·配置型"
+    "数小时内",
+    "竞争低"
    ]
   }
  ],
  "all": [
+  {
+   "h": "/questions/auto-deployment-crashed-897e7824",
+   "t": "auto deployment crashed $20 0 replies 1h by luvakashdear",
+   "score": 5,
+   "notes": [
+    "数小时内",
+    "竞争低"
+   ]
+  },
   {
    "h": "/questions/read-only-source-snapshot-export-for-a-c-463827aa",
    "t": "Read-only source snapshot export for a CLI deployment",
@@ -52,6 +79,15 @@
    ]
   },
   {
+   "h": "/questions/console-ancestor-executable-marked-delet-5e265bf3",
+   "t": "Console ancestor executable marked deleted: supported path with safety guard intact",
+   "score": 4,
+   "notes": [
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
+  {
    "h": "/questions/hobby-postgresql-secure-backup-restore-d6c81ae5",
    "t": "Hobby PostgreSQL: Secure Backup, Restore and Migration Without SSH",
    "score": 4,
@@ -61,8 +97,8 @@
    ]
   },
   {
-   "h": "/questions/console-ancestor-executable-marked-delet-5e265bf3",
-   "t": "Console ancestor executable marked deleted: supported path with safety guard intact",
+   "h": "/questions/sleeping-webhook-api-gateway-502-1c6e0de4",
+   "t": "Sleeping Webhook API Gateway 502",
    "score": 4,
    "notes": [
     "竞争低",
@@ -91,24 +127,6 @@
    "score": 2,
    "notes": [
     "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/spawn-failed-no-such-file-or-directory-77529e86",
-   "t": "\"spawn failed: No such file or directory.",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/sleeping-webhook-api-gateway-502-1c6e0de4",
-   "t": "Sleeping Webhook API Gateway 502 $10 2 replies 10m by sevron-gil",
-   "score": 1,
-   "notes": [
-    "陈旧",
-    "竞争低",
-    "提问·配置型"
    ]
   },
   {
@@ -234,7 +252,7 @@
   },
   {
    "h": "/questions/deploy-nodes-cannot-reach-internal-regis-dfbe538a",
-   "t": "Deploy nodes cannot reach internal registry (us-west2) — service offline $10 1 reply 7m by bmetcalf21",
+   "t": "Deploy nodes cannot reach internal registry (us-west2) — service offline $10 1 reply 8m by bmetcalf21",
    "score": -5,
    "notes": [
     "陈旧",
