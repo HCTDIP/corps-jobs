@@ -1,10 +1,19 @@
 {
- "at": "2026-11-13T20:03:28.938288+00:00",
- "total": 26,
+ "at": "2026-11-14T01:48:20.776430+00:00",
+ "total": 27,
  "hot": [
   {
    "h": "/questions/read-only-source-snapshot-export-for-a-c-463827aa",
    "t": "Read-only source snapshot export for a CLI deployment",
+   "score": 4,
+   "notes": [
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/hobby-postgresql-secure-backup-restore-d6c81ae5",
+   "t": "Hobby PostgreSQL: Secure Backup, Restore and Migration Without SSH",
    "score": 4,
    "notes": [
     "竞争低",
@@ -23,6 +32,17 @@
  ],
  "new": [
   {
+   "h": "/questions/hobby-postgresql-secure-backup-restore-d6c81ae5",
+   "t": "Hobby PostgreSQL: Secure Backup, Restore and Migration Without SSH",
+   "score": 4,
+   "notes": [
+    "竞争低",
+    "提问·配置型"
+   ]
+  }
+ ],
+ "all": [
+  {
    "h": "/questions/read-only-source-snapshot-export-for-a-c-463827aa",
    "t": "Read-only source snapshot export for a CLI deployment",
    "score": 4,
@@ -32,18 +52,8 @@
    ]
   },
   {
-   "h": "/questions/simple-solution-to-show-request-headers-65083402",
-   "t": "Simple solution to show request headers",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  }
- ],
- "all": [
-  {
-   "h": "/questions/read-only-source-snapshot-export-for-a-c-463827aa",
-   "t": "Read-only source snapshot export for a CLI deployment",
+   "h": "/questions/hobby-postgresql-secure-backup-restore-d6c81ae5",
+   "t": "Hobby PostgreSQL: Secure Backup, Restore and Migration Without SSH",
    "score": 4,
    "notes": [
     "竞争低",
