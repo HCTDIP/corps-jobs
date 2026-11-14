@@ -1,23 +1,26 @@
 {
-  "at": "2026-11-14T04:15Z",
-  "runs": 173,
-  "open_total": 14,
-  "new_count": 0,
-  "new_items": [],
+  "at": "2026-11-14T12:46Z",
+  "runs": 174,
+  "open_total": 15,
+  "new_count": 1,
+  "new_items": [
+    "$500    [  0 提交] [有地区分会] Write an Article on Fundraising Opportunities for Early"
+  ],
   "global_candidates": [
-    "$500    [  2 提交] 2026-12-10 | Build an Autonomous Capital Agent on Solana & Compet",
+    "$500    [  0 提交] [有地区分会] Write an Article on Fundraising Opportunities for Early",
     "$100    [  2 提交] 2026-11-14 | Startup Village Chitwan - Gaida Race",
     "$689655 [  3 提交] 2026-11-21 | A Narrative of Buying BAOBAO on PAJ - Twitter thread",
+    "$500    [  4 提交] 2026-12-10 | Build an Autonomous Capital Agent on Solana & Compet",
     "$300    [  5 提交] 2026-11-30 | SSR.FUN Beta Launch Challenge",
-    "$13000  [ 16 提交] 2026-12-13 | The Raenest Global Bounty - Writing, Video & Animati",
-    "$660    [ 29 提交] 2026-11-25 | Create Nosana content: Explainer Thread/Article or C",
-    "$205    [ 37 提交] 2026-11-15 | Play a cat game. 40 players win 5 USDC each.",
-    "$5000   [ 76 提交] 2026-12-14 | MultiHopper Build & Route Challenge | Up to $50,000",
-    "$250    [146 提交] 2026-11-19 | Create an Engaging X Thread Introducing Anna AI Mess",
-    "$200    [204 提交] 2026-11-25 | Create Content About KriptoK · 200 USDC Creator Chal",
-    "$500    [217 提交] 2026-11-14 | Make a video about our x402 Feature",
-    "$500    [259 提交] 2026-11-24 | Create Content on Premier League Predictions with wo",
-    "$500    [715 提交] 2026-11-14 | Write a thread on $CHIMP Fair Launch - Part 1"
+    "$13000  [ 22 提交] 2026-12-13 | The Raenest Global Bounty - Writing, Video & Animati",
+    "$660    [ 35 提交] 2026-11-25 | Create Nosana content: Explainer Thread/Article or C",
+    "$205    [ 50 提交] 2026-11-15 | Play a cat game. 40 players win 5 USDC each.",
+    "$5000   [ 77 提交] 2026-12-14 | MultiHopper Build & Route Challenge | Up to $50,000",
+    "$250    [160 提交] 2026-11-19 | Create an Engaging X Thread Introducing Anna AI Mess",
+    "$200    [206 提交] 2026-11-25 | Create Content About KriptoK · 200 USDC Creator Chal",
+    "$500    [230 提交] 2026-11-14 | Make a video about our x402 Feature",
+    "$500    [260 提交] 2026-11-24 | Create Content on Premier League Predictions with wo",
+    "$500    [729 提交] 2026-11-14 | Write a thread on $CHIMP Fair Launch - Part 1"
   ],
   "repo": "https://github.com/HCTDIP/corps-jobs"
 }
