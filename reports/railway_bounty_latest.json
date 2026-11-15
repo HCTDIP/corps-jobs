@@ -1,7 +1,16 @@
 {
- "at": "2026-11-14T22:44:59.439257+00:00",
+ "at": "2026-11-15T07:12:58.743336+00:00",
  "total": 29,
  "hot": [
+  {
+   "h": "/questions/sleeping-webhook-api-gateway-502-1c6e0de4",
+   "t": "Sleeping Webhook API Gateway 502",
+   "score": 4,
+   "notes": [
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
   {
    "h": "/questions/read-only-source-snapshot-export-for-a-c-463827aa",
    "t": "Read-only source snapshot export for a CLI deployment",
@@ -41,15 +50,25 @@
  ],
  "new": [
   {
-   "h": "/questions/bot-crahsed-741e3c73",
-   "t": "bot crahsed",
-   "score": 2,
+   "h": "/questions/me-webhook-url-74a8657f",
+   "t": "me webhook_url $10 0 replies 10m by plataformaup-maker",
+   "score": -1,
    "notes": [
+    "陈旧",
     "竞争低"
    ]
   }
  ],
  "all": [
+  {
+   "h": "/questions/sleeping-webhook-api-gateway-502-1c6e0de4",
+   "t": "Sleeping Webhook API Gateway 502",
+   "score": 4,
+   "notes": [
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
   {
    "h": "/questions/read-only-source-snapshot-export-for-a-c-463827aa",
    "t": "Read-only source snapshot export for a CLI deployment",
@@ -119,24 +138,6 @@
    ]
   },
   {
-   "h": "/questions/simple-solution-to-show-request-headers-65083402",
-   "t": "Simple solution to show request headers",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/sleeping-webhook-api-gateway-502-1c6e0de4",
-   "t": "Sleeping Webhook API Gateway 502 $10 2 replies 10m by sevron-gil",
-   "score": 1,
-   "notes": [
-    "陈旧",
-    "竞争低",
-    "提问·配置型"
-   ]
-  },
-  {
    "h": "/questions/selective-connectivity-issue-dns-resolu-3612b603",
    "t": "Selective Connectivity Issue: DNS Resolution/Routing Failure for specific Static IPs on priori-staging.up.railway.app $10 1 reply 9m by admin-renaissa",
    "score": -1,
@@ -175,6 +176,15 @@
   {
    "h": "/questions/trying-to-connect-to-ghcr-and-getting-er-57d6de9e",
    "t": "Trying to connect to GHCR and getting error $10 0 replies 10m by chrispalle",
+   "score": -1,
+   "notes": [
+    "陈旧",
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/me-webhook-url-74a8657f",
+   "t": "me webhook_url $10 0 replies 10m by plataformaup-maker",
    "score": -1,
    "notes": [
     "陈旧",
