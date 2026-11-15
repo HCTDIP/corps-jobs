@@ -1,37 +1,10 @@
 {
- "at": "2026-11-15T07:12:58.743336+00:00",
- "total": 29,
+ "at": "2026-11-15T16:37:07.379844+00:00",
+ "total": 28,
  "hot": [
   {
-   "h": "/questions/sleeping-webhook-api-gateway-502-1c6e0de4",
-   "t": "Sleeping Webhook API Gateway 502",
-   "score": 4,
-   "notes": [
-    "竞争低",
-    "提问·配置型"
-   ]
-  },
-  {
-   "h": "/questions/read-only-source-snapshot-export-for-a-c-463827aa",
-   "t": "Read-only source snapshot export for a CLI deployment",
-   "score": 4,
-   "notes": [
-    "竞争低",
-    "提问·配置型"
-   ]
-  },
-  {
-   "h": "/questions/subject-secure-credential-silent-ssh-tu-2d86faa2",
-   "t": "Subject: Secure credential-silent SSH tunnel for private MySQL — Railway CLI 5.71.0",
-   "score": 4,
-   "notes": [
-    "竞争低",
-    "提问·配置型"
-   ]
-  },
-  {
-   "h": "/questions/console-ancestor-executable-marked-delet-5e265bf3",
-   "t": "Console ancestor executable marked deleted: supported path with safety guard intact",
+   "h": "/questions/railway-bucket-s3-api-returns-http-400-o-107c3c96",
+   "t": "Railway Bucket S3 API returns HTTP 400 on HEAD and GET",
    "score": 4,
    "notes": [
     "竞争低",
@@ -50,8 +23,33 @@
  ],
  "new": [
   {
-   "h": "/questions/me-webhook-url-74a8657f",
-   "t": "me webhook_url $10 0 replies 10m by plataformaup-maker",
+   "h": "/questions/railway-bucket-s3-api-returns-http-400-o-107c3c96",
+   "t": "Railway Bucket S3 API returns HTTP 400 on HEAD and GET",
+   "score": 4,
+   "notes": [
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/postgres-pitr-postgis-and-networking-q-c2085df3",
+   "t": "Postgres PITR, PostGIS, and Networking Questions",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/shifttracker-backend-recurring-europe-w-6cda607d",
+   "t": "shifttracker-backend: recurring europe-west4-drams3a edge issue, possible regression of 2026-06-09 fix",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/facing-issues-with-connecting-with-our-d-0e610d74",
+   "t": "facing issues with connecting with our DB located inside Mongo Atlas $20 0 replies 10m by mangueshborker-mckinley",
    "score": -1,
    "notes": [
     "陈旧",
@@ -61,35 +59,8 @@
  ],
  "all": [
   {
-   "h": "/questions/sleeping-webhook-api-gateway-502-1c6e0de4",
-   "t": "Sleeping Webhook API Gateway 502",
-   "score": 4,
-   "notes": [
-    "竞争低",
-    "提问·配置型"
-   ]
-  },
-  {
-   "h": "/questions/read-only-source-snapshot-export-for-a-c-463827aa",
-   "t": "Read-only source snapshot export for a CLI deployment",
-   "score": 4,
-   "notes": [
-    "竞争低",
-    "提问·配置型"
-   ]
-  },
-  {
-   "h": "/questions/subject-secure-credential-silent-ssh-tu-2d86faa2",
-   "t": "Subject: Secure credential-silent SSH tunnel for private MySQL — Railway CLI 5.71.0",
-   "score": 4,
-   "notes": [
-    "竞争低",
-    "提问·配置型"
-   ]
-  },
-  {
-   "h": "/questions/console-ancestor-executable-marked-delet-5e265bf3",
-   "t": "Console ancestor executable marked deleted: supported path with safety guard intact",
+   "h": "/questions/railway-bucket-s3-api-returns-http-400-o-107c3c96",
+   "t": "Railway Bucket S3 API returns HTTP 400 on HEAD and GET",
    "score": 4,
    "notes": [
     "竞争低",
@@ -103,6 +74,38 @@
    "notes": [
     "竞争低",
     "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/postgres-pitr-postgis-and-networking-q-c2085df3",
+   "t": "Postgres PITR, PostGIS, and Networking Questions",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/shifttracker-backend-recurring-europe-w-6cda607d",
+   "t": "shifttracker-backend: recurring europe-west4-drams3a edge issue, possible regression of 2026-06-09 fix",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/me-webhook-url-74a8657f",
+   "t": "me webhook_url",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/trying-to-connect-to-ghcr-and-getting-er-57d6de9e",
+   "t": "Trying to connect to GHCR and getting error",
+   "score": 2,
+   "notes": [
+    "竞争低"
    ]
   },
   {
@@ -130,11 +133,13 @@
    ]
   },
   {
-   "h": "/questions/https-connection-to-goszakupki-by-times-394df8b1",
-   "t": "HTTPS connection to goszakupki.by times out from Railway",
-   "score": 2,
+   "h": "/questions/sleeping-webhook-api-gateway-502-1c6e0de4",
+   "t": "Sleeping Webhook API Gateway 502 $10 2 replies 10m by sevron-gil",
+   "score": 1,
    "notes": [
-    "竞争低"
+    "陈旧",
+    "竞争低",
+    "提问·配置型"
    ]
   },
   {
@@ -174,30 +179,12 @@
    ]
   },
   {
-   "h": "/questions/trying-to-connect-to-ghcr-and-getting-er-57d6de9e",
-   "t": "Trying to connect to GHCR and getting error $10 0 replies 10m by chrispalle",
+   "h": "/questions/facing-issues-with-connecting-with-our-d-0e610d74",
+   "t": "facing issues with connecting with our DB located inside Mongo Atlas $20 0 replies 10m by mangueshborker-mckinley",
    "score": -1,
    "notes": [
     "陈旧",
     "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/me-webhook-url-74a8657f",
-   "t": "me webhook_url $10 0 replies 10m by plataformaup-maker",
-   "score": -1,
-   "notes": [
-    "陈旧",
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/build-failing-65f257cb",
-   "t": "Build Failing",
-   "score": -2,
-   "notes": [
-    "竞争低",
-    "⚠平台基建/已解"
    ]
   },
   {
