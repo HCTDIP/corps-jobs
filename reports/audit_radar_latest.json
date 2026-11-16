@@ -1,5 +1,5 @@
 {
- "at": "2026-11-16T06:27:15.333473Z",
+ "at": "2026-11-16T19:35:49.453221Z",
  "count": 24,
  "new": [],
  "all": [
@@ -24,7 +24,7 @@
   },
   {
    "src": "codehawks",
-   "status": "none-live"
+   "error": "HTTP Error 429: Too Many Requests"
   },
   {
    "src": "sherlock-bounty",
