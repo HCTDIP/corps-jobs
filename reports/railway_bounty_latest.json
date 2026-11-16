@@ -1,5 +1,5 @@
 {
- "at": "2026-11-15T23:10:53.692042+00:00",
+ "at": "2026-11-16T07:18:39.153089+00:00",
  "total": 28,
  "hot": [
   {
@@ -21,32 +21,7 @@
    ]
   }
  ],
- "new": [
-  {
-   "h": "/questions/simple-solution-to-show-request-headers-65083402",
-   "t": "Simple solution to show request headers",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/reclaim-postgres-memory-without-restarti-f1b45e1e",
-   "t": "Reclaim Postgres memory without restarting",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/postgre-sql-logical-replication-wal-stre-31386adc",
-   "t": "PostgreSQL logical replication (WAL streaming) connections drop with \"unexpected EOF\" every few minutes",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  }
- ],
+ "new": [],
  "all": [
   {
    "h": "/questions/railway-bucket-s3-api-returns-http-400-o-107c3c96",
@@ -67,16 +42,16 @@
    ]
   },
   {
-   "h": "/questions/simple-solution-to-show-request-headers-65083402",
-   "t": "Simple solution to show request headers",
+   "h": "/questions/reclaim-postgres-memory-without-restarti-f1b45e1e",
+   "t": "Reclaim Postgres memory without restarting",
    "score": 2,
    "notes": [
     "竞争低"
    ]
   },
   {
-   "h": "/questions/reclaim-postgres-memory-without-restarti-f1b45e1e",
-   "t": "Reclaim Postgres memory without restarting",
+   "h": "/questions/simple-solution-to-show-request-headers-65083402",
+   "t": "Simple solution to show request headers",
    "score": 2,
    "notes": [
     "竞争低"
