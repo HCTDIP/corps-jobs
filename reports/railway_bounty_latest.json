@@ -1,6 +1,6 @@
 {
- "at": "2026-11-16T07:18:39.153089+00:00",
- "total": 28,
+ "at": "2026-11-16T19:52:23.387169+00:00",
+ "total": 29,
  "hot": [
   {
    "h": "/questions/railway-bucket-s3-api-returns-http-400-o-107c3c96",
@@ -10,18 +10,36 @@
     "竞争低",
     "提问·配置型"
    ]
+  }
+ ],
+ "new": [
+  {
+   "h": "/questions/safe-single-writer-production-deployment-050f918b",
+   "t": "Safe single-writer production deployments on Hobby",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
   },
   {
-   "h": "/questions/hobby-postgresql-secure-backup-restore-d6c81ae5",
-   "t": "Hobby PostgreSQL: Secure Backup, Restore and Migration Without SSH",
-   "score": 4,
+   "h": "/questions/are-expired-railway-postgresql-backups-a-76680768",
+   "t": "Are expired Railway PostgreSQL backups and PITR archives permanently deleted?",
+   "score": 2,
    "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/replicating-app-postgres-c46b25c6",
+   "t": "SLOW as, unusable! $20 0 replies 10m by matt1260",
+   "score": -5,
+   "notes": [
+    "陈旧",
     "竞争低",
-    "提问·配置型"
+    "⚠平台基建/已解"
    ]
   }
  ],
- "new": [],
  "all": [
   {
    "h": "/questions/railway-bucket-s3-api-returns-http-400-o-107c3c96",
@@ -33,12 +51,27 @@
    ]
   },
   {
-   "h": "/questions/hobby-postgresql-secure-backup-restore-d6c81ae5",
-   "t": "Hobby PostgreSQL: Secure Backup, Restore and Migration Without SSH",
-   "score": 4,
+   "h": "/questions/safe-single-writer-production-deployment-050f918b",
+   "t": "Safe single-writer production deployments on Hobby",
+   "score": 2,
    "notes": [
-    "竞争低",
-    "提问·配置型"
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/facing-issues-with-connecting-with-our-d-0e610d74",
+   "t": "facing issues with connecting with our DB located inside Mongo Atlas",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/are-expired-railway-postgresql-backups-a-76680768",
+   "t": "Are expired Railway PostgreSQL backups and PITR archives permanently deleted?",
+   "score": 2,
+   "notes": [
+    "竞争低"
    ]
   },
   {
@@ -90,14 +123,6 @@
    ]
   },
   {
-   "h": "/questions/trying-to-connect-to-ghcr-and-getting-er-57d6de9e",
-   "t": "Trying to connect to GHCR and getting error",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
    "h": "/questions/sleeping-webhook-api-gateway-502-1c6e0de4",
    "t": "Sleeping Webhook API Gateway 502 $10 2 replies 10m by sevron-gil",
    "score": 1,
@@ -137,15 +162,6 @@
   {
    "h": "/questions/i-am-facing-problem-with-deploying-a-wro-f9cd5ada",
    "t": "I am facing problem when deploying a wrodpress template. $10 1 reply 10m by thompsonkylaw",
-   "score": -1,
-   "notes": [
-    "陈旧",
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/facing-issues-with-connecting-with-our-d-0e610d74",
-   "t": "facing issues with connecting with our DB located inside Mongo Atlas $20 0 replies 10m by mangueshborker-mckinley",
    "score": -1,
    "notes": [
     "陈旧",
@@ -262,6 +278,16 @@
   {
    "h": "/questions/subject-build-failing-java-script-heap-81db8363",
    "t": "Subject: Build Failing FIXED!!! $10 0 replies 10m by jeffkompon",
+   "score": -5,
+   "notes": [
+    "陈旧",
+    "竞争低",
+    "⚠平台基建/已解"
+   ]
+  },
+  {
+   "h": "/questions/replicating-app-postgres-c46b25c6",
+   "t": "SLOW as, unusable! $20 0 replies 10m by matt1260",
    "score": -5,
    "notes": [
     "陈旧",
