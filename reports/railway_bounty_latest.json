@@ -1,5 +1,5 @@
 {
- "at": "2026-11-16T19:52:23.387169+00:00",
+ "at": "2026-11-17T04:11:47.107902+00:00",
  "total": 29,
  "hot": [
   {
@@ -12,34 +12,7 @@
    ]
   }
  ],
- "new": [
-  {
-   "h": "/questions/safe-single-writer-production-deployment-050f918b",
-   "t": "Safe single-writer production deployments on Hobby",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/are-expired-railway-postgresql-backups-a-76680768",
-   "t": "Are expired Railway PostgreSQL backups and PITR archives permanently deleted?",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/replicating-app-postgres-c46b25c6",
-   "t": "SLOW as, unusable! $20 0 replies 10m by matt1260",
-   "score": -5,
-   "notes": [
-    "陈旧",
-    "竞争低",
-    "⚠平台基建/已解"
-   ]
-  }
- ],
+ "new": [],
  "all": [
   {
    "h": "/questions/railway-bucket-s3-api-returns-http-400-o-107c3c96",
