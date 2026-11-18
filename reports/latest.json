@@ -1,23 +1,20 @@
 {
-  "at": "2026-11-17T15:14Z",
-  "runs": 182,
+  "at": "2026-11-18T00:16Z",
+  "runs": 183,
   "open_total": 12,
-  "new_count": 1,
-  "new_items": [
-    "$300    [ 19 提交] [无地区限制] Provide Feedback on our new Support Assistant Nosa"
-  ],
+  "new_count": 0,
+  "new_items": [],
   "global_candidates": [
-    "$300    [ 19 提交] [无地区限制] Provide Feedback on our new Support Assistant Nosa",
-    "$689655 [ 10 提交] 2026-11-21 | A Narrative of Buying BAOBAO on PAJ - Twitter thread",
-    "$500    [ 10 提交] 2026-12-10 | Build an Autonomous Capital Agent on Solana & Compet",
-    "$300    [ 16 提交] 2026-11-30 | SSR.FUN Beta Launch Challenge",
-    "$300    [ 19 提交] 2026-11-29 | Provide Feedback on our new Support Assistant Nosa",
+    "$689655 [ 11 提交] 2026-11-21 | A Narrative of Buying BAOBAO on PAJ - Twitter thread",
+    "$500    [ 12 提交] 2026-12-10 | Build an Autonomous Capital Agent on Solana & Compet",
+    "$300    [ 17 提交] 2026-11-30 | SSR.FUN Beta Launch Challenge",
+    "$300    [ 25 提交] 2026-11-29 | Provide Feedback on our new Support Assistant Nosa",
     "$5000   [ 78 提交] 2026-12-14 | MultiHopper Build & Route Challenge | Up to $50,000",
-    "$13000  [126 提交] 2026-12-13 | The Raenest Global Bounty - Writing, Video & Animati",
-    "$660    [146 提交] 2026-11-25 | Create Nosana content: Explainer Thread/Article or C",
-    "$200    [260 提交] 2026-11-25 | Create Content About KriptoK · 200 USDC Creator Chal",
-    "$500    [308 提交] 2026-11-24 | Create Content on Premier League Predictions with wo",
-    "$250    [348 提交] 2026-11-30 | Create an Engaging X Thread Introducing Anna AI Mess"
+    "$13000  [136 提交] 2026-12-13 | The Raenest Global Bounty - Writing, Video & Animati",
+    "$660    [155 提交] 2026-11-25 | Create Nosana content: Explainer Thread/Article or C",
+    "$200    [267 提交] 2026-11-25 | Create Content About KriptoK · 200 USDC Creator Chal",
+    "$500    [316 提交] 2026-11-24 | Create Content on Premier League Predictions with wo",
+    "$250    [361 提交] 2026-11-30 | Create an Engaging X Thread Introducing Anna AI Mess"
   ],
   "repo": "https://github.com/HCTDIP/corps-jobs"
 }
