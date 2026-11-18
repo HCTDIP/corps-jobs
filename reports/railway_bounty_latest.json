@@ -1,5 +1,5 @@
 {
- "at": "2026-11-18T01:19:34.430033+00:00",
+ "at": "2026-11-18T12:16:24.374969+00:00",
  "total": 29,
  "hot": [
   {
@@ -21,26 +21,7 @@
    ]
   }
  ],
- "new": [
-  {
-   "h": "/questions/service-console-no-longer-recognizes-npm-899afb6f",
-   "t": "Service console no longer recognizes npm. Errors on deploy logs",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/replicating-app-postgres-c46b25c6",
-   "t": "SLOW as, unusable! $20 0 replies 10m by matt1260",
-   "score": -5,
-   "notes": [
-    "陈旧",
-    "竞争低",
-    "⚠平台基建/已解"
-   ]
-  }
- ],
+ "new": [],
  "all": [
   {
    "h": "/questions/supported-non-privileged-cgroup-delegati-daf2381f",
@@ -61,6 +42,14 @@
    ]
   },
   {
+   "h": "/questions/pre-deployment-technical-inquiry-postg-13c3ef15",
+   "t": "Pre-Deployment Technical Inquiry — PostgreSQL Security Requirements and Railway Compatibility",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
    "h": "/questions/reclaim-postgres-memory-without-restarti-f1b45e1e",
    "t": "Reclaim Postgres memory without restarting",
    "score": 2,
@@ -71,14 +60,6 @@
   {
    "h": "/questions/service-console-no-longer-recognizes-npm-899afb6f",
    "t": "Service console no longer recognizes npm. Errors on deploy logs",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/pre-deployment-technical-inquiry-postg-13c3ef15",
-   "t": "Pre-Deployment Technical Inquiry — PostgreSQL Security Requirements and Railway Compatibility",
    "score": 2,
    "notes": [
     "竞争低"
@@ -145,7 +126,7 @@
   },
   {
    "h": "/questions/deploying-37signals-writebook-as-a-comp-762bb8bb",
-   "t": "deploying 37signals' Writebook as a complete beginner $20 1 reply 9m by fherceg",
+   "t": "deploying 37signals' Writebook as a complete beginner $20 1 reply 10m by fherceg",
    "score": -1,
    "notes": [
     "陈旧",
