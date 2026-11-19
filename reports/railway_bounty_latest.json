@@ -1,6 +1,6 @@
 {
- "at": "2026-11-19T02:49:26.276833+00:00",
- "total": 29,
+ "at": "2026-11-19T12:10:18.708245+00:00",
+ "total": 28,
  "hot": [
   {
    "h": "/questions/supported-non-privileged-cgroup-delegati-daf2381f",
@@ -10,25 +10,23 @@
     "竞争低",
     "提问·配置型"
    ]
-  },
-  {
-   "h": "/questions/railway-bucket-s3-api-returns-http-400-o-107c3c96",
-   "t": "Railway Bucket S3 API returns HTTP 400 on HEAD and GET",
-   "score": 4,
-   "notes": [
-    "竞争低",
-    "提问·配置型"
-   ]
   }
  ],
  "new": [
   {
-   "h": "/questions/build-failing-deploy-4e65a6b9",
-   "t": "Build failing deploy",
-   "score": -2,
+   "h": "/questions/up-railway-app-unreachable-from-iraqi-9f540b13",
+   "t": "*.up.railway.app unreachable from Iraqi mobile networks since early November",
+   "score": 2,
    "notes": [
-    "竞争低",
-    "⚠平台基建/已解"
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/aws-cloudfront-brussels-intermittently-ce37cfdc",
+   "t": "AWS CloudFront (Brussels) intermittently cannot connect to the Amsterdam edge, about 1 request in 11",
+   "score": 2,
+   "notes": [
+    "竞争低"
    ]
   }
  ],
@@ -43,12 +41,19 @@
    ]
   },
   {
-   "h": "/questions/railway-bucket-s3-api-returns-http-400-o-107c3c96",
-   "t": "Railway Bucket S3 API returns HTTP 400 on HEAD and GET",
-   "score": 4,
+   "h": "/questions/up-railway-app-unreachable-from-iraqi-9f540b13",
+   "t": "*.up.railway.app unreachable from Iraqi mobile networks since early November",
+   "score": 2,
    "notes": [
-    "竞争低",
-    "提问·配置型"
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/aws-cloudfront-brussels-intermittently-ce37cfdc",
+   "t": "AWS CloudFront (Brussels) intermittently cannot connect to the Amsterdam edge, about 1 request in 11",
+   "score": 2,
+   "notes": [
+    "竞争低"
    ]
   },
   {
@@ -86,22 +91,6 @@
   {
    "h": "/questions/safe-single-writer-production-deployment-050f918b",
    "t": "Safe single-writer production deployments on Hobby",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/facing-issues-with-connecting-with-our-d-0e610d74",
-   "t": "facing issues with connecting with our DB located inside Mongo Atlas",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/are-expired-railway-postgresql-backups-a-76680768",
-   "t": "Are expired Railway PostgreSQL backups and PITR archives permanently deleted?",
    "score": 2,
    "notes": [
     "竞争低"
@@ -193,7 +182,7 @@
   },
   {
    "h": "/questions/all-requests-to-python-service-502-with-3f1570ef",
-   "t": "All requests to python service 502 with no logs available $30 5 replies 9m by Anonymous",
+   "t": "All requests to python service 502 with no logs available $30 5 replies 10m by Anonymous",
    "score": -4,
    "notes": [
     "陈旧",
@@ -291,7 +280,7 @@
   },
   {
    "h": "/questions/point-in-time-recovery-backup-restore-08522372",
-   "t": "Point-in-time recovery / backup restore for a Postgres service — recover rows deleted from sessions / session_events $20 6 replies 5m by mcampolongo-rg",
+   "t": "Point-in-time recovery / backup restore for a Postgres service — recover rows deleted from sessions / session_events $20 6 replies 6m by mcampolongo-rg",
    "score": -8,
    "notes": [
     "陈旧",
