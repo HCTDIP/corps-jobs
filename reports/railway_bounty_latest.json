@@ -1,5 +1,5 @@
 {
- "at": "2026-11-18T20:54:08.987231+00:00",
+ "at": "2026-11-19T02:49:26.276833+00:00",
  "total": 29,
  "hot": [
   {
@@ -21,7 +21,17 @@
    ]
   }
  ],
- "new": [],
+ "new": [
+  {
+   "h": "/questions/build-failing-deploy-4e65a6b9",
+   "t": "Build failing deploy",
+   "score": -2,
+   "notes": [
+    "竞争低",
+    "⚠平台基建/已解"
+   ]
+  }
+ ],
  "all": [
   {
    "h": "/questions/supported-non-privileged-cgroup-delegati-daf2381f",
@@ -98,14 +108,6 @@
    ]
   },
   {
-   "h": "/questions/simple-solution-to-show-request-headers-65083402",
-   "t": "Simple solution to show request headers",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
    "h": "/questions/sleeping-webhook-api-gateway-502-1c6e0de4",
    "t": "Sleeping Webhook API Gateway 502 $10 2 replies 10m by sevron-gil",
    "score": 1,
@@ -149,6 +151,15 @@
    "notes": [
     "陈旧",
     "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/build-failing-deploy-4e65a6b9",
+   "t": "Build failing deploy",
+   "score": -2,
+   "notes": [
+    "竞争低",
+    "⚠平台基建/已解"
    ]
   },
   {
