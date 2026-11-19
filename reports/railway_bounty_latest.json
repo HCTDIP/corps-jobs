@@ -1,7 +1,16 @@
 {
- "at": "2026-11-19T12:10:18.708245+00:00",
+ "at": "2026-11-19T21:04:47.477000+00:00",
  "total": 28,
  "hot": [
+  {
+   "h": "/questions/limiting-the-railway-github-app-installa-3201221e",
+   "t": "Limiting the Railway GitHub App installation to selected repositories: impact and permissions",
+   "score": 4,
+   "notes": [
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
   {
    "h": "/questions/supported-non-privileged-cgroup-delegati-daf2381f",
    "t": "Supported non-privileged cgroup delegation and isolated helper on Railway services?",
@@ -14,23 +23,25 @@
  ],
  "new": [
   {
-   "h": "/questions/up-railway-app-unreachable-from-iraqi-9f540b13",
-   "t": "*.up.railway.app unreachable from Iraqi mobile networks since early November",
-   "score": 2,
+   "h": "/questions/limiting-the-railway-github-app-installa-3201221e",
+   "t": "Limiting the Railway GitHub App installation to selected repositories: impact and permissions",
+   "score": 4,
    "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/aws-cloudfront-brussels-intermittently-ce37cfdc",
-   "t": "AWS CloudFront (Brussels) intermittently cannot connect to the Amsterdam edge, about 1 request in 11",
-   "score": 2,
-   "notes": [
-    "竞争低"
+    "竞争低",
+    "提问·配置型"
    ]
   }
  ],
  "all": [
+  {
+   "h": "/questions/limiting-the-railway-github-app-installa-3201221e",
+   "t": "Limiting the Railway GitHub App installation to selected repositories: impact and permissions",
+   "score": 4,
+   "notes": [
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
   {
    "h": "/questions/supported-non-privileged-cgroup-delegati-daf2381f",
    "t": "Supported non-privileged cgroup delegation and isolated helper on Railway services?",
@@ -83,14 +94,6 @@
   {
    "h": "/questions/edge-ber1-serving-stale-build-after-succ-5ac395cc",
    "t": "Edge ber1 serving stale build after successful deploy — please purge edge cache/routing",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/safe-single-writer-production-deployment-050f918b",
-   "t": "Safe single-writer production deployments on Hobby",
    "score": 2,
    "notes": [
     "竞争低"
