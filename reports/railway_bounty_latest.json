@@ -1,64 +1,111 @@
 {
- "at": "2026-11-20T02:37:05.844342+00:00",
- "total": 28,
- "hot": [
-  {
-   "h": "/questions/limiting-the-railway-github-app-installa-3201221e",
-   "t": "Limiting the Railway GitHub App installation to selected repositories: impact and permissions",
-   "score": 4,
-   "notes": [
-    "竞争低",
-    "提问·配置型"
-   ]
-  }
- ],
+ "at": "2026-11-20T12:12:08.509158+00:00",
+ "total": 26,
+ "hot": [],
  "new": [
   {
-   "h": "/questions/help-needed-confusion-strikes-again-c1a7cd1f",
-   "t": "Help needed, confusion strikes again…",
+   "h": "/questions/intermittent-cloudflare-522s-on-two-serv-243e7dce",
+   "t": "Intermittent Cloudflare 522s on two services; the requests never reach the app",
    "score": 2,
    "notes": [
     "竞争低"
    ]
   },
   {
-   "h": "/questions/my-service-hq-premium-keeps-crushing-it-c6d7ba2b",
-   "t": "My service HQ PREMIUM keeps crushing it has been running well everyday but some hours today it just became silent",
+   "h": "/questions/postgres-pitr-postgis-and-networking-q-c2085df3",
+   "t": "Postgres PITR, PostGIS, and Networking Questions",
    "score": 2,
    "notes": [
     "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/helping-with-setup-my-project-c5999f4c",
+   "t": "Helping with setup my project",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/403-forbidden-error-with-shiprocket-api-4b1e4096",
+   "t": "403 Forbidden Error with Shiprocket API on Railway (Works Fine Locally) $10 0 replies 10m by akshajatraditionalfoods",
+   "score": 1,
+   "notes": [
+    "陈旧",
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/ssl-certificate-ebcb4eb7",
+   "t": "SSL Certificate $10 2 replies 10m by r614",
+   "score": 1,
+   "notes": [
+    "陈旧",
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/discrepancy-between-volume-usage-dashboa-794437aa",
+   "t": "Discrepancy between Volume Usage Dashboard (~3GB) and actual disk usage (52MB) $10 0 replies 10m by ramikachlon",
+   "score": -1,
+   "notes": [
+    "陈旧",
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/bucket-unavailable-without-vpn-31b1dbd3",
+   "t": "Bucket unavailable without VPN $10 0 replies 10m by thearina",
+   "score": -1,
+   "notes": [
+    "陈旧",
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/network-access-issue-on-glo-network-nige-69efdc12",
+   "t": "Network Access Issue on GLO Network Nigeria $10 0 replies 10m by neliuszeus",
+   "score": -1,
+   "notes": [
+    "陈旧",
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/i-m-losing-my-mind-trying-to-get-private-d7e9fab8",
+   "t": "I'm losing my mind trying to get private networking to work. $10 2 replies 10m by amiralsad",
+   "score": -1,
+   "notes": [
+    "陈旧",
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/docker-build-failing-to-clone-private-sw-50368950",
+   "t": "Docker build failing to clone private Swift package dependency $10 1 reply 10m by yosi199",
+   "score": -5,
+   "notes": [
+    "陈旧",
+    "竞争低",
+    "⚠平台基建/已解"
    ]
   }
  ],
  "all": [
   {
-   "h": "/questions/limiting-the-railway-github-app-installa-3201221e",
-   "t": "Limiting the Railway GitHub App installation to selected repositories: impact and permissions",
-   "score": 4,
-   "notes": [
-    "竞争低",
-    "提问·配置型"
-   ]
-  },
-  {
-   "h": "/questions/help-needed-confusion-strikes-again-c1a7cd1f",
-   "t": "Help needed, confusion strikes again…",
+   "h": "/questions/intermittent-cloudflare-522s-on-two-serv-243e7dce",
+   "t": "Intermittent Cloudflare 522s on two services; the requests never reach the app",
    "score": 2,
    "notes": [
     "竞争低"
    ]
   },
   {
-   "h": "/questions/my-service-hq-premium-keeps-crushing-it-c6d7ba2b",
-   "t": "My service HQ PREMIUM keeps crushing it has been running well everyday but some hours today it just became silent",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/up-railway-app-unreachable-from-iraqi-9f540b13",
-   "t": "*.up.railway.app unreachable from Iraqi mobile networks since early November",
+   "h": "/questions/postgres-pitr-postgis-and-networking-q-c2085df3",
+   "t": "Postgres PITR, PostGIS, and Networking Questions",
    "score": 2,
    "notes": [
     "竞争低"
@@ -73,36 +120,48 @@
    ]
   },
   {
-   "h": "/questions/pre-deployment-technical-inquiry-postg-13c3ef15",
-   "t": "Pre-Deployment Technical Inquiry — PostgreSQL Security Requirements and Railway Compatibility",
+   "h": "/questions/helping-with-setup-my-project-c5999f4c",
+   "t": "Helping with setup my project",
    "score": 2,
    "notes": [
     "竞争低"
    ]
   },
   {
-   "h": "/questions/reclaim-postgres-memory-without-restarti-f1b45e1e",
-   "t": "Reclaim Postgres memory without restarting",
+   "h": "/questions/up-railway-app-unreachable-from-iraqi-9f540b13",
+   "t": "*.up.railway.app unreachable from Iraqi mobile networks since early November",
    "score": 2,
    "notes": [
     "竞争低"
    ]
   },
   {
-   "h": "/questions/service-console-no-longer-recognizes-npm-899afb6f",
-   "t": "Service console no longer recognizes npm. Errors on deploy logs",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/sleeping-webhook-api-gateway-502-1c6e0de4",
-   "t": "Sleeping Webhook API Gateway 502 $10 2 replies 10m by sevron-gil",
+   "h": "/questions/403-forbidden-error-with-shiprocket-api-4b1e4096",
+   "t": "403 Forbidden Error with Shiprocket API on Railway (Works Fine Locally) $10 0 replies 10m by akshajatraditionalfoods",
    "score": 1,
    "notes": [
     "陈旧",
     "竞争低",
+    "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/ssl-certificate-ebcb4eb7",
+   "t": "SSL Certificate $10 2 replies 10m by r614",
+   "score": 1,
+   "notes": [
+    "陈旧",
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/request-for-csr-certificate-signing-req-6c07d2db",
+   "t": "Request for CSR (Certificate Signing Request) for Custom SSL Setup",
+   "score": 0,
+   "notes": [
+    "竞争低",
+    "⚠平台基建/已解",
     "提问·配置型"
    ]
   },
@@ -143,8 +202,44 @@
    ]
   },
   {
-   "h": "/questions/build-failing-deploy-4e65a6b9",
-   "t": "Build failing deploy",
+   "h": "/questions/discrepancy-between-volume-usage-dashboa-794437aa",
+   "t": "Discrepancy between Volume Usage Dashboard (~3GB) and actual disk usage (52MB) $10 0 replies 10m by ramikachlon",
+   "score": -1,
+   "notes": [
+    "陈旧",
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/bucket-unavailable-without-vpn-31b1dbd3",
+   "t": "Bucket unavailable without VPN $10 0 replies 10m by thearina",
+   "score": -1,
+   "notes": [
+    "陈旧",
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/network-access-issue-on-glo-network-nige-69efdc12",
+   "t": "Network Access Issue on GLO Network Nigeria $10 0 replies 10m by neliuszeus",
+   "score": -1,
+   "notes": [
+    "陈旧",
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/i-m-losing-my-mind-trying-to-get-private-d7e9fab8",
+   "t": "I'm losing my mind trying to get private networking to work. $10 2 replies 10m by amiralsad",
+   "score": -1,
+   "notes": [
+    "陈旧",
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/replicating-app-postgres-c46b25c6",
+   "t": "SLOW as, unusable!",
    "score": -2,
    "notes": [
     "竞争低",
@@ -152,14 +247,12 @@
    ]
   },
   {
-   "h": "/questions/request-for-csr-certificate-signing-req-6c07d2db",
-   "t": "Request for CSR (Certificate Signing Request) for Custom SSL Setup $10 1 reply 8m by mythoslabsinc",
-   "score": -3,
+   "h": "/questions/volume-restore-button-not-working-load-a0e52a31",
+   "t": "Volume restore button not working - loads project instead",
+   "score": -2,
    "notes": [
-    "陈旧",
     "竞争低",
-    "⚠平台基建/已解",
-    "提问·配置型"
+    "⚠平台基建/已解"
    ]
   },
   {
@@ -199,46 +292,6 @@
    ]
   },
   {
-   "h": "/questions/production-impact-anycast-edge-misrout-f6aaed54",
-   "t": "Anycast edge misrouting from Hetzner AS24940 — every DB query +180ms $20 2 replies 3m by yigittekelioglu",
-   "score": -5,
-   "notes": [
-    "陈旧",
-    "竞争低",
-    "⚠平台基建/已解"
-   ]
-  },
-  {
-   "h": "/questions/per-request-ingress-metadata-required-fo-c2c61b5a",
-   "t": "Per-request ingress metadata required for HMRC fraud-prevention headers $20 2 replies 4m by raullomelino",
-   "score": -5,
-   "notes": [
-    "陈旧",
-    "竞争低",
-    "⚠平台基建/已解"
-   ]
-  },
-  {
-   "h": "/questions/deploy-nodes-cannot-reach-internal-regis-dfbe538a",
-   "t": "Deploy nodes cannot reach internal registry (us-west2) — service offline $10 1 reply 8m by bmetcalf21",
-   "score": -5,
-   "notes": [
-    "陈旧",
-    "竞争低",
-    "⚠平台基建/已解"
-   ]
-  },
-  {
-   "h": "/questions/volume-restore-button-not-working-load-a0e52a31",
-   "t": "Volume restore button not working - loads project instead $10 1 reply 8m by mosatiii",
-   "score": -5,
-   "notes": [
-    "陈旧",
-    "竞争低",
-    "⚠平台基建/已解"
-   ]
-  },
-  {
    "h": "/questions/sudden-dns-issue-0f13d660",
    "t": "Sudden DNS issue on production system $20 2 replies 9m by upd",
    "score": -5,
@@ -269,22 +322,12 @@
    ]
   },
   {
-   "h": "/questions/replicating-app-postgres-c46b25c6",
-   "t": "SLOW as, unusable! $20 0 replies 10m by matt1260",
+   "h": "/questions/docker-build-failing-to-clone-private-sw-50368950",
+   "t": "Docker build failing to clone private Swift package dependency $10 1 reply 10m by yosi199",
    "score": -5,
    "notes": [
     "陈旧",
     "竞争低",
-    "⚠平台基建/已解"
-   ]
-  },
-  {
-   "h": "/questions/point-in-time-recovery-backup-restore-08522372",
-   "t": "Point-in-time recovery / backup restore for a Postgres service — recover rows deleted from sessions / session_events $20 6 replies 6m by mcampolongo-rg",
-   "score": -8,
-   "notes": [
-    "陈旧",
-    "已6回复",
     "⚠平台基建/已解"
    ]
   }
