@@ -1,5 +1,5 @@
 {
- "at": "2026-11-19T21:04:47.477000+00:00",
+ "at": "2026-11-20T02:37:05.844342+00:00",
  "total": 28,
  "hot": [
   {
@@ -10,25 +10,23 @@
     "竞争低",
     "提问·配置型"
    ]
-  },
-  {
-   "h": "/questions/supported-non-privileged-cgroup-delegati-daf2381f",
-   "t": "Supported non-privileged cgroup delegation and isolated helper on Railway services?",
-   "score": 4,
-   "notes": [
-    "竞争低",
-    "提问·配置型"
-   ]
   }
  ],
  "new": [
   {
-   "h": "/questions/limiting-the-railway-github-app-installa-3201221e",
-   "t": "Limiting the Railway GitHub App installation to selected repositories: impact and permissions",
-   "score": 4,
+   "h": "/questions/help-needed-confusion-strikes-again-c1a7cd1f",
+   "t": "Help needed, confusion strikes again…",
+   "score": 2,
    "notes": [
-    "竞争低",
-    "提问·配置型"
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/my-service-hq-premium-keeps-crushing-it-c6d7ba2b",
+   "t": "My service HQ PREMIUM keeps crushing it has been running well everyday but some hours today it just became silent",
+   "score": 2,
+   "notes": [
+    "竞争低"
    ]
   }
  ],
@@ -43,12 +41,19 @@
    ]
   },
   {
-   "h": "/questions/supported-non-privileged-cgroup-delegati-daf2381f",
-   "t": "Supported non-privileged cgroup delegation and isolated helper on Railway services?",
-   "score": 4,
+   "h": "/questions/help-needed-confusion-strikes-again-c1a7cd1f",
+   "t": "Help needed, confusion strikes again…",
+   "score": 2,
    "notes": [
-    "竞争低",
-    "提问·配置型"
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/my-service-hq-premium-keeps-crushing-it-c6d7ba2b",
+   "t": "My service HQ PREMIUM keeps crushing it has been running well everyday but some hours today it just became silent",
+   "score": 2,
+   "notes": [
+    "竞争低"
    ]
   },
   {
@@ -86,14 +91,6 @@
   {
    "h": "/questions/service-console-no-longer-recognizes-npm-899afb6f",
    "t": "Service console no longer recognizes npm. Errors on deploy logs",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/edge-ber1-serving-stale-build-after-succ-5ac395cc",
-   "t": "Edge ber1 serving stale build after successful deploy — please purge edge cache/routing",
    "score": 2,
    "notes": [
     "竞争低"
@@ -167,7 +164,7 @@
   },
   {
    "h": "/questions/this-deployment-is-temporarily-paused-b-ca412865",
-   "t": "This deployment is temporarily paused bom1::9bkln-1770210017515-a5451162c08f $10 3 replies 9m by nirala96",
+   "t": "This deployment is temporarily paused bom1::9bkln-1770210017515-a5451162c08f $10 3 replies 10m by nirala96",
    "score": -4,
    "notes": [
     "陈旧",
