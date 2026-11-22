@@ -1,5 +1,5 @@
 {
- "at": "2026-11-22T01:35:16.925877+00:00",
+ "at": "2026-11-22T11:59:50.606263+00:00",
  "total": 27,
  "hot": [
   {
@@ -244,7 +244,7 @@
   },
   {
    "h": "/questions/build-failing-because-npm-dependencies-a-4607a810",
-   "t": "Build failing because npm dependencies aren't being installed properly $10 2 replies 9m by davekaro",
+   "t": "Build failing because npm dependencies aren't being installed properly $10 2 replies 10m by davekaro",
    "score": -5,
    "notes": [
     "陈旧",
