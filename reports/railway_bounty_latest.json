@@ -1,5 +1,5 @@
 {
- "at": "2026-11-21T19:48:19.572079+00:00",
+ "at": "2026-11-22T01:35:16.925877+00:00",
  "total": 27,
  "hot": [
   {
@@ -21,26 +21,7 @@
    ]
   }
  ],
- "new": [
-  {
-   "h": "/questions/intermittent-connection-reset-on-up-447ec47a",
-   "t": "Intermittent \"connection reset\" on *.up.railway.app via edge hnd1 (Tokyo)",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/403-forbidden-error-with-shiprocket-api-4b1e4096",
-   "t": "403 Forbidden Error with Shiprocket API on Railway (Works Fine Locally) $10 0 replies 10m by akshajatraditionalfoods",
-   "score": 1,
-   "notes": [
-    "陈旧",
-    "竞争低",
-    "提问·配置型"
-   ]
-  }
- ],
+ "new": [],
  "all": [
   {
    "h": "/questions/i-need-to-change-my-postgres-database-na-ae585d89",
