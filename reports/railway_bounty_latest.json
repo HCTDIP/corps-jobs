@@ -1,5 +1,5 @@
 {
- "at": "2026-11-22T11:59:50.606263+00:00",
+ "at": "2026-11-22T19:58:42.598228+00:00",
  "total": 27,
  "hot": [
   {
@@ -21,7 +21,24 @@
    ]
   }
  ],
- "new": [],
+ "new": [
+  {
+   "h": "/questions/platform-build-fails-at-npm-install-with-2019e441",
+   "t": "Platform build fails at npm install with ECONNRESET",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/wrong-php-version-during-build-a7b6577c",
+   "t": "Wrong PHP version during build",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  }
+ ],
  "all": [
   {
    "h": "/questions/i-need-to-change-my-postgres-database-na-ae585d89",
@@ -42,6 +59,14 @@
    ]
   },
   {
+   "h": "/questions/intermittent-cloudflare-522s-on-two-serv-243e7dce",
+   "t": "Intermittent Cloudflare 522s on two services; the requests never reach the app",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
    "h": "/questions/intermittent-connection-reset-on-up-447ec47a",
    "t": "Intermittent \"connection reset\" on *.up.railway.app via edge hnd1 (Tokyo)",
    "score": 2,
@@ -58,24 +83,16 @@
    ]
   },
   {
-   "h": "/questions/intermittent-cloudflare-522s-on-two-serv-243e7dce",
-   "t": "Intermittent Cloudflare 522s on two services; the requests never reach the app",
+   "h": "/questions/platform-build-fails-at-npm-install-with-2019e441",
+   "t": "Platform build fails at npm install with ECONNRESET",
    "score": 2,
    "notes": [
     "竞争低"
    ]
   },
   {
-   "h": "/questions/postgres-pitr-postgis-and-networking-q-c2085df3",
-   "t": "Postgres PITR, PostGIS, and Networking Questions",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/aws-cloudfront-brussels-intermittently-ce37cfdc",
-   "t": "AWS CloudFront (Brussels) intermittently cannot connect to the Amsterdam edge, about 1 request in 11",
+   "h": "/questions/wrong-php-version-during-build-a7b6577c",
+   "t": "Wrong PHP version during build",
    "score": 2,
    "notes": [
     "竞争低"
