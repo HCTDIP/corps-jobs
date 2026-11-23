@@ -1,5 +1,5 @@
 {
- "at": "2026-11-23T01:58:36.755343+00:00",
+ "at": "2026-11-23T13:42:34.887875+00:00",
  "total": 27,
  "hot": [
   {
@@ -42,6 +42,14 @@
    ]
   },
   {
+   "h": "/questions/platform-build-fails-at-npm-install-with-2019e441",
+   "t": "Platform build fails at npm install with ECONNRESET",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
    "h": "/questions/intermittent-connection-reset-on-up-447ec47a",
    "t": "Intermittent \"connection reset\" on *.up.railway.app via edge hnd1 (Tokyo)",
    "score": 2,
@@ -60,14 +68,6 @@
   {
    "h": "/questions/discrepancy-between-volume-usage-dashboa-794437aa",
    "t": "Discrepancy between Volume Usage Dashboard (~3GB) and actual disk usage (52MB)",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/platform-build-fails-at-npm-install-with-2019e441",
-   "t": "Platform build fails at npm install with ECONNRESET",
    "score": 2,
    "notes": [
     "竞争低"
