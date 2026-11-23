@@ -1,5 +1,5 @@
 {
- "at": "2026-11-22T19:58:42.598228+00:00",
+ "at": "2026-11-23T01:58:36.755343+00:00",
  "total": 27,
  "hot": [
   {
@@ -21,24 +21,7 @@
    ]
   }
  ],
- "new": [
-  {
-   "h": "/questions/platform-build-fails-at-npm-install-with-2019e441",
-   "t": "Platform build fails at npm install with ECONNRESET",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/wrong-php-version-during-build-a7b6577c",
-   "t": "Wrong PHP version during build",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  }
- ],
+ "new": [],
  "all": [
   {
    "h": "/questions/i-need-to-change-my-postgres-database-na-ae585d89",
@@ -59,16 +42,16 @@
    ]
   },
   {
-   "h": "/questions/intermittent-cloudflare-522s-on-two-serv-243e7dce",
-   "t": "Intermittent Cloudflare 522s on two services; the requests never reach the app",
+   "h": "/questions/intermittent-connection-reset-on-up-447ec47a",
+   "t": "Intermittent \"connection reset\" on *.up.railway.app via edge hnd1 (Tokyo)",
    "score": 2,
    "notes": [
     "竞争低"
    ]
   },
   {
-   "h": "/questions/intermittent-connection-reset-on-up-447ec47a",
-   "t": "Intermittent \"connection reset\" on *.up.railway.app via edge hnd1 (Tokyo)",
+   "h": "/questions/intermittent-cloudflare-522s-on-two-serv-243e7dce",
+   "t": "Intermittent Cloudflare 522s on two services; the requests never reach the app",
    "score": 2,
    "notes": [
     "竞争低"
