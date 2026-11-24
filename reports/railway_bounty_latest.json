@@ -1,5 +1,5 @@
 {
- "at": "2026-11-24T02:35:53.377691+00:00",
+ "at": "2026-11-24T14:17:59.121767+00:00",
  "total": 27,
  "hot": [
   {
@@ -19,25 +19,15 @@
     "竞争低",
     "提问·配置型"
    ]
-  },
-  {
-   "h": "/questions/can-a-project-token-commit-staged-change-347d3b3e",
-   "t": "Can a project token commit staged changes in its own environment?",
-   "score": 4,
-   "notes": [
-    "竞争低",
-    "提问·配置型"
-   ]
   }
  ],
  "new": [
   {
-   "h": "/questions/build-behaviour-of-a-staged-variable-dep-9ed5dbd0",
-   "t": "Build behaviour of a staged variable deploy on a CLI-uploaded service with a GitHub repo connected (auto-deploy off)",
-   "score": 4,
+   "h": "/questions/both-blueroute-services-fail-at-build-im-78699758",
+   "t": "Both BlueRoute services fail at Build Image",
+   "score": 2,
    "notes": [
-    "竞争低",
-    "提问·配置型"
+    "竞争低"
    ]
   }
  ],
@@ -61,12 +51,27 @@
    ]
   },
   {
-   "h": "/questions/can-a-project-token-commit-staged-change-347d3b3e",
-   "t": "Can a project token commit staged changes in its own environment?",
-   "score": 4,
+   "h": "/questions/discrepancy-between-volume-usage-dashboa-794437aa",
+   "t": "Discrepancy between Volume Usage Dashboard (~3GB) and actual disk usage (52MB)",
+   "score": 2,
    "notes": [
-    "竞争低",
-    "提问·配置型"
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/both-blueroute-services-fail-at-build-im-78699758",
+   "t": "Both BlueRoute services fail at Build Image",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/wrong-php-version-during-build-a7b6577c",
+   "t": "Wrong PHP version during build",
+   "score": 2,
+   "notes": [
+    "竞争低"
    ]
   },
   {
@@ -88,22 +93,6 @@
   {
    "h": "/questions/intermittent-cloudflare-522s-on-two-serv-243e7dce",
    "t": "Intermittent Cloudflare 522s on two services; the requests never reach the app",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/discrepancy-between-volume-usage-dashboa-794437aa",
-   "t": "Discrepancy between Volume Usage Dashboard (~3GB) and actual disk usage (52MB)",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/wrong-php-version-during-build-a7b6577c",
-   "t": "Wrong PHP version during build",
    "score": 2,
    "notes": [
     "竞争低"
@@ -243,7 +232,7 @@
   },
   {
    "h": "/questions/volume-restore-button-not-working-load-a0e52a31",
-   "t": "Volume restore button not working - loads project instead $10 1 reply 8m by mosatiii",
+   "t": "Volume restore button not working - loads project instead $10 1 reply 9m by mosatiii",
    "score": -5,
    "notes": [
     "陈旧",
