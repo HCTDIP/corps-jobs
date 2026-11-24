@@ -1,5 +1,6 @@
 {
  "slugs": [
+  "/questions/build-behaviour-of-a-staged-variable-dep-9ed5dbd0",
   "/questions/i-need-to-change-my-postgres-database-na-ae585d89",
   "/questions/can-a-project-token-commit-staged-change-347d3b3e",
   "/questions/platform-build-fails-at-npm-install-with-2019e441",
@@ -13,7 +14,6 @@
   "/questions/all-apps-on-500-0c21c018",
   "/questions/i-am-facing-problem-with-deploying-a-wro-f9cd5ada",
   "/questions/bucket-unavailable-without-vpn-31b1dbd3",
-  "/questions/replicating-app-postgres-c46b25c6",
   "/questions/request-for-csr-certificate-signing-req-6c07d2db",
   "/questions/this-deployment-is-temporarily-paused-b-ca412865",
   "/questions/old-vite-bundle-will-not-update-fb90594e",
