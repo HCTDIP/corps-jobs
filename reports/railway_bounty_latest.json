@@ -1,14 +1,23 @@
 {
- "at": "2026-11-25T09:10:35.140555+00:00",
+ "at": "2026-11-25T19:36:02.998969+00:00",
  "total": 27,
  "hot": [
   {
    "h": "/questions/postgresql-tcp-proxy-accepts-connections-512a07b1",
-   "t": "PostgreSQL TCP Proxy Accepts Connections but SSL Negotiation Times Out $20 0 replies 3h by thanasak1412",
+   "t": "PostgreSQL TCP Proxy Accepts Connections but SSL Negotiation Times Out $20 0 replies 14h by thanasak1412",
    "score": 5,
    "notes": [
     "数小时内",
     "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/supported-non-privileged-cgroup-delegati-daf2381f",
+   "t": "Supported non-privileged cgroup delegation and isolated helper on Railway services?",
+   "score": 4,
+   "notes": [
+    "竞争低",
+    "提问·配置型"
    ]
   },
   {
@@ -23,17 +32,25 @@
  ],
  "new": [
   {
-   "h": "/questions/postgresql-tcp-proxy-accepts-connections-512a07b1",
-   "t": "PostgreSQL TCP Proxy Accepts Connections but SSL Negotiation Times Out $20 0 replies 3h by thanasak1412",
-   "score": 5,
+   "h": "/questions/supported-non-privileged-cgroup-delegati-daf2381f",
+   "t": "Supported non-privileged cgroup delegation and isolated helper on Railway services?",
+   "score": 4,
    "notes": [
-    "数小时内",
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/canvas-is-not-working-on-web-fd144bb8",
+   "t": "Canvas is not working on web.",
+   "score": 2,
+   "notes": [
     "竞争低"
    ]
   },
   {
-   "h": "/questions/getting-500-while-login-54248b14",
-   "t": "getting 500 while login",
+   "h": "/questions/my-service-hq-premium-keeps-crushing-it-c6d7ba2b",
+   "t": "My service HQ PREMIUM keeps crushing it has been running well everyday but some hours today it just became silent",
    "score": 2,
    "notes": [
     "竞争低"
@@ -43,11 +60,20 @@
  "all": [
   {
    "h": "/questions/postgresql-tcp-proxy-accepts-connections-512a07b1",
-   "t": "PostgreSQL TCP Proxy Accepts Connections but SSL Negotiation Times Out $20 0 replies 3h by thanasak1412",
+   "t": "PostgreSQL TCP Proxy Accepts Connections but SSL Negotiation Times Out $20 0 replies 14h by thanasak1412",
    "score": 5,
    "notes": [
     "数小时内",
     "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/supported-non-privileged-cgroup-delegati-daf2381f",
+   "t": "Supported non-privileged cgroup delegation and isolated helper on Railway services?",
+   "score": 4,
+   "notes": [
+    "竞争低",
+    "提问·配置型"
    ]
   },
   {
@@ -60,16 +86,32 @@
    ]
   },
   {
-   "h": "/questions/getting-500-while-login-54248b14",
-   "t": "getting 500 while login",
+   "h": "/questions/bucket-unavailable-without-vpn-31b1dbd3",
+   "t": "Bucket unavailable without VPN",
    "score": 2,
    "notes": [
     "竞争低"
    ]
   },
   {
-   "h": "/questions/bucket-unavailable-without-vpn-31b1dbd3",
-   "t": "Bucket unavailable without VPN",
+   "h": "/questions/canvas-is-not-working-on-web-fd144bb8",
+   "t": "Canvas is not working on web.",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/my-service-hq-premium-keeps-crushing-it-c6d7ba2b",
+   "t": "My service HQ PREMIUM keeps crushing it has been running well everyday but some hours today it just became silent",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/getting-500-while-login-54248b14",
+   "t": "getting 500 while login",
    "score": 2,
    "notes": [
     "竞争低"
@@ -86,30 +128,6 @@
   {
    "h": "/questions/both-blueroute-services-fail-at-build-im-78699758",
    "t": "Both BlueRoute services fail at Build Image",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/wrong-php-version-during-build-a7b6577c",
-   "t": "Wrong PHP version during build",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/platform-build-fails-at-npm-install-with-2019e441",
-   "t": "Platform build fails at npm install with ECONNRESET",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/intermittent-connection-reset-on-up-447ec47a",
-   "t": "Intermittent \"connection reset\" on *.up.railway.app via edge hnd1 (Tokyo)",
    "score": 2,
    "notes": [
     "竞争低"
