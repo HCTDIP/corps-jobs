@@ -1,7 +1,16 @@
 {
- "at": "2026-11-25T00:07:10.674610+00:00",
+ "at": "2026-11-25T09:10:35.140555+00:00",
  "total": 27,
  "hot": [
+  {
+   "h": "/questions/postgresql-tcp-proxy-accepts-connections-512a07b1",
+   "t": "PostgreSQL TCP Proxy Accepts Connections but SSL Negotiation Times Out $20 0 replies 3h by thanasak1412",
+   "score": 5,
+   "notes": [
+    "数小时内",
+    "竞争低"
+   ]
+  },
   {
    "h": "/questions/build-behaviour-of-a-staged-variable-dep-9ed5dbd0",
    "t": "Build behaviour of a staged variable deploy on a CLI-uploaded service with a GitHub repo connected (auto-deploy off)",
@@ -14,17 +23,33 @@
  ],
  "new": [
   {
-   "h": "/questions/ssl-certificate-ebcb4eb7",
-   "t": "SSL Certificate $10 2 replies 10m by r614",
-   "score": 1,
+   "h": "/questions/postgresql-tcp-proxy-accepts-connections-512a07b1",
+   "t": "PostgreSQL TCP Proxy Accepts Connections but SSL Negotiation Times Out $20 0 replies 3h by thanasak1412",
+   "score": 5,
    "notes": [
-    "陈旧",
-    "竞争低",
-    "提问·配置型"
+    "数小时内",
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/getting-500-while-login-54248b14",
+   "t": "getting 500 while login",
+   "score": 2,
+   "notes": [
+    "竞争低"
    ]
   }
  ],
  "all": [
+  {
+   "h": "/questions/postgresql-tcp-proxy-accepts-connections-512a07b1",
+   "t": "PostgreSQL TCP Proxy Accepts Connections but SSL Negotiation Times Out $20 0 replies 3h by thanasak1412",
+   "score": 5,
+   "notes": [
+    "数小时内",
+    "竞争低"
+   ]
+  },
   {
    "h": "/questions/build-behaviour-of-a-staged-variable-dep-9ed5dbd0",
    "t": "Build behaviour of a staged variable deploy on a CLI-uploaded service with a GitHub repo connected (auto-deploy off)",
@@ -32,6 +57,14 @@
    "notes": [
     "竞争低",
     "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/getting-500-while-login-54248b14",
+   "t": "getting 500 while login",
+   "score": 2,
+   "notes": [
+    "竞争低"
    ]
   },
   {
@@ -83,26 +116,8 @@
    ]
   },
   {
-   "h": "/questions/intermittent-cloudflare-522s-on-two-serv-243e7dce",
-   "t": "Intermittent Cloudflare 522s on two services; the requests never reach the app",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
    "h": "/questions/403-forbidden-error-with-shiprocket-api-4b1e4096",
    "t": "403 Forbidden Error with Shiprocket API on Railway (Works Fine Locally) $10 0 replies 10m by akshajatraditionalfoods",
-   "score": 1,
-   "notes": [
-    "陈旧",
-    "竞争低",
-    "提问·配置型"
-   ]
-  },
-  {
-   "h": "/questions/ssl-certificate-ebcb4eb7",
-   "t": "SSL Certificate $10 2 replies 10m by r614",
    "score": 1,
    "notes": [
     "陈旧",
