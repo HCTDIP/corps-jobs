@@ -77,6 +77,7 @@ def main():
         it["score"], it["notes"] = score(it)
     items.sort(key=lambda x: -x["score"])
     hot = [x for x in items if x["score"] >= 3]
+    valuable = sorted(items, key=lambda x: -x["score"])[:4]
 
     os.makedirs(os.path.dirname(STATE), exist_ok=True)
     os.makedirs(os.path.dirname(REPORT), exist_ok=True)
@@ -88,7 +89,7 @@ def main():
     new = [x for x in items if x["h"] not in seen]
     json.dump({"slugs": [x["h"] for x in items]}, open(STATE, "w"), indent=1)
     json.dump({"at": datetime.datetime.now(datetime.UTC).isoformat(),
-               "total": len(items), "hot": hot, "new": new, "all": items},
+               "total": len(items), "hot": hot, "valuable": valuable, "new": new, "all": items},
               open(REPORT, "w"), indent=1, ensure_ascii=False)
 
     print(f"[railway-radar] {datetime.datetime.now(datetime.UTC):%Y-%m-%d %H:%MZ} "
@@ -100,6 +101,11 @@ def main():
         print(f"        {', '.join(x['notes'])}")
     if not hot:
         print("  0 条值得抢")
+    
+    print(f"  🎯 顶级赏金 (Top {min(4, len(valuable))}):")
+    for x in valuable:
+        print(f"  🏆 [{x['score']:+d}] {x['t'][:88]}")
+        print(f"        {', '.join(x['notes'])}")
     # 供 workflow 判是否需要开 issue
     open(os.path.join(ROOT, "reports", "_hot_count.txt"), "w").write(str(len(hot) + len(new)))
     return 0
