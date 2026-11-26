@@ -1,19 +1,28 @@
 {
- "at": "2026-11-26T03:47:05.171441+00:00",
- "total": 26,
+ "at": "2026-11-26T17:19:40.312662+00:00",
+ "total": 28,
  "hot": [
   {
-   "h": "/questions/postgresql-tcp-proxy-accepts-connections-512a07b1",
-   "t": "PostgreSQL TCP Proxy Accepts Connections but SSL Negotiation Times Out $20 0 replies 1d by thanasak1412",
+   "h": "/questions/railway-service-serving-static-files-ins-2a4afea8",
+   "t": "Railway Service Serving Static Files Instead of Node.js API",
    "score": 4,
    "notes": [
-    "1天内",
-    "竞争低"
+    "竞争低",
+    "提问·配置型"
    ]
   },
   {
-   "h": "/questions/supported-non-privileged-cgroup-delegati-daf2381f",
-   "t": "Supported non-privileged cgroup delegation and isolated helper on Railway services?",
+   "h": "/questions/spa-routing-fallback-not-working-all-c-2a00db3e",
+   "t": "SPA routing fallback not working - all client-side routes return 404\"",
+   "score": 4,
+   "notes": [
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/sleeping-webhook-api-gateway-502-1c6e0de4",
+   "t": "Sleeping Webhook API Gateway 502",
    "score": 4,
    "notes": [
     "竞争低",
@@ -23,43 +32,8 @@
  ],
  "new": [
   {
-   "h": "/questions/reclaim-postgres-memory-without-restarti-f1b45e1e",
-   "t": "Reclaim Postgres memory without restarting",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/aws-cloudfront-brussels-intermittently-ce37cfdc",
-   "t": "AWS CloudFront (Brussels) intermittently cannot connect to the Amsterdam edge, about 1 request in 11",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/bot-crahsed-741e3c73",
-   "t": "bot crahsed",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  }
- ],
- "all": [
-  {
-   "h": "/questions/postgresql-tcp-proxy-accepts-connections-512a07b1",
-   "t": "PostgreSQL TCP Proxy Accepts Connections but SSL Negotiation Times Out $20 0 replies 1d by thanasak1412",
-   "score": 4,
-   "notes": [
-    "1天内",
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/supported-non-privileged-cgroup-delegati-daf2381f",
-   "t": "Supported non-privileged cgroup delegation and isolated helper on Railway services?",
+   "h": "/questions/railway-service-serving-static-files-ins-2a4afea8",
+   "t": "Railway Service Serving Static Files Instead of Node.js API",
    "score": 4,
    "notes": [
     "竞争低",
@@ -67,8 +41,125 @@
    ]
   },
   {
-   "h": "/questions/reclaim-postgres-memory-without-restarti-f1b45e1e",
-   "t": "Reclaim Postgres memory without restarting",
+   "h": "/questions/spa-routing-fallback-not-working-all-c-2a00db3e",
+   "t": "SPA routing fallback not working - all client-side routes return 404\"",
+   "score": 4,
+   "notes": [
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/sleeping-webhook-api-gateway-502-1c6e0de4",
+   "t": "Sleeping Webhook API Gateway 502",
+   "score": 4,
+   "notes": [
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/static-js-files-not-updating-after-succe-992d7e5e",
+   "t": "Static JS files not updating after successful deployment",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/inside-meter-node-js-react-deploys-su-badecc32",
+   "t": "InsideMeter (Node.js + React) deploys successfully on Railway but serves a blank page",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/ssl-certificate-ebcb4eb7",
+   "t": "SSL Certificate $10 2 replies 10m by r614",
+   "score": 1,
+   "notes": [
+    "陈旧",
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/helping-with-setup-my-project-c5999f4c",
+   "t": "Helping with setup my project $10 0 replies 10m by itaides",
+   "score": -1,
+   "notes": [
+    "陈旧",
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/repeated-deploy-outages-blocking-product-afbeaf05",
+   "t": "Repeated deploy outages blocking production releases — second incident in two weeks",
+   "score": -2,
+   "notes": [
+    "竞争低",
+    "⚠平台基建/已解"
+   ]
+  },
+  {
+   "h": "/questions/replicating-app-postgres-c46b25c6",
+   "t": "SLOW as, unusable! $20 0 replies 10m by matt1260",
+   "score": -5,
+   "notes": [
+    "陈旧",
+    "竞争低",
+    "⚠平台基建/已解"
+   ]
+  }
+ ],
+ "all": [
+  {
+   "h": "/questions/railway-service-serving-static-files-ins-2a4afea8",
+   "t": "Railway Service Serving Static Files Instead of Node.js API",
+   "score": 4,
+   "notes": [
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/spa-routing-fallback-not-working-all-c-2a00db3e",
+   "t": "SPA routing fallback not working - all client-side routes return 404\"",
+   "score": 4,
+   "notes": [
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/sleeping-webhook-api-gateway-502-1c6e0de4",
+   "t": "Sleeping Webhook API Gateway 502",
+   "score": 4,
+   "notes": [
+    "竞争低",
+    "提问·配置型"
+   ]
+  },
+  {
+   "h": "/questions/min-io-service-is-down-after-a-service-re-b377b6fe",
+   "t": "MinIO service is down after a service restart and not coming up again!",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/static-js-files-not-updating-after-succe-992d7e5e",
+   "t": "Static JS files not updating after successful deployment",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/inside-meter-node-js-react-deploys-su-badecc32",
+   "t": "InsideMeter (Node.js + React) deploys successfully on Railway but serves a blank page",
    "score": 2,
    "notes": [
     "竞争低"
@@ -91,32 +182,8 @@
    ]
   },
   {
-   "h": "/questions/canvas-is-not-working-on-web-fd144bb8",
-   "t": "Canvas is not working on web.",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/bucket-unavailable-without-vpn-31b1dbd3",
-   "t": "Bucket unavailable without VPN",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/my-service-hq-premium-keeps-crushing-it-c6d7ba2b",
-   "t": "My service HQ PREMIUM keeps crushing it has been running well everyday but some hours today it just became silent",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/403-forbidden-error-with-shiprocket-api-4b1e4096",
-   "t": "403 Forbidden Error with Shiprocket API on Railway (Works Fine Locally) $10 0 replies 10m by akshajatraditionalfoods",
+   "h": "/questions/ssl-certificate-ebcb4eb7",
+   "t": "SSL Certificate $10 2 replies 10m by r614",
    "score": 1,
    "notes": [
     "陈旧",
@@ -161,8 +228,26 @@
    ]
   },
   {
+   "h": "/questions/helping-with-setup-my-project-c5999f4c",
+   "t": "Helping with setup my project $10 0 replies 10m by itaides",
+   "score": -1,
+   "notes": [
+    "陈旧",
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/repeated-deploy-outages-blocking-product-afbeaf05",
+   "t": "Repeated deploy outages blocking production releases — second incident in two weeks",
+   "score": -2,
+   "notes": [
+    "竞争低",
+    "⚠平台基建/已解"
+   ]
+  },
+  {
    "h": "/questions/request-for-csr-certificate-signing-req-6c07d2db",
-   "t": "Request for CSR (Certificate Signing Request) for Custom SSL Setup $10 1 reply 8m by mythoslabsinc",
+   "t": "Request for CSR (Certificate Signing Request) for Custom SSL Setup $10 1 reply 9m by mythoslabsinc",
    "score": -3,
    "notes": [
     "陈旧",
@@ -196,15 +281,6 @@
    "notes": [
     "陈旧",
     "已5回复"
-   ]
-  },
-  {
-   "h": "/questions/min-io-service-is-down-after-a-service-re-b377b6fe",
-   "t": "MinIO service is down after a service restart and not coming up again! $20 3 replies 10m by Anonymous",
-   "score": -4,
-   "notes": [
-    "陈旧",
-    "已3回复"
    ]
   },
   {
@@ -270,6 +346,16 @@
   {
    "h": "/questions/subject-build-failing-java-script-heap-81db8363",
    "t": "Subject: Build Failing FIXED!!! $10 0 replies 10m by jeffkompon",
+   "score": -5,
+   "notes": [
+    "陈旧",
+    "竞争低",
+    "⚠平台基建/已解"
+   ]
+  },
+  {
+   "h": "/questions/replicating-app-postgres-c46b25c6",
+   "t": "SLOW as, unusable! $20 0 replies 10m by matt1260",
    "score": -5,
    "notes": [
     "陈旧",
