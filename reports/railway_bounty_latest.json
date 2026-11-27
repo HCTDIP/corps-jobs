@@ -1,5 +1,5 @@
 {
- "at": "2026-11-27T01:56:41.719183+00:00",
+ "at": "2026-11-27T13:07:59.879892+00:00",
  "total": 26,
  "hot": [
   {
@@ -14,49 +14,8 @@
  ],
  "new": [
   {
-   "h": "/questions/limiting-the-railway-github-app-installa-3201221e",
-   "t": "Limiting the Railway GitHub App installation to selected repositories: impact and permissions",
-   "score": 4,
-   "notes": [
-    "竞争低",
-    "提问·配置型"
-   ]
-  },
-  {
-   "h": "/questions/canvas-is-not-working-on-web-fd144bb8",
-   "t": "Canvas is not working on web.",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/node-gyp-not-found-5930f383",
-   "t": "node-gyp not found",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/bug-report-pre-deploy-command-on-dockerfi-c56734e3",
-   "t": "Bug report: preDeployCommand on Dockerfile builds",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/build-context-in-dockerfiles-2bb66be8",
-   "t": "build context in dockerfiles",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/postgres-node-fails-with-split-is-not-a-2f4cfb10",
-   "t": "Postgres Node fails with \"split is not a function\" when using pgvector parameter",
+   "h": "/questions/my-service-hq-premium-keeps-crushing-it-c6d7ba2b",
+   "t": "My service HQ PREMIUM keeps crushing it has been running well everyday but some hours today it just became silent",
    "score": 2,
    "notes": [
     "竞争低"
@@ -74,8 +33,8 @@
    ]
   },
   {
-   "h": "/questions/canvas-is-not-working-on-web-fd144bb8",
-   "t": "Canvas is not working on web.",
+   "h": "/questions/build-context-in-dockerfiles-2bb66be8",
+   "t": "build context in dockerfiles",
    "score": 2,
    "notes": [
     "竞争低"
@@ -98,14 +57,6 @@
    ]
   },
   {
-   "h": "/questions/build-context-in-dockerfiles-2bb66be8",
-   "t": "build context in dockerfiles",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
    "h": "/questions/postgres-node-fails-with-split-is-not-a-2f4cfb10",
    "t": "Postgres Node fails with \"split is not a function\" when using pgvector parameter",
    "score": 2,
@@ -114,8 +65,16 @@
    ]
   },
   {
-   "h": "/questions/all-requests-to-python-service-502-with-3f1570ef",
-   "t": "All requests to python service 502 with no logs available",
+   "h": "/questions/canvas-is-not-working-on-web-fd144bb8",
+   "t": "Canvas is not working on web.",
+   "score": 2,
+   "notes": [
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/my-service-hq-premium-keeps-crushing-it-c6d7ba2b",
+   "t": "My service HQ PREMIUM keeps crushing it has been running well everyday but some hours today it just became silent",
    "score": 2,
    "notes": [
     "竞争低"
