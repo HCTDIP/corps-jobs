@@ -1,6 +1,6 @@
 {
- "at": "2026-11-27T23:44:38.775561+00:00",
- "total": 29,
+ "at": "2026-11-28T08:27:25.637667+00:00",
+ "total": 27,
  "hot": [
   {
    "h": "/questions/railway-bucket-s3-api-returns-http-400-o-107c3c96",
@@ -10,74 +10,15 @@
     "竞争低",
     "提问·配置型"
    ]
-  },
-  {
-   "h": "/questions/limiting-the-railway-github-app-installa-3201221e",
-   "t": "Limiting the Railway GitHub App installation to selected repositories: impact and permissions",
-   "score": 4,
-   "notes": [
-    "竞争低",
-    "提问·配置型"
-   ]
   }
  ],
  "new": [
   {
-   "h": "/questions/railway-bucket-s3-api-returns-http-400-o-107c3c96",
-   "t": "Railway Bucket S3 API returns HTTP 400 on HEAD and GET",
-   "score": 4,
-   "notes": [
-    "竞争低",
-    "提问·配置型"
-   ]
-  },
-  {
-   "h": "/questions/elk-stack-elastic-logstash-kibana-1290eca7",
-   "t": "Template Request: ELK Stack (Elastic, Logstash, Kibana)",
+   "h": "/questions/volume-backed-service-stuck-at-40-kb-s-2a89919b",
+   "t": "Volume-backed service stuck at ~40 KB/s inbound, redeploys don't help (us-east4)",
    "score": 2,
    "notes": [
     "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/backup-068222e0",
-   "t": "Backup",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/how-to-migrate-the-bucket-contents-7dd22b8c",
-   "t": "How to migrate the bucket contents",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/custom-domains-conflict-and-trusted-prox-76fe496e",
-   "t": "Custom domains conflict and trusted proxy headers – SEVEN SOFT FACTURACIÓN",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/security-concerns-arising-from-running-c-a9503ef2",
-   "t": "Security concerns arising from running container as root with RAILWAY_RUN_UID=0",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/all-requests-to-python-service-502-with-3f1570ef",
-   "t": "All requests to python service 502 with no logs available $30 5 replies 10m by Anonymous",
-   "score": -4,
-   "notes": [
-    "陈旧",
-    "已5回复"
    ]
   }
  ],
@@ -92,12 +33,19 @@
    ]
   },
   {
-   "h": "/questions/limiting-the-railway-github-app-installa-3201221e",
-   "t": "Limiting the Railway GitHub App installation to selected repositories: impact and permissions",
-   "score": 4,
+   "h": "/questions/volume-backed-service-stuck-at-40-kb-s-2a89919b",
+   "t": "Volume-backed service stuck at ~40 KB/s inbound, redeploys don't help (us-east4)",
+   "score": 2,
    "notes": [
-    "竞争低",
-    "提问·配置型"
+    "竞争低"
+   ]
+  },
+  {
+   "h": "/questions/how-to-migrate-the-bucket-contents-7dd22b8c",
+   "t": "How to migrate the bucket contents",
+   "score": 2,
+   "notes": [
+    "竞争低"
    ]
   },
   {
@@ -111,14 +59,6 @@
   {
    "h": "/questions/backup-068222e0",
    "t": "Backup",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/how-to-migrate-the-bucket-contents-7dd22b8c",
-   "t": "How to migrate the bucket contents",
    "score": 2,
    "notes": [
     "竞争低"
@@ -143,22 +83,6 @@
   {
    "h": "/questions/build-context-in-dockerfiles-2bb66be8",
    "t": "build context in dockerfiles",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/node-gyp-not-found-5930f383",
-   "t": "node-gyp not found",
-   "score": 2,
-   "notes": [
-    "竞争低"
-   ]
-  },
-  {
-   "h": "/questions/bug-report-pre-deploy-command-on-dockerfi-c56734e3",
-   "t": "Bug report: preDeployCommand on Dockerfile builds",
    "score": 2,
    "notes": [
     "竞争低"
